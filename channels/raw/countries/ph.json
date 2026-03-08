@@ -1,29 +1,5 @@
 [
   {
-    "nanoid": "Zpcb6dPZj431wJ",
-    "name": "Abante TV",
-    "iptv_urls": [
-      "https://amg19223-amg19223c12-amgplt0352.playout.now3.amagi.tv/playlist/amg19223-amg19223c12-amgplt0352/playlist.m3u8",
-      "https://streams.comclark.com/transcodesd/abante/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "ph",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "jJ5KY3frn8Mets",
-    "name": "Bilyonaryo News Channel",
-    "iptv_urls": [
-      "https://amg19223-amg19223c11-amgplt0352.playout.now3.amagi.tv/playlist/amg19223-amg19223c11-amgplt0352/playlist.m3u8",
-      "https://streams.comclark.com/transcode/bilyonaryo/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "ph",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "k1le9DNzsDpeDQ",
     "name": "DZRH News TV",
     "iptv_urls": [],
@@ -57,17 +33,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "g2M151IR177r4N",
-    "name": "Nudge Sports Channel",
-    "iptv_urls": [
-      "https://streams.comclark.com/live_input/nudge_sports/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "ph",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "vX2Vm81TXt010f",
     "name": "Premier Sports",
     "iptv_urls": [
@@ -86,17 +51,6 @@
     ],
     "youtube_urls": [],
     "language": "eng",
-    "country": "ph",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "iy4DzSWvO3GYHT",
-    "name": "Teleradyo Serbisyo",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/oHVyPfE_hkM"
-    ],
-    "language": "tgl",
     "country": "ph",
     "isGeoBlocked": false
   },

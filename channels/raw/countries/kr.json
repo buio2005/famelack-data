@@ -335,7 +335,7 @@
     "name": "KBS News",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/q6hGLFD1zjo"
+      "https://www.youtube-nocookie.com/embed/fLdnawXw8LQ"
     ],
     "language": "kor",
     "country": "kr",
@@ -397,12 +397,34 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "CVYe8DrHATgn7K",
+    "name": "MBC Daejeon (대전 MBC)",
+    "iptv_urls": [
+      "https://ns1.tjmbc.co.kr/live/myStream.sdp/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "kor",
+    "country": "kr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "jvEnH2enN4Ahyj",
     "name": "MBC News",
     "iptv_urls": [],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/q9bM12ucTIY"
     ],
+    "language": "kor",
+    "country": "kr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "znJBZTlOJRrNOH",
+    "name": "MBC Yeosu (여수 MBC)",
+    "iptv_urls": [
+      "https://5c3639aa99149.streamlock.net/live_TV/tv/playlist.m3u8"
+    ],
+    "youtube_urls": [],
     "language": "kor",
     "country": "kr",
     "isGeoBlocked": false
@@ -489,8 +511,19 @@
     "name": "SBS",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/MGBbGGFQNL0"
+      "https://www.youtube-nocookie.com/embed/MJea0y3YJX4"
     ],
+    "language": "kor",
+    "country": "kr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "HOw52hxLJ6meLM",
+    "name": "SBS KBC",
+    "iptv_urls": [
+      "https://vod.ikbc.co.kr/KBCTV/tv/playlist.m3u8"
+    ],
+    "youtube_urls": [],
     "language": "kor",
     "country": "kr",
     "isGeoBlocked": false

@@ -33,6 +33,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "8rMxzsFjiSoVjK",
+    "name": "Aliman TV",
+    "iptv_urls": [
+      "https://svs.itworkscdn.net/alimanlive/imantv.smil/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "ara",
+    "country": "lb",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "TLqj7thqPUHfWz",
     "name": "CharityTV",
     "iptv_urls": [
@@ -143,10 +154,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "gnuuMkH7mNSzfZ",
-    "name": "OneFM",
+    "nanoid": "emIP3T2eF8irvD",
+    "name": "One TV",
     "iptv_urls": [
-      "https://hms.pfs.gdn/v1/broadcast/onefm/playlist.m3u8"
+      "https://hms.pfs.gdn/v1/broadcast/one/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "ara",
@@ -154,10 +165,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "2IP0NHvFLY6hEX",
-    "name": "Palestine Al Yawm",
+    "nanoid": "gnuuMkH7mNSzfZ",
+    "name": "OneFM",
     "iptv_urls": [
-      "https://live.paltodaytv.com/paltv/live/playlist_sfm4s.m3u8"
+      "https://hms.pfs.gdn/v1/broadcast/onefm/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "ara",

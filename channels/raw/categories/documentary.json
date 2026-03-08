@@ -15,7 +15,7 @@
     "name": "Asahi: Documentary",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/i1XO4t_tqRA"
+      "https://www.youtube-nocookie.com/embed/ERntkHsIeOI"
     ],
     "language": "jpn",
     "country": "jp",
@@ -58,17 +58,7 @@
     "nanoid": "BKprRPWc9ugskl",
     "name": "Backstage",
     "iptv_urls": [
-      "https://d2ah48mnofquik.cloudfront.net/Backstage.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "BKprRPWc9ugskl",
-    "name": "Backstage",
-    "iptv_urls": [
+      "https://d2ah48mnofquik.cloudfront.net/Backstage.m3u8",
       "https://fuse-backstage-xumo.amagi.tv/playlist.m3u8"
     ],
     "youtube_urls": [],
@@ -119,34 +109,13 @@
     "nanoid": "zV7a20HW4WTHRY",
     "name": "BritBox Mysteries",
     "iptv_urls": [
-      "https://pb-ippotemhtglhp.akamaized.net/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "us",
-    "isGeoBlocked": true
-  },
-  {
-    "nanoid": "zV7a20HW4WTHRY",
-    "name": "BritBox Mysteries",
-    "iptv_urls": [
+      "https://pb-ippotemhtglhp.akamaized.net/playlist.m3u8",
       "https://aegis-cloudfront-1.tubi.video/c95700f8-e51c-4a36-ad46-56f70fc9f1d9/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",
     "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "u673t64oVwJcTF",
-    "name": "CGTN Documentary",
-    "iptv_urls": [
-      "https://dash3.antik.sk/live/test_cgtn_doc/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "cn",
-    "isGeoBlocked": false
+    "isGeoBlocked": true
   },
   {
     "nanoid": "u6zpmHPrnF1o3c",
@@ -157,6 +126,17 @@
     "youtube_urls": [],
     "language": "tur",
     "country": "tr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "OAc1RsWsrgVUky",
+    "name": "China Travel",
+    "iptv_urls": [
+      "https://amg01314-amg01314c7-distrotv-us-10219.playouts.now.amagi.tv/playlist/amg01314-cgtn-cgtnchinatravel-distrotvus/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "zho",
+    "country": "cn",
     "isGeoBlocked": false
   },
   {
@@ -182,35 +162,13 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "HJhyKYuHh72Bmv",
-    "name": "CNA Originals",
-    "iptv_urls": [
-      "https://amg01082-cna-amg01082c1-rlaxx-us-11304.playouts.now.amagi.tv/playlist.m3u8",
-      "https://amg01082-cna-amg01082c1-vidaa-gb-7580.playouts.now.amagi.tv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "sg",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "sm6jSJZU2R13Dv",
     "name": "Court TV",
     "iptv_urls": [
       "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-courttv-tablo/playlist.m3u8",
+      "https://pb-2rv53xe17yzvq.akamaized.net/Court_TV_US.m3u8",
       "https://aegis-cloudfront-1.tubi.video/661c498b-4af0-4ba9-ae1c-4081340ee085/playlist.m3u8",
       "https://content.uplynk.com/channel/6c0bd0f94b1d4526a98676e9699a10ef.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "sm6jSJZU2R13Dv",
-    "name": "Court TV",
-    "iptv_urls": [
-      "https://pb-2rv53xe17yzvq.akamaized.net/Court_TV_US.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",
@@ -244,24 +202,25 @@
     "name": "Dateline 24/7",
     "iptv_urls": [
       "https://d4whmvwm0rdvi.cloudfront.net/10007/99993007/hls/master.m3u8?ads.xumo_channelId=99993007",
+      "https://pb-cpf6bqkmt2btj.akamaized.net/master.m3u8",
       "https://aegis-cloudfront-1.tubi.video/240e3917-5be6-4a26-a1a2-878c9d40b5cf/master.m3u8",
       "https://dz59iptwz5rxs.cloudfront.net/live/master.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",
     "country": "us",
-    "isGeoBlocked": false
+    "isGeoBlocked": true
   },
   {
-    "nanoid": "jAekBDqlLERFF0",
-    "name": "Dateline 24/7",
+    "nanoid": "86GG55Alt5PoRN",
+    "name": "Discovering China",
     "iptv_urls": [
-      "https://pb-cpf6bqkmt2btj.akamaized.net/master.m3u8"
+      "https://amg01314-amg01314c8-distrotv-us-10218.playouts.now.amagi.tv/playlist/amg01314-cgtn-cgtndiscoveringchina-distrotvus/playlist.m3u8"
     ],
     "youtube_urls": [],
-    "language": "eng",
-    "country": "us",
-    "isGeoBlocked": true
+    "language": "zho",
+    "country": "cn",
+    "isGeoBlocked": false
   },
   {
     "nanoid": "6gbtius213QaZ4",
@@ -376,18 +335,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "feuZPyWhX6la0P",
-    "name": "Law & Crime",
-    "iptv_urls": [
-      "https://a-cdn.klowdtv.com/live3/law_720p/playlist.m3u8",
-      "https://cdn.lawandcrime.net/rewind/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "m1LaVg3IHystk9",
     "name": "Love The Planet",
     "iptv_urls": [
@@ -403,17 +350,6 @@
     "name": "Lucky Dog",
     "iptv_urls": [
       "https://d3j95sejv6mybj.cloudfront.net/Lucky_Dog.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "2IhVNnNGaDMY0V",
-    "name": "MagellanTV Now",
-    "iptv_urls": [
-      "https://amg00376-magellan-amg00376c5-samsung-nz-1714.playouts.now.amagi.tv/playlist/amg00376-magellantv-magellantvnowww-samsungnz/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",
@@ -547,17 +483,6 @@
     "nanoid": "NpJ5K3Avxx4otV",
     "name": "WildEarth",
     "iptv_urls": [
-      "https://dqga3jatxofgx.cloudfront.net/WildEarth.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "za",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "NpJ5K3Avxx4otV",
-    "name": "WildEarth",
-    "iptv_urls": [
       "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01290-wildearth-oando/playlist.m3u8",
       "https://wildearth-ono.amagi.tv/playlist/amg01290-wildearth-oando/playlist.m3u8",
       "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01290-wildearthmediap-wildearth-samsungnl/playlist.m3u8",
@@ -596,6 +521,17 @@
     "name": "Наука",
     "iptv_urls": [
       "https://vod.tuva.ru/nauka2/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "rus",
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "ZSSUpQyh6iE64U",
+    "name": "Сити Эдем КиноДок",
+    "iptv_urls": [
+      "https://cityeden.catcast.tv/content/38354/index.m3u8"
     ],
     "youtube_urls": [],
     "language": "rus",

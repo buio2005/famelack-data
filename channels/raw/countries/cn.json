@@ -66,17 +66,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "GqdJfmTvg6EO3X",
-    "name": "CGTN",
-    "iptv_urls": [
-      "https://dash4.antik.sk/live/test_cgtn/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "cn",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "3yeaLOItD0HtrR",
     "name": "CGTN Arabic",
     "iptv_urls": [
@@ -84,17 +73,6 @@
     ],
     "youtube_urls": [],
     "language": "ara",
-    "country": "cn",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "u673t64oVwJcTF",
-    "name": "CGTN Documentary",
-    "iptv_urls": [
-      "https://dash3.antik.sk/live/test_cgtn_doc/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
     "country": "cn",
     "isGeoBlocked": false
   },
@@ -132,6 +110,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "vxtY5UyNAjZlYv",
+    "name": "CGTN Global Biz",
+    "iptv_urls": [
+      "https://amg01314-amg01314c6-distrotv-us-10220.playouts.now.amagi.tv/playlist/amg01314-cgtn-cgtnglobalbiz-distrotvus/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "zho",
+    "country": "cn",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "LJK0No6TW6gbSd",
     "name": "CGTN Russian",
     "iptv_urls": [
@@ -143,17 +132,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "217DbKqaluYH76",
-    "name": "CGTN Spanish",
-    "iptv_urls": [
-      "https://dash4.antik.sk/live/test_cgtn_esp_tizen/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "cn",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "AkJT8qUHrHTblc",
     "name": "Chifeng Comprehensive News Chanel",
     "iptv_urls": [
@@ -161,6 +139,28 @@
     ],
     "youtube_urls": [],
     "language": "mon",
+    "country": "cn",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "OAc1RsWsrgVUky",
+    "name": "China Travel",
+    "iptv_urls": [
+      "https://amg01314-amg01314c7-distrotv-us-10219.playouts.now.amagi.tv/playlist/amg01314-cgtn-cgtnchinatravel-distrotvus/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "zho",
+    "country": "cn",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "86GG55Alt5PoRN",
+    "name": "Discovering China",
+    "iptv_urls": [
+      "https://amg01314-amg01314c8-distrotv-us-10218.playouts.now.amagi.tv/playlist/amg01314-cgtn-cgtndiscoveringchina-distrotvus/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "zho",
     "country": "cn",
     "isGeoBlocked": false
   },
@@ -257,17 +257,6 @@
     "name": "QTV-5",
     "iptv_urls": [
       "https://video10.qtv.com.cn/drm/qtv5at/manifest.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "zho",
-    "country": "cn",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "KVsjP0kIbz2vIV",
-    "name": "QTV-6",
-    "iptv_urls": [
-      "https://video10.qtv.com.cn/drm/qtv6at/manifest.m3u8"
     ],
     "youtube_urls": [],
     "language": "zho",
@@ -430,17 +419,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "5VYLQDaYRpvKhu",
-    "name": "前郭综合",
-    "iptv_urls": [
-      "https://stream2.jlntv.cn/qg/sd/live.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "",
-    "country": "cn",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "QH1RSdaU2QocPw",
     "name": "吉林市新闻综合",
     "iptv_urls": [
@@ -500,7 +478,7 @@
     "name": "小猪佩奇 中文官方 - Peppa Pig",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/SrehjWPL5qM"
+      "https://www.youtube-nocookie.com/embed/Jj1g7tv0DsA"
     ],
     "language": "zho",
     "country": "cn",
@@ -544,6 +522,17 @@
     "name": "新昌休闲影视",
     "iptv_urls": [
       "https://l.cztvcloud.com/channels/lantian/SXxinchang2/720p.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "",
+    "country": "cn",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "4rBoFSFcNpIZxe",
+    "name": "新昌新聞綜合",
+    "iptv_urls": [
+      "https://l.cztvcloud.com/channels/lantian/SXxinchang1/720p.m3u8"
     ],
     "youtube_urls": [],
     "language": "",

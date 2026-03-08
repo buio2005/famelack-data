@@ -33,6 +33,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "S9KVQ5ABQqb8sk",
+    "name": "Cần Thơ TV3",
+    "iptv_urls": [
+      "https://live.canthotv.vn/cs3/tv/chunklist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "vie",
+    "country": "vn",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "fvs6m8m7Orxhly",
     "name": "Cao Bằng TV",
     "iptv_urls": [
@@ -59,7 +70,7 @@
     "name": "DGV",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/UmliqtBAe6w"
+      "https://www.youtube-nocookie.com/embed/SxiPZYST4rY"
     ],
     "language": "vie",
     "country": "vn",
@@ -126,7 +137,6 @@
     "nanoid": "MO8deGVLY2zQ9f",
     "name": "HanoiTV2",
     "iptv_urls": [
-      "https://cloudstreamhntv.tek4tv.vn/events/HN2/chunklist.m3u8",
       "https://liveh34.vtvprime.vn/hls/HANOI2TV/index.m3u8"
     ],
     "youtube_urls": [],
@@ -190,24 +200,23 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "LFPFH6E00LEwDC",
-    "name": "QPVN HD",
-    "iptv_urls": [
-      "https://liveh12.vtvprime.vn/hls/QPTV/index.m3u8",
-      "https://qpvn.vn/live/qpvn/master.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "vie",
-    "country": "vn",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "8vEUzLSiPnJXOB",
     "name": "Quang Lập Official - Song Ca Nhạc Vàng Hay Nhất",
     "iptv_urls": [],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/9zRVHx4fglE"
     ],
+    "language": "vie",
+    "country": "vn",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "jkQYdQSyLonKfX",
+    "name": "SCTV1",
+    "iptv_urls": [
+      "https://liveh12.vtvprime.vn/hls/SCTV1/index.m3u8"
+    ],
+    "youtube_urls": [],
     "language": "vie",
     "country": "vn",
     "isGeoBlocked": false

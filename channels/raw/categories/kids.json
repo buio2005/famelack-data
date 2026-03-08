@@ -33,6 +33,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "At9xDVwnRJnJwN",
+    "name": "13 Kids",
+    "iptv_urls": [
+      "https://origin.dpsgo.com/ssai/event/LhHrVtyeQkKZ-Ye_xEU75g/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "cl",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "EgspbzPRaIJYXi",
     "name": "ADO TV",
     "iptv_urls": [
@@ -96,17 +107,6 @@
     ],
     "youtube_urls": [],
     "language": "",
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "2OUlzyuOp8jGlf",
-    "name": "BABY SHARK TV",
-    "iptv_urls": [
-      "https://ads.its-newid.net/api/manifest.m3u8?tp=samsung_tvplus&channel_id=newid_346&ads.service_id=US17000208H"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
     "country": "us",
     "isGeoBlocked": false
   },
@@ -511,18 +511,6 @@
     "nanoid": "Hgr2Yg9Zm1Cgi3",
     "name": "ducktv",
     "iptv_urls": [
-      "https://mmm-dk.otteravision.com/DexaYJdJXkLqFxTK_DuckTVHDSAMS/DuckTVHDSAMS.stream/playlist.m3u8",
-      "https://stream.ads.ottera.tv/playlist.m3u8?network_id=13168"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "sk",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "Hgr2Yg9Zm1Cgi3",
-    "name": "ducktv",
-    "iptv_urls": [
       "https://d6lk10bkdgfae.cloudfront.net/playlist.m3u8"
     ],
     "youtube_urls": [],
@@ -609,21 +597,22 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "VSocDaubvWwvaq",
-    "name": "Kartoon Channel",
-    "iptv_urls": [
-      "https://aegis-cloudfront-1.tubi.video/ba23a03c-22ff-4a48-ae7e-dd8bf4ee4e29/kc_co.m3u8"
+    "nanoid": "EDJsRoJArkwgcL",
+    "name": "Jetix",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/iwnlD4m2NSE"
     ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "us",
+    "language": "rus",
+    "country": "ru",
     "isGeoBlocked": false
   },
   {
     "nanoid": "ajXKejHqelybWn",
     "name": "Kartoon Channel!",
     "iptv_urls": [
-      "https://d2z0ysa6dgxhlc.cloudfront.net/kchan.m3u8"
+      "https://d2z0ysa6dgxhlc.cloudfront.net/kchan.m3u8",
+      "https://aegis-cloudfront-1.tubi.video/ba23a03c-22ff-4a48-ae7e-dd8bf4ee4e29/kc_co.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",
@@ -661,17 +650,6 @@
     ],
     "language": "urd",
     "country": "pk",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "0xr9dDKplwszmy",
-    "name": "Kids TV",
-    "iptv_urls": [
-      "https://origin5.mediacdn.ru/live/kidstv/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "ind",
-    "country": "id",
     "isGeoBlocked": false
   },
   {
@@ -753,6 +731,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "F30meDmVTnFNRo",
+    "name": "Lego Channel",
+    "iptv_urls": [
+      "https://dh18i7whff86v.cloudfront.net/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "MtMNF88l0aM6yp",
     "name": "Logos TV Kids",
     "iptv_urls": [
@@ -819,21 +808,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "yIWLYIheXvlTbG",
-    "name": "Moonbug",
-    "iptv_urls": [
-      "https://dq2a9ghraf7sw.cloudfront.net/Moonbug.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "FeQiCZUhzv3lT3",
     "name": "Moonbug Kids",
     "iptv_urls": [
-      "https://moonbug-rokuus.amagi.tv/playlist.m3u8"
+      "https://moonbug-rokuus.amagi.tv/playlist.m3u8",
+      "https://dq2a9ghraf7sw.cloudfront.net/Moonbug.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",
@@ -860,17 +839,6 @@
     "youtube_urls": [],
     "language": "eng",
     "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "swrqHcDlhTpMXz",
-    "name": "Ninja Kidz",
-    "iptv_urls": [
-      "https://d3868b4ny0rgdf.cloudfront.net/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "us",
     "isGeoBlocked": false
   },
   {
@@ -1010,7 +978,7 @@
     "name": "Peppa Pig Brasil",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/c9ofimqE3Zo"
+      "https://www.youtube-nocookie.com/embed/n3MTb_Nf2xo"
     ],
     "language": "por",
     "country": "br",
@@ -1094,17 +1062,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "KVsjP0kIbz2vIV",
-    "name": "QTV-6",
-    "iptv_urls": [
-      "https://video10.qtv.com.cn/drm/qtv6at/manifest.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "zho",
-    "country": "cn",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "uG8pl3LEpu9YZr",
     "name": "Rainbow Junior: 44 Cats",
     "iptv_urls": [],
@@ -1146,17 +1103,6 @@
     "youtube_urls": [],
     "language": "ara",
     "country": "jo",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "tONaVtyzG81qYw",
-    "name": "Ryan and Friends",
-    "iptv_urls": [
-      "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00286-pocketwatch-ryanandfriends-samsungnz/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "us",
     "isGeoBlocked": false
   },
   {
@@ -1219,7 +1165,7 @@
     "name": "Super Simple: Bedtime Songs",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/EQIfK42qT9w"
+      "https://www.youtube-nocookie.com/embed/WDPrDMPZeCo"
     ],
     "language": "eng",
     "country": "ca",
@@ -1230,7 +1176,7 @@
     "name": "Super Simple: Noodle and Pals",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/IiAJ7COJowg"
+      "https://www.youtube-nocookie.com/embed/MlNi7w3Njdg"
     ],
     "language": "eng",
     "country": "ca",
@@ -1241,7 +1187,7 @@
     "name": "Super Simple: Simple Songs",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/Ejl5EqvFcHw"
+      "https://www.youtube-nocookie.com/embed/PMZ25SXeizA"
     ],
     "language": "eng",
     "country": "ca",
@@ -1270,28 +1216,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "KccPuTOrHssu1Q",
-    "name": "The LEGO Channel",
-    "iptv_urls": [
-      "https://dh18i7whff86v.cloudfront.net/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "m5MgU7qKVzOReb",
-    "name": "The Smurfs",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/PX4xxhR6e94"
-    ],
-    "language": "eng",
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "7ou9OY1nQUGsSq",
     "name": "Tiguerito TV",
     "iptv_urls": [
@@ -1307,6 +1231,7 @@
     "name": "Tiny Pop",
     "iptv_urls": [
       "https://amg01753-narrativeuk-amg01753c1-lg-gb-1830.playouts.now.amagi.tv/playlist/amg01753-narrativeuk-tinypop-lggb/playlist.m3u8",
+      "https://amg01753-narrativeuk-amg01753c1-lg-gb-1830.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg01753-narrativeuk-tinypop-lggb/playlist.m3u8",
       "https://amg01753-narrativeuk-amg01753c1-rakuten-uk-2339.playouts.now.amagi.tv/playlist.m3u8"
     ],
     "youtube_urls": [],
@@ -1431,7 +1356,7 @@
     "name": "Unicorn Academy",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/s5IRF92t8CE"
+      "https://www.youtube-nocookie.com/embed/2N5zrofGJo0"
     ],
     "language": "eng",
     "country": "us",
@@ -1526,18 +1451,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "NYfFwxvyeu8dC8",
-    "name": "Zoo Moo",
-    "iptv_urls": [
-      "https://amg01553-blueantmediaasi-zoomoonz-samsungnz-rdufn.amagi.tv/playlist/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8",
-      "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "sg",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "y1OGn4C9pf6ycf",
     "name": "ZooMoo",
     "iptv_urls": [
@@ -1566,17 +1479,6 @@
     "iptv_urls": [
       "https://sirius.greenhosting.ru/MultimaniaRu/tracks-v1a1/mono.m3u8",
       "https://sirius.greenhosting.ru/MultimaniaRu/video.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "rus",
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "S7XWd4ADfnPIn3",
-    "name": "Радость моя",
-    "iptv_urls": [
-      "https://radm.mediacdn.ru/cdn/radost/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "rus",
@@ -1633,7 +1535,7 @@
     "name": "小猪佩奇 中文官方 - Peppa Pig",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/SrehjWPL5qM"
+      "https://www.youtube-nocookie.com/embed/Jj1g7tv0DsA"
     ],
     "language": "zho",
     "country": "cn",

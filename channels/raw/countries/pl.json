@@ -155,6 +155,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "DN6TpQ0x9cD41t",
+    "name": "HORYZONT TV",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/bPZuDSVsXkw"
+    ],
+    "language": "pol",
+    "country": "pl",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "SPKf8qiF4zzrz5",
     "name": "Jail",
     "iptv_urls": [
@@ -172,6 +183,17 @@
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/bgbUqi3cUi8"
     ],
+    "language": "pol",
+    "country": "pl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "ulzRgEHfvju1VV",
+    "name": "Mazowsze.tv",
+    "iptv_urls": [
+      "https://live20.bozztv.com/giatvplayout7/giatv-211328/playlist.m3u8"
+    ],
+    "youtube_urls": [],
     "language": "pol",
     "country": "pl",
     "isGeoBlocked": false
@@ -230,17 +252,6 @@
     ],
     "youtube_urls": [],
     "language": "eng",
-    "country": "pl",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "yVHVo5RwmcKcvS",
-    "name": "Radio Czwórka",
-    "iptv_urls": [
-      "https://stream14.polskieradio.pl/pr4_video/video_pr4.stream/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "pol",
     "country": "pl",
     "isGeoBlocked": false
   },
@@ -359,7 +370,7 @@
     "name": "Telewizja Gorzów",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/LY50OwgpC3o"
+      "https://www.youtube-nocookie.com/embed/nwAFAz2V5nA"
     ],
     "language": "pol",
     "country": "pl",
@@ -468,7 +479,7 @@
     "nanoid": "EgbF9TJv7t7rWC",
     "name": "The Reuters 60",
     "iptv_urls": [
-      "https://amg00453-amg00453c1-distrotv-us-7691.playouts.now.amagi.tv/playlist/amg00453-reuters-reuters-distrotvus/playlist.m3u8?ads.vf=bQyhmgl-yf0"
+      "https://amg00453-amg00453c1-distrotv-us-7691.playouts.now.amagi.tv/playlist/amg00453-reuters-reuters-distrotvus/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",
@@ -479,7 +490,7 @@
     "nanoid": "eR7HsNDqvDnpND",
     "name": "TNA Wrestling Channel",
     "iptv_urls": [
-      "https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883039"
+      "https://amg00966-amg00966c1-distrotv-us-7706.playouts.now.amagi.tv/playlist/amg00966-anthem-tnawrestling-distrotvus/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",
@@ -620,23 +631,23 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "ivWRsXTYxcLPRQ",
+    "name": "TVP2",
+    "iptv_urls": [
+      "https://lowa8026-cmyk.github.io/tvpvod/399698.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "pol",
+    "country": "pl",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "8fkva1GfM7tM4w",
     "name": "TVSUDECKA PL",
     "iptv_urls": [],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/HMjf450mRfk"
     ],
-    "language": "pol",
-    "country": "pl",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "UJrA93oKFNB1K1",
-    "name": "Twoja.TV",
-    "iptv_urls": [
-      "https://stream.twoja.tv/ttv_hls/live.m3u8"
-    ],
-    "youtube_urls": [],
     "language": "pol",
     "country": "pl",
     "isGeoBlocked": false

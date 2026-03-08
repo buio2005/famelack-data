@@ -33,18 +33,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "1LD9fRGKwL67SK",
-    "name": "BestClasicosTV",
-    "iptv_urls": [
-      "https://acceso.mediosdecostarica.com:3873/multi_live/play.m3u8",
-      "https://acceso.mediosdecostarica.com:3873/live/bestclasicostvlive.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "cr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "X0fe1ozGC5qVsh",
     "name": "Canal 1",
     "iptv_urls": [
@@ -232,10 +220,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "Oxstp5zvFaS9ZH",
-    "name": "Retrox TV",
+    "nanoid": "SI3nWhyuVnROLX",
+    "name": "RTV Chirripó",
     "iptv_urls": [
-      "https://live20.bozztv.com/giatv/giatv-TVCHANNEL/TVCHANNEL/playlist.m3u8"
+      "https://lstv.duckdns.org:449/hls/rtchirripo.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -243,10 +231,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "SI3nWhyuVnROLX",
-    "name": "RTV Chirripó",
+    "nanoid": "KWtXBE79zVCsGO",
+    "name": "San José TV",
     "iptv_urls": [
-      "https://lstv.duckdns.org:449/hls/rtchirripo.m3u8"
+      "https://rtmp.info/sanjosetv/envivo/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -269,6 +257,17 @@
     "name": "TDtv",
     "iptv_urls": [
       "https://cloudvideo.servers10.com:8081/8230/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "cr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "FY9JMfvI9sWSMw",
+    "name": "TeleBrunca",
+    "iptv_urls": [
+      "https://59ef525c24caa.streamlock.net/telebrunca/telebrunca/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",

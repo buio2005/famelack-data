@@ -606,21 +606,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "qVXsZe0xff1P3Q",
-    "name": "Yu Gi Oh",
-    "iptv_urls": [
-      "https://dwgcgcahlni2h.cloudfront.net/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "1pTOFnPJCFs4Na",
     "name": "Yu-Gi-Oh!",
     "iptv_urls": [
-      "https://amg01796-amg01796c19-rakuten-gb-7486.playouts.now.amagi.tv/playlist/amg01796-fastmediafast-yugioh2en-rakutengb/playlist.m3u8"
+      "https://amg01796-amg01796c19-rakuten-gb-7486.playouts.now.amagi.tv/playlist/amg01796-fastmediafast-yugioh2en-rakutengb/playlist.m3u8",
+      "https://dwgcgcahlni2h.cloudfront.net/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",

@@ -179,6 +179,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "gNHieigy6r2l2U",
+    "name": "BCN Gospel TV",
+    "iptv_urls": [
+      "https://live1.ovalcast.com:3641/live/bcngospeltvlive.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "MBJMQo3ahq3SeU",
     "name": "Beyblade en Español",
     "iptv_urls": [
@@ -338,6 +349,17 @@
     "name": "Canal Diocesano",
     "iptv_urls": [
       "https://nlb2-live.emitstream.com/hls/5i3pxfuz4az356yu22ij/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "fSeqRheB6IOZIg",
+    "name": "Canal Doñana",
+    "iptv_urls": [
+      "https://secure5.todostreaming.es/live/division-alm.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -624,6 +646,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "w8nJcI9HkWg8Yr",
+    "name": "Empordà TV",
+    "iptv_urls": [
+      "https://video3.lhdserver.es/empordatv2/live.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "cat",
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "ev5jam8gTwJugh",
     "name": "Estepona Televisión",
     "iptv_urls": [
@@ -631,6 +664,17 @@
     ],
     "youtube_urls": [],
     "language": "spa",
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "awUBqlQNui5V6X",
+    "name": "Estilo y Vida",
+    "iptv_urls": [
+      "https://4a7284f0c8334835adb8f223c36fbc37.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6232/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "",
     "country": "es",
     "isGeoBlocked": false
   },
@@ -796,6 +840,17 @@
     ],
     "youtube_urls": [],
     "language": "spa",
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "YDIi3VBX7D7fKC",
+    "name": "La 2 Catalunya",
+    "iptv_urls": [
+      "https://ztnr.rtve.es/ztnr/3987218.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "cat",
     "country": "es",
     "isGeoBlocked": false
   },
@@ -968,7 +1023,7 @@
     "nanoid": "rW8dm4MTBacJXv",
     "name": "Negocios TV",
     "iptv_urls": [
-      "https://streaming013.gestec-video.com/hls/negociostv.m3u8?ads.vf=JO9-Mmk6Rd0"
+      "https://streaming013.gestec-video.com/hls/negociostv.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -1053,17 +1108,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "T3G7Gzr0nlBJuF",
-    "name": "Popular TV Murcia",
-    "iptv_urls": [
-      "https://cloud.fastchannel.es/mic/manifiest/populartvrm.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "i6pKqAEMfhkAww",
     "name": "Punt 3 Vall Uixó",
     "iptv_urls": [
@@ -1115,6 +1159,17 @@
     ],
     "youtube_urls": [],
     "language": "deu",
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "C4SJBjbzRYK0Ib",
+    "name": "Rakuten TV Action Movies Italy",
+    "iptv_urls": [
+      "https://87f2e2e5e7624e3bad85da1ca2ed31a7.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6067/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "ita",
     "country": "es",
     "isGeoBlocked": false
   },
@@ -1251,6 +1306,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "99YOjXEtHzlDSd",
+    "name": "Rakuten TV Drama Movies Spain",
+    "iptv_urls": [
+      "https://a7089c89d85f453d850c4a1518b43076.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6092/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "tofHYJp7SflK4T",
     "name": "Rakuten TV Drama Movies UK",
     "iptv_urls": [
@@ -1332,6 +1398,28 @@
     "name": "Rakuten TV Romance Movies Spain",
     "iptv_urls": [
       "https://4b95c0f7aa2b4cae80f6515600154151.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6105/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "",
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "6Fk85FNF4cdSWr",
+    "name": "Rakuten TV Sci-Fi Spain",
+    "iptv_urls": [
+      "https://sci-fi-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6740/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "",
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "yoWnDlFSJLbaIM",
+    "name": "Rakuten TV Thrillers Spain",
+    "iptv_urls": [
+      "https://thriller-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6480/master.m3u8"
     ],
     "youtube_urls": [],
     "language": "",
@@ -1423,6 +1511,17 @@
     ],
     "youtube_urls": [],
     "language": "ron",
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "GITlIKa8D8B8BX",
+    "name": "RTV Marbella",
+    "iptv_urls": [
+      "https://streaming.rtvmarbella.tv/hls/streamingweb.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
     "country": "es",
     "isGeoBlocked": false
   },
@@ -1603,6 +1702,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "yAvkQDCoQRxCiQ",
+    "name": "Trece TV",
+    "iptv_urls": [
+      "https://play.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/live.smil/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "eHijSwcOOuzyYg",
     "name": "TV BRICS Spanish",
     "iptv_urls": [
@@ -1711,17 +1821,6 @@
     ],
     "youtube_urls": [],
     "language": "spa",
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "6lhNwfN4k1Lr3T",
-    "name": "Urola Telebista",
-    "iptv_urls": [
-      "https://5940924978228.streamlock.net/j_Directo2/mp4:j_Directo2/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eus",
     "country": "es",
     "isGeoBlocked": false
   },

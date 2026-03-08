@@ -266,32 +266,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "f4STSe9tgyRVf3",
-    "name": "Hobby Maker",
-    "iptv_urls": [
-      "https://lo3.gemporia.com/abrhobbymakerukgfx/smil:livestreamFullHD.smil/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "pIJy4qNygbTeDA",
     "name": "InFast",
     "iptv_urls": [
       "https://amg00861-terncloud-amg00861c5-cineverse-us-963.playouts.now.amagi.tv/playlist/amg00861-terninternationalfast-lifestyleushd-cineverseus/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "nl",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "2ioy8BcEUEsaqv",
-    "name": "INFAST",
-    "iptv_urls": [
-      "https://insighttv-samsung-us.amagi.tv/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",
@@ -335,17 +313,7 @@
     "nanoid": "zVgfO28kmeuXlu",
     "name": "Localish",
     "iptv_urls": [
-      "https://dnmfq3sh1jipj.cloudfront.net/DisneyLocalish.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "zVgfO28kmeuXlu",
-    "name": "Localish",
-    "iptv_urls": [
+      "https://dnmfq3sh1jipj.cloudfront.net/DisneyLocalish.m3u8",
       "https://aegis-cloudfront-1.tubi.video/0ecc85a2-5e1b-482a-9c69-3eaaee160f2e/index.m3u8"
     ],
     "youtube_urls": [],
@@ -442,17 +410,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "KVsjP0kIbz2vIV",
-    "name": "QTV-6",
-    "iptv_urls": [
-      "https://video10.qtv.com.cn/drm/qtv6at/manifest.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "zho",
-    "country": "cn",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "NM4IM0OOuCrdjl",
     "name": "Revry Queer",
     "iptv_urls": [
@@ -490,6 +447,7 @@
     "nanoid": "FTDcL7vk8KIWEC",
     "name": "The Design Network",
     "iptv_urls": [
+      "https://d4483wsd7yl91.cloudfront.net/The_Design_Network.m3u8",
       "https://amg00441-amg00441c1-xumo-us-5144.playouts.now.amagi.tv/playlist.m3u8"
     ],
     "youtube_urls": [],
@@ -505,17 +463,6 @@
     ],
     "youtube_urls": [],
     "language": "",
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "FTDcL7vk8KIWEC",
-    "name": "The Design Network",
-    "iptv_urls": [
-      "https://d4483wsd7yl91.cloudfront.net/The_Design_Network.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
     "country": "us",
     "isGeoBlocked": false
   },

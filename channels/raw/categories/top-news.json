@@ -13,17 +13,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "GqdJfmTvg6EO3X",
-    "name": "CGTN",
-    "iptv_urls": [
-      "https://dash4.antik.sk/live/test_cgtn/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "cn",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "lpYmUDR5HpXALT",
     "name": "DW English",
     "iptv_urls": [
@@ -53,24 +42,14 @@
     "nanoid": "v7SxxnsQX39ThO",
     "name": "Scripps News",
     "iptv_urls": [
-      "https://pb-syzbb4sicfx4g.akamaized.net/ScrippsNews_US.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "us",
-    "isGeoBlocked": true
-  },
-  {
-    "nanoid": "v7SxxnsQX39ThO",
-    "name": "Scripps News",
-    "iptv_urls": [
       "https://aegis-cloudfront-1.tubi.video/7e1c26b7-7975-4240-9a4f-480eaa8f3ea4/playlist.m3u8",
+      "https://pb-syzbb4sicfx4g.akamaized.net/ScrippsNews_US.m3u8",
       "https://content.uplynk.com/channel/4bb4901b934c4e029fd4c1abfc766c37.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",
     "country": "us",
-    "isGeoBlocked": false
+    "isGeoBlocked": true
   },
   {
     "nanoid": "2UurVFYPvprdL8",
