@@ -40,19 +40,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "KbaV0qyfK90k60",
-    "name": "Aeolos TV",
-    "stream_urls": [
-      "https://cdn.istoikona.com/aeolostv/live/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "ell"
-    ],
-    "country": "gr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "eCehtdFo2W9HPb",
     "name": "Alert",
     "stream_urls": [
@@ -148,7 +135,7 @@
     "name": "ecclesiaTV.gr",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/z8LTGE-0N00"
+      "https://www.youtube-nocookie.com/embed/HAT1N_pwS1I"
     ],
     "languages": [
       "ell"
@@ -372,6 +359,19 @@
     "name": "Telekriti",
     "stream_urls": [
       "https://neon.streams.gr:8081/telekriti/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "ell"
+    ],
+    "country": "gr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Nhov9FRmWvJ4cy",
+    "name": "Thraki Net TV",
+    "stream_urls": [
+      "https://cdn.onestreaming.com/thrakinettv/thrakinettv/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [

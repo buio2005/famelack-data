@@ -94,6 +94,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "Gv1yxD6u5vITHV",
+    "name": "Boas Novas",
+    "stream_urls": [
+      "https://cdn.jmvstream.com/w/LVW-9375/LVW9375_6i0wPBCHYc/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "por"
+    ],
+    "country": "br",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "rC9liFbpQiV2AH",
     "name": "Canal 38",
     "stream_urls": [
@@ -165,7 +178,7 @@
     "name": "CNN Brasil",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/srL9oPf7qWQ"
+      "https://www.youtube-nocookie.com/embed/LXwj1bWnYjw"
     ],
     "languages": [
       "por"
@@ -468,7 +481,7 @@
     "name": "Peppa Pig Brasil",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/4qYGnmQNz7E"
+      "https://www.youtube-nocookie.com/embed/lEcXBJXk2vg"
     ],
     "languages": [
       "por"
@@ -488,19 +501,6 @@
       "por"
     ],
     "language": "por",
-    "country": "br",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "x42kDC1pU1frE7",
-    "name": "Plena TV",
-    "stream_urls": [
-      "https://cdn.jmvstream.com/w/LVW-9591/LVW9591_PmXtgATnaS/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "por"
-    ],
     "country": "br",
     "isGeoBlocked": false
   },
@@ -833,7 +833,7 @@
     "name": "TV Assembleia Minas Gerais",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/11kLbcva4F0"
+      "https://www.youtube-nocookie.com/embed/rkNqpbCNbco"
     ],
     "languages": [
       "por"
@@ -847,6 +847,19 @@
     "name": "TV Brasil",
     "stream_urls": [
       "https://tvbrasil-stream.ebc.com.br/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "por"
+    ],
+    "country": "br",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "2bhXPviPJO5yGg",
+    "name": "TV Brasil Oeste",
+    "stream_urls": [
+      "https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -891,6 +904,20 @@
     "languages": [
       "por"
     ],
+    "country": "br",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "ljxQJllBAK9Pvk",
+    "name": "TV Câmara Porto Alegre",
+    "stream_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/Lzyj1lnQpHs"
+    ],
+    "languages": [
+      "por"
+    ],
+    "language": "por",
     "country": "br",
     "isGeoBlocked": false
   },
@@ -1013,6 +1040,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "g42CLcwYVqsKev",
+    "name": "TV Guará",
+    "stream_urls": [
+      "https://video02.logicahost.com.br/tvguara23/tvguara23/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "por"
+    ],
+    "country": "br",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "l4Wb4BRdTvGYCb",
     "name": "TV Justiça",
     "stream_urls": [],
@@ -1107,6 +1147,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "dcIkvJvyHx3mhL",
+    "name": "TV Padre Cicero",
+    "stream_urls": [
+      "https://video01.logicahost.com.br/tvpadrecicero/tvpadrecicero/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "por"
+    ],
+    "country": "br",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "krIsXMJD9xFHF6",
     "name": "TV Pantanal MS",
     "stream_urls": [
@@ -1120,10 +1173,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "9IRp7pJ3B28WfW",
-    "name": "TV Passo Fundo",
+    "nanoid": "HZWd4go9om2ldn",
+    "name": "TV Paraense",
     "stream_urls": [
-      "https://5a57bda70564a.streamlock.net/tvpasso/tvpasso.sdp/playlist.m3u8"
+      "https://video09.logicahost.com.br/tvparaense/tvparaense/playlist.m3u"
     ],
     "youtube_urls": [],
     "languages": [
@@ -1133,10 +1186,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "hd3tLNXSFxzCFi",
-    "name": "TV Sandegi",
+    "nanoid": "9IRp7pJ3B28WfW",
+    "name": "TV Passo Fundo",
     "stream_urls": [
-      "https://video01.kshost.com.br/antonio9510/antonio9510/playlist.m3u8"
+      "https://5a57bda70564a.streamlock.net/tvpasso/tvpasso.sdp/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -1189,19 +1242,6 @@
     "name": "TV Sim Colatina",
     "stream_urls": [
       "https://5cf4a2c2512a2.streamlock.net/8132/8132/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "por"
-    ],
-    "country": "br",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "ypesM2O8mm8qXW",
-    "name": "TV Sim São Mateus",
-    "stream_urls": [
-      "https://5cf4a2c2512a2.streamlock.net/8236/8236/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -1284,9 +1324,7 @@
       "https://app.tvufop.com.br/hls/tvufop.m3u8"
     ],
     "youtube_urls": [],
-    "languages": [
-      "por"
-    ],
+    "languages": [],
     "country": "br",
     "isGeoBlocked": false
   },

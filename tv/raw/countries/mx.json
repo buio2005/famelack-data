@@ -40,6 +40,32 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "drwJ1KWzBTlLLz",
+    "name": "Alcance TV",
+    "stream_urls": [
+      "https://5bf8041cb3fed.streamlock.net/AlcanceTV/AlcanceTV/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "mx",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "14OgEakSRkYx8J",
+    "name": "AMX Noticias",
+    "stream_urls": [
+      "https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "mx",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "49nmeVhY8qIuOA",
     "name": "Azteca Internacional",
     "stream_urls": [
@@ -53,10 +79,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "9BZEZK4EYJz8lC",
-    "name": "B15 Zacatecas",
+    "nanoid": "I6SQhQn74t89lq",
+    "name": "B15 Fresnillo",
     "stream_urls": [
-      "https://s5.mexside.net:1936/envio2/envio2/playlist.m3u8"
+      "https://s5.mexside.net:1936/lsac/lsac/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -66,10 +92,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "z9NmlAa4TNcIbD",
-    "name": "BAMOS TV",
+    "nanoid": "9BZEZK4EYJz8lC",
+    "name": "B15 Zacatecas",
     "stream_urls": [
-      "https://video2.getstreamhosting.com:19360/8092/8092.m3u8"
+      "https://s5.mexside.net:1936/envio2/envio2/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -135,7 +161,7 @@
     "name": "Canal 23 Televisa Ensenada",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/aSERn5uD_Ig"
+      "https://www.youtube-nocookie.com/embed/4pLN1tZLCrU"
     ],
     "languages": [
       "spa"
@@ -197,6 +223,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "zjs8fScsFVoj7q",
+    "name": "Canal Parlamento del Congreso de Jalisco",
+    "stream_urls": [
+      "https://60417ddeaf0d9.streamlock.net/srtc/smil:srtc.smil/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "mx",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "kcUlTpEd2EjJLo",
     "name": "Capital 21",
     "stream_urls": [
@@ -231,6 +270,19 @@
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/trlAbCevSi4"
     ],
+    "languages": [
+      "spa"
+    ],
+    "country": "mx",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "CrHxjo8TlGVNjG",
+    "name": "Despierta TV",
+    "stream_urls": [
+      "https://video2.lhdserver.es/despiertatv/live.m3u8"
+    ],
+    "youtube_urls": [],
     "languages": [
       "spa"
     ],
@@ -347,7 +399,7 @@
     "name": "Imagen Multicast",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/WJNJUbidv9s"
+      "https://www.youtube-nocookie.com/embed/kxYDv5R15js"
     ],
     "languages": [
       "spa"
@@ -357,15 +409,16 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "hvpyyH4xiS4fE5",
-    "name": "IMRyT Morelos TV",
-    "stream_urls": [
-      "https://stream8.mexiserver.com:19360/morelostv/morelostv.m3u8"
+    "nanoid": "5lhODGYtGp6nxK",
+    "name": "ImagenTV",
+    "stream_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/5gS7nbUJtvg"
     ],
-    "youtube_urls": [],
     "languages": [
       "spa"
     ],
+    "language": "spa",
     "country": "mx",
     "isGeoBlocked": false
   },
@@ -413,6 +466,19 @@
     "name": "María Visión Mexico",
     "stream_urls": [
       "https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "mx",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "P3PQh3YlBALxV5",
+    "name": "Mexiquense TV",
+    "stream_urls": [
+      "https://5e50264bd6766.streamlock.net/mexiquense/videomexiquense/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -879,7 +945,7 @@
     "name": "Televisa Monterrey",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/PDmp0u7Aweo"
+      "https://www.youtube-nocookie.com/embed/LHPY13MF6W0"
     ],
     "languages": [
       "spa"
@@ -893,7 +959,7 @@
     "name": "Televisa Piedras Negras",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/1gyppZ2zA9o"
+      "https://www.youtube-nocookie.com/embed/ttRy5MdWcYQ"
     ],
     "languages": [
       "spa"
@@ -963,7 +1029,7 @@
     "name": "Televisa Tijuana",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/Kr3NUWg9AE0"
+      "https://www.youtube-nocookie.com/embed/BJQ_incC9CY"
     ],
     "languages": [
       "spa"
@@ -1277,10 +1343,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "XC2uNbOMKneW9c",
-    "name": "UMTV",
+    "nanoid": "EHXNJG9CKImTT2",
+    "name": "Ultra TV Puebla",
     "stream_urls": [
-      "https://60417ddeaf0d9.streamlock.net/montemorelos/videomontemorelos/playlist.m3u8"
+      "https://5e50264bd6766.streamlock.net/telemetrika2/smil:telemetrika2.smil/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -1290,10 +1356,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "JvGEcuMecAcih8",
-    "name": "Unison TV",
+    "nanoid": "XC2uNbOMKneW9c",
+    "name": "UMTV",
     "stream_urls": [
-      "https://stream.unison.mx/hls/unisontvatem.m3u8"
+      "https://60417ddeaf0d9.streamlock.net/montemorelos/videomontemorelos/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [

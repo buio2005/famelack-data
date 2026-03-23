@@ -26,6 +26,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "L2ckl8qUgIXBH9",
+    "name": "Anzoátegui TV",
+    "stream_urls": [
+      "https://vcp2.myplaytv.com/anzoateguitv/anzoateguitv/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "ve",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "xNO3EJp4mhTrDD",
     "name": "AS3 Sport TV",
     "stream_urls": [
@@ -65,10 +78,49 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "fUuKAKoxR67afP",
+    "name": "Canal Once",
+    "stream_urls": [
+      "https://tv.streamcasthd.com:3676/live/canal11delzulialive.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "ve",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "6SYW2B8xTfiTLL",
+    "name": "Catatumbo TV",
+    "stream_urls": [
+      "https://cloud.fastchannel.es/manifiest/hls/prog9/catatumbotv.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "ve",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "qE0b00agYJgMRp",
     "name": "Chivacoa TV Internacional",
     "stream_urls": [
       "https://live20.bozztv.com/akamaissh101/ssh101/1234chivacoa/chunks.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "ve",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "EBZkwFw2avmA6X",
+    "name": "Fortuna TV",
+    "stream_urls": [
+      "https://streamtv.intervenhosting.net:3355/live/fortunatvlive.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -121,6 +173,19 @@
     "name": "Isla TV",
     "stream_urls": [
       "https://59d39900ebfb8.streamlock.net/islatv/islatv/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "ve",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "MIcJy2C1jnLtEJ",
+    "name": "KandelaTV",
+    "stream_urls": [
+      "https://streamtv.intervenhosting.net:3718/live/kandelamedioslive.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -261,19 +326,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "hWlY6DCrbQlbH1",
-    "name": "Telecolor",
-    "stream_urls": [
-      "https://cloud.livescast.com:19360/telecolor/telecolor.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
-    "country": "ve",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "fs7LDp8LH9En3R",
     "name": "Telesur",
     "stream_urls": [
@@ -356,19 +408,6 @@
     "name": "Torococo TV",
     "stream_urls": [
       "https://us.streaminghd.cl/torococotelevision/video.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
-    "country": "ve",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "b3aSHeBRmQKpi4",
-    "name": "TV Oasis Monay",
-    "stream_urls": [
-      "https://live20.bozztv.com/akamaissh101/ssh101/oasistv123/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [

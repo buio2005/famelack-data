@@ -117,6 +117,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "rU6vHTb2mU89s2",
+    "name": "Aaj Entertainment",
+    "stream_urls": [
+      "https://ml-pull-dvc-myco.io:2096/AAJ_ENTERTAINMENT/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "urd"
+    ],
+    "country": "pk",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "30pt0OQo7qEueH",
     "name": "Aamar Bangla",
     "stream_urls": [
@@ -580,17 +593,16 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "E04RKOUYWLxfud",
-    "name": "Bob Ross",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/YaAnzP-_YuQ"
+    "nanoid": "AdIl1CSIOqCaJ6",
+    "name": "Bol Entertainment",
+    "stream_urls": [
+      "https://ml-pull-dvc-myco.io:2096/BOL_ENTERTAINMENT/index.m3u8"
     ],
+    "youtube_urls": [],
     "languages": [
-      "eng"
+      "urd"
     ],
-    "language": "eng",
-    "country": "us",
+    "country": "pk",
     "isGeoBlocked": false
   },
   {
@@ -691,7 +703,7 @@
     "name": "Canal 23 Televisa Ensenada",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/aSERn5uD_Ig"
+      "https://www.youtube-nocookie.com/embed/4pLN1tZLCrU"
     ],
     "languages": [
       "spa"
@@ -1353,7 +1365,6 @@
     "name": "EstrellaTV",
     "stream_urls": [
       "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00567-estrellamedia-estrellatv-distrotv/playlist.m3u8",
-      "https://estrellatv-glewed.amagi.tv/playlist.m3u8",
       "https://estrellatv-plex.amagi.tv/playlist.m3u8",
       "https://estrellatv-roku.amagi.tv/playlist.m3u8",
       "https://d1accqs1infy2u.cloudfront.net/EstrellaTV.m3u8",
@@ -1381,16 +1392,16 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "D6KiASo2YhEXxv",
-    "name": "EVI TV",
+    "nanoid": "4xxsG81BRkH6LA",
+    "name": "Express Entertainment",
     "stream_urls": [
-      "https://stream.berosat.live:19360/evi-tv/evi-tv.m3u8"
+      "https://ml-pull-dvc-myco.io:2096/EXPRESS_ENTERTAINMENT/index.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
-      "fra"
+      "urd"
     ],
-    "country": "cd",
+    "country": "pk",
     "isGeoBlocked": false
   },
   {
@@ -1510,6 +1521,19 @@
       "fas"
     ],
     "country": "ir",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "FkaUSD11rQMIJp",
+    "name": "Galaxia TV",
+    "stream_urls": [
+      "https://streaming.grupomediosdelnorte.com:19360/galaxiateve/galaxiateve.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "do",
     "isGeoBlocked": false
   },
   {
@@ -1650,19 +1674,6 @@
     "stream_urls": [
       "https://streaming.softwarecreation.it/GoldTv/GoldTv/playlist.m3u8",
       "https://5a1178b42cc03.streamlock.net/golditalia/golditalia/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "ita"
-    ],
-    "country": "it",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "kTsDjvuR5SnaAA",
-    "name": "Gold TV Sat",
-    "stream_urls": [
-      "https://streaming.softwarecreation.it/GoldTvSat/GoldTvSat/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -1954,6 +1965,19 @@
     ],
     "country": "us",
     "isGeoBlocked": true
+  },
+  {
+    "nanoid": "0x30LgHIxRSpbT",
+    "name": "Island Luck TV",
+    "stream_urls": [
+      "https://cdn3.wowza.com/5/dFA0TmRpeFdNVXhT/NetUp/ILTV.stream/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "eng"
+    ],
+    "country": "bs",
+    "isGeoBlocked": false
   },
   {
     "nanoid": "g6nacBZmY3YsUr",
@@ -2672,6 +2696,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "ksZqh8hqVd6zjZ",
+    "name": "MiTV",
+    "stream_urls": [
+      "https://rds3.desdeparaguay.net/mitv/mitv/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "py",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "oDuBcM7FxOUaUY",
     "name": "MK Six",
     "stream_urls": [
@@ -2885,6 +2922,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "GmQOYYruFg1K27",
+    "name": "NuView TV",
+    "stream_urls": [
+      "https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_002/Stream/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "eng"
+    ],
+    "country": "za",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "4SGtz6tJu3YUoE",
     "name": "Olelo Community Media Channel 55",
     "stream_urls": [
@@ -2930,7 +2980,7 @@
       "https://5dcabf026b188.streamlock.net/OceansTV/livestream/playlist.m3u8"
     ],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/8yUSZUZlPnU"
+      "https://www.youtube-nocookie.com/embed/EiEsm4leOnI"
     ],
     "languages": [
       "eng"
@@ -3186,6 +3236,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "qO9vRi6qWS9n0t",
+    "name": "Raquel Daruech TV",
+    "stream_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/3rsh-8a6Yl8"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "language": "spa",
+    "country": "uy",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "iEaQZyuCD9tKa4",
     "name": "Red+",
     "stream_urls": [
@@ -3252,19 +3316,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "1EV94sbxwI36wI",
-    "name": "Roja TV",
-    "stream_urls": [
-      "https://live.rojatv.cloud/rojatv/rojatv/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "tam"
-    ],
-    "country": "in",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "yMTjCVwIgtqXb8",
     "name": "ROTV Valencia",
     "stream_urls": [
@@ -3275,6 +3326,19 @@
       "ron"
     ],
     "country": "es",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "DzzedUhln9Zwfs",
+    "name": "SAB TV",
+    "stream_urls": [
+      "https://ml-pull-dvc-myco.io:2096/SAB_ENTERTAINMENT/tracks-v1a1/mono.ts.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "urd"
+    ],
+    "country": "pk",
     "isGeoBlocked": false
   },
   {
@@ -3703,7 +3767,7 @@
     "name": "Televisa Tijuana",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/Kr3NUWg9AE0"
+      "https://www.youtube-nocookie.com/embed/BJQ_incC9CY"
     ],
     "languages": [
       "spa"
@@ -3835,7 +3899,8 @@
     "nanoid": "fahcTwI5XQy8zE",
     "name": "Tin TV",
     "stream_urls": [
-      "https://bozztv.com/1gbw5/tintv/tintv/playlist.m3u8"
+      "https://bozztv.com/1gbw5/tintv/tintv/playlist.m3u8",
+      "https://tulixcdn.akamaized.net/tintv6/tintv/tintv/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -3939,6 +4004,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "qWRNlLMLdjrPV7",
+    "name": "TV Centro 27.2 HD",
+    "stream_urls": [
+      "https://cloud2.streaminglivehd.com:1936/8004/8004/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "hn",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "FVBcoMjOEcdoFR",
     "name": "TV Curuça",
     "stream_urls": [
@@ -3962,6 +4040,19 @@
       "hrv"
     ],
     "country": "hr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "HZWd4go9om2ldn",
+    "name": "TV Paraense",
+    "stream_urls": [
+      "https://video09.logicahost.com.br/tvparaense/tvparaense/playlist.m3u"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "por"
+    ],
+    "country": "br",
     "isGeoBlocked": false
   },
   {
@@ -4403,19 +4494,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "VR6QfXQAolyoFB",
-    "name": "Zuglo TV",
-    "stream_urls": [
-      "https://cloudfront44.lexanetwork.com:1344/freerelay/zuglotv.sdp/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "hun"
-    ],
-    "country": "hu",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "hthUrV2rQO5a6H",
     "name": "Ланет.TV",
     "stream_urls": [
@@ -4472,7 +4550,8 @@
     "nanoid": "trsLN7PoZranC9",
     "name": "ТНТ",
     "stream_urls": [
-      "https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/variant.m3u8"
+      "https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/variant.m3u8",
+      "https://streaming.televizor-24-tochka.ru/live/38.m3u8"
     ],
     "youtube_urls": [],
     "languages": [

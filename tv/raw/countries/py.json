@@ -1,5 +1,18 @@
 [
   {
+    "nanoid": "ZOwQAPUGPgS297",
+    "name": "4DmásNoticias TV",
+    "stream_urls": [
+      "https://rds3.desdeparaguay.net/4dmasnoticiastv/4dmasnoticiastv/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "py",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "MC0Hkz9sP3iFPv",
     "name": "Almaya TV",
     "stream_urls": [
@@ -134,6 +147,19 @@
     "name": "República TV",
     "stream_urls": [
       "https://rds3.desdeparaguay.net/republicatv/republicatv/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "py",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "ZvkiWYEeuwp6wf",
+    "name": "Suceso TV",
+    "stream_urls": [
+      "https://live.enhdtv.com:8081/8060/index.m3u8"
     ],
     "youtube_urls": [],
     "languages": [

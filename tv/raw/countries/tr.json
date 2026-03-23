@@ -223,7 +223,7 @@
     "name": "beIN SPORTS Türkiye",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/9xVXWLwT0vA"
+      "https://www.youtube-nocookie.com/embed/UVbRM0ydyhQ"
     ],
     "languages": [
       "tur"
@@ -420,6 +420,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "S7A882wnqWEWLJ",
+    "name": "DİM TV",
+    "stream_urls": [
+      "https://live.artidijitalmedya.com/artidijital_dimtv/dimtv/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "tur"
+    ],
+    "country": "tr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "1OlKTVorbB1nZr",
     "name": "Diyanet TV",
     "stream_urls": [
@@ -498,6 +511,20 @@
     "languages": [
       "ara"
     ],
+    "country": "tr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "aUMgSxs4t83jMD",
+    "name": "Emret Komutanım",
+    "stream_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/lUgK1_qdCdQ"
+    ],
+    "languages": [
+      "tur"
+    ],
+    "language": "tur",
     "country": "tr",
     "isGeoBlocked": false
   },
@@ -624,7 +651,7 @@
     "name": "Güldür Güldür Show",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/JjtngkzUqIQ"
+      "https://www.youtube-nocookie.com/embed/quW_Z7i-zKc"
     ],
     "languages": [
       "tur"
@@ -1438,6 +1465,19 @@
     "name": "TRT Avaz",
     "stream_urls": [
       "https://tv-trtavaz.medya.trt.com.tr/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "tur"
+    ],
+    "country": "tr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "KUTGOu9eHmEeCI",
+    "name": "TRT Çocuk",
+    "stream_urls": [
+      "https://tv-trtcocuk.medya.trt.com.tr/master.m3u8"
     ],
     "youtube_urls": [],
     "languages": [

@@ -1,18 +1,5 @@
 [
   {
-    "nanoid": "OuXJk2O3QtFOgh",
-    "name": "24/7 Canal de Noticias",
-    "stream_urls": [
-      "https://panel.host-live.com:19360/cn247tv/cn247tv.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
-    "country": "ar",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "Wa2wvWwVF98vcA",
     "name": "A24",
     "stream_urls": [],
@@ -80,6 +67,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "o15OiPkM4jxoZp",
+    "name": "Bayres TV",
+    "stream_urls": [
+      "https://streaming01.mikrolive.tv/bayrestv/live/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "ar",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "SHCgFbO79Hh4Z8",
     "name": "Beats Radio",
     "stream_urls": [
@@ -116,19 +116,6 @@
       "spa"
     ],
     "language": "spa",
-    "country": "ar",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "E4hNnqL8PG669C",
-    "name": "Cable Imagen Armstrong",
-    "stream_urls": [
-      "https://stream.arcast.com.ar/casse/casse/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
     "country": "ar",
     "isGeoBlocked": false
   },
@@ -274,19 +261,6 @@
       "spa"
     ],
     "language": "spa",
-    "country": "ar",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "RjGzeK99LgjrbF",
-    "name": "Canal 6 Posadas",
-    "stream_urls": [
-      "https://iptv.ixfo.com.ar:30443/live/c6digital/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
     "country": "ar",
     "isGeoBlocked": false
   },
@@ -463,16 +437,18 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "EBJnvOws8NXMUv",
+    "nanoid": "IKwTslDp6GIv1l",
     "name": "Canal 26",
-    "stream_urls": [],
+    "stream_urls": [
+      "https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8",
+      "https://stream-gtlc.telecentro.net.ar/hls/canal26hls/0/playlist.m3u8"
+    ],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/Akf2MWm8vfk"
     ],
     "languages": [
       "spa"
     ],
-    "language": "spa",
     "country": "ar",
     "isGeoBlocked": false
   },
@@ -730,6 +706,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "uvdbgKYfuDPGUL",
+    "name": "El Observador 107.9",
+    "stream_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/AzlGTvBtVbM"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "language": "spa",
+    "country": "ar",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "GdDjRTp2cOF0FH",
     "name": "El Ocho",
     "stream_urls": [],
@@ -796,6 +786,20 @@
     "languages": [
       "spa"
     ],
+    "country": "ar",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "rvSLmYJvnwZ691",
+    "name": "El Tres TV",
+    "stream_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/kvxaFrs4src"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "language": "spa",
     "country": "ar",
     "isGeoBlocked": false
   },
@@ -898,6 +902,20 @@
     "name": "Misiones Cuatro",
     "stream_urls": [
       "https://iptv.ixfo.com.ar:30443/live-HD/MISIONES4/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "ar",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "nCjEym27rIb7Sc",
+    "name": "NET TV",
+    "stream_urls": [
+      "https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8",
+      "https://unlimited6-cl.dps.live/nettv/nettv.smil/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -1040,36 +1058,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "4D71cx5fvZCZ53",
-    "name": "San Pedro TV",
-    "stream_urls": [
-      "https://iptv.ixfo.com.ar:30443/live/sanpedrotv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
-    "country": "ar",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "rPtKuLjPt7QNrN",
     "name": "Sicardi TV",
     "stream_urls": [
       "https://vivo.solumedia.com:19360/sicarditv/sicarditv.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
-    "country": "ar",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "pOLw0wjFkchEX1",
-    "name": "TeleCinco Trelew",
-    "stream_urls": [
-      "https://videohd.live:19360/8016/8016.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -1143,20 +1135,6 @@
     "languages": [
       "spa"
     ],
-    "country": "ar",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "C4INN3f93tsfyG",
-    "name": "Televisión Pública",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/xO6rbgAFeoc"
-    ],
-    "languages": [
-      "spa"
-    ],
-    "language": "spa",
     "country": "ar",
     "isGeoBlocked": false
   },
@@ -1271,7 +1249,7 @@
     "name": "Urbana Play 104.3 FM",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/3t8Ct5CZMpM"
+      "https://www.youtube-nocookie.com/embed/7nycr__WqSI"
     ],
     "languages": [
       "spa"

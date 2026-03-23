@@ -52,6 +52,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "MYnHsDG9stKwV8",
+    "name": "ARTV Canal Parlamento",
+    "stream_urls": [
+      "https://playout172.livextend.cloud/liveiframe/_definst_/liveartvabr/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "por"
+    ],
+    "country": "pt",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "1q3kaCpiJgYIgc",
     "name": "Assembleia SC: AO VIVO",
     "stream_urls": [],
@@ -169,6 +182,19 @@
       "spa"
     ],
     "country": "es",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "zjs8fScsFVoj7q",
+    "name": "Canal Parlamento del Congreso de Jalisco",
+    "stream_urls": [
+      "https://60417ddeaf0d9.streamlock.net/srtc/smil:srtc.smil/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "mx",
     "isGeoBlocked": false
   },
   {
@@ -346,19 +372,6 @@
     "name": "CT-N Live Stream 2",
     "stream_urls": [
       "https://video.ct-n.com/live/web2stream/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "9Cb1QitN6W4Cqb",
-    "name": "CT-N TV Conneticut",
-    "stream_urls": [
-      "https://video.ct-n.com/live/ctnstream/playlist_DVR.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -1128,21 +1141,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "02FZNtdjYpb1eU",
-    "name": "Sansad TV 1",
-    "stream_urls": [
-      "https://d2lk5u59tns74c.cloudfront.net/out/v1/fff8f20221d5456e8922e689d71dedc3/index.m3u8",
-      "https://hls.media.nic.in/hls/live/lstv/lstv.m3u8",
-      "https://playhls.media.nic.in/hls/live/lstv/lstv.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "hin"
-    ],
-    "country": "in",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "7uZQEY7iiyput2",
     "name": "Sansad TV 2",
     "stream_urls": [
@@ -1279,7 +1277,7 @@
     "name": "TV Assembleia Minas Gerais",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/11kLbcva4F0"
+      "https://www.youtube-nocookie.com/embed/rkNqpbCNbco"
     ],
     "languages": [
       "por"
@@ -1298,6 +1296,20 @@
     "languages": [
       "por"
     ],
+    "country": "br",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "ljxQJllBAK9Pvk",
+    "name": "TV Câmara Porto Alegre",
+    "stream_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/Lzyj1lnQpHs"
+    ],
+    "languages": [
+      "por"
+    ],
+    "language": "por",
     "country": "br",
     "isGeoBlocked": false
   },
@@ -1547,6 +1559,19 @@
       "ell"
     ],
     "country": "gr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "jdtDDFx09GQYAn",
+    "name": "Дума ТВ",
+    "stream_urls": [
+      "https://dumatv.iptv2022.com/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
     "isGeoBlocked": false
   }
 ]

@@ -158,19 +158,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "AkJT8qUHrHTblc",
-    "name": "Chifeng Comprehensive News Chanel",
-    "stream_urls": [
-      "https://play1-qk.nmtv.cn/live/1735546697341033.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "mon"
-    ],
-    "country": "cn",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "OAc1RsWsrgVUky",
     "name": "China Travel",
     "stream_urls": [
@@ -188,6 +175,19 @@
     "name": "Discovering China",
     "stream_urls": [
       "https://amg01314-amg01314c8-distrotv-us-10218.playouts.now.amagi.tv/playlist/amg01314-cgtn-cgtndiscoveringchina-distrotvus/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "zho"
+    ],
+    "country": "cn",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "l2c248PtwB0qu4",
+    "name": "Guangzhou TV",
+    "stream_urls": [
+      "https://tencentplaybusiness.gztv.com/live/zonghes.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -393,17 +393,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "PQS6mmZySzL6Rf",
-    "name": "上虞1新闻综合",
-    "stream_urls": [
-      "https://l.cztvcloud.com/channels/lantian/SXshangyu1/720p.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [],
-    "country": "cn",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "2Fb8Um99xfgPRq",
     "name": "上虞3新商都",
     "stream_urls": [
@@ -540,7 +529,7 @@
     "name": "小猪佩奇 中文官方 - Peppa Pig",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/R27PW_0qLz0"
+      "https://www.youtube-nocookie.com/embed/5yX8-K-Zync"
     ],
     "languages": [
       "zho"
@@ -583,28 +572,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "LWZapZpACANZ13",
-    "name": "新昌休闲影视",
-    "stream_urls": [
-      "https://l.cztvcloud.com/channels/lantian/SXxinchang2/720p.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [],
-    "country": "cn",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "4rBoFSFcNpIZxe",
-    "name": "新昌新聞綜合",
-    "stream_urls": [
-      "https://l.cztvcloud.com/channels/lantian/SXxinchang1/720p.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [],
-    "country": "cn",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "UKPg4OIuLFiPtH",
     "name": "松原新闻综合",
     "stream_urls": [
@@ -616,10 +583,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "THg2ymDAp3wTLF",
-    "name": "河源综合",
+    "nanoid": "2D80wABwXq6SL0",
+    "name": "浙江 Ⅰ 绍兴影视",
     "stream_urls": [
-      "https://tmpstream.hyrtv.cn/xwzh/sd/live.m3u8"
+      "https://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8"
     ],
     "youtube_urls": [],
     "languages": [],
@@ -754,6 +721,17 @@
     "name": "福州电视台少儿频道 (FZTV-少儿)",
     "stream_urls": [
       "https://live.zohi.tv/video/s10001-fztv-4/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [],
+    "country": "cn",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "HGBni7wKrtguXm",
+    "name": "萧山新闻综合",
+    "stream_urls": [
+      "https://l.cztvcloud.com/channels/lantian/SXxiaoshan1/720p.m3u8"
     ],
     "youtube_urls": [],
     "languages": [],

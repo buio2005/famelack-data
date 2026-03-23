@@ -1,5 +1,18 @@
 [
   {
+    "nanoid": "MNDeW5booFR0B1",
+    "name": "ATN News",
+    "stream_urls": [
+      "https://bozztv.com/rongo/rongo-ATNNews/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "ben"
+    ],
+    "country": "bd",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "bSniDzyHJKXnhh",
     "name": "BTV Chattogram",
     "stream_urls": [
@@ -13,16 +26,17 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "FjKVg1Xdb8CtFR",
+    "nanoid": "AgfCNepngSlM7x",
     "name": "Channel 24",
-    "stream_urls": [],
+    "stream_urls": [
+      "https://bozztv.com/rongo/rongo-Channel24HD/index.m3u8"
+    ],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/_UdWf3_N8Ak"
     ],
     "languages": [
       "ben"
     ],
-    "language": "ben",
     "country": "bd",
     "isGeoBlocked": false
   },
@@ -41,16 +55,17 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "w8Bp8ozrn2e1YZ",
+    "nanoid": "S9KasrDktK2huz",
     "name": "Desh TV",
-    "stream_urls": [],
+    "stream_urls": [
+      "https://bozztv.com/rongo/rongo-DeshTV/index.m3u8"
+    ],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/3WOCGVd1zYc"
     ],
     "languages": [
       "ben"
     ],
-    "language": "ben",
     "country": "bd",
     "isGeoBlocked": false
   },
@@ -87,12 +102,25 @@
     "name": "Independent Television",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/epW9fZvlHlg"
+      "https://www.youtube-nocookie.com/embed/-_RANMQLT7o"
     ],
     "languages": [
       "ben"
     ],
     "language": "ben",
+    "country": "bd",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "VVD7BNKW7RdH1t",
+    "name": "Independent TV",
+    "stream_urls": [
+      "https://bozztv.com/rongo/rongo-IndependentTV/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "ben"
+    ],
     "country": "bd",
     "isGeoBlocked": false
   },
@@ -127,6 +155,32 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "wHzzyFmCerZIov",
+    "name": "Mohona TV",
+    "stream_urls": [
+      "https://bozztv.com/rongo/rongo-MohonaTV/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "ben"
+    ],
+    "country": "bd",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "cqoFXeRVvqQaid",
+    "name": "News 24",
+    "stream_urls": [
+      "https://bozztv.com/rongo/rongo-News24HD/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "ben"
+    ],
+    "country": "bd",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "VNY3CPiX9tfekV",
     "name": "NTV Live",
     "stream_urls": [],
@@ -137,6 +191,19 @@
       "ben"
     ],
     "language": "ben",
+    "country": "bd",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "K8OFg70tOZ5TpR",
+    "name": "RTV",
+    "stream_urls": [
+      "https://bozztv.com/rongo/rongo-RTV/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "ben"
+    ],
     "country": "bd",
     "isGeoBlocked": false
   },

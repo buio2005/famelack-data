@@ -39,6 +39,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "bjtUkZwN7hFmXK",
+    "name": "Balaton TV",
+    "stream_urls": [
+      "https://stream.iptvservice.eu/hls/balatontv.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "hun"
+    ],
+    "country": "hu",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "GzqfFCsasqjftO",
     "name": "Berente TV",
     "stream_urls": [
@@ -69,19 +82,6 @@
     "name": "ESTV",
     "stream_urls": [
       "https://cloudfront44.lexanetwork.com:1344/relay01/HDE032.sdp/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "hun"
-    ],
-    "country": "hu",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "bJRjHgTM43iRML",
-    "name": "Fehérvár TV",
-    "stream_urls": [
-      "https://cloudfront44.lexanetwork.com:1344/freerelay/fehervartv.sdp/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -205,6 +205,19 @@
       "hun"
     ],
     "language": "hun",
+    "country": "hu",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "6QswkA5Qyz19SH",
+    "name": "Mezőkövesdi Televízió",
+    "stream_urls": [
+      "https://cloudfront44.lexanetwork.com:1344/freerelay/mezokovesdvtv.sdp/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "hun"
+    ],
     "country": "hu",
     "isGeoBlocked": false
   },
@@ -393,19 +406,6 @@
     "name": "Zalaegerszegi TV",
     "stream_urls": [
       "https://cloudfront44.lexanetwork.com:1344/freerelay/zegtv.sdp/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "hun"
-    ],
-    "country": "hu",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "VR6QfXQAolyoFB",
-    "name": "Zuglo TV",
-    "stream_urls": [
-      "https://cloudfront44.lexanetwork.com:1344/freerelay/zuglotv.sdp/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [

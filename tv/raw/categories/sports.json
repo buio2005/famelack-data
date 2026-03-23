@@ -107,37 +107,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "YFqOd9RFAP2HGq",
-    "name": "Bahrain Sports 1",
-    "stream_urls": [
-      "https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "ara"
-    ],
-    "country": "bh",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "SBDiIYv6gMiZbW",
-    "name": "Bahrain Sports 2",
-    "stream_urls": [
-      "https://5c7b683162943.streamlock.net/live/ngrp:bahrainsportstwo_all/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "ara"
-    ],
-    "country": "bh",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "ryl2lCtBRetuci",
     "name": "beIN SPORTS Türkiye",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/9xVXWLwT0vA"
+      "https://www.youtube-nocookie.com/embed/UVbRM0ydyhQ"
     ],
     "languages": [
       "tur"
@@ -279,20 +253,6 @@
       "eng"
     ],
     "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "kNGlVwY9GvBOjR",
-    "name": "Esport3",
-    "stream_urls": [
-      "https://directes-tv-int.3catdirectes.cat/live-content/esport3-hls/master.m3u8",
-      "https://directes-tv-int.3catdirectes.cat/live-origin/esport3-hls/master.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "cat"
-    ],
-    "country": "es",
     "isGeoBlocked": false
   },
   {
@@ -465,7 +425,7 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "QXXYQyEvzt0r35",
+    "nanoid": "dsBKZyQRGT7j8N",
     "name": "Fuel TV",
     "stream_urls": [
       "https://amg01074-fueltv-amg01074c1-stirr-us-4214.playouts.now.amagi.tv/playlist.m3u8"
@@ -489,7 +449,7 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "q2KimDhflePyDK",
+    "nanoid": "Iuaewjg35O2O7W",
     "name": "FUEL TV",
     "stream_urls": [
       "https://amg01074-fueltv-amg01074c1-firetv-us-3150.playouts.now.amagi.tv/playlist.m3u8"
@@ -552,19 +512,6 @@
     ],
     "language": "tur",
     "country": "tr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "GV38pwWqigwkoF",
-    "name": "HTV Thể thao",
-    "stream_urls": [
-      "https://live.fptplay53.net/epzhd1/htvcthethao_vhls.smil/chunklist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "vie"
-    ],
-    "country": "vn",
     "isGeoBlocked": false
   },
   {
@@ -812,7 +759,8 @@
     "stream_urls": [
       "https://pac12-roku-us.amagi.tv/playlist.m3u8",
       "https://pac12-samsungus.amagi.tv/playlist.m3u8",
-      "https://pac12-vizio.amagi.tv/playlist.m3u8"
+      "https://pac12-vizio.amagi.tv/playlist.m3u8",
+      "https://pac12-firetv.amagi.tv/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -1228,6 +1176,7 @@
     "nanoid": "KqqtNJzLvYMM8F",
     "name": "Trace Sports Stars",
     "stream_urls": [
+      "https://tracesportstars-klowdtv.amagi.tv/playlist.m3u8",
       "https://amg01131-tracetv-amg01131c2-stirr-us-4392.playouts.now.amagi.tv/playlist.m3u8"
     ],
     "youtube_urls": [],
@@ -1536,7 +1485,7 @@
     "name": "WWE Vault",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/P3GHMQo1Dx8"
+      "https://www.youtube-nocookie.com/embed/6eGh6PkcnCM"
     ],
     "languages": [
       "eng"
@@ -1556,6 +1505,19 @@
       "rus"
     ],
     "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "yxXfCHd5uHQMJD",
+    "name": "Беларусь 5",
+    "stream_urls": [
+      "https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5.smil/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "rus"
+    ],
+    "country": "by",
     "isGeoBlocked": false
   }
 ]
