@@ -23,17 +23,6 @@
     ]
   },
   {
-    "nanoid": "SlfNZYUdTCLCGm",
-    "name": "4Music",
-    "stream_urls": [
-      "https://s1.slotex.pl/shoutcast/7102/stream"
-    ],
-    "country": "pl",
-    "languages": [
-      "pol"
-    ]
-  },
-  {
     "nanoid": "EDukHiPZ3u5Fa9",
     "name": "Akademickie Radio Kampus",
     "stream_urls": [
@@ -48,7 +37,6 @@
     "nanoid": "wqvSZhq1RLKF3y",
     "name": "Antyradio",
     "stream_urls": [
-      "https://an.cdn.eurozet.pl/ant-web.mp3",
       "https://n-4-4.dcs.redcdn.pl/sc/o2/Eurozet/live/antyradio.livx",
       "https://an02.cdn.eurozet.pl/ant-web.mp3"
     ],
@@ -503,17 +491,6 @@
     "country": "pl",
     "languages": [
       "pol"
-    ]
-  },
-  {
-    "nanoid": "2xtr7yPyLD674s",
-    "name": "Lady G4A Gaming Radio",
-    "stream_urls": [
-      "https://stream.zeno.fm/e8wz7kbpypiuv"
-    ],
-    "country": "pl",
-    "languages": [
-      "eng"
     ]
   },
   {
@@ -1096,17 +1073,6 @@
     "name": "Radio Bahary",
     "stream_urls": [
       "https://s1.slotex.pl/shoutcast/7838/stream"
-    ],
-    "country": "pl",
-    "languages": [
-      "pol"
-    ]
-  },
-  {
-    "nanoid": "lrkERHPsYmipzv",
-    "name": "Radio BEST",
-    "stream_urls": [
-      "https://stream.rcs.revma.com/k7z0hu129s3vv"
     ],
     "country": "pl",
     "languages": [
@@ -1717,17 +1683,6 @@
     "name": "Radio Freee",
     "stream_urls": [
       "https://streaming.radio.lublin.pl:8843/radiofreee"
-    ],
-    "country": "pl",
-    "languages": [
-      "pol"
-    ]
-  },
-  {
-    "nanoid": "rSSQntbarDOuS5",
-    "name": "Radio Freee 89.9 FM",
-    "stream_urls": [
-      "https://streaming.radio.lublin.pl:8843/radiofreeeacp"
     ],
     "country": "pl",
     "languages": [
@@ -2394,6 +2349,17 @@
     "name": "Radio Olsztyn",
     "stream_urls": [
       "https://rostr1.radioolsztyn.pl:8843/RWiM"
+    ],
+    "country": "pl",
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "LR9iM2kuaP7cDg",
+    "name": "Radio ONY 93.1 FM",
+    "stream_urls": [
+      "https://n14.rcs.revma.com/yxv344rra2zuv"
     ],
     "country": "pl",
     "languages": [
@@ -3377,17 +3343,6 @@
     ]
   },
   {
-    "nanoid": "E607f5btZ7ipV5",
-    "name": "Radio Złote Przeboje Częstochowa",
-    "stream_urls": [
-      "https://radiostream.pl/tuba8904-1.mp3"
-    ],
-    "country": "pl",
-    "languages": [
-      "pol"
-    ]
-  },
-  {
     "nanoid": "xmzOchXUp8FeJZ",
     "name": "Radio Złote Przeboje Poznań",
     "stream_urls": [
@@ -3425,6 +3380,17 @@
     "name": "Radio Łódź nad Wartą",
     "stream_urls": [
       "https://stream.radiolodz.pl/RadioLodz-NW-HQ.aac"
+    ],
+    "country": "pl",
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "R3OioucKtiZut9",
+    "name": "Radio Łódź Sport",
+    "stream_urls": [
+      "https://stream.radiolodz.pl/RadioLodz-3-HQ.aac"
     ],
     "country": "pl",
     "languages": [

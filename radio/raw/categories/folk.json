@@ -1,16 +1,5 @@
 [
   {
-    "nanoid": "iKHIl12hPOVDke",
-    "name": "'t Is Vloms",
-    "stream_urls": [
-      "https://bluford.torontocast.com/proxy/iimfoptl/stream"
-    ],
-    "country": "be",
-    "languages": [
-      "nld"
-    ]
-  },
-  {
     "nanoid": "vgVepMOz7Qgte4",
     "name": "0nlineradio American Christmas",
     "stream_urls": [
@@ -696,6 +685,29 @@
     ]
   },
   {
+    "nanoid": "Miypf17i0mjuKp",
+    "name": "bigFM bigBalkan",
+    "stream_urls": [
+      "https://streams.bigfm.de/bigfm-balkan-128-aac",
+      "https://stream.bigfm.de/balkan/mp3-128/radio-browser"
+    ],
+    "country": "de",
+    "languages": [
+      "deu"
+    ]
+  },
+  {
+    "nanoid": "vPNNxLrFUHPp8F",
+    "name": "bigFM Worldbeats",
+    "stream_urls": [
+      "https://streams.bigfm.de/bigfm-worldbeats-128-aac"
+    ],
+    "country": "de",
+    "languages": [
+      "deu"
+    ]
+  },
+  {
     "nanoid": "BYD5cuWDu7iIWL",
     "name": "Blasmusikradio",
     "stream_urls": [
@@ -976,6 +988,17 @@
     ]
   },
   {
+    "nanoid": "e8IJZCuY2e6O8H",
+    "name": "Chaozhou Opera Broadcasting",
+    "stream_urls": [
+      "https://lhttp.qingting.fm/live/4595/64k.mp3"
+    ],
+    "country": "cn",
+    "languages": [
+      "zho"
+    ]
+  },
+  {
     "nanoid": "18QjTywxnrTXOr",
     "name": "Chinese Music World",
     "stream_urls": [
@@ -1029,6 +1052,17 @@
     "country": "us",
     "languages": [
       "eng"
+    ]
+  },
+  {
+    "nanoid": "gwbK0rk7m5jZAb",
+    "name": "Club Music Radio - Folk",
+    "stream_urls": [
+      "https://cmr-hosting.com:7001/;stream/1"
+    ],
+    "country": "hr",
+    "languages": [
+      "hrv"
     ]
   },
   {
@@ -1352,17 +1386,6 @@
     ]
   },
   {
-    "nanoid": "B5sJa3NyBOY9lt",
-    "name": "Elliniko Paradosiako Radiofono",
-    "stream_urls": [
-      "https://i2.streams.ovh:7058/stream1"
-    ],
-    "country": "gr",
-    "languages": [
-      "ell"
-    ]
-  },
-  {
     "nanoid": "E8XA0bGj7FwMBx",
     "name": "Elmag Folk Gold",
     "stream_urls": [
@@ -1393,17 +1416,6 @@
     "country": "ee",
     "languages": [
       "est"
-    ]
-  },
-  {
-    "nanoid": "tk2WYzoPRxtbCJ",
-    "name": "En Lefko World Music",
-    "stream_urls": [
-      "https://n0d.radiojar.com/u4w964dscrruv"
-    ],
-    "country": "gr",
-    "languages": [
-      "ell"
     ]
   },
   {
@@ -1857,7 +1869,9 @@
     "nanoid": "RoKKfnGAfNE7aM",
     "name": "FluxFM Hippie Trippy Garden Pretty",
     "stream_urls": [
-      "https://fluxfm.streamabc.net/flx-event02-mp3-320-7134332"
+      "https://fluxfm.streamabc.net/flx-event02-mp3-320-7134332",
+      "https://fluxfm.streamabc.net/flx-event02-mp3-128-5288342",
+      "https://fluxfm.streamabc.net/flx-event02-aacplus-64-5884732"
     ],
     "country": "de",
     "languages": [
@@ -3458,6 +3472,17 @@
     ]
   },
   {
+    "nanoid": "VOecyLI2a7f8zX",
+    "name": "Medi 1 Andalouse",
+    "stream_urls": [
+      "https://live.medi1.com/Andalouse"
+    ],
+    "country": "ma",
+    "languages": [
+      "ara"
+    ]
+  },
+  {
     "nanoid": "mE8rdon4hiby5B",
     "name": "Megasite FM 101.1",
     "stream_urls": [
@@ -3494,10 +3519,10 @@
     ]
   },
   {
-    "nanoid": "XlNGcpByqZR77D",
-    "name": "Melodia 99.2 - Ta Megala Klasika",
+    "nanoid": "TiVVpTctbDj3yM",
+    "name": "Melodia 99.2 - O Neos Freedom",
     "stream_urls": [
-      "https://n05.radiojar.com/dcsfav6ezmzuv"
+      "https://n11.radiojar.com/r9nqbs6ezmzuv"
     ],
     "country": "gr",
     "languages": [
@@ -3505,10 +3530,10 @@
     ]
   },
   {
-    "nanoid": "GpIbPQ5KG5ank1",
-    "name": "Melodia 99.2 - Ta Tragoudia tou '90",
+    "nanoid": "XlNGcpByqZR77D",
+    "name": "Melodia 99.2 - Ta Megala Klasika",
     "stream_urls": [
-      "https://n12.radiojar.com/gumq3p803mzuv"
+      "https://n05.radiojar.com/dcsfav6ezmzuv"
     ],
     "country": "gr",
     "languages": [
@@ -3558,6 +3583,18 @@
     "country": "de",
     "languages": [
       "tur"
+    ]
+  },
+  {
+    "nanoid": "yGm9i85yo4808g",
+    "name": "Mettaswara Koplo",
+    "stream_urls": [
+      "https://mettaswara.com:8700//koplo"
+    ],
+    "country": "id",
+    "languages": [
+      "ind",
+      "jav"
     ]
   },
   {
@@ -4376,17 +4413,6 @@
     ]
   },
   {
-    "nanoid": "WttNlLL5nZTBN8",
-    "name": "Radio 1224",
-    "stream_urls": [
-      "https://stream.radio1224.nl/1224"
-    ],
-    "country": "nl",
-    "languages": [
-      "nld"
-    ]
-  },
-  {
     "nanoid": "hdRrepr1yFtfXI",
     "name": "Radio 21 90.1 FM",
     "stream_urls": [
@@ -4686,11 +4712,55 @@
     ]
   },
   {
+    "nanoid": "vij5I2wJbtVLRe",
+    "name": "Radio Art - Fado",
+    "stream_urls": [
+      "https://live.radioart.com/fFado.mp3"
+    ],
+    "country": "gr",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
     "nanoid": "AlB0HtBbJnChqh",
     "name": "Radio Art - Folk & Soft Rock",
     "stream_urls": [
       "https://air-tunein.radioart.com/fFolk_and_soft_rock.mp3",
       "https://air.radioart.com/fFolk_and_soft_rock.mp3"
+    ],
+    "country": "gr",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "L9xaBp8LsHcWQp",
+    "name": "Radio Art - Manos & Mikis",
+    "stream_urls": [
+      "https://air.radioart.com/fManos_and_mikis.mp3"
+    ],
+    "country": "gr",
+    "languages": [
+      "ell"
+    ]
+  },
+  {
+    "nanoid": "YAuW5fwX8ZHKSu",
+    "name": "Radio Art - Norteña",
+    "stream_urls": [
+      "https://live.radioart.com/fNortena.mp3"
+    ],
+    "country": "gr",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "iAEJOuh5X68TJg",
+    "name": "Radio Art - Soft Rock & Folk",
+    "stream_urls": [
+      "https://air.radioart.online/fFolk_and_soft_rock.mp3"
     ],
     "country": "gr",
     "languages": [
@@ -4778,10 +4848,22 @@
     ]
   },
   {
+    "nanoid": "z6siVv1hOvWhWU",
+    "name": "RADIO BOB! Folk Rock",
+    "stream_urls": [
+      "https://streams.radiobob.de/folkrock/mp3-192/streams.radiobob.de/"
+    ],
+    "country": "de",
+    "languages": [
+      "deu"
+    ]
+  },
+  {
     "nanoid": "dgPAQMRzkK9tPr",
     "name": "RADIO BOB! Singer & Songwriter",
     "stream_urls": [
-      "https://streams.radiobob.de/bob-singersong/mp3-192/streams.radiobob.de/"
+      "https://streams.radiobob.de/bob-singersong/mp3-192/streams.radiobob.de/",
+      "https://streams.radiobob.de/bob-singersong/aac-64/mediaplayer"
     ],
     "country": "de",
     "languages": [
@@ -5148,6 +5230,17 @@
     ]
   },
   {
+    "nanoid": "eixzDSezlFoGbx",
+    "name": "Radio Evros 97.1",
+    "stream_urls": [
+      "https://live.radioevros.gr/"
+    ],
+    "country": "gr",
+    "languages": [
+      "ell"
+    ]
+  },
+  {
     "nanoid": "hi1IsLlCwFTpaF",
     "name": "Radio Fairouziat",
     "stream_urls": [
@@ -5230,17 +5323,6 @@
     "name": "Radio Folclor Buzău",
     "stream_urls": [
       "https://live.radiofolclorbuzaufm.ro:8910/stream"
-    ],
-    "country": "ro",
-    "languages": [
-      "ron"
-    ]
-  },
-  {
-    "nanoid": "CO85AZQXnZGoTn",
-    "name": "Radio Folclor Muntenia",
-    "stream_urls": [
-      "https://live.radiofolclormuntenia.ro:8008/stream"
     ],
     "country": "ro",
     "languages": [
@@ -5849,17 +5931,6 @@
     ]
   },
   {
-    "nanoid": "NpyABqZcz0veVH",
-    "name": "Radio Melodija",
-    "stream_urls": [
-      "https://live.relaxfm.lv/08"
-    ],
-    "country": "lv",
-    "languages": [
-      "rus"
-    ]
-  },
-  {
     "nanoid": "vTVDvNguhF1Xl6",
     "name": "Radio Melody",
     "stream_urls": [
@@ -6057,6 +6128,17 @@
     "country": "pl",
     "languages": [
       "pol"
+    ]
+  },
+  {
+    "nanoid": "3kJrAT5IZYbbHm",
+    "name": "Radio Nevesinje",
+    "stream_urls": [
+      "https://radio.dukahosting.com/8162/stream"
+    ],
+    "country": "ba",
+    "languages": [
+      "srp"
     ]
   },
   {
@@ -6439,17 +6521,6 @@
     ]
   },
   {
-    "nanoid": "8MNBw0OgM0ZdQP",
-    "name": "Radio Rizes",
-    "stream_urls": [
-      "https://rdst.win:59670/stream"
-    ],
-    "country": "gr",
-    "languages": [
-      "ell"
-    ]
-  },
-  {
     "nanoid": "R1HgTpJt9xx4Cp",
     "name": "Radio Rizites 92.4",
     "stream_urls": [
@@ -6641,6 +6712,21 @@
     ]
   },
   {
+    "nanoid": "8PVIwmi3RywpDN",
+    "name": "Radio Schwany 3 - Echte Volksmusik",
+    "stream_urls": [
+      "https://schwany.streampanel.cloud/3-dieechte",
+      "https://bone.streampanel.cloud/3-dieechte",
+      "https://charly.streampanel.net/3-dieechte",
+      "https://schwany3volksmusik.hoamatwelle.de/",
+      "https://volksmusik.sp.radio.fm/stream"
+    ],
+    "country": "de",
+    "languages": [
+      "deu"
+    ]
+  },
+  {
     "nanoid": "UUSaBeyxlSXRab",
     "name": "Radio Schwany 4 - Blasmusik",
     "stream_urls": [
@@ -6713,6 +6799,17 @@
     ]
   },
   {
+    "nanoid": "C5q2SjchvDlbmw",
+    "name": "Radio Shanasheel",
+    "stream_urls": [
+      "https://stream-152.zeno.fm/a33ka0d94p8uv"
+    ],
+    "country": "iq",
+    "languages": [
+      "ara"
+    ]
+  },
+  {
     "nanoid": "2MXgqyfXCRH3CC",
     "name": "Radio SI (Radio Slovenija International)",
     "stream_urls": [
@@ -6771,6 +6868,18 @@
     ]
   },
   {
+    "nanoid": "MpUtg7EdhEDJXC",
+    "name": "Radio Simorgh",
+    "stream_urls": [
+      "https://stream.zeno.fm/jl8n7thgcdftv",
+      "https://stream.zeno.fm/9svfnobkrxrvv"
+    ],
+    "country": "ir",
+    "languages": [
+      "fas"
+    ]
+  },
+  {
     "nanoid": "b1qNepntYm4HZk",
     "name": "Radio Sirtaki",
     "stream_urls": [
@@ -6791,17 +6900,6 @@
     "country": "rs",
     "languages": [
       "srp"
-    ]
-  },
-  {
-    "nanoid": "X8bJUXmIQPar5z",
-    "name": "Radio Sol de los Andes",
-    "stream_urls": [
-      "https://cloudstream2036.conectarhosting.com/8036/stream"
-    ],
-    "country": "pe",
-    "languages": [
-      "spa"
     ]
   },
   {
@@ -7349,7 +7447,6 @@
     "nanoid": "To9I1YwL1BrJWf",
     "name": "Radio VIP",
     "stream_urls": [
-      "https://live1.radiovip.ro:8969/;",
       "https://live1.radiovip.ro:8969/stream"
     ],
     "country": "ro",
@@ -7697,6 +7794,17 @@
     ]
   },
   {
+    "nanoid": "fat6zLuHQO3sb8",
+    "name": "Radyo Şirvan Perwer",
+    "stream_urls": [
+      "https://stream-156.zeno.fm/x0xhw6c6g2zuv"
+    ],
+    "country": "iq",
+    "languages": [
+      "kur"
+    ]
+  },
+  {
     "nanoid": "oAQnuxxAjQyWbo",
     "name": "Rahbaniyat",
     "stream_urls": [
@@ -8008,17 +8116,6 @@
     "languages": [
       "fra",
       "oci"
-    ]
-  },
-  {
-    "nanoid": "t34Qp621vu0dts",
-    "name": "Rádio A Sertaneja",
-    "stream_urls": [
-      "https://s2.tgastream.com.br:17992/stream"
-    ],
-    "country": "br",
-    "languages": [
-      "por"
     ]
   },
   {
@@ -8823,17 +8920,6 @@
     ]
   },
   {
-    "nanoid": "N2vtkdvZYYV8yP",
-    "name": "Tarsus FM 95.5",
-    "stream_urls": [
-      "https://tarsusfm.80.yayin.com.tr//stream"
-    ],
-    "country": "tr",
-    "languages": [
-      "tur"
-    ]
-  },
-  {
     "nanoid": "EmwesBWhvLQaH3",
     "name": "Team FM",
     "stream_urls": [
@@ -8908,17 +8994,6 @@
     "name": "thegreatiamb Kids",
     "stream_urls": [
       "https://stream.zeno.fm/fwcpjdir9o1uv"
-    ],
-    "country": "us",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
-    "nanoid": "yBps6AlLK4Ycxf",
-    "name": "thegreatiamb Radio",
-    "stream_urls": [
-      "https://stream.zeno.fm/0ntnamyl4q7uv"
     ],
     "country": "us",
     "languages": [
@@ -9076,17 +9151,6 @@
       "https://stream.zeno.fm/8g8stpnx82quv",
       "https://stream-144.zeno.fm/gs4xg5s0csmtv",
       "https://stream-48.zeno.fm/gs4xg5s0csmtv"
-    ],
-    "country": "mx",
-    "languages": [
-      "spa"
-    ]
-  },
-  {
-    "nanoid": "DKUwxv7J02lZwI",
-    "name": "Viva El Mariachi Radio",
-    "stream_urls": [
-      "https://stream.zenolive.com/sy87dubz5f5tv"
     ],
     "country": "mx",
     "languages": [
@@ -9339,17 +9403,6 @@
     "name": "WUMB Blues",
     "stream_urls": [
       "https://wumb.streamguys1.com/wumb919st"
-    ],
-    "country": "us",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
-    "nanoid": "ISvuQdDiqViYMR",
-    "name": "WUMB Celtic",
-    "stream_urls": [
-      "https://wumb.streamguys1.com/wumb919cj"
     ],
     "country": "us",
     "languages": [
@@ -9618,6 +9671,17 @@
     ]
   },
   {
+    "nanoid": "LLNIU1maTBJLrH",
+    "name": "Владимир Высоцкий",
+    "stream_urls": [
+      "https://stream.pcradio.ru/Visotskiy-hi"
+    ],
+    "country": "ru",
+    "languages": [
+      "rus"
+    ]
+  },
+  {
     "nanoid": "4gsDfs9yUNMO5r",
     "name": "Гуцульське Радіо",
     "stream_urls": [
@@ -9651,6 +9715,17 @@
     ]
   },
   {
+    "nanoid": "ODWShyJ3Wvx8mF",
+    "name": "Мельница",
+    "stream_urls": [
+      "https://stream.pcradio.ru/melnitsa-hi"
+    ],
+    "country": "ru",
+    "languages": [
+      "rus"
+    ]
+  },
+  {
     "nanoid": "qHmaGlCw7TI9as",
     "name": "Радио Ашкадар",
     "stream_urls": [
@@ -9667,6 +9742,18 @@
     "name": "Радио Культура",
     "stream_urls": [
       "https://icecast-vgtrk.cdnvideo.ru/kulturafm_aac_64kbps"
+    ],
+    "country": "ru",
+    "languages": [
+      "rus"
+    ]
+  },
+  {
+    "nanoid": "lKzaFWRfxiLMZa",
+    "name": "Радио Орфей: Фолк-музыка",
+    "stream_urls": [
+      "https://channels.fonotron.ru:8000/Chan_63_128.aac",
+      "https://channels.fonotron.ru:8000/Chan_63_256.mp3"
     ],
     "country": "ru",
     "languages": [

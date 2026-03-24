@@ -14,6 +14,29 @@
     ]
   },
   {
+    "nanoid": "bIntZduc6CN2Kd",
+    "name": "CIN Khabar",
+    "stream_urls": [
+      "https://streaming.softnep.net:10996/;stream.nsv&type=mp3&volume=60"
+    ],
+    "country": "np",
+    "languages": [
+      "nep"
+    ]
+  },
+  {
+    "nanoid": "j60VcLFgVKFI8M",
+    "name": "Kool FM 90.3",
+    "stream_urls": [
+      "https://streaming.softnep.net:10944/;stream.nsv&type=mp3&volume=70"
+    ],
+    "country": "np",
+    "languages": [
+      "nep",
+      "eng"
+    ]
+  },
+  {
     "nanoid": "Eei6qZ3YZDM5y5",
     "name": "Radio Audio 106.3 FM",
     "stream_urls": [
@@ -37,10 +60,10 @@
     ]
   },
   {
-    "nanoid": "Zy1eoJZdr9W0fF",
-    "name": "Radio Nepal",
+    "nanoid": "1ysyLazGXnpRDk",
+    "name": "Radio Thaha Sanchar",
     "stream_urls": [
-      "https://stream1.radionepal.gov.np/live/"
+      "https://streaming.softnep.net:10988/;stream.nsv&type=mp3"
     ],
     "country": "np",
     "languages": [
@@ -59,28 +82,6 @@
     ]
   },
   {
-    "nanoid": "Wc2mP0gYMEaYZa",
-    "name": "Syangja Radio 89.6",
-    "stream_urls": [
-      "https://stream.zeno.fm/fzqwdre3mp8uv"
-    ],
-    "country": "np",
-    "languages": [
-      "nep"
-    ]
-  },
-  {
-    "nanoid": "VWEITR8MIgM4ou",
-    "name": "Synergy FM 91.6",
-    "stream_urls": [
-      "https://live.itech.host:3880/stream"
-    ],
-    "country": "np",
-    "languages": [
-      "nep"
-    ]
-  },
-  {
     "nanoid": "kOGP6oFTXXIXcP",
     "name": "Ujyaalo 90 Network",
     "stream_urls": [
@@ -90,6 +91,17 @@
     "country": "np",
     "languages": [
       "eng",
+      "nep"
+    ]
+  },
+  {
+    "nanoid": "ZBN9TSqyMsKWCp",
+    "name": "Vijaya FM 101.6",
+    "stream_urls": [
+      "https://live.itech.host:3320/stream"
+    ],
+    "country": "np",
+    "languages": [
       "nep"
     ]
   }

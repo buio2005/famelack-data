@@ -133,6 +133,7 @@
     "name": "NRK Jazz",
     "stream_urls": [
       "https://cdn0-47115-liveicecast0.dna.contentdelivery.net/jazz_mp3_h",
+      "https://lyd.nrk.no/nrk_radio_jazz_aac_h",
       "https://lyd.nrk.no/nrk_radio_jazz_mp3_h",
       "https://lyd.nrk.no/nrk_radio_jazz_mp3_l"
     ],
@@ -172,7 +173,6 @@
     "nanoid": "kQhRuOho8vnTz3",
     "name": "NRK Nyheter",
     "stream_urls": [
-      "https://lyd.nrk.no/nrk_radio_alltid_nyheter_aac_h",
       "https://lyd.nrk.no/nrk_radio_alltid_nyheter_mp3_l",
       "https://cdn0-47115-liveicecast0.dna.contentdelivery.net/nyheter_aac_h",
       "https://lyd.nrk.no/icecast/mp3/high/s0w7hwn47m/nyheter"
@@ -197,7 +197,8 @@
     "nanoid": "bJ4UqZXlLG8aI8",
     "name": "NRK P1 Buskerud",
     "stream_urls": [
-      "https://lyd.nrk.no/nrk_radio_p1_buskerud_mp3_h"
+      "https://lyd.nrk.no/nrk_radio_p1_buskerud_mp3_h",
+      "https://cdn0-47115-liveicecast0.dna.contentdelivery.net/p1_dk13_aac_h"
     ],
     "country": "no",
     "languages": [
@@ -254,7 +255,8 @@
     "nanoid": "g2P515UkHJG7C5",
     "name": "NRK P1 Nordland",
     "stream_urls": [
-      "https://lyd.nrk.no/nrk_radio_p1_nordland_mp3_h"
+      "https://lyd.nrk.no/nrk_radio_p1_nordland_mp3_h",
+      "https://lyd.nrk.no/icecast/aac/high/s0w7hwn47m/p1_dk4"
     ],
     "country": "no",
     "languages": [
@@ -721,18 +723,6 @@
     ]
   },
   {
-    "nanoid": "EgfjRZnyDeSQPF",
-    "name": "Radio Lyngdal",
-    "stream_urls": [
-      "https://live.radiolyngdal.com/rly_mq"
-    ],
-    "country": "no",
-    "languages": [
-      "nor",
-      "eng"
-    ]
-  },
-  {
     "nanoid": "qfKXjqTPHVpkUf",
     "name": "Radio Norge",
     "stream_urls": [
@@ -861,6 +851,17 @@
     "stream_urls": [
       "https://stream.radiorakel.no/radiorakel_hq",
       "https://stream.radiorakel.no/fm993.mp3"
+    ],
+    "country": "no",
+    "languages": [
+      "nor"
+    ]
+  },
+  {
+    "nanoid": "KFYQHRVe3B1LpL",
+    "name": "Sørlandsradioen",
+    "stream_urls": [
+      "https://nettradio.sorlandsradioen.no/sorlandsradioen_hq"
     ],
     "country": "no",
     "languages": [

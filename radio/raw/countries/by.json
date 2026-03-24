@@ -112,6 +112,17 @@
     ]
   },
   {
+    "nanoid": "S0CLLONLwn4vEA",
+    "name": "Zefir FM",
+    "stream_urls": [
+      "https://stream2.datacenter.by/zefirfm"
+    ],
+    "country": "by",
+    "languages": [
+      "rus"
+    ]
+  },
+  {
     "nanoid": "5Jp53wts5wCb7Q",
     "name": "Авторадио Минск",
     "stream_urls": [
@@ -152,18 +163,6 @@
     ],
     "country": "by",
     "languages": [
-      "rus"
-    ]
-  },
-  {
-    "nanoid": "gWxgvwnAJlAAXh",
-    "name": "Легенды FM",
-    "stream_urls": [
-      "https://livefm.legendy.by/legendy"
-    ],
-    "country": "by",
-    "languages": [
-      "bel",
       "rus"
     ]
   },
@@ -348,6 +347,7 @@
     "nanoid": "wJIg803a6X2ive",
     "name": "Радио РОКС",
     "stream_urls": [
+      "https://stream.pcradio.ru/roks_minsk-hi",
       "https://stream.roks.com:8443/live128"
     ],
     "country": "by",

@@ -337,6 +337,17 @@
     ]
   },
   {
+    "nanoid": "AeKtrfsTC5cB06",
+    "name": "Absolut Christmas Time",
+    "stream_urls": [
+      "https://absolut-christmastime.live-sm.absolutradio.de/absolut-christmastime/stream/mp3"
+    ],
+    "country": "de",
+    "languages": [
+      "deu"
+    ]
+  },
+  {
     "nanoid": "6JE4H8oYrd5tPh",
     "name": "Akustik Weihnachten",
     "stream_urls": [
@@ -457,6 +468,17 @@
       "https://stream.antennethueringen.de/event/mp3-192/"
     ],
     "country": "de",
+    "languages": [
+      "deu"
+    ]
+  },
+  {
+    "nanoid": "QLSvyOks8uctI3",
+    "name": "Antenne Vorarlberg Christkindl Radio",
+    "stream_urls": [
+      "https://web.radio.antennevorarlberg.at/av-christkindl"
+    ],
+    "country": "at",
     "languages": [
       "deu"
     ]
@@ -960,17 +982,6 @@
     "name": "FFH Weihnachtsradio",
     "stream_urls": [
       "https://mp3.ffh.de/ffhchannels/hqspezial1.mp3"
-    ],
-    "country": "de",
-    "languages": [
-      "deu"
-    ]
-  },
-  {
-    "nanoid": "mb2ulCjXuA406Y",
-    "name": "ffn Tannenbaum",
-    "stream_urls": [
-      "https://player.ffn.de/ffntannenbaum.m3u"
     ],
     "country": "de",
     "languages": [
@@ -1541,7 +1552,10 @@
     "nanoid": "6mUikIh5z3KoIx",
     "name": "RADIO BOB! Christmas Rock",
     "stream_urls": [
-      "https://streams.radiobob.de/bob-christmas/mp3-192/mediaplayer/"
+      "https://streams.radiobob.de/bob-christmas/mp3-192/mediaplayer/",
+      "https://streams.radiobob.de/bob-christmas/mp3-192/streams.radiobob.de/",
+      "https://streams.radiobob.de/bob-christmas/mp3-128/radiode",
+      "https://streams.radiobob.de/bob-christmas/aac-64/mediaplayer/"
     ],
     "country": "de",
     "languages": [
@@ -1622,6 +1636,18 @@
     "name": "Radio Köln - Dein Weihnachts Radio",
     "stream_urls": [
       "https://rnrw.cast.addradio.de/rnrw-0185/deinevent/high/stream.mp3"
+    ],
+    "country": "de",
+    "languages": [
+      "deu"
+    ]
+  },
+  {
+    "nanoid": "A3OOOKoGHX4WyI",
+    "name": "Radio Lausitz - Weihnachtsradio",
+    "stream_urls": [
+      "https://streams.bcs-systems.de/slp/xmas/lausitz/mp3/radio.de/playlist.m3u",
+      "https://streaming.radiolausitz.de/radio-lausitz_XMAS_192k_mp3"
     ],
     "country": "de",
     "languages": [

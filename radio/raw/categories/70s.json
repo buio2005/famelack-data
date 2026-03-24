@@ -297,7 +297,9 @@
     "nanoid": "TxzSeLYZ6cS25I",
     "name": "antenne SACHSEN",
     "stream_urls": [
-      "https://edge69.radio.antennesachsen.de/antsa-dresden"
+      "https://hermes.bcs-systems.de/antenne-sachsen_192k_mp3",
+      "https://edge69.radio.antennesachsen.de/antsa-dresden",
+      "https://edge13.radio.antennesachsen.de/antsa-dresden"
     ],
     "country": "de",
     "languages": [
@@ -332,7 +334,8 @@
     "nanoid": "jKuBthLREVpJJV",
     "name": "Arabella Bayern",
     "stream_urls": [
-      "https://live.stream.radioarabella.de/radioarabella-bayern"
+      "https://live.stream.radioarabella.de/radioarabella-bayern",
+      "https://live.stream.radioarabella.de/radioarabella-bayern/stream/mp3"
     ],
     "country": "de",
     "languages": [
@@ -609,20 +612,6 @@
     "country": "de",
     "languages": [
       "deu"
-    ]
-  },
-  {
-    "nanoid": "98pFd5UmqcmmEH",
-    "name": "FluxFM 70s",
-    "stream_urls": [
-      "https://streams.fluxfm.de/70er/aac-64/audio/",
-      "https://fluxfm.streamabc.net/flx-70er-mp3-320-4383769",
-      "https://fluxfm.streamabc.net/flx-70er-mp3-128-3928273"
-    ],
-    "country": "de",
-    "languages": [
-      "deu",
-      "eng"
     ]
   },
   {
@@ -1220,6 +1209,17 @@
     "name": "ON Disco",
     "stream_urls": [
       "https://0n-disco.radionetz.de/0n-disco.aac"
+    ],
+    "country": "de",
+    "languages": [
+      "deu"
+    ]
+  },
+  {
+    "nanoid": "gHqVHIJbotEwcy",
+    "name": "ON Evergreens",
+    "stream_urls": [
+      "https://0n-evergreens.radionetz.de/0n-evergreens.mp3"
     ],
     "country": "de",
     "languages": [

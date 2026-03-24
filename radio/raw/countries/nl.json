@@ -572,17 +572,6 @@
     ]
   },
   {
-    "nanoid": "h4Tl0QMpu9NqTU",
-    "name": "BPRFM",
-    "stream_urls": [
-      "https://www.wizdevservices.nl/listen/bprfm/STREAM.mp3"
-    ],
-    "country": "nl",
-    "languages": [
-      "nld"
-    ]
-  },
-  {
     "nanoid": "4VDK3VRa0ryObU",
     "name": "BR6 Radio",
     "stream_urls": [
@@ -818,22 +807,11 @@
     "nanoid": "TdErItFzqT5aFe",
     "name": "Concertgebouworkest Webradio",
     "stream_urls": [
+      "https://i2.cdn.jetstre.am:8000/sz=RCOLiveWebradio=mp3-192",
       "https://ice.cr2.streamzilla.xlcdn.com:8000/sz%3DRCOLiveWebradio%3Daac128"
     ],
     "country": "nl",
     "languages": [
-      "nld"
-    ]
-  },
-  {
-    "nanoid": "BtHGsA17KYC17C",
-    "name": "Contikenzo",
-    "stream_urls": [
-      "https://contikenzo.beheerstream.nl:8136/stream"
-    ],
-    "country": "nl",
-    "languages": [
-      "eng",
       "nld"
     ]
   },
@@ -1031,18 +1009,6 @@
     ],
     "country": "nl",
     "languages": [
-      "nld"
-    ]
-  },
-  {
-    "nanoid": "r5FXfCNpfb5Jds",
-    "name": "Echobox Radio",
-    "stream_urls": [
-      "https://play.streamnerd.nl/echobox/echobox/icecast.audio"
-    ],
-    "country": "nl",
-    "languages": [
-      "eng",
       "nld"
     ]
   },
@@ -1350,7 +1316,6 @@
     "name": "Glow FM",
     "stream_urls": [
       "https://stream.glowfm.nl/glowfm.aac",
-      "https://nlpo.stream.vip/glowfm/mp3-192/nlpo.stream.vip/",
       "https://stream.glowfm.nl/glowfm.mp3"
     ],
     "country": "nl",
@@ -1362,7 +1327,6 @@
     "nanoid": "uz1ZCJS2Xmm2kg",
     "name": "GLXY Radio",
     "stream_urls": [
-      "https://stream.glxy.radio/GLXY",
       "https://stream23.gal.io/GLXY_CF01"
     ],
     "country": "nl",
@@ -2551,17 +2515,6 @@
     ]
   },
   {
-    "nanoid": "KEDNy8eee8lbh0",
-    "name": "MixPerfect Radio",
-    "stream_urls": [
-      "https://mixperfectradio.nl:9443/stream"
-    ],
-    "country": "nl",
-    "languages": [
-      "nld"
-    ]
-  },
-  {
     "nanoid": "G2Gq4LQOv9Nntt",
     "name": "ML5 Radio",
     "stream_urls": [
@@ -2940,17 +2893,6 @@
     "name": "Omroep Gelderland",
     "stream_urls": [
       "https://d2od87akyl46nm.cloudfront.net/icecast/omroepgelderland/radiogelderland"
-    ],
-    "country": "nl",
-    "languages": [
-      "nld"
-    ]
-  },
-  {
-    "nanoid": "Eo1bq8vkK5mvD8",
-    "name": "Omroep Heemskerk",
-    "stream_urls": [
-      "https://live.omroepheemskerk.nl/hfm"
     ],
     "country": "nl",
     "languages": [
@@ -3749,6 +3691,18 @@
     ]
   },
   {
+    "nanoid": "r4H7nEq6HlLumG",
+    "name": "Pyro-Tec Radio",
+    "stream_urls": [
+      "https://stream.zeno.fm/wfafmjdyhrrvv"
+    ],
+    "country": "nl",
+    "languages": [
+      "eng",
+      "nld"
+    ]
+  },
+  {
     "nanoid": "lxrTMlEAfgAnfn",
     "name": "Pyro-Tec Retro",
     "stream_urls": [
@@ -3967,17 +3921,6 @@
     "name": "Radio 10 Top 4000",
     "stream_urls": [
       "https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR24.mp3"
-    ],
-    "country": "nl",
-    "languages": [
-      "nld"
-    ]
-  },
-  {
-    "nanoid": "WttNlLL5nZTBN8",
-    "name": "Radio 1224",
-    "stream_urls": [
-      "https://stream.radio1224.nl/1224"
     ],
     "country": "nl",
     "languages": [
@@ -5841,7 +5784,8 @@
     "nanoid": "llajRjda2BS7wB",
     "name": "The Finest",
     "stream_urls": [
-      "https://ex52.voordeligstreamen.nl/8206/stream"
+      "https://ex52.voordeligstreamen.nl/8206/stream",
+      "https://live.thefinest.amsterdam/hq"
     ],
     "country": "nl",
     "languages": [
@@ -6216,6 +6160,17 @@
     "name": "ZFM Zandvoort",
     "stream_urls": [
       "https://icecast.bytesheep.net/zfmzandvoort.mp3"
+    ],
+    "country": "nl",
+    "languages": [
+      "nld"
+    ]
+  },
+  {
+    "nanoid": "sHbT9ZzzSEzHNt",
+    "name": "ZuidWest FM",
+    "stream_urls": [
+      "https://icecast.zuidwestfm.nl/zuidwest.aac"
     ],
     "country": "nl",
     "languages": [

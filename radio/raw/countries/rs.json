@@ -23,17 +23,6 @@
     ]
   },
   {
-    "nanoid": "EJlAxTEecmCRRT",
-    "name": "Domus Radio",
-    "stream_urls": [
-      "https://libretime.domusradio.com/icecast/main"
-    ],
-    "country": "rs",
-    "languages": [
-      "srp"
-    ]
-  },
-  {
     "nanoid": "aYIl11kELD1ngH",
     "name": "Dream Klub",
     "stream_urls": [
@@ -502,6 +491,17 @@
     "name": "Naxi Rock Radio",
     "stream_urls": [
       "https://naxidigital-rock128ssl.streaming.rs:8182/;"
+    ],
+    "country": "rs",
+    "languages": [
+      "srp"
+    ]
+  },
+  {
+    "nanoid": "TmozLjJpPbZTRp",
+    "name": "Naš Radio",
+    "stream_urls": [
+      "https://radio.dukahosting.com:7043/;"
     ],
     "country": "rs",
     "languages": [
@@ -992,6 +992,17 @@
     "name": "Radio Luna",
     "stream_urls": [
       "https://eu10.fastcast4u.com:6110/stream/7/"
+    ],
+    "country": "rs",
+    "languages": [
+      "srp"
+    ]
+  },
+  {
+    "nanoid": "1dBpqJWp5slZrF",
+    "name": "Radio Maestro",
+    "stream_urls": [
+      "https://radio-maestro.com:8443/stream.mp3"
     ],
     "country": "rs",
     "languages": [

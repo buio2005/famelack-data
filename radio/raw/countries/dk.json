@@ -354,7 +354,6 @@
     "nanoid": "OOdS39SObxFDYS",
     "name": "PartyFM",
     "stream_urls": [
-      "https://stream1.partyfm.dk/Party320",
       "https://stream.partyfm.dk/Party320/"
     ],
     "country": "dk",
@@ -598,7 +597,8 @@
     "nanoid": "hd55XnaGq9pLEy",
     "name": "Radio Limfjord",
     "stream_urls": [
-      "https://media.limfjordnetradio.dk/limfjord128"
+      "https://media.limfjordnetradio.dk/limfjord128",
+      "https://media.limfjordnetradio.dk/limfjordaac"
     ],
     "country": "dk",
     "languages": [
@@ -862,6 +862,7 @@
     "nanoid": "aflZnU1NjaxacI",
     "name": "Vinyl Hits",
     "stream_urls": [
+      "https://stream.vinylhits.dk/vinylaac",
       "https://stream.vinylhits.dk/vinylmp3"
     ],
     "country": "dk",

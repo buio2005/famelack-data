@@ -68,6 +68,20 @@
     ]
   },
   {
+    "nanoid": "ytGuCfmxN1MQPK",
+    "name": "88.6 OnAir",
+    "stream_urls": [
+      "https://edge82.streamonkey.net/radio886-onair/stream/mp3",
+      "https://radio886.at/streams/radio_88.6/mp3",
+      "https://edge07.streamonkey.net/radio886-onair/stream/mp3",
+      "https://frontend.streamonkey.net/radio886-onair/stream/mp3"
+    ],
+    "country": "at",
+    "languages": [
+      "deu"
+    ]
+  },
+  {
     "nanoid": "tKsiEeqPeY80tl",
     "name": "88.6 Rot Weiss Rock",
     "stream_urls": [
@@ -156,6 +170,17 @@
     ]
   },
   {
+    "nanoid": "wYRb7uWobvuia9",
+    "name": "Antenne Vorarlberg",
+    "stream_urls": [
+      "https://web.radio.antennevorarlberg.at/av-live"
+    ],
+    "country": "at",
+    "languages": [
+      "deu"
+    ]
+  },
+  {
     "nanoid": "ToIqltCzm8cAxG",
     "name": "Antenne Vorarlberg 2000er Hits",
     "stream_urls": [
@@ -189,6 +214,76 @@
     ]
   },
   {
+    "nanoid": "B7pUmRMXc8m29q",
+    "name": "Antenne Vorarlberg 80er Hits",
+    "stream_urls": [
+      "https://web.radio.antennevorarlberg.at/av-80er",
+      "https://edge63.radio.antennevorarlberg.at/av-live"
+    ],
+    "country": "at",
+    "languages": [
+      "deu",
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "pyvq24pM2T6Qv5",
+    "name": "Antenne Vorarlberg 90er Hits",
+    "stream_urls": [
+      "https://web.radio.antennevorarlberg.at/av-90er"
+    ],
+    "country": "at",
+    "languages": [
+      "deu"
+    ]
+  },
+  {
+    "nanoid": "DmX6gm2yTmZ09U",
+    "name": "Antenne Vorarlberg Chillout Lounge",
+    "stream_urls": [
+      "https://web.radio.antennevorarlberg.at/av-chillout",
+      "https://web.radio.antennevorarlberg.at/av-chillout/stream/mp3"
+    ],
+    "country": "at",
+    "languages": [
+      "deu"
+    ]
+  },
+  {
+    "nanoid": "QLSvyOks8uctI3",
+    "name": "Antenne Vorarlberg Christkindl Radio",
+    "stream_urls": [
+      "https://web.radio.antennevorarlberg.at/av-christkindl"
+    ],
+    "country": "at",
+    "languages": [
+      "deu"
+    ]
+  },
+  {
+    "nanoid": "i1m6PRzWWGFiTn",
+    "name": "Antenne Vorarlberg Classic Rock",
+    "stream_urls": [
+      "https://web.radio.antennevorarlberg.at/av-classicrock/stream/mp3"
+    ],
+    "country": "at",
+    "languages": [
+      "deu"
+    ]
+  },
+  {
+    "nanoid": "JVoPy2I4UDaygy",
+    "name": "Antenne Vorarlberg Coffee Hits",
+    "stream_urls": [
+      "https://web.radio.antennevorarlberg.at/av-coffee",
+      "https://web.radio.antennevorarlberg.at/av-coffee/stream/mp3"
+    ],
+    "country": "at",
+    "languages": [
+      "deu"
+    ]
+  },
+  {
     "nanoid": "hk2VqkvX3gS2Qz",
     "name": "Antenne Vorarlberg Dance Radio",
     "stream_urls": [
@@ -197,6 +292,28 @@
     "country": "at",
     "languages": [
       "deu"
+    ]
+  },
+  {
+    "nanoid": "YMeqrpPkvUbyIP",
+    "name": "Antenne Vorarlberg Lovesongs",
+    "stream_urls": [
+      "https://web.radio.antennevorarlberg.at/av-lovesongs/stream/mp3"
+    ],
+    "country": "at",
+    "languages": [
+      "deu"
+    ]
+  },
+  {
+    "nanoid": "tHMjgydlfgKxwA",
+    "name": "Antenne Vorarlberg Musica Italiana",
+    "stream_urls": [
+      "https://web.radio.antennevorarlberg.at/av-italiana"
+    ],
+    "country": "at",
+    "languages": [
+      "ita"
     ]
   },
   {
@@ -222,6 +339,18 @@
     ]
   },
   {
+    "nanoid": "43bhf2GJ17fUDK",
+    "name": "Antenne Vorarlberg Partymix",
+    "stream_urls": [
+      "https://web.radio.antennevorarlberg.at/av-partymix"
+    ],
+    "country": "at",
+    "languages": [
+      "deu",
+      "eng"
+    ]
+  },
+  {
     "nanoid": "wTDcf5s8RoFwfe",
     "name": "Antenne Vorarlberg Rock Radio",
     "stream_urls": [
@@ -237,6 +366,17 @@
     "name": "Antenne Vorarlberg Schlagerkult",
     "stream_urls": [
       "https://web.radio.antennevorarlberg.at/av-schlagerkult"
+    ],
+    "country": "at",
+    "languages": [
+      "deu"
+    ]
+  },
+  {
+    "nanoid": "9NpQqyOw7TzBMO",
+    "name": "Antenne Vorarlberg Top 40 Hits",
+    "stream_urls": [
+      "https://web.radio.antennevorarlberg.at/av-top40"
     ],
     "country": "at",
     "languages": [
@@ -379,7 +519,8 @@
     "nanoid": "zxaaD8Y4npYwYX",
     "name": "CITY23",
     "stream_urls": [
-      "https://live.radiomax.technology/city23"
+      "https://live.radiomax.technology/city23",
+      "https://edge61.stream.maxfive.com/max5-city23"
     ],
     "country": "at",
     "languages": [
@@ -590,6 +731,17 @@
     "country": "at",
     "languages": [
       "tur"
+    ]
+  },
+  {
+    "nanoid": "AIHbhLfLcZe0yB",
+    "name": "jö.live",
+    "stream_urls": [
+      "https://live.stream.maxfive.com/max5-joelive"
+    ],
+    "country": "at",
+    "languages": [
+      "deu"
     ]
   },
   {
@@ -835,17 +987,6 @@
     "name": "Mountain Reggae Radio",
     "stream_urls": [
       "https://mountainreggaeradio.stream.laut.fm/mountainreggaeradio"
-    ],
-    "country": "at",
-    "languages": [
-      "deu"
-    ]
-  },
-  {
-    "nanoid": "4tq4emKVzDalXq",
-    "name": "NJOY Radio 88.2 FM",
-    "stream_urls": [
-      "https://live.njoyradio.at/njoy"
     ],
     "country": "at",
     "languages": [
@@ -1391,6 +1532,17 @@
     ]
   },
   {
+    "nanoid": "2J1y1xOr9Q4Rbs",
+    "name": "Radio Rudina",
+    "stream_urls": [
+      "https://azuracast.datea.services:8000/radio.mp3"
+    ],
+    "country": "at",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
     "nanoid": "XWIorZUdlN2au2",
     "name": "Radio Salzburg",
     "stream_urls": [
@@ -1550,17 +1702,6 @@
     "name": "Red Bull TV",
     "stream_urls": [
       "https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8"
-    ],
-    "country": "at",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
-    "nanoid": "Uw3BgIqJpzXvKg",
-    "name": "RePlayScape",
-    "stream_urls": [
-      "https://radio.replayscape.com:8443/128k.mp3"
     ],
     "country": "at",
     "languages": [

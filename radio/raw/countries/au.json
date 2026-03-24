@@ -115,18 +115,6 @@
     ]
   },
   {
-    "nanoid": "5fw0F7AyZ9SxdE",
-    "name": "1WAY FM",
-    "stream_urls": [
-      "https://playerservices.streamtheworld.com/api/livestream-redirect/1WAYAAC.aac",
-      "https://playerservices.streamtheworld.com/api/livestream-redirect/1WAY.mp3"
-    ],
-    "country": "au",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
     "nanoid": "XoQj4ISoWX9t4b",
     "name": "2 Oceans FM",
     "stream_urls": [
@@ -144,6 +132,18 @@
       "https://playerservices.streamtheworld.com/api/livestream-redirect/2BBBAAC.aac",
       "https://playerservices.streamtheworld.com/api/livestream-redirect/2BBB.mp3",
       "https://23203.live.streamtheworld.com/2BBBAAC.aac"
+    ],
+    "country": "au",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "NVMDxXfGvR9f31",
+    "name": "2AIR FM",
+    "stream_urls": [
+      "https://s10.myradiostream.com:10122/;&type=mp3",
+      "https://s10.myradiostream.com:10122/;"
     ],
     "country": "au",
     "languages": [
@@ -446,20 +446,6 @@
     "stream_urls": [
       "https://radio12.shoutcast.net.au:2020/stream/8000",
       "https://radio12.shoutcast.net.au:8000/stream"
-    ],
-    "country": "au",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
-    "nanoid": "9iv8yGZlSRhcMX",
-    "name": "2ST",
-    "stream_urls": [
-      "https://playerservices.streamtheworld.com/api/livestream-redirect/NOW_2STAAC.aac",
-      "https://playerservices.streamtheworld.com/api/livestream-redirect/NOW_2ST.mp3",
-      "https://playerservices.streamtheworld.com/api/livestream-redirect/BOW_2STAAC.aac",
-      "https://playerservices.streamtheworld.com/api/livestream-redirect/BOW_2ST.mp3"
     ],
     "country": "au",
     "languages": [
@@ -1003,7 +989,6 @@
     "nanoid": "wswgt8N8G4vI13",
     "name": "88.9 FM Tamworth",
     "stream_urls": [
-      "https://stream.889fmtamworth.com.au:8443/stream",
       "https://stream.889fmtamworth.com.au/stream"
     ],
     "country": "au",
@@ -1542,7 +1527,6 @@
     "nanoid": "hUPP1aKqoN44H3",
     "name": "ABC Pilbara",
     "stream_urls": [
-      "https://live-radio02.mediahubaustralia.com/6KARW/mp3/;/",
       "https://live-radio02.mediahubaustralia.com/6KARW/mp3/;"
     ],
     "country": "au",
@@ -1700,6 +1684,17 @@
     ]
   },
   {
+    "nanoid": "ONetIhPEhBUjjp",
+    "name": "AC/DC Radio",
+    "stream_urls": [
+      "https://stream.pcradio.ru/ac_dc-hi"
+    ],
+    "country": "au",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
     "nanoid": "UbHXBAlp364ODG",
     "name": "ACBC Action",
     "stream_urls": [
@@ -1715,6 +1710,17 @@
     "name": "ACBC Australia",
     "stream_urls": [
       "https://stream.zeno.fm/sn6k2nbct1wvv"
+    ],
+    "country": "au",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "5gwpzavf12zM06",
+    "name": "ACBC Classic",
+    "stream_urls": [
+      "https://stream.zeno.fm/omumxm9egmytv"
     ],
     "country": "au",
     "languages": [
@@ -1782,6 +1788,17 @@
     "name": "All Time Hits Radio Opera",
     "stream_urls": [
       "https://stream.zeno.fm/xgplc0peqbktv"
+    ],
+    "country": "au",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "DQkTmqpXF9ERcl",
+    "name": "All Time Hits Radio Worship",
+    "stream_urls": [
+      "https://stream.zeno.fm/7wt0pvuphs8uv"
     ],
     "country": "au",
     "languages": [
@@ -1926,18 +1943,6 @@
     "name": "Bar Sessions",
     "stream_urls": [
       "https://stream.zeno.fm/47080zndvbruv"
-    ],
-    "country": "au",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
-    "nanoid": "ua0D38qFLHTCiu",
-    "name": "bay 93.9",
-    "stream_urls": [
-      "https://playerservices.streamtheworld.com/api/livestream-redirect/GEE_BAY939AAC.aac",
-      "https://playerservices.streamtheworld.com/api/livestream-redirect/GEE_BAY939.mp3"
     ],
     "country": "au",
     "languages": [
@@ -2129,22 +2134,10 @@
     ]
   },
   {
-    "nanoid": "cFbchtcWsr7mLE",
-    "name": "Casey Radio 97.7 FM",
+    "nanoid": "clS1jE38sFoFA5",
+    "name": "Ch89 Global Radio",
     "stream_urls": [
-      "https://s3.radio.co/s8f8288fe9/low"
-    ],
-    "country": "au",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
-    "nanoid": "yQitsONBonovnF",
-    "name": "Central Coast Radio",
-    "stream_urls": [
-      "https://s4.radio.co/scf2280c01/low",
-      "https://s4.radio.co/scf2280c01/listen"
+      "https://stream.zeno.fm/nrze4c2x298uv"
     ],
     "country": "au",
     "languages": [
@@ -2168,20 +2161,6 @@
     "name": "Cherbourg Radio",
     "stream_urls": [
       "https://s8.yesstreaming.net:17114/stream"
-    ],
-    "country": "au",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
-    "nanoid": "hF7uP4pEHcAaKb",
-    "name": "Chilli FM",
-    "stream_urls": [
-      "https://playerservices.streamtheworld.com/api/livestream-redirect/LAU_CHILLI.mp3",
-      "https://playerservices.streamtheworld.com/api/livestream-redirect/LAU_CHILLIAAC.aac",
-      "https://playerservices.streamtheworld.com/api/livestream-redirect/SCO_CHILLIAAC.aac",
-      "https://playerservices.streamtheworld.com/api/livestream-redirect/SCO_CHILLI.mp3"
     ],
     "country": "au",
     "languages": [
@@ -2296,28 +2275,6 @@
     "stream_urls": [
       "https://playerservices.streamtheworld.com/api/livestream-redirect/2CCCAAC.aac",
       "https://playerservices.streamtheworld.com/api/livestream-redirect/2CCC.mp3"
-    ],
-    "country": "au",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
-    "nanoid": "DRGXEhvv9WTssF",
-    "name": "Coles Radio",
-    "stream_urls": [
-      "https://playerservices.streamtheworld.com/api/livestream-redirect/COLES_CONSUMER_NSW_ACTAAC.aac",
-      "https://playerservices.streamtheworld.com/api/livestream-redirect/COLES_CONSUMER_NSW_ACT.mp3",
-      "https://playerservices.streamtheworld.com/api/livestream-redirect/COLES_CONSUMER_QLDAAC.aac",
-      "https://playerservices.streamtheworld.com/api/livestream-redirect/COLES_CONSUMER_QLD.mp3",
-      "https://playerservices.streamtheworld.com/api/livestream-redirect/COLES_CONSUMER_SA_NTAAC.aac",
-      "https://playerservices.streamtheworld.com/api/livestream-redirect/COLES_CONSUMER_SA_NT.mp3",
-      "https://playerservices.streamtheworld.com/api/livestream-redirect/COLES_CONSUMER_TASAAC.aac",
-      "https://playerservices.streamtheworld.com/api/livestream-redirect/COLES_CONSUMER_TAS.mp3",
-      "https://playerservices.streamtheworld.com/api/livestream-redirect/COLES_CONSUMER_VICAAC.aac",
-      "https://playerservices.streamtheworld.com/api/livestream-redirect/COLES_CONSUMER_VIC.mp3",
-      "https://playerservices.streamtheworld.com/api/livestream-redirect/COLES_CONSUMER_WAAAC.aac",
-      "https://playerservices.streamtheworld.com/api/livestream-redirect/COLES_CONSUMER_WA.mp3"
     ],
     "country": "au",
     "languages": [
@@ -2540,6 +2497,17 @@
     ]
   },
   {
+    "nanoid": "aVMLURSX1xxn15",
+    "name": "Five Finger Death Punch",
+    "stream_urls": [
+      "https://stream.pcradio.ru/five_finger_death_punch-hi"
+    ],
+    "country": "au",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
     "nanoid": "hJ3hg5i2C5tjJd",
     "name": "FIVEAA",
     "stream_urls": [
@@ -2602,7 +2570,6 @@
     "nanoid": "e3jDFeEqzlBYG5",
     "name": "Fresh 92.7",
     "stream_urls": [
-      "https://live.fresh927.com.au/freshaac",
       "https://live.fresh927.com.au/freshmp3"
     ],
     "country": "au",
@@ -2865,6 +2832,17 @@
     ]
   },
   {
+    "nanoid": "D4cPqo3CrnyZyQ",
+    "name": "Grip Radio",
+    "stream_urls": [
+      "https://stream.zeno.fm/tdbb2z39368uv"
+    ],
+    "country": "au",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
     "nanoid": "JZ5ULQYIeGmab1",
     "name": "Gulf FM 89.3",
     "stream_urls": [
@@ -2882,6 +2860,17 @@
     "stream_urls": [
       "https://stream.sigile.net/happyfm-128-mp3",
       "https://stream02.sigile.net/happyfm-128-mp3"
+    ],
+    "country": "au",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "HvjUkxwDqzi7Wz",
+    "name": "Harry On Country Radio",
+    "stream_urls": [
+      "https://stream.zeno.fm/9xtwxx5ugs8uv"
     ],
     "country": "au",
     "languages": [
@@ -2970,7 +2959,8 @@
     "nanoid": "ycmRKqsztOsqYo",
     "name": "Highway 61 Internet Radio",
     "stream_urls": [
-      "https://usa19.fastcast4u.com:4610/;"
+      "https://usa19.fastcast4u.com:4610/;",
+      "https://stream.zeno.fm/qvikbhhla39uv"
     ],
     "country": "au",
     "languages": [
@@ -3039,18 +3029,6 @@
     "stream_urls": [
       "https://playerservices.streamtheworld.com/api/livestream-redirect/DAR_HOT100.mp3",
       "https://playerservices.streamtheworld.com/api/livestream-redirect/DAR_HOT100AAC.aac"
-    ],
-    "country": "au",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
-    "nanoid": "WKIpjugK8MQRoq",
-    "name": "Hot 91.1",
-    "stream_urls": [
-      "https://playerservices.streamtheworld.com/api/livestream-redirect/MAR_HOT91AAC.aac",
-      "https://playerservices.streamtheworld.com/api/livestream-redirect/MAR_HOT91.mp3"
     ],
     "country": "au",
     "languages": [
@@ -3284,17 +3262,6 @@
     ]
   },
   {
-    "nanoid": "I6EeLDIXnS3Swn",
-    "name": "Kool FM 98.3",
-    "stream_urls": [
-      "https://ice.cr6.streamzilla.xlcdn.com:8000/sz=RTV_Hattem=RadioHattem"
-    ],
-    "country": "au",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
     "nanoid": "zCRjZmS5bJS3Hi",
     "name": "Koori Radio 93.7",
     "stream_urls": [
@@ -3369,17 +3336,6 @@
     "name": "Life FM Bathurst",
     "stream_urls": [
       "https://stream2.cnmns.net/lifefmbathurst"
-    ],
-    "country": "au",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
-    "nanoid": "2FkKt95ri1oZae",
-    "name": "Liquid Radio Sunshine Coast",
-    "stream_urls": [
-      "https://cast4.my-control-panel.com/proxy/liquidsunnycoast/stream"
     ],
     "country": "au",
     "languages": [
@@ -3513,6 +3469,17 @@
     ]
   },
   {
+    "nanoid": "mOJBy0IjIs9oTA",
+    "name": "MTM FM 91.9",
+    "stream_urls": [
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/2MTMAAC.aac"
+    ],
+    "country": "au",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
     "nanoid": "jdHPOpwLcoyro3",
     "name": "Music Down Under Radio",
     "stream_urls": [
@@ -3561,6 +3528,17 @@
     "name": "Nextlevel DJs Radio",
     "stream_urls": [
       "https://stream.zeno.fm/gkrli4n9lzyuv"
+    ],
+    "country": "au",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "X0sHmh2yBzOlYK",
+    "name": "Niche Radio Network",
+    "stream_urls": [
+      "https://nicherad.radioca.st/stream2"
     ],
     "country": "au",
     "languages": [
@@ -3651,8 +3629,6 @@
     "nanoid": "0nVKe92lsAk91k",
     "name": "Nova 100",
     "stream_urls": [
-      "https://playerservices.streamtheworld.com/api/livestream-redirect/NOVA_100_AAC128.aac",
-      "https://playerservices.streamtheworld.com/api/livestream-redirect/NOVA_100_AAC320.aac",
       "https://playerservices.streamtheworld.com/api/livestream-redirect/NOVA_100.mp3",
       "https://playerservices.streamtheworld.com/api/livestream-redirect/NOVA_100_AAC48.aac"
     ],
@@ -3684,20 +3660,6 @@
       "https://playerservices.streamtheworld.com/api/livestream-redirect/NOVA_919_AAC128.aac",
       "https://playerservices.streamtheworld.com/api/livestream-redirect/NOVA_919_AAC320.aac",
       "https://playerservices.streamtheworld.com/api/livestream-redirect/NOVA_919.mp3"
-    ],
-    "country": "au",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
-    "nanoid": "GyyY6hrBWfjy5c",
-    "name": "Nova 93.7",
-    "stream_urls": [
-      "https://playerservices.streamtheworld.com/api/livestream-redirect/NOVA_937_AAC48.aac",
-      "https://playerservices.streamtheworld.com/api/livestream-redirect/NOVA_937_AAC128.aac",
-      "https://playerservices.streamtheworld.com/api/livestream-redirect/NOVA_937_AAC320.aac",
-      "https://playerservices.streamtheworld.com/api/livestream-redirect/NOVA_937.mp3"
     ],
     "country": "au",
     "languages": [
@@ -3856,7 +3818,6 @@
     "nanoid": "BfWSey7qLrPzqg",
     "name": "Paradise FM 101.9",
     "stream_urls": [
-      "https://stream2.cnmns.net/paradisefm",
       "https://stream2.cnmns.net/paradisefm-mp3"
     ],
     "country": "au",
@@ -4059,6 +4020,21 @@
     ],
     "country": "au",
     "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "ohsbbNCZopLnEp",
+    "name": "Radio 2TripleO",
+    "stream_urls": [
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/2OOOAAC.aac",
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/2OOO.mp3"
+    ],
+    "country": "au",
+    "languages": [
+      "ara",
+      "hye",
+      "sqi",
       "eng"
     ]
   },
@@ -4374,6 +4350,17 @@
     ]
   },
   {
+    "nanoid": "CWiWcnIrzW7kc4",
+    "name": "Rete Italia",
+    "stream_urls": [
+      "https://nicherad.radioca.st/stream"
+    ],
+    "country": "au",
+    "languages": [
+      "ita"
+    ]
+  },
+  {
     "nanoid": "wq8pxgkkSb7oZk",
     "name": "Retro FM",
     "stream_urls": [
@@ -4555,6 +4542,17 @@
     ]
   },
   {
+    "nanoid": "qJSYQXtBbNg8vr",
+    "name": "RUSTRALIA Radio",
+    "stream_urls": [
+      "https://stream.zeno.fm/wure6q3q008uv"
+    ],
+    "country": "au",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
     "nanoid": "EPU3o3JgOoF1VS",
     "name": "Rythmos Radio",
     "stream_urls": [
@@ -4592,17 +4590,6 @@
     "name": "Satin Jazz",
     "stream_urls": [
       "https://quincy.torontocast.com:2725/stream"
-    ],
-    "country": "au",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
-    "nanoid": "JyUaiPXXujZkfX",
-    "name": "Savage Hits",
-    "stream_urls": [
-      "https://stream.zeno.fm/h2yqc7dn1uhvv"
     ],
     "country": "au",
     "languages": [
@@ -4689,6 +4676,17 @@
     "name": "Shack Radio",
     "stream_urls": [
       "https://usa19.fastcast4u.com/theshack"
+    ],
+    "country": "au",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "agTSRQxJi2GvPu",
+    "name": "Sky FM",
+    "stream_urls": [
+      "https://stream.zeno.fm/7tswe28kxrhvv"
     ],
     "country": "au",
     "languages": [
@@ -4961,20 +4959,6 @@
     "stream_urls": [
       "https://playerservices.streamtheworld.com/api/livestream-redirect/CAI_STAR1027AAC.aac",
       "https://playerservices.streamtheworld.com/api/livestream-redirect/CAI_STAR1027.mp3"
-    ],
-    "country": "au",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
-    "nanoid": "B3wVQiqygfYvRd",
-    "name": "Star 104.5",
-    "stream_urls": [
-      "https://playerservices.streamtheworld.com/api/livestream-redirect/STARFM_AAC48.aac",
-      "https://playerservices.streamtheworld.com/api/livestream-redirect/STARFM_AAC128.aac",
-      "https://playerservices.streamtheworld.com/api/livestream-redirect/STARFM_AAC320.aac",
-      "https://playerservices.streamtheworld.com/api/livestream-redirect/STARFM.mp3"
     ],
     "country": "au",
     "languages": [
@@ -5368,6 +5352,18 @@
     "name": "Totally Radio 90s",
     "stream_urls": [
       "https://playerservices.streamtheworld.com/api/livestream-redirect/T_RAD_90S_S01.mp3"
+    ],
+    "country": "au",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "J14igGbpqyn2DP",
+    "name": "Totally Radio Country",
+    "stream_urls": [
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/T_RAD_COUNTRY_S01AAC.aac",
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/T_RAD_COUNTRY_S01.mp3"
     ],
     "country": "au",
     "languages": [

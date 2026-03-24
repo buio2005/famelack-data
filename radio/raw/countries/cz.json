@@ -272,7 +272,8 @@
     "nanoid": "IJAGOUeFV1RXaB",
     "name": "Frekvence 1",
     "stream_urls": [
-      "https://playerservices.streamtheworld.com/api/livestream-redirect/FREKVENCE1.mp3"
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/FREKVENCE1.mp3",
+      "https://ice.actve.net/fm-frekvence1-aac"
     ],
     "country": "cz",
     "languages": [
@@ -637,28 +638,6 @@
     ]
   },
   {
-    "nanoid": "Y6Uae4W0EjUdp4",
-    "name": "Radia.cz - Relax Fire",
-    "stream_urls": [
-      "https://ice2.radia.cz/relax-fire64.aac"
-    ],
-    "country": "cz",
-    "languages": [
-      "ces"
-    ]
-  },
-  {
-    "nanoid": "OjgPfMRa5LneOM",
-    "name": "Radia.cz - Relax Sea",
-    "stream_urls": [
-      "https://ice2.radia.cz/relax-sea64.aac"
-    ],
-    "country": "cz",
-    "languages": [
-      "ces"
-    ]
-  },
-  {
     "nanoid": "1WjIwhLrtxl5oK",
     "name": "Radia.cz - Relax Train",
     "stream_urls": [
@@ -796,6 +775,30 @@
     ]
   },
   {
+    "nanoid": "NpKnYf6l8RCovL",
+    "name": "Radio Farda",
+    "stream_urls": [
+      "https://stream.radiojar.com/cp13r2cpn3quv",
+      "https://n01.radiojar.com/cp13r2cpn3quv",
+      "https://rfe21.akacast.akamaistream.net/7/751/437779/v1/ibb.akacast.akamaistream.net/rfe21"
+    ],
+    "country": "cz",
+    "languages": [
+      "fas"
+    ]
+  },
+  {
+    "nanoid": "DDlCEO0SwcRteg",
+    "name": "Radio Free Europe/Radio Liberty",
+    "stream_urls": [
+      "https://n05.radiojar.com/wm9sntcpn3quv"
+    ],
+    "country": "cz",
+    "languages": [
+      "rus"
+    ]
+  },
+  {
     "nanoid": "7n2ZMGemw0jVoy",
     "name": "Radio Haná",
     "stream_urls": [
@@ -890,7 +893,9 @@
     "nanoid": "ulHbdzmz1raY72",
     "name": "Radio Prague International",
     "stream_urls": [
-      "https://rozhlas.stream/radio_prague_int_high.aac"
+      "https://rozhlas.stream/cro7_mp3_128.mp3",
+      "https://rozhlas.stream/radio_prague_int_high.aac",
+      "https://icecast2.play.cz/cro7-128.mp3"
     ],
     "country": "cz",
     "languages": [
@@ -1142,7 +1147,8 @@
     "nanoid": "d0fbBj3x6u3ZUk",
     "name": "Rádio Jih",
     "stream_urls": [
-      "https://icecast6.play.cz/jih32.mp3"
+      "https://icecast6.play.cz/jih32.mp3",
+      "https://icecast6.play.cz/jih128.mp3"
     ],
     "country": "cz",
     "languages": [
@@ -1198,6 +1204,17 @@
     "name": "Rádio Nostalgie",
     "stream_urls": [
       "https://icecast3.play.cz/radio-nostalgie128.mp3"
+    ],
+    "country": "cz",
+    "languages": [
+      "ces"
+    ]
+  },
+  {
+    "nanoid": "8lEvkQcf3oS0rB",
+    "name": "Rádio O 106",
+    "stream_urls": [
+      "https://www.radioking.com/play/o106"
     ],
     "country": "cz",
     "languages": [
@@ -1690,6 +1707,17 @@
     "country": "cz",
     "languages": [
       "tgk"
+    ]
+  },
+  {
+    "nanoid": "0uYniFneizDwYZ",
+    "name": "Радыё Свабода",
+    "stream_urls": [
+      "https://n0b.radiojar.com/zv9u3eapn3quv"
+    ],
+    "country": "cz",
+    "languages": [
+      "bel"
     ]
   },
   {

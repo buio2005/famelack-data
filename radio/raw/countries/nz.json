@@ -24,17 +24,6 @@
     ]
   },
   {
-    "nanoid": "LGBuIki4AplPDn",
-    "name": "Akaroa World Radio",
-    "stream_urls": [
-      "https://n07.radiojar.com/k0t12bsns1duv"
-    ],
-    "country": "nz",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
     "nanoid": "ayMHnH3EsxRPAa",
     "name": "Anthemz",
     "stream_urls": [
@@ -391,17 +380,6 @@
     ]
   },
   {
-    "nanoid": "T3z1rxtgUtfMmu",
-    "name": "New Zealand Net Radio",
-    "stream_urls": [
-      "https://radio.nznetradio.net.nz/stream3"
-    ],
-    "country": "nz",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
     "nanoid": "9aZ0SylzyKtDWi",
     "name": "Newstalk ZB",
     "stream_urls": [
@@ -429,17 +407,6 @@
     "name": "One Christian Radio",
     "stream_urls": [
       "https://radio.wanderingsheep.net:33001/onechristianradio"
-    ],
-    "country": "nz",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
-    "nanoid": "8RrE24eHV9zSVb",
-    "name": "Paekākāriki FM 88.2",
-    "stream_urls": [
-      "https://icecast.groundtruth.co.nz/paekakfm.aac"
     ],
     "country": "nz",
     "languages": [
@@ -638,6 +605,7 @@
     "name": "Radiowave NZ",
     "stream_urls": [
       "https://stream.radiowavenz.com/stream",
+      "https://stream.radiowavenz.com/stream-aac",
       "https://stream.radiowavenz.com/stream-aac-low"
     ],
     "country": "nz",

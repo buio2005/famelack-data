@@ -212,17 +212,6 @@
     ]
   },
   {
-    "nanoid": "Pvqvqj95V2KzZw",
-    "name": "Best Radio 94.7",
-    "stream_urls": [
-      "https://i2.streams.ovh:9470/stream"
-    ],
-    "country": "gr",
-    "languages": [
-      "ell"
-    ]
-  },
-  {
     "nanoid": "MHbiQDDMkkwvnd",
     "name": "Bikers Inner Circle Radio",
     "stream_urls": [
@@ -319,7 +308,8 @@
     "name": "BluesWave Radio",
     "stream_urls": [
       "https://blueswave.radio:8100/icyblues",
-      "https://blueswave.radio:8000/blueswave"
+      "https://blueswave.radio:8000/blueswave",
+      "https://blueswave.radio:8100/hifiblues"
     ],
     "country": "gr",
     "languages": [
@@ -591,6 +581,7 @@
     "nanoid": "CaH6zkqeux88Nq",
     "name": "FluxFM XJAZZ",
     "stream_urls": [
+      "https://fluxfm.streamabc.net/flx-xjazz-aacplus-64-9057824",
       "https://fluxfm.streamabc.net/flx-xjazz-mp3-128-9269412",
       "https://fluxfm.streamabc.net/flx-xjazz-mp3-320-9220663"
     ],
@@ -1046,19 +1037,6 @@
     ]
   },
   {
-    "nanoid": "DLF4dBJIIYaQoR",
-    "name": "Music City Roadhouse",
-    "stream_urls": [
-      "https://ais-edge09-live365-dal02.cdnstream.com/a73754",
-      "https://ais-edge37-live365-dal02.cdnstream.com/a73754",
-      "https://streaming.live365.com/a73754"
-    ],
-    "country": "us",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
     "nanoid": "2BnQJiENSDHEap",
     "name": "Music Corner",
     "stream_urls": [
@@ -1158,18 +1136,6 @@
     ]
   },
   {
-    "nanoid": "zUqndeUTGOq7l0",
-    "name": "OÜI FM Blues 'n' Rock",
-    "stream_urls": [
-      "https://ouifmbluesnrock.ice.infomaniak.ch/ouifmbluesnrock-64.aac",
-      "https://ouifmbluesnrock.ice.infomaniak.ch/ouifmbluesnrock-128.mp3"
-    ],
-    "country": "fr",
-    "languages": [
-      "fra"
-    ]
-  },
-  {
     "nanoid": "uDtbLoEPZ9FKmE",
     "name": "Pakito FM",
     "stream_urls": [
@@ -1225,6 +1191,17 @@
     ]
   },
   {
+    "nanoid": "24F2wP9EbspgXy",
+    "name": "Radio Art - Just Blues",
+    "stream_urls": [
+      "https://air.radioart.com/fJust_blues.mp3"
+    ],
+    "country": "gr",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
     "nanoid": "ytAPHch16DIn94",
     "name": "Radio Art: Acoustic Blues",
     "stream_urls": [
@@ -1261,7 +1238,10 @@
     "nanoid": "vftGcX0Qua3O2j",
     "name": "RADIO BOB! Blues",
     "stream_urls": [
-      "https://streams.radiobob.de/blues/aac-64/streams.radiobob.de/"
+      "https://streams.radiobob.de/blues/aac-64/streams.radiobob.de/",
+      "https://streams.radiobob.de/blues/mp3-192/streams.radiobob.de/",
+      "https://streams.radiobob.de/blues/mp3-192/homepage/",
+      "https://streams.radiobob.de/blues/mp3-192/mediaplayer/"
     ],
     "country": "de",
     "languages": [
@@ -1272,7 +1252,12 @@
     "nanoid": "KyPu6hlhwjqmOS",
     "name": "RADIO BOB! Classic Rock",
     "stream_urls": [
-      "https://streams.radiobob.de/bob-classicrock/mp3-192/mediaplayer"
+      "https://streams.radiobob.de/bob-classicrock/mp3-192/mediaplayer",
+      "https://streams.radiobob.de/bob-classicrock/mp3-192/homepage/",
+      "https://streams.radiobob.de/bob-classicrock/mp3-128/mediaplayer",
+      "https://regiocast.streamabc.net/regc-boblivenational-mp3-192-4076554",
+      "https://streams.radiobob.de/bob-classicrock/mp3-192/streams.radiobob.de/",
+      "https://streams.radiobob.de/bob-classicrock/aac-64/mediaplayer"
     ],
     "country": "de",
     "languages": [
@@ -1283,7 +1268,10 @@
     "nanoid": "eyx4ukQvwH3r1P",
     "name": "RADIO BOB! Southern Rock",
     "stream_urls": [
-      "https://streams.radiobob.de/southernrock/aac-64/streams.radiobob.de/"
+      "https://streams.radiobob.de/southernrock/aac-64/streams.radiobob.de/",
+      "https://streams.radiobob.de/southernrock/mp3-192/streams.radiobob.de/",
+      "https://streams.radiobob.de/southernrock/mp3-192/mediaplayer",
+      "https://streams.radiobob.de/southernrock/aac-64/mediaplayer"
     ],
     "country": "de",
     "languages": [
