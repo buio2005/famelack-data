@@ -2099,17 +2099,6 @@
     "stream_urls": [
       "https://stream-live.lrt.lt/klasika/master.m3u8"
     ],
-    "youtube_urls": [],
-    "languages": [
-      "lit"
-    ],
-    "country": "lt",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "Veop8pvVa0vvUG",
-    "name": "LRT Klasika",
-    "stream_urls": [],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/E0mVtbXPRHg"
     ],
@@ -2125,17 +2114,6 @@
     "stream_urls": [
       "https://stream-live.lrt.lt/opus/master.m3u8"
     ],
-    "youtube_urls": [],
-    "languages": [
-      "lit"
-    ],
-    "country": "lt",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "yZ7ERU8ZH3UUVk",
-    "name": "LRT Opus",
-    "stream_urls": [],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/EbHYDvg1siE"
     ],
@@ -2146,9 +2124,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "kjWQ6hUL6lnsQc",
+    "nanoid": "KOfOkbRRfb8Nzi",
     "name": "LRT Radijas",
-    "stream_urls": [],
+    "stream_urls": [
+      "https://stream-live.lrt.lt/radijas/master.m3u8"
+    ],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/izc0E-37OmY"
     ],
@@ -2709,23 +2689,13 @@
     "nanoid": "q12i3ceFFiOKdM",
     "name": "Now 70s",
     "stream_urls": [
-      "https://lightning-now70s-rakuten.amagi.tv/playlist.m3u8"
+      "https://lightning-now70s-rakuten.amagi.tv/playlist.m3u8",
+      "https://lightning-now70s-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-lightning-now70s-rakuten/CDN/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
       "eng"
     ],
-    "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "XZczg4azCqaOYB",
-    "name": "NOW 70s",
-    "stream_urls": [
-      "https://lightning-now70s-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-lightning-now70s-rakuten/CDN/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [],
     "country": "uk",
     "isGeoBlocked": false
   },
@@ -2734,23 +2704,13 @@
     "name": "Now 80s",
     "stream_urls": [
       "https://lightning-now80s-samsungnz.amagi.tv/playlist720p.m3u8",
-      "https://lightning-now80s-rakuten.amagi.tv/playlist.m3u8"
+      "https://lightning-now80s-rakuten.amagi.tv/playlist.m3u8",
+      "https://lightning-now80s-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-lightning-now80s-rakuten/CDN/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
       "eng"
     ],
-    "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "FScdOzHjKziX4k",
-    "name": "NOW 80s",
-    "stream_urls": [
-      "https://lightning-now80s-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-lightning-now80s-rakuten/CDN/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [],
     "country": "uk",
     "isGeoBlocked": false
   },

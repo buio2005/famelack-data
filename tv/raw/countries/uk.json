@@ -272,17 +272,6 @@
       "https://vs-hls-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_persian_tv/pc_hd_abr_v2.m3u8",
       "https://vs-hls-pushb-ww.live.cf.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:bbc_persian_tv/pc_hd_abr_v2.m3u8"
     ],
-    "youtube_urls": [],
-    "languages": [
-      "fas"
-    ],
-    "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "DUDayMC7MoDAoY",
-    "name": "BBC Persian",
-    "stream_urls": [],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/5qN1dRjatv8"
     ],
@@ -606,17 +595,6 @@
     "stream_urls": [
       "https://amg01076-lightning-amg01076c7-klowdtv-us-2128.playouts.now.amagi.tv/playlist/amg01076-lightning-gbnews-klowdtvus/playlist.m3u8"
     ],
-    "youtube_urls": [],
-    "languages": [
-      "eng"
-    ],
-    "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "0rldb1A8xe4EuF",
-    "name": "GB News",
-    "stream_urls": [],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/QliL4CGc7iY"
     ],
@@ -987,21 +965,11 @@
     "stream_urls": [
       "https://chlivemta1.akamaized.net/hls/live/2008145/mta2/playlist.m3u8"
     ],
-    "youtube_urls": [],
-    "languages": [
-      "hin"
-    ],
-    "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "s54Foa20IJMtoe",
-    "name": "MTA2 Europe",
-    "stream_urls": [],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/TEGnBvhnCj0"
     ],
     "languages": [
+      "hin",
       "eng"
     ],
     "country": "uk",
@@ -1052,21 +1020,11 @@
     "stream_urls": [
       "https://livemtaasia.akamaized.net/hls/live/2039224/mta6asia/playlist.m3u8"
     ],
-    "youtube_urls": [],
-    "languages": [
-      "urd"
-    ],
-    "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "ABvz5besjAbXTq",
-    "name": "MTA6 Asia",
-    "stream_urls": [],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/e2NELtEb_nI"
     ],
     "languages": [
+      "urd",
       "eng"
     ],
     "country": "uk",
@@ -1151,23 +1109,13 @@
     "nanoid": "q12i3ceFFiOKdM",
     "name": "Now 70s",
     "stream_urls": [
-      "https://lightning-now70s-rakuten.amagi.tv/playlist.m3u8"
+      "https://lightning-now70s-rakuten.amagi.tv/playlist.m3u8",
+      "https://lightning-now70s-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-lightning-now70s-rakuten/CDN/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
       "eng"
     ],
-    "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "XZczg4azCqaOYB",
-    "name": "NOW 70s",
-    "stream_urls": [
-      "https://lightning-now70s-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-lightning-now70s-rakuten/CDN/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [],
     "country": "uk",
     "isGeoBlocked": false
   },
@@ -1176,23 +1124,13 @@
     "name": "Now 80s",
     "stream_urls": [
       "https://lightning-now80s-samsungnz.amagi.tv/playlist720p.m3u8",
-      "https://lightning-now80s-rakuten.amagi.tv/playlist.m3u8"
+      "https://lightning-now80s-rakuten.amagi.tv/playlist.m3u8",
+      "https://lightning-now80s-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-lightning-now80s-rakuten/CDN/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
       "eng"
     ],
-    "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "FScdOzHjKziX4k",
-    "name": "NOW 80s",
-    "stream_urls": [
-      "https://lightning-now80s-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-lightning-now80s-rakuten/CDN/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [],
     "country": "uk",
     "isGeoBlocked": false
   },
@@ -1257,17 +1195,6 @@
     "stream_urls": [
       "https://qvcuk-live.akamaized.net/hls/live/2097112/qby/master.m3u8"
     ],
-    "youtube_urls": [],
-    "languages": [
-      "eng"
-    ],
-    "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "4CrGfF39Pz474f",
-    "name": "QVC UK Beauty",
-    "stream_urls": [],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/B-A-co6p2BI"
     ],
@@ -1283,17 +1210,6 @@
     "stream_urls": [
       "https://qvcuk-live.akamaized.net/hls/live/2097112/qex/master.m3u8"
     ],
-    "youtube_urls": [],
-    "languages": [
-      "eng"
-    ],
-    "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "KkVmn6JTwTt1Is",
-    "name": "QVC UK Extra",
-    "stream_urls": [],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/8m3sdzsPxXg"
     ],
@@ -1322,17 +1238,6 @@
     "stream_urls": [
       "https://qvcuk-live.akamaized.net/hls/live/2097112/qst/master.m3u8"
     ],
-    "youtube_urls": [],
-    "languages": [
-      "eng"
-    ],
-    "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "RsuhjAvGjU8afn",
-    "name": "QVC UK Style",
-    "stream_urls": [],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/HXjDtuel2Zw"
     ],

@@ -196,9 +196,12 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "eBQvdhBLUdsLwz",
+    "nanoid": "WsnjAbyAewcp2y",
     "name": "Canal Sur Andalucia",
-    "stream_urls": [],
+    "stream_urls": [
+      "https://dfk2a268yviz9.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ddiii1m6jt6of/CanalSurAndaluciaES.m3u8",
+      "https://live-24-canalsur.interactvty.pro/9bb0f4edcb8946e79f5017ddca6c02b0/26af5488cda642ed2eddd27a6328c93b9c03e9181b9d0a825147a7d978e69202.m3u8"
+    ],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/Jes7v5Mm0Jc"
     ],
@@ -333,17 +336,6 @@
       "https://mumt01.tangotv.in/DDBHARATI/index.m3u8",
       "https://d2lk5u59tns74c.cloudfront.net/out/v1/67cec794d8b14f9ba21f73924ac65797/index.m3u8"
     ],
-    "youtube_urls": [],
-    "languages": [
-      "hin"
-    ],
-    "country": "in",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "vFNCaAwRc0UY6z",
-    "name": "DD Bharati",
-    "stream_urls": [],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/wpb77nl38HA"
     ],
@@ -354,13 +346,17 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "ZtL7zxGFBmbkdi",
+    "nanoid": "3RFBxxtq5PlDQ7",
     "name": "DD Kashir",
-    "stream_urls": [],
+    "stream_urls": [
+      "https://mumt05.tangotv.in/DDKASHIR/index.m3u8",
+      "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/8a59a828e80c49d0958925950cec0204/index.m3u8"
+    ],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/v8ek4kVfr5Y"
     ],
     "languages": [
+      "hin",
       "ksm"
     ],
     "country": "in",
@@ -393,9 +389,12 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "5VAqVtAJLz9Qp2",
+    "nanoid": "FCckxA9xKjRmBd",
     "name": "DD Urdu",
-    "stream_urls": [],
+    "stream_urls": [
+      "https://cdn-4.pishow.tv/live/8/master.m3u8",
+      "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/9b91e9007e754db39a8b32c6bfc5b24a/index.m3u8"
+    ],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/i--xfotJs7w"
     ],

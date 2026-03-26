@@ -274,9 +274,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "yTSEQll9qAN1jX",
+    "nanoid": "jPCSXg0t7lpFfg",
     "name": "American Ninja Warrior",
-    "stream_urls": [],
+    "stream_urls": [
+      "https://xumo-drct-ch812-n4996.fast.nbcuni.com/live/master.m3u8"
+    ],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/xtF5UYHWVxg"
     ],
@@ -852,6 +854,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "y6DIrrNamySBRa",
+    "name": "Caracol Televisión",
+    "stream_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/5VRrqPX3rJo"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "country": "co",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "vJ6M72183wSuAL",
     "name": "Cartoon Network: Clarence",
     "stream_urls": [],
@@ -1013,9 +1028,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "zVr6SCeLUbdPtD",
+    "nanoid": "dE1MtHTFsxve60",
     "name": "CreaLaTV",
-    "stream_urls": [],
+    "stream_urls": [
+      "https://stream8.mexiserver.com:2000/hls/crealatv/crealatv.m3u8"
+    ],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/trlAbCevSi4"
     ],
@@ -1770,9 +1787,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "D5PP2Q2NQydzdv",
+    "nanoid": "KC4G0lUX4NOFzR",
     "name": "Hare Krsna TV",
-    "stream_urls": [],
+    "stream_urls": [
+      "https://mumt05.tangotv.in/HAREKRSNA/index.m3u8"
+    ],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/Y1SrWeVhQJ0"
     ],
@@ -2441,9 +2460,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "wZUahL1eP4rrw2",
+    "nanoid": "OGTxaWnBlezwNQ",
     "name": "LRT Lituanica",
-    "stream_urls": [],
+    "stream_urls": [
+      "https://stream-live.lrt.lt/lituanica/master.m3u8"
+    ],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/m67gYVnA100"
     ],
@@ -2732,7 +2753,7 @@
     "name": "MULTIMEDIOS",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/5r4wPMQdhnU"
+      "https://www.youtube-nocookie.com/embed/weLXdwVjSxs"
     ],
     "languages": [
       "spa"
@@ -3208,19 +3229,6 @@
       "eng"
     ],
     "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "qO9vRi6qWS9n0t",
-    "name": "Raquel Daruech TV",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/OH6c9J62aZw"
-    ],
-    "languages": [
-      "spa"
-    ],
-    "country": "uy",
     "isGeoBlocked": false
   },
   {
@@ -4355,6 +4363,19 @@
       "deu"
     ],
     "country": "de",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "3sCHCCSjqRabC1",
+    "name": "Willax Televisión",
+    "stream_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/X9qtTvoMZes"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "country": "pe",
     "isGeoBlocked": false
   },
   {
