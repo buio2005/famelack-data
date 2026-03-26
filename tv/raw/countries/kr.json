@@ -395,7 +395,7 @@
     "name": "JTBC News",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/iOUKDi-YY_o"
+      "https://www.youtube-nocookie.com/embed/omgFtX1Wruk"
     ],
     "languages": [
       "kor"
@@ -408,7 +408,7 @@
     "name": "KBS News",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/mL_ZArHw-5Y"
+      "https://www.youtube-nocookie.com/embed/iXpNM6mEa9w"
     ],
     "languages": [
       "kor"
@@ -560,6 +560,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "oNnWdV2miCH9OF",
+    "name": "NS Home Shopping",
+    "stream_urls": [
+      "https://livestream.nsmall.com/IPHONE/nsmallMobile.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "kor"
+    ],
+    "country": "kr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "8fjuljf7xVUPuM",
     "name": "NS Shop Plus",
     "stream_urls": [
@@ -603,7 +616,7 @@
     "name": "Pororo 뽀로로",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/mlntTQ--rnU"
+      "https://www.youtube-nocookie.com/embed/_-6mp470Qhg"
     ],
     "languages": [
       "kor"
@@ -629,8 +642,21 @@
     "name": "SBS",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/sR-zzsGaA34"
+      "https://www.youtube-nocookie.com/embed/EjLsZMnRHMw"
     ],
+    "languages": [
+      "kor"
+    ],
+    "country": "kr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "HOw52hxLJ6meLM",
+    "name": "SBS KBC",
+    "stream_urls": [
+      "https://vod.ikbc.co.kr/KBCTV/tv/playlist.m3u8"
+    ],
+    "youtube_urls": [],
     "languages": [
       "kor"
     ],

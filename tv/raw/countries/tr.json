@@ -198,9 +198,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "CpNNMuCGpglDQA",
+    "nanoid": "UBjqGDOceqJLt2",
     "name": "ATV",
-    "stream_urls": [],
+    "stream_urls": [
+      "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_360p.m3u8"
+    ],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/56g7DPSZjow"
     ],
@@ -672,6 +674,19 @@
     "name": "GEM Drama",
     "stream_urls": [
       "https://ca-rt.onetv.app/gemdrama/index-0.m3u8?token=onetv202"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "fas"
+    ],
+    "country": "tr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Z3Q6N01sHoYLWs",
+    "name": "GEM Drama Plus",
+    "stream_urls": [
+      "https://ca-rt.onetv.app/gemdramaplus/index-0.m3u8?token=onetv202"
     ],
     "youtube_urls": [],
     "languages": [
@@ -1586,6 +1601,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "73xSFKpT68qZuL",
+    "name": "Semerkand TV",
+    "stream_urls": [
+      "https://b01c02nl.mediatriple.net/videoonlylive/mtisvwurbfcyslive/broadcast_58d915bd40efc.smil/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "tur"
+    ],
+    "country": "tr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "dnDnH0o46ue2tm",
     "name": "SÖZCÜ Televizyonu",
     "stream_urls": [],
@@ -1683,7 +1711,7 @@
       "https://canli.tgrthaber.com/tgrt.m3u8"
     ],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/i3qzt2P79A4"
+      "https://www.youtube-nocookie.com/embed/0SAUIyvNA5s"
     ],
     "languages": [
       "tur"
@@ -1776,6 +1804,19 @@
     "name": "TRT Avaz",
     "stream_urls": [
       "https://tv-trtavaz.medya.trt.com.tr/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "tur"
+    ],
+    "country": "tr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "KUTGOu9eHmEeCI",
+    "name": "TRT Çocuk",
+    "stream_urls": [
+      "https://tv-trtcocuk.medya.trt.com.tr/master.m3u8"
     ],
     "youtube_urls": [],
     "languages": [

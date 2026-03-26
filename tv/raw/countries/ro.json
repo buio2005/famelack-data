@@ -65,6 +65,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "XZ0ppzFYNKAs79",
+    "name": "Angelus TV",
+    "stream_urls": [
+      "https://video.angelustv.ro/hls/angelustv.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "ron"
+    ],
+    "country": "ro",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "9UqseJeoJNwuVC",
     "name": "Antena Monden",
     "stream_urls": [
@@ -342,19 +355,6 @@
     "name": "Mooz Hits",
     "stream_urls": [
       "https://rtmp.digitalbroadcast.ro/moozhits/moozhits.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "ron"
-    ],
-    "country": "ro",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "2U91fowazsObgI",
-    "name": "Mooz Ro!",
-    "stream_urls": [
-      "https://rtmp.digitalbroadcast.ro/moozro/moozro.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
