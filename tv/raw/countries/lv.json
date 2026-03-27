@@ -1,18 +1,5 @@
 [
   {
-    "nanoid": "YQjVrcxLsl4KlI",
-    "name": "Pingvīns",
-    "stream_urls": [
-      "https://sirius.greenhosting.ru/PingvinRu/video.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "lav"
-    ],
-    "country": "lv",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "LHzrqD9sr7EPlw",
     "name": "Radio SWH TV",
     "stream_urls": [
@@ -69,6 +56,19 @@
     "name": "Vidusdaugavas Televīzija",
     "stream_urls": [
       "https://straume.vdtv.lv/vdtv2/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "lav"
+    ],
+    "country": "lv",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "MCj2Vyne0bnAk3",
+    "name": "Пингвин",
+    "stream_urls": [
+      "https://sirius.greenhosting.ru/PingvinRu/video.m3u8"
     ],
     "youtube_urls": [],
     "languages": [

@@ -17,7 +17,7 @@
     "name": "Asahi: Documentary",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/CLKscWPhKFc"
+      "https://www.youtube-nocookie.com/embed/LnXUGWoctzc"
     ],
     "languages": [
       "jpn"
@@ -236,9 +236,9 @@
     "name": "Dateline 24/7",
     "stream_urls": [
       "https://d4whmvwm0rdvi.cloudfront.net/10007/99993007/hls/master.m3u8?ads.xumo_channelId=99993007",
+      "https://dz59iptwz5rxs.cloudfront.net/live/master.m3u8",
       "https://pb-cpf6bqkmt2btj.akamaized.net/master.m3u8",
-      "https://aegis-cloudfront-1.tubi.video/240e3917-5be6-4a26-a1a2-878c9d40b5cf/master.m3u8",
-      "https://dz59iptwz5rxs.cloudfront.net/live/master.m3u8"
+      "https://aegis-cloudfront-1.tubi.video/240e3917-5be6-4a26-a1a2-878c9d40b5cf/master.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -357,8 +357,8 @@
     "name": "History TV18 HD",
     "stream_urls": [
       "https://amg01448-amg01448c16-samsung-in-3495.playouts.now.amagi.tv/playlist/amg01448-samsungindia-historychannelenglish-samsungin/playlist.m3u8",
-      "https://amg01448-amg01448c16-samsung-in-3495.playouts.now.amagi.tv/ts-ap-s1-n1/playlist/amg01448-samsungindia-historychannelhindi-samsungin/playlist.m3u8",
-      "https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/HistoryTV18HD.m3u8"
+      "https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/HistoryTV18HD.m3u8",
+      "https://amg01448-amg01448c16-samsung-in-3495.playouts.now.amagi.tv/ts-ap-s1-n1/playlist/amg01448-samsungindia-historychannelhindi-samsungin/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -498,19 +498,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "C9r0nQTewOjHW3",
-    "name": "RL PRO TV",
-    "stream_urls": [
-      "https://stream.berosat.live:19360/rlpro-tv/rlpro-tv.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "fra"
-    ],
-    "country": "cd",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "VMF9bz9jysLZtk",
     "name": "RT Documentary English",
     "stream_urls": [
@@ -596,9 +583,9 @@
     "stream_urls": [
       "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01290-wildearth-oando/playlist.m3u8",
       "https://wildearth-ono.amagi.tv/playlist/amg01290-wildearth-oando/playlist.m3u8",
+      "https://wildearth-xumo.amagi.tv/master.m3u8",
       "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01290-wildearthmediap-wildearth-samsungnl/playlist.m3u8",
-      "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01290-wildearthmediap-wildearth-samsungse/playlist.m3u8",
-      "https://wildearth-xumo.amagi.tv/master.m3u8"
+      "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01290-wildearthmediap-wildearth-samsungse/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -634,8 +621,8 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "oC136YQUk5tweB",
-    "name": "Наука",
+    "nanoid": "U1CYvPtiUwkGzD",
+    "name": "НАУКА",
     "stream_urls": [
       "https://vod.tuva.ru/nauka2/index.m3u8"
     ],

@@ -145,6 +145,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "qAN5sBGpkuc0D2",
+    "name": "CEACOM TV",
+    "stream_urls": [
+      "https://eu1.servers10.com:8081/ceacom/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "bo",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "cuxA3La6G9rkzp",
     "name": "CineLife",
     "stream_urls": [
@@ -220,19 +233,6 @@
       "eng"
     ],
     "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "wKjb76m31kcro9",
-    "name": "Food Food",
-    "stream_urls": [
-      "https://mumt03.tangotv.in/FOODFOOD/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "hin"
-    ],
-    "country": "in",
     "isGeoBlocked": false
   },
   {
@@ -595,19 +595,6 @@
     "name": "Открытый мир. Здоровье",
     "stream_urls": [
       "https://v4.proofix.ru/0mir/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "kmnCkTtdi4cLR8",
-    "name": "Сити Эдем МедЗдрав",
-    "stream_urls": [
-      "https://cityeden.catcast.tv/content/47519/index.m3u8"
     ],
     "youtube_urls": [],
     "languages": [

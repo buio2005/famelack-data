@@ -39,37 +39,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "1LD9fRGKwL67SK",
-    "name": "BestClasicosTV",
-    "stream_urls": [
-      "https://acceso.mediosdecostarica.com:3873/multi_live/play.m3u8",
-      "https://acceso.mediosdecostarica.com:3873/live/bestclasicostvlive.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
-    "country": "cr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "X0fe1ozGC5qVsh",
     "name": "Canal 1",
     "stream_urls": [
       "https://vid.canal1cr.com:3424/multi_live/play_720.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
-    "country": "cr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "9cN6rSKGfOi3ha",
-    "name": "Canal 3 KMK TV",
-    "stream_urls": [
-      "https://live20.bozztv.com/giatv/giatv-KMKTV/KMKTV/chunks.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -106,7 +79,7 @@
     "nanoid": "O4M3Z3Jo7F6qrX",
     "name": "Cartago Medios TV",
     "stream_urls": [
-      "https://acceso.mediosdecostarica.com:3511/live/cartagomediostvlive.m3u8"
+      "https://acceso.mediosdecostarica.com:3511/stream/play.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -207,19 +180,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "vPLx0tYa5CbY79",
-    "name": "Gex TV",
-    "stream_urls": [
-      "https://live20.bozztv.com/akamaissh101/ssh101/gextvaccess/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
-    "country": "cr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "2TkyCEIMqFLsTQ",
     "name": "IQ Channel",
     "stream_urls": [
@@ -289,19 +249,6 @@
     "name": "Retrox TV",
     "stream_urls": [
       "https://live20.bozztv.com/giatv/giatv-TVCHANNEL/TVCHANNEL/chunks.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
-    "country": "cr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "KWtXBE79zVCsGO",
-    "name": "San José TV",
-    "stream_urls": [
-      "https://rtmp.info/sanjosetv/envivo/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [

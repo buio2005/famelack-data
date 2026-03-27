@@ -1,31 +1,5 @@
 [
   {
-    "nanoid": "tGRgOGa9BjpssA",
-    "name": "Narodna TV",
-    "stream_urls": [
-      "https://edge8.pink.rs/narodnatv/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "srp"
-    ],
-    "country": "rs",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "fhxP6wIauoX6aK",
-    "name": "Pink",
-    "stream_urls": [
-      "https://edge8.pink.rs/pinktv/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "srp"
-    ],
-    "country": "rs",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "80i8NgFWX25XdT",
     "name": "Radio Hit FM TV",
     "stream_urls": [
@@ -95,6 +69,19 @@
     "name": "TDI Radio TV",
     "stream_urls": [
       "https://peer2.tdiradio.com/static/streaming-playlists/hls/8f5d84ce-e8ac-4109-9975-9665f5605557/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "srp"
+    ],
+    "country": "rs",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "QBnvi3VHR0xXL2",
+    "name": "TV Hram",
+    "stream_urls": [
+      "https://vod1.laki.eu/live/hram/index.m3u8"
     ],
     "youtube_urls": [],
     "languages": [

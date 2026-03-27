@@ -82,7 +82,7 @@
     "name": "Awaz Tv News",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/CJtM3aSeH6E"
+      "https://www.youtube-nocookie.com/embed/fy5i9231YEU"
     ],
     "languages": [
       "sd"
@@ -473,7 +473,7 @@
     "name": "KTN NEWS TV",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/UI6p4iE5ULc"
+      "https://www.youtube-nocookie.com/embed/lYPmyixYVWA"
     ],
     "languages": [
       "sd"
@@ -575,6 +575,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "qYVU4HXVDlQp2P",
+    "name": "PMI TV",
+    "stream_urls": [
+      "https://cdn.live247stream.com/pmi/tv/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "eng"
+    ],
+    "country": "pk",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "77LBTTq4JvQf4h",
     "name": "Praise TV",
     "stream_urls": [
@@ -615,9 +628,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "8DlMg3mAZWbimm",
-    "name": "SAMAA TV",
-    "stream_urls": [],
+    "nanoid": "HxH54ypKcC1Xvq",
+    "name": "Samaa TV",
+    "stream_urls": [
+      "https://vodzong.mjunoon.tv:8087/streamtest/SAMAA-173/playlist.m3u8"
+    ],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/Nh_qJClxWec"
     ],

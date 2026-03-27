@@ -104,19 +104,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "vFuB4amnCAnzu2",
-    "name": "Crafter's TV",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/bxqx1Lv9c-4"
-    ],
-    "languages": [
-      "eng"
-    ],
-    "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "bQZCnoP3gYxqdY",
     "name": "Cruise1st TV",
     "stream_urls": [],
@@ -328,8 +315,8 @@
     "nanoid": "fy2D24X7zteSs1",
     "name": "HSN",
     "stream_urls": [
-      "https://a-cdn.klowdtv.com/live2/hsn_720p/playlist.m3u8",
-      "https://qvc-amd-live.akamaized.net/hls/live/2034113/lshsn1us/master.m3u8"
+      "https://qvc-amd-live.akamaized.net/hls/live/2034113/lshsn1us/master.m3u8",
+      "https://a-cdn.klowdtv.com/live2/hsn_720p/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -615,19 +602,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "oNnWdV2miCH9OF",
-    "name": "NS Home Shopping",
-    "stream_urls": [
-      "https://livestream.nsmall.com/IPHONE/nsmallMobile.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "kor"
-    ],
-    "country": "kr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "8fjuljf7xVUPuM",
     "name": "NS Shop Plus",
     "stream_urls": [
@@ -664,6 +638,20 @@
       "deu"
     ],
     "country": "de",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "svRWnX3AgAscmw",
+    "name": "QVC",
+    "stream_urls": [
+      "https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc1us/master.m3u8",
+      "https://a-cdn.klowdtv.com/live2/qvclive_720p/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
     "isGeoBlocked": false
   },
   {
@@ -757,20 +745,6 @@
       "jpn"
     ],
     "country": "jp",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "xiDJ0cXBuJ0Rz3",
-    "name": "QVC Live",
-    "stream_urls": [
-      "https://a-cdn.klowdtv.com/live2/qvclive_720p/playlist.m3u8",
-      "https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc1us/master.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
     "isGeoBlocked": false
   },
   {
@@ -1102,9 +1076,7 @@
     "stream_urls": [
       "https://tvsnhlslivetest.akamaized.net/hls/live/2034711/TVSN-MSL4/master.m3u8"
     ],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/ysq4OP9BZgU"
-    ],
+    "youtube_urls": [],
     "languages": [
       "eng"
     ],

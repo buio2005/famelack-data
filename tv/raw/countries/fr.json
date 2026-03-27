@@ -200,20 +200,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "XMr3ma47nJ4tEe",
-    "name": "BFM 2",
-    "stream_urls": [
-      "https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM2/index.m3u8?end=END&start=LIVE",
-      "https://d1ib1gsg71oarf.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-scp7wda722jph/BFM2_FR.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "fra"
-    ],
-    "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "ZtRuovvoPbor1F",
     "name": "BFM Alsace",
     "stream_urls": [
@@ -386,6 +372,20 @@
     "name": "BFM TV",
     "stream_urls": [
       "https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TV/index.m3u8?end=END&start=LIVE"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "fra"
+    ],
+    "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "8sVssR2O9ofmMl",
+    "name": "BFM2",
+    "stream_urls": [
+      "https://d1ib1gsg71oarf.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-scp7wda722jph/BFM2_FR.m3u8",
+      "https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM2/index.m3u8?end=END&start=LIVE"
     ],
     "youtube_urls": [],
     "languages": [
@@ -936,8 +936,8 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "FSarTXtXzxj5ih",
-    "name": "Les Z'amours",
+    "nanoid": "A5n4N3XJy0eMaU",
+    "name": "Les Z'Amours",
     "stream_urls": [
       "https://amg02393-awpg-amg02393c3-rakuten-uk-2462.playouts.now.amagi.tv/playlist/amg02393-awpg-leszamours-rakutenuk/playlist.m3u8"
     ],
@@ -1609,12 +1609,12 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "TbvZvu9msl34uz",
-    "name": "TRACE Latina",
+    "nanoid": "RcxxzdMu6ZS2Ab",
+    "name": "Trace Latina",
     "stream_urls": [
+      "https://amg01131-tracetv-tracelatina-glewed-vtnk7.amagi.tv/playlist.m3u8",
       "https://amg01131-tracetv-amg01131c3-stirr-us-4391.playouts.now.amagi.tv/playlist.m3u8",
-      "https://amg01131-tracetv-tracelatina-klowdtv-v10em.amagi.tv/playlist/amg01131-tracetv-tracelatina-klowdtv/playlist.m3u8",
-      "https://amg01131-tracetv-tracelatina-glewed-vtnk7.amagi.tv/playlist.m3u8"
+      "https://amg01131-tracetv-tracelatina-klowdtv-v10em.amagi.tv/playlist/amg01131-tracetv-tracelatina-klowdtv/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -1638,12 +1638,12 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "lqgZakAmtFu3zY",
-    "name": "TRACE Urban",
+    "nanoid": "wIUeNDlNNSx9pm",
+    "name": "Trace Urban",
     "stream_urls": [
+      "https://amg01131-tracetv-traceurban-glewed-g705j.amagi.tv/playlist.m3u8",
       "https://amg01131-tracetv-amg01131c1-stirr-us-4393.playouts.now.amagi.tv/playlist.m3u8",
-      "https://amg01131-tracetv-traceurban-klowdtv-utiqd.amagi.tv/playlist/amg01131-tracetv-traceurban-klowdtv/playlist.m3u8",
-      "https://amg01131-tracetv-traceurban-glewed-g705j.amagi.tv/playlist.m3u8"
+      "https://amg01131-tracetv-traceurban-klowdtv-utiqd.amagi.tv/playlist/amg01131-tracetv-traceurban-klowdtv/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [

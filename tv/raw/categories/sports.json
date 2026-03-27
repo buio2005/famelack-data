@@ -211,19 +211,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "OPEWNEj55lvj2s",
-    "name": "Cricket Gold",
-    "stream_urls": [
-      "https://d382r3rgbxdixq.cloudfront.net/scheduler/scheduleMaster/418.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "eng"
-    ],
-    "country": "au",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "eR1xoR8d2AHyV1",
     "name": "DAZN Combat",
     "stream_urls": [
@@ -255,8 +242,8 @@
     "nanoid": "KGBMTUYjkdpD8D",
     "name": "DraftKings Network",
     "stream_urls": [
-      "https://d2obyvq5go60aw.cloudfront.net/DraftKings_Network.m3u8",
-      "https://na.linear.zype.com/e0bd0e23-a958-4e43-8164-4f2fef8876a8/fd3614bd-90bf-4530-a277-65ae3a1720c8-zype/live.m3u8"
+      "https://na.linear.zype.com/e0bd0e23-a958-4e43-8164-4f2fef8876a8/fd3614bd-90bf-4530-a277-65ae3a1720c8-zype/live.m3u8",
+      "https://d2obyvq5go60aw.cloudfront.net/DraftKings_Network.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -357,25 +344,12 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "LRBUacm9msNRQ8",
-    "name": "Fight Network",
-    "stream_urls": [
-      "https://amg00966-amg00966c10-amgplt0081.playout.now3.amagi.tv/playlist/amg00966-amg00966c10-amgplt0081/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "eng"
-    ],
-    "country": "ca",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "9Ji1RIoUGeL46E",
     "name": "FITE 24/7",
     "stream_urls": [
       "https://d3d85c7qkywguj.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/FiteTV-DistroTV/263.m3u8?ads.vf=d4xngnNL060",
-      "https://a-cdn.klowdtv.com/live2/fite247_720p/playlist.m3u8",
-      "https://d3d85c7qkywguj.cloudfront.net/scheduler/scheduleMaster/263.m3u8"
+      "https://d3d85c7qkywguj.cloudfront.net/scheduler/scheduleMaster/263.m3u8",
+      "https://a-cdn.klowdtv.com/live2/fite247_720p/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -541,6 +515,19 @@
       "eng"
     ],
     "country": "nl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "RFeb11iCYGMUEw",
+    "name": "ItalianFishingTV",
+    "stream_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/nxDHTyMfDek"
+    ],
+    "languages": [
+      "ita"
+    ],
+    "country": "it",
     "isGeoBlocked": false
   },
   {
@@ -1027,10 +1014,9 @@
     "nanoid": "QwsKOZxcusvvv2",
     "name": "SportsGrid",
     "stream_urls": [
+      "https://amg00315-sportsgrid-firetv.amagi.tv/playlist.m3u8",
       "https://sportsgrid-plex.amagi.tv/playlist.m3u8",
-      "https://sportsgrid-samsungus.amagi.tv/playlist.m3u8",
-      "https://sportsgrid-klowdtv.amagi.tv/playlist.m3u8",
-      "https://amg00315-sportsgrid-firetv.amagi.tv/playlist.m3u8"
+      "https://sportsgrid-samsungus.amagi.tv/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -1420,8 +1406,8 @@
     "stream_urls": [
       "https://pb-41uwb26l8gvwx.akamaized.net/World_Poker_Tour.m3u8",
       "https://d2e00kr7m9coe4.cloudfront.net/scheduler/scheduleMaster/406.m3u8",
-      "https://amg00218-wptenterprisesi-worldpokertour-klowdtv-5619e.amagi.tv/playlist/amg00218-wptenterprisesi-worldpokertour-klowdtv/playlist.m3u8",
       "https://amg00218-wptenterprisesi-worldpokertour-xumo-us.amagi.tv/playlist.m3u8",
+      "https://amg00218-wptenterprisesi-worldpokertour-klowdtv-5619e.amagi.tv/playlist/amg00218-wptenterprisesi-worldpokertour-klowdtv/playlist.m3u8",
       "https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/playlist.m3u8?ads.xumo_channelId=88883102"
     ],
     "youtube_urls": [],

@@ -286,6 +286,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "eXRHxuSjLuhKid",
+    "name": "Carousel",
+    "stream_urls": [
+      "https://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/variant.m3u8",
+      "https://streaming.televizor-24-tochka.ru/live/232.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "QFKHFoExvGyTwt",
     "name": "Cartoon Network",
     "stream_urls": [],
@@ -899,6 +913,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "0xr9dDKplwszmy",
+    "name": "Kids TV",
+    "stream_urls": [
+      "https://origin5.mediacdn.ru/live/kidstv/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "ind"
+    ],
+    "country": "id",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "X98dZJpeNVSZmP",
     "name": "KidsFlix",
     "stream_urls": [
@@ -1136,6 +1163,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "1JYYpqQgnjcE3u",
+    "name": "NickOnline",
+    "stream_urls": [
+      "https://x1co.com.br:8443/hls/stream.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "por"
+    ],
+    "country": "br",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "DwXz9p5aswScVu",
     "name": "PAW Patrol (English)",
     "stream_urls": [],
@@ -1270,7 +1310,7 @@
     "name": "Peppa Pig Brasil",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/8yNy7Ogt4lE"
+      "https://www.youtube-nocookie.com/embed/LTm3o7qQ2ew"
     ],
     "languages": [
       "por"
@@ -1289,19 +1329,6 @@
       "fas"
     ],
     "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "YQjVrcxLsl4KlI",
-    "name": "Pingvīns",
-    "stream_urls": [
-      "https://sirius.greenhosting.ru/PingvinRu/video.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "lav"
-    ],
-    "country": "lv",
     "isGeoBlocked": false
   },
   {
@@ -1513,24 +1540,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "h9eDkCfbFxUPDf",
-    "name": "Sunny Bunnies",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/U1sbGRuNmj0"
-    ],
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "3C5tAme4Sy2gIV",
     "name": "Super Simple: Bedtime Songs",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/i5D18wee5SU"
+      "https://www.youtube-nocookie.com/embed/t2Oq7n_EGvU"
     ],
     "languages": [
       "eng"
@@ -1543,7 +1557,7 @@
     "name": "Super Simple: Noodle and Pals",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/ttHJaWytIKU"
+      "https://www.youtube-nocookie.com/embed/bhQ3b-lT3tY"
     ],
     "languages": [
       "eng"
@@ -1556,7 +1570,7 @@
     "name": "Super Simple: Simple Songs",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/8RUONVSlz94"
+      "https://www.youtube-nocookie.com/embed/GFb2wZ6vpDo"
     ],
     "languages": [
       "eng"
@@ -1820,7 +1834,7 @@
     "name": "WildBrain Max: LEGO",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/IHlzCWqywTM"
+      "https://www.youtube-nocookie.com/embed/ArEAphPs3Ng"
     ],
     "languages": [
       "eng"
@@ -1881,20 +1895,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "seBkiHFn8gkgrY",
-    "name": "Карусель",
-    "stream_urls": [
-      "https://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/variant.m3u8",
-      "https://streaming.televizor-24-tochka.ru/live/232.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "gJChs4RXWcqghm",
     "name": "Мультимания",
     "stream_urls": [
@@ -1906,6 +1906,19 @@
       "rus"
     ],
     "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "MCj2Vyne0bnAk3",
+    "name": "Пингвин",
+    "stream_urls": [
+      "https://sirius.greenhosting.ru/PingvinRu/video.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "lav"
+    ],
+    "country": "lv",
     "isGeoBlocked": false
   },
   {
@@ -1979,7 +1992,7 @@
     "name": "小猪佩奇 中文官方 - Peppa Pig",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/eT00rlKFxtQ"
+      "https://www.youtube-nocookie.com/embed/A_MxOxxf9Ho"
     ],
     "languages": [
       "zho"

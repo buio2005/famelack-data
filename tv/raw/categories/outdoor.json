@@ -120,6 +120,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "8MkrJaxHtTluMW",
+    "name": "El Mundo del Campo",
+    "stream_urls": [
+      "https://movil.ejeserver.com/live/elmundodelcampo.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "co",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "PdzSrk71b7uqDn",
     "name": "Horse & Country TV",
     "stream_urls": [
@@ -178,8 +191,8 @@
     "name": "Love Nature",
     "stream_urls": [
       "https://aegis-cloudfront-1.tubi.video/6d6d0f24-8445-4b4c-bdf6-44f9e38beaa4/playlist.m3u8",
-      "https://bamus-klowdtv.amagi.tv/playlist.m3u8",
-      "https://amg01515-amg01515c26-xumo-us-4765.playouts.now.amagi.tv/playlist.m3u8"
+      "https://amg01515-amg01515c26-xumo-us-4765.playouts.now.amagi.tv/playlist.m3u8",
+      "https://bamus-klowdtv.amagi.tv/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -243,53 +256,14 @@
     "isGeoBlocked": true
   },
   {
-    "nanoid": "XVHhDeQHjuS3Dt",
-    "name": "Peer TV Alto Adige",
-    "stream_urls": [
-      "https://iptv.peer.biz/live/peertv-it.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "ita"
-    ],
-    "country": "it",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "N6SFUaTsOKbZm2",
-    "name": "Peer TV South Tyrol",
-    "stream_urls": [
-      "https://iptv.peer.biz/live/peertv-en.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "eng"
-    ],
-    "country": "it",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "wRTNWuXxEeSri7",
-    "name": "Peer TV Südtirol",
-    "stream_urls": [
-      "https://iptv.peer.biz/live/peertv.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "deu"
-    ],
-    "country": "it",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "KQfyF0f3PWgz6t",
     "name": "Pursuit UP",
     "stream_urls": [
       "https://d1p1siomv3cm7b.cloudfront.net/playlist.m3u8",
       "https://linear-205.frequency.stream/dist/stirr/205/hls/master/playlist.m3u8",
+      "https://linear-205.frequency.stream/dist/xumo/205/hls/master/playlist.m3u8",
       "https://linear-205.frequency.stream/dist/glewedtv/205/hls/master/playlist.m3u8",
-      "https://pursuitup-klowdtv.amagi.tv/playlist.m3u8",
-      "https://linear-205.frequency.stream/dist/xumo/205/hls/master/playlist.m3u8"
+      "https://pursuitup-klowdtv.amagi.tv/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -420,8 +394,8 @@
     "name": "Waypoint TV",
     "stream_urls": [
       "https://djb4ma5fajjay.cloudfront.net/Waypoint_TV.m3u8",
-      "https://aegis-cloudfront-1.tubi.video/5f3c2b46-3b02-48e8-8e7b-3ce1d89395ce/playlist.m3u8",
-      "https://amg00381-waypointcommuni-waypointtv-xumo-syiru.amagi.tv/playlist.m3u8"
+      "https://amg00381-waypointcommuni-waypointtv-xumo-syiru.amagi.tv/playlist.m3u8",
+      "https://aegis-cloudfront-1.tubi.video/5f3c2b46-3b02-48e8-8e7b-3ce1d89395ce/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -436,9 +410,9 @@
     "stream_urls": [
       "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01290-wildearth-oando/playlist.m3u8",
       "https://wildearth-ono.amagi.tv/playlist/amg01290-wildearth-oando/playlist.m3u8",
+      "https://wildearth-xumo.amagi.tv/master.m3u8",
       "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01290-wildearthmediap-wildearth-samsungnl/playlist.m3u8",
-      "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01290-wildearthmediap-wildearth-samsungse/playlist.m3u8",
-      "https://wildearth-xumo.amagi.tv/master.m3u8"
+      "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01290-wildearthmediap-wildearth-samsungse/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [

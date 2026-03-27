@@ -65,10 +65,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "zZzdEeu5sohNZw",
-    "name": "Azahares Radio Multimedia",
+    "nanoid": "o15OiPkM4jxoZp",
+    "name": "Bayres TV",
     "stream_urls": [
-      "https://streamyes.alsolnet.com/azaharesfm/live/playlist.m3u8"
+      "https://streaming01.mikrolive.tv/bayrestv/live/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -352,6 +352,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "T7sSq0y5FUqebJ",
+    "name": "Canal 9 Televida",
+    "stream_urls": [
+      "https://unlimited1-saopaulo.dps.live/televidaar/televidaar.smil/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "ar",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "vZ56OvN6qo2jGQ",
     "name": "Canal 10 Cordoba",
     "stream_urls": [
@@ -395,32 +408,6 @@
     "name": "Canal 13 San Luis",
     "stream_urls": [
       "https://stream.radiosmundiales.com:19360/sanluismas/sanluismas.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
-    "country": "ar",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "urMZ5Xb5qp5veO",
-    "name": "Canal 21 TV",
-    "stream_urls": [
-      "https://iptv.ixfo.com.ar:30443/c21tv/hd/c21tv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
-    "country": "ar",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "O7iLCv0ja7EK6w",
-    "name": "Canal 22",
-    "stream_urls": [
-      "https://5f700d5b2c46f.streamlock.net/canal22/canal22/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -543,6 +530,19 @@
     "name": "Canal Orbe 21",
     "stream_urls": [
       "https://stream.arcast.net:4443/canal21/ngrp:canal21_all/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "ar",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Rexjgi9hzCbRd0",
+    "name": "Canal Provincial",
+    "stream_urls": [
+      "https://streaming.telered.com.ar/provincial/streaming/mystream.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -686,7 +686,7 @@
     "name": "El Observador 107.9",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/CkY9NdHmA_Q"
+      "https://www.youtube-nocookie.com/embed/kCKyocDPGWA"
     ],
     "languages": [
       "spa"
@@ -765,7 +765,7 @@
     "name": "El Tres TV",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/aHoR1j_Zt8E"
+      "https://www.youtube-nocookie.com/embed/UfNClgwVx9s"
     ],
     "languages": [
       "spa"
@@ -861,17 +861,6 @@
     "languages": [
       "spa"
     ],
-    "country": "ar",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "nxOuJBvN9WDNwl",
-    "name": "Milennio TV",
-    "stream_urls": [
-      "https://videostream.shockmedia.com.ar:19360/milenniotv/milenniotv.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [],
     "country": "ar",
     "isGeoBlocked": false
   },
@@ -972,19 +961,6 @@
     "name": "Radio Realpolitik",
     "stream_urls": [
       "https://vivo.solumedia.com:19360/realpolitik/realpolitik.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
-    "country": "ar",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "DGW7X316G3HOtG",
-    "name": "Radio Sublime Gracia TV",
-    "stream_urls": [
-      "https://5f700d5b2c46f.streamlock.net/sublime/sublime/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -1124,19 +1100,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "5dobEuPzzWq3sH",
-    "name": "Telenord Corrientes",
-    "stream_urls": [
-      "https://617c5175c970b.streamlock.net:4444/previsoratv/live/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
-    "country": "ar",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "C4INN3f93tsfyG",
     "name": "Televisión Pública",
     "stream_urls": [],
@@ -1246,21 +1209,8 @@
     "name": "Urbana Play 104.3 FM",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/8isFSAS9g08"
+      "https://www.youtube-nocookie.com/embed/derlnkEVD7U"
     ],
-    "languages": [
-      "spa"
-    ],
-    "country": "ar",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "zo8XR2eU3AtpaE",
-    "name": "VerTV (VTV)",
-    "stream_urls": [
-      "https://5f700d5b2c46f.streamlock.net/vertv/vertv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
     "languages": [
       "spa"
     ],

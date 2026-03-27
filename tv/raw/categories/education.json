@@ -247,6 +247,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "IVwVAzQdAWOVvy",
+    "name": "DC.gov DKN (Washington DC)",
+    "stream_urls": [
+      "https://video.oct.dc.gov/out/u/DKN.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "jDP6MUrSN5cKSo",
     "name": "DD Kisan",
     "stream_urls": [
@@ -1057,19 +1070,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "TnpnbHf11tv1Pa",
-    "name": "Señal España (XHUNES-TDT)",
-    "stream_urls": [
-      "https://tv91.hostingnuclear.com:19360/xhunestv/xhunestv.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
-    "country": "mx",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "zx4QUgECtSYJoe",
     "name": "SET Televisión Canal 26.2",
     "stream_urls": [
@@ -1291,19 +1291,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "igJmo5J6YhgXmV",
-    "name": "Unifranz",
-    "stream_urls": [
-      "https://live.enhdtv.com:8081/8192/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
-    "country": "bo",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "JvGEcuMecAcih8",
     "name": "Unison TV",
     "stream_urls": [
@@ -1389,9 +1376,9 @@
     "stream_urls": [
       "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01290-wildearth-oando/playlist.m3u8",
       "https://wildearth-ono.amagi.tv/playlist/amg01290-wildearth-oando/playlist.m3u8",
+      "https://wildearth-xumo.amagi.tv/master.m3u8",
       "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01290-wildearthmediap-wildearth-samsungnl/playlist.m3u8",
-      "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01290-wildearthmediap-wildearth-samsungse/playlist.m3u8",
-      "https://wildearth-xumo.amagi.tv/master.m3u8"
+      "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01290-wildearthmediap-wildearth-samsungse/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -1405,19 +1392,6 @@
     "name": "World Channel",
     "stream_urls": [
       "https://world.lls.pbs.org/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "FqfjVtCq56Tw8t",
-    "name": "WPS TV",
-    "stream_urls": [
-      "https://2-fss-2.streamhoster.com/pl_120/amlst:203530-1426406/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
