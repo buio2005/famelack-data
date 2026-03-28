@@ -68,7 +68,6 @@
     "nanoid": "mIBXDjfzsNrIT3",
     "name": "12TV Alicante",
     "stream_urls": [
-      "https://cloud.fastchannel.es/mic/manifiest/hls/12tv/12tv.m3u8",
       "https://cloud.streamingconnect.tv/hls/12tv/12tv2.m3u8"
     ],
     "youtube_urls": [],
@@ -209,6 +208,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "gNHieigy6r2l2U",
+    "name": "BCN Gospel TV",
+    "stream_urls": [
+      "https://live1.ovalcast.com:3641/live/bcngospeltvlive.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "MBJMQo3ahq3SeU",
     "name": "Beyblade en Español",
     "stream_urls": [
@@ -299,19 +311,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "Z7MEi4DtQ5gKCY",
-    "name": "Canal 10 Empordà",
-    "stream_urls": [
-      "https://ventdelnord.tv:8080/escala/directe.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "cat"
-    ],
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "1HbuNXkbC5ZCG3",
     "name": "Canal 24 Horas Canarias",
     "stream_urls": [
@@ -381,19 +380,6 @@
     "name": "Canal Diocesano",
     "stream_urls": [
       "https://nlb2-live.emitstream.com/hls/5i3pxfuz4az356yu22ij/master.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "fSeqRheB6IOZIg",
-    "name": "Canal Doñana",
-    "stream_urls": [
-      "https://secure5.todostreaming.es/live/division-alm.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -484,19 +470,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "O0DUKFHyeCqWS8",
-    "name": "Canal Sur Andalucía 2",
-    "stream_urls": [
-      "https://cdnlive.codev8.net/rtvalive/smil:channel22.smil/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "Pf3Zsb1GIIiXjl",
     "name": "Canal Sur Noticias",
     "stream_urls": [
@@ -514,19 +487,6 @@
     "name": "Canal Taronja Comarques Centrals",
     "stream_urls": [
       "https://ingest1-video.streaming-pro.com/canaltaronja/central/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "cat"
-    ],
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "LYwKtrxQrDko5c",
-    "name": "Canal Taronja Osona i Moianés",
-    "stream_urls": [
-      "https://ingest1-video.streaming-pro.com/canaltaronja/osona/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -921,6 +881,32 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "254O8QVRoi3Ec6",
+    "name": "La 2",
+    "stream_urls": [
+      "https://ztnr.rtve.es/ztnr/1688885.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "MtvAPbtuZZyeOW",
+    "name": "La 2 Canarias",
+    "stream_urls": [
+      "https://ztnr.rtve.es/ztnr/5468585.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "GHi6V9VFxBsZxp",
     "name": "Lancelot TV",
     "stream_urls": [
@@ -1044,19 +1030,6 @@
     "youtube_urls": [],
     "languages": [
       "spa"
-    ],
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "lMIWUh9FjBPLOx",
-    "name": "Molahits TV",
-    "stream_urls": [
-      "https://ventdelnord.tv:8080/mola/directe.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "cat"
     ],
     "country": "es",
     "isGeoBlocked": false
@@ -1646,19 +1619,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "dGOfxttCQdrVvT",
-    "name": "Rakuten TV Top Movies Spain",
-    "stream_urls": [
-      "https://ff335120300e4742a2b135ee9a9e7df8.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5983/master.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "HYpCGBVfi8MGbS",
     "name": "Rantaró el ninja boy",
     "stream_urls": [
@@ -1858,19 +1818,6 @@
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/7Vm6RmLBgVU"
     ],
-    "languages": [
-      "spa"
-    ],
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "1nQKxr4bzoAoiY",
-    "name": "Telemotril",
-    "stream_urls": [
-      "https://5940924978228.streamlock.net/8431/8431/playlist.m3u8"
-    ],
-    "youtube_urls": [],
     "languages": [
       "spa"
     ],
@@ -2094,19 +2041,6 @@
     "youtube_urls": [],
     "languages": [
       "eus"
-    ],
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "IKMYFInzhM8nN6",
-    "name": "Ventdelnord TV",
-    "stream_urls": [
-      "https://ventdelnord.tv:8080/hls/directe.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "spa"
     ],
     "country": "es",
     "isGeoBlocked": false

@@ -16,11 +16,25 @@
     "nanoid": "TFUyUrLKl7M3tP",
     "name": "24 TV",
     "stream_urls": [
-      "https://tv.ensonhaber.com/tv24/tv24.m3u8"
+      "https://tv.ensonhaber.com/tv24/tv24.m3u8",
+      "https://turkmedya-live.ercdn.net/tv24/tv24.m3u8"
     ],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/qFKEi2BqHYc"
     ],
+    "languages": [
+      "tur"
+    ],
+    "country": "tr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "l1r7irH3I4S5Jm",
+    "name": "360 TV",
+    "stream_urls": [
+      "https://turkmedya-live.ercdn.net/tv360/tv360.m3u8"
+    ],
+    "youtube_urls": [],
     "languages": [
       "tur"
     ],
@@ -184,9 +198,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "CpNNMuCGpglDQA",
+    "nanoid": "UBjqGDOceqJLt2",
     "name": "ATV",
-    "stream_urls": [],
+    "stream_urls": [
+      "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_360p.m3u8"
+    ],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/56g7DPSZjow"
     ],
@@ -1232,6 +1248,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "zbs9DkUTcak0mx",
+    "name": "Kay TV",
+    "stream_urls": [
+      "https://live.artidijitalmedya.com/artidijital_kaytv/kaytv/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "tur"
+    ],
+    "country": "tr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "3wl0iIzYmV2xgp",
     "name": "Kemal Sunal: Filmleri ve Sahneleri",
     "stream_urls": [],
@@ -1381,19 +1410,6 @@
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/0dmPGl8HV3A"
     ],
-    "languages": [
-      "tur"
-    ],
-    "country": "tr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "GIntzeUgHcQOIa",
-    "name": "Number 1 Ask",
-    "stream_urls": [
-      "https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e18f9cea15_1/playlist.m3u8"
-    ],
-    "youtube_urls": [],
     "languages": [
       "tur"
     ],
@@ -1948,6 +1964,19 @@
     "name": "TV Den",
     "stream_urls": [
       "https://canli.tvden.com.tr/hls/live.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "tur"
+    ],
+    "country": "tr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "OIvcwYgKcH6Zff",
+    "name": "TV4",
+    "stream_urls": [
+      "https://turkmedya-live.ercdn.net/tv4/tv4.m3u8"
     ],
     "youtube_urls": [],
     "languages": [

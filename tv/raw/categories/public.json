@@ -147,19 +147,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "O0DUKFHyeCqWS8",
-    "name": "Canal Sur Andalucía 2",
-    "stream_urls": [
-      "https://cdnlive.codev8.net/rtvalive/smil:channel22.smil/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "Pf3Zsb1GIIiXjl",
     "name": "Canal Sur Noticias",
     "stream_urls": [
@@ -247,6 +234,32 @@
     "youtube_urls": [],
     "languages": [
       "glg"
+    ],
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "254O8QVRoi3Ec6",
+    "name": "La 2",
+    "stream_urls": [
+      "https://ztnr.rtve.es/ztnr/1688885.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "MtvAPbtuZZyeOW",
+    "name": "La 2 Canarias",
+    "stream_urls": [
+      "https://ztnr.rtve.es/ztnr/5468585.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
     ],
     "country": "es",
     "isGeoBlocked": false

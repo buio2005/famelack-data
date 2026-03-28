@@ -92,10 +92,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "s64BgUfTafeYF2",
-    "name": "Canal 14 Codazzi",
+    "nanoid": "WwkDGrZMJxcaPL",
+    "name": "Canal 8 TV+",
     "stream_urls": [
-      "https://eu1.servers10.com:8081/8056/index.m3u8"
+      "https://movil.ejeserver.com/live/canal8tv.m3u8",
+      "https://video.ejeserver.com/live/canal8tv.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -105,10 +106,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "dIQhSN2tH9x7qG",
-    "name": "Canal 55 Telemorisco TV",
+    "nanoid": "s64BgUfTafeYF2",
+    "name": "Canal 14 Codazzi",
     "stream_urls": [
-      "https://canal.mediaserver.com.co/live/telemorisco.m3u8"
+      "https://eu1.servers10.com:8081/8056/index.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -135,6 +136,20 @@
     "name": "Canal Institucional",
     "stream_urls": [
       "https://streaming.rtvc.gov.co/TV_CanalInstitucional_live/smil:live.smil/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "co",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "JjVGVjzCa9hXFe",
+    "name": "Canal Más Televisión",
+    "stream_urls": [
+      "https://movil.ejeserver.com/live/teledoradahd.m3u8",
+      "https://video.ejeserver.com/live/teledoradahd.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -278,19 +293,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "jFEWRPe45fuS69",
-    "name": "CNC Chocó",
-    "stream_urls": [
-      "https://hvtraficonew.ddns.net/corescomunicaciones/index.fmp4.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
-    "country": "co",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "vlNh6cGmLuP4h1",
     "name": "CNC Pereira",
     "stream_urls": [
@@ -335,19 +337,6 @@
     "name": "Cristovision",
     "stream_urls": [
       "https://5fc584f3f19c9.streamlock.net/cristovision/videocristovision/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
-    "country": "co",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "6QInqBXvewFT5U",
-    "name": "CTV Barranquilla",
-    "stream_urls": [
-      "https://live.ctvbarranquilla.com/live/ctv-4ad31c89f3764bf0980e642bc12fd00a.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -558,19 +547,6 @@
     "name": "Memorias TV Toons",
     "stream_urls": [
       "https://video.xtrematv.com:3812/live/memoriastoonslive.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
-    "country": "co",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "v84rF2TjmPJMTT",
-    "name": "Memorias TV Tropical",
-    "stream_urls": [
-      "https://video.xtrematv.com:3361/live/memoriastropicallive.m3u8"
     ],
     "youtube_urls": [],
     "languages": [

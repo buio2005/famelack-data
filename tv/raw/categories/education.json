@@ -65,19 +65,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "ZQE8Kkj7LLaHHY",
-    "name": "BVG",
-    "stream_urls": [
-      "https://mumt05.tangotv.in/BVG/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "hin"
-    ],
-    "country": "in",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "7vuNKG15VuJZNX",
     "name": "Campus TV",
     "stream_urls": [
@@ -264,7 +251,6 @@
     "name": "DD Kisan",
     "stream_urls": [
       "https://cdn-6.pishow.tv/live/9/master.m3u8",
-      "https://mumt04.tangotv.in/DDKISAN/index.m3u8",
       "https://d2lk5u59tns74c.cloudfront.net/out/v1/4f053f2c12a24641bf701fb7f2376750/index.m3u8"
     ],
     "youtube_urls": [],
@@ -887,19 +873,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "VFD90UpkQ7f9Ss",
-    "name": "Payam Javan TV",
-    "stream_urls": [
-      "https://uni01rtmp.tulix.tv/kensecure/pjtv.stream/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "fas"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "tCMMSwaVSeASoi",
     "name": "PBS KET Louisville KY (WKMJ-TV)",
     "stream_urls": [
@@ -1067,6 +1040,19 @@
       "eng"
     ],
     "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "TnpnbHf11tv1Pa",
+    "name": "Señal España (XHUNES-TDT)",
+    "stream_urls": [
+      "https://tv91.hostingnuclear.com:19360/xhunestv/xhunestv.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "mx",
     "isGeoBlocked": false
   },
   {
@@ -1265,19 +1251,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "fcllzx7ENtLcnw",
-    "name": "UMSA TVU LP",
-    "stream_urls": [
-      "https://live.enhdtv.com:8081/8190/tracks-v1a1/mono.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
-    "country": "bo",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "uhXaKy0zwMPJAb",
     "name": "UNIANDES TV",
     "stream_urls": [
@@ -1291,16 +1264,16 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "JvGEcuMecAcih8",
-    "name": "Unison TV",
+    "nanoid": "igJmo5J6YhgXmV",
+    "name": "Unifranz",
     "stream_urls": [
-      "https://stream.unison.mx/hls/unisontvatem.m3u8"
+      "https://live.enhdtv.com:8081/8192/index.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
       "spa"
     ],
-    "country": "mx",
+    "country": "bo",
     "isGeoBlocked": false
   },
   {
@@ -1392,6 +1365,19 @@
     "name": "World Channel",
     "stream_urls": [
       "https://world.lls.pbs.org/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "FqfjVtCq56Tw8t",
+    "name": "WPS TV",
+    "stream_urls": [
+      "https://2-fss-2.streamhoster.com/pl_120/amlst:203530-1426406/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
