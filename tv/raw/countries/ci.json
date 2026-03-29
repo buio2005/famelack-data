@@ -157,19 +157,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "I6vEXsT4SKeWER",
-    "name": "NTV Afrique",
-    "stream_urls": [
-      "https://strhlslb01.streamakaci.tv/str_ntv_ntv/str_ntv_ntv_multi/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "fra"
-    ],
-    "country": "ci",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "blRCEiMQ1TC0aC",
     "name": "REFLET TV",
     "stream_urls": [
@@ -213,6 +200,19 @@
     "name": "RTVC",
     "stream_urls": [
       "https://cdn140m.panaccess.com/HLS/RTVC/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "fra"
+    ],
+    "country": "ci",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "twgsMNbK1cPcS5",
+    "name": "TV La Capitale",
+    "stream_urls": [
+      "https://stream.berosat.live:19360/tv-capitale-tream/tv-capitale-tream.m3u8"
     ],
     "youtube_urls": [],
     "languages": [

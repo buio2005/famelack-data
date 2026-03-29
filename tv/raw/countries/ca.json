@@ -357,10 +357,13 @@
     "nanoid": "JGmZB6n8iu1FW8",
     "name": "Haunt TV",
     "stream_urls": [
-      "https://blueantmediacanada-haunttv-samsungca.amagi.tv/playlist.m3u8"
+      "https://d1ak5jijks54h1.cloudfront.net/Haunt_TV.m3u8",
+      "https://aegis-cloudfront-1.tubi.video/69da419c-6bb2-473f-98c3-246153fc909b/playlist.m3u8"
     ],
     "youtube_urls": [],
-    "languages": [],
+    "languages": [
+      "eng"
+    ],
     "country": "ca",
     "isGeoBlocked": false
   },
@@ -372,6 +375,21 @@
     ],
     "youtube_urls": [],
     "languages": [],
+    "country": "ca",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "2YbTSpvp03DtE4",
+    "name": "Homeful",
+    "stream_urls": [
+      "https://dn8a6xbnfncub.cloudfront.net/Homeful_US.m3u8",
+      "https://aegis-cloudfront-1.tubi.video/9f31e187-3d43-4ed0-81ba-63bd3bc560aa/playlist.m3u8",
+      "https://amg00090-blueantllc-homefull-xumo-rn9cd.amagi.tv/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "eng"
+    ],
     "country": "ca",
     "isGeoBlocked": false
   },
@@ -595,14 +613,14 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "PcZvzmtUOxudPS",
-    "name": "NACTV",
+    "nanoid": "kc1rOesWp3ooeg",
+    "name": "NatureTime",
     "stream_urls": [
-      "https://stream2.pivotalelements.com/memfs/2d2e1038-9eb2-44df-a9b9-109de5752f3b_output_0.m3u8"
+      "https://amg00090-blueantmedia-naturetime-samsungse-axgcn.amagi.tv/playlist/amg00090-blueantmedia-naturetime-samsungse/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
-      "eng"
+      "spa"
     ],
     "country": "ca",
     "isGeoBlocked": false
@@ -1060,6 +1078,19 @@
     "name": "The Shopping Channel",
     "stream_urls": [
       "https://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "eng"
+    ],
+    "country": "ca",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "ExqfRu5vFNM6yj",
+    "name": "Total Crime",
+    "stream_urls": [
+      "https://aegis-cloudfront-1.tubi.video/b062c287-a170-47df-99e4-f5dcd441ee59/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [

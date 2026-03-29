@@ -284,6 +284,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "Oxstp5zvFaS9ZH",
+    "name": "Retrox TV",
+    "stream_urls": [
+      "https://live20.bozztv.com/giatv/giatv-TVCHANNEL/TVCHANNEL/chunks.m3u8",
+      "https://live20.bozztv.com/giatv/giatv-TVCHANNEL/TVCHANNEL/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "cr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "KWtXBE79zVCsGO",
     "name": "San José TV",
     "stream_urls": [
@@ -310,6 +324,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "2ogrHzPUOLVEgc",
+    "name": "SOY Plancha TV",
+    "stream_urls": [
+      "https://59ef525c24caa.streamlock.net/vmtv/soyplancha/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "cr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "TBkO2VeN8pxR9c",
     "name": "TDtv",
     "stream_urls": [
@@ -323,10 +350,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "FY9JMfvI9sWSMw",
-    "name": "TeleBrunca",
+    "nanoid": "GHvLc9YKjbjb4r",
+    "name": "Telefides",
     "stream_urls": [
-      "https://59ef525c24caa.streamlock.net/telebrunca/telebrunca/playlist.m3u8"
+      "https://s2.cwebtv.net:4433/telefides/telefides/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -392,19 +419,6 @@
     "name": "TV Sur Canal 14",
     "stream_urls": [
       "https://k20.usastreams.com:8081/tvsur/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
-    "country": "cr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "sue3ShLLkmrNlc",
-    "name": "Urbano TV",
-    "stream_urls": [
-      "https://59ef525c24caa.streamlock.net/tvurbano/tvurbano/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [

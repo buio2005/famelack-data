@@ -13,19 +13,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "ENzrhYlnEqyYie",
-    "name": "Afrobeats",
-    "stream_urls": [
-      "https://stream.ecable.tv/afrobeats/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "eng"
-    ],
-    "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "SCCSu7TMHcxg2h",
     "name": "Akaal Channel",
     "stream_urls": [
@@ -655,17 +642,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "BlqY7SP9j52Ryk",
-    "name": "Haunt TV",
-    "stream_urls": [
-      "https://bamcahaunttvrakuten.amagi.tv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [],
-    "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "JabrObnW5dkkDn",
     "name": "Hellenic TV",
     "stream_urls": [
@@ -1059,6 +1035,19 @@
     "name": "MTA8 America",
     "stream_urls": [
       "https://chlivemta.akamaized.net/hls/live/2016718/mta8/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "eng"
+    ],
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "hNQTzHtY43GPXe",
+    "name": "MyTime Movie Network",
+    "stream_urls": [
+      "https://appletree-mytimeuk-rakuten.amagi.tv/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [

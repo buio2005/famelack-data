@@ -78,19 +78,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "zZzdEeu5sohNZw",
-    "name": "Azahares Radio Multimedia",
-    "stream_urls": [
-      "https://streamyes.alsolnet.com/azaharesfm/live/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
-    "country": "ar",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "o15OiPkM4jxoZp",
     "name": "Bayres TV",
     "stream_urls": [
@@ -208,6 +195,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "D3rtXC7Gev4etZ",
+    "name": "Canal 4 Posadas",
+    "stream_urls": [
+      "https://iptv.ixfo.com.ar:30443/live/C4POS/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "ar",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "j1Mx0NYk5KtzPX",
     "name": "Canal 4 San Juan",
     "stream_urls": [
@@ -225,6 +225,19 @@
     "name": "Canal 5 Del Pueblo",
     "stream_urls": [
       "https://stmv4.voxtvhd.com.br/canal5pueblo/canal5pueblo/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "ar",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Qltnj6pxW46J3l",
+    "name": "Canal 5 Santa Fe",
+    "stream_urls": [
+      "https://stream.arcast.com.ar/c5sf/c5sf/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -253,6 +266,19 @@
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/eMyArlZx8-w"
     ],
+    "languages": [
+      "spa"
+    ],
+    "country": "ar",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "RjGzeK99LgjrbF",
+    "name": "Canal 6 Posadas",
+    "stream_urls": [
+      "https://iptv.ixfo.com.ar:30443/live/c6digital/playlist.m3u8"
+    ],
+    "youtube_urls": [],
     "languages": [
       "spa"
     ],
@@ -391,6 +417,32 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "aoSHf7umzvQAal",
+    "name": "Canal 13 San Luis",
+    "stream_urls": [
+      "https://stream.radiosmundiales.com:19360/sanluismas/sanluismas.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "ar",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "urMZ5Xb5qp5veO",
+    "name": "Canal 21 TV",
+    "stream_urls": [
+      "https://iptv.ixfo.com.ar:30443/c21tv/hd/c21tv/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "ar",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "O7iLCv0ja7EK6w",
     "name": "Canal 22",
     "stream_urls": [
@@ -407,6 +459,7 @@
     "nanoid": "IKwTslDp6GIv1l",
     "name": "Canal 26",
     "stream_urls": [
+      "https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8",
       "https://stream-gtlc.telecentro.net.ar/hls/canal26hls/0/playlist.m3u8"
     ],
     "youtube_urls": [
@@ -423,32 +476,6 @@
     "name": "Canal 34 San Juan",
     "stream_urls": [
       "https://streamyes.alsolnet.com/canal34hd/live/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
-    "country": "ar",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "v7fuzMjUcfiKGk",
-    "name": "Canal 79 La Costa",
-    "stream_urls": [
-      "https://streamconex.com:19360/lacosta/lacosta.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
-    "country": "ar",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "2e5tE1tEuJnQJw",
-    "name": "Canal 79 Mar del Plata",
-    "stream_urls": [
-      "https://streamconex.com:19360/mardelplata/mardelplata.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -590,19 +617,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "njewIOEi3Bzjbb",
-    "name": "Chilecito TV",
-    "stream_urls": [
-      "https://vivo.solumedia.com:19360/grupoemail/grupoemail.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
-    "country": "ar",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "OpvFhpo06aVAeg",
     "name": "Ciudad Magazine",
     "stream_urls": [
@@ -672,7 +686,7 @@
     "name": "El Observador 107.9",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/m-xsC3bWQvY"
+      "https://www.youtube-nocookie.com/embed/Qz69UE7Mvic"
     ],
     "languages": [
       "spa"
@@ -739,19 +753,6 @@
       "https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8"
     ],
     "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
-    "country": "ar",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "NYXd2ClRBhOZGJ",
-    "name": "FMVale975",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/x5fbS_4RrFU"
-    ],
     "languages": [
       "spa"
     ],
@@ -837,13 +838,15 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "nxOuJBvN9WDNwl",
-    "name": "Milennio TV",
+    "nanoid": "jhtVZGk1rHoaP8",
+    "name": "Misiones Cuatro",
     "stream_urls": [
-      "https://videostream.shockmedia.com.ar:19360/milenniotv/milenniotv.m3u8"
+      "https://iptv.ixfo.com.ar:30443/live-HD/MISIONES4/playlist.m3u8"
     ],
     "youtube_urls": [],
-    "languages": [],
+    "languages": [
+      "spa"
+    ],
     "country": "ar",
     "isGeoBlocked": false
   },
@@ -992,6 +995,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "4D71cx5fvZCZ53",
+    "name": "San Pedro TV",
+    "stream_urls": [
+      "https://iptv.ixfo.com.ar:30443/live/sanpedrotv/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "ar",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "rPtKuLjPt7QNrN",
     "name": "Sicardi TV",
     "stream_urls": [
@@ -1063,19 +1079,6 @@
       "https://stream-gtlc.telecentro.net.ar/hls/telemaxhls/main.m3u8"
     ],
     "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
-    "country": "ar",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "C4INN3f93tsfyG",
-    "name": "Televisión Pública",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/WC3XVf9FXJM"
-    ],
     "languages": [
       "spa"
     ],
@@ -1179,7 +1182,7 @@
     "name": "Urbana Play 104.3 FM",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/FffRNTosyUI"
+      "https://www.youtube-nocookie.com/embed/tEy2bqXdv_0"
     ],
     "languages": [
       "spa"

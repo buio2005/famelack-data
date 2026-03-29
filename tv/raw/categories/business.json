@@ -440,19 +440,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "E9smyEh0BaQpif",
-    "name": "JOB TV",
-    "stream_urls": [
-      "https://jobtvserver.eu/hls/stream.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "ron"
-    ],
-    "country": "ro",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "PrbGgJSVKuINgQ",
     "name": "NDTV Profit",
     "stream_urls": [
@@ -479,6 +466,19 @@
       "spa"
     ],
     "country": "es",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "fEhuSbh6UZiVWk",
+    "name": "NW Economie",
+    "stream_urls": [
+      "https://hls.newworldtv.com/nw-economie/video/live.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "fra"
+    ],
+    "country": "tg",
     "isGeoBlocked": false
   },
   {

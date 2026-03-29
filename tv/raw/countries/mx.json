@@ -78,19 +78,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "GYpj19hD6m2qFh",
-    "name": "California Medios TV",
-    "stream_urls": [
-      "https://s5.mexside.net:1936/medios/medios/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
-    "country": "mx",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "qhvLdupfMqmZsq",
     "name": "Canal 5 TV Cozumel",
     "stream_urls": [
@@ -108,6 +95,19 @@
     "name": "Canal 10 Chiapas",
     "stream_urls": [
       "https://5ca9af4645e15.streamlock.net/chiapas/videochiapas/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "mx",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "om7GIuOIZrQShy",
+    "name": "Canal 10 Durango",
+    "stream_urls": [
+      "https://5e50264bd6766.streamlock.net/canal10durango/videocanal10durango/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -359,19 +359,6 @@
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/8uY2JsdYKqA"
     ],
-    "languages": [
-      "spa"
-    ],
-    "country": "mx",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "hvpyyH4xiS4fE5",
-    "name": "IMRyT Morelos TV",
-    "stream_urls": [
-      "https://stream8.mexiserver.com:19360/morelostv/morelostv.m3u8"
-    ],
-    "youtube_urls": [],
     "languages": [
       "spa"
     ],
@@ -814,7 +801,7 @@
     "name": "Televisa Del Bajio",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/mAlCPTjgMiE"
+      "https://www.youtube-nocookie.com/embed/ta2bOnlkmTw"
     ],
     "languages": [
       "spa"
@@ -840,7 +827,7 @@
     "name": "Televisa Guadalajara",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/nI0y3ZlEnTg"
+      "https://www.youtube-nocookie.com/embed/dpt12XGuN18"
     ],
     "languages": [
       "spa"
@@ -879,7 +866,7 @@
     "name": "Televisa Monterrey",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/XWq5IvkAGgk"
+      "https://www.youtube-nocookie.com/embed/TeGgYPXY-bo"
     ],
     "languages": [
       "spa"
@@ -892,7 +879,7 @@
     "name": "Televisa Piedras Negras",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/0-9UFMOByyM"
+      "https://www.youtube-nocookie.com/embed/dCpfQhRBnZ4"
     ],
     "languages": [
       "spa"

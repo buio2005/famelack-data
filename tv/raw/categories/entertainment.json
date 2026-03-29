@@ -156,6 +156,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "t2xHdunHhK2Qqc",
+    "name": "Aguacate TV",
+    "stream_urls": [
+      "https://streamtv.intervenhosting.net:3040/hybrid/play.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "ve",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "4sLHF1UGyiajJm",
     "name": "Alegre TV RD",
     "stream_urls": [
@@ -618,19 +631,6 @@
     "isGeoBlocked": true
   },
   {
-    "nanoid": "BAl5rYC3FH50BY",
-    "name": "BTV",
-    "stream_urls": [
-      "https://streamfi-alphadgtl1.zettawiseroutes.com:8181/hls/stream.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "eng"
-    ],
-    "country": "ug",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "rHDMB2I74rwAns",
     "name": "Buena TV",
     "stream_urls": [
@@ -886,6 +886,7 @@
     "name": "Circle",
     "stream_urls": [
       "https://amg00432-circletvfast-amg00432c1-cineverse-us-1112.playouts.now.amagi.tv/playlist/amg00432-circletv-circletv-cineverseus/playlist.m3u8",
+      "https://circle-klowdtv.amagi.tv/playlist.m3u8",
       "https://circle-roku.amagi.tv/playlist.m3u8",
       "https://circle-samsung.amagi.tv/playlist.m3u8",
       "https://circle-vizio.amagi.tv/playlist.m3u8",
@@ -1657,21 +1658,7 @@
     "nanoid": "uyiyfk5r0UmGtm",
     "name": "Gold TV",
     "stream_urls": [
-      "https://streaming.softwarecreation.it/GoldTv/GoldTv/playlist.m3u8",
       "https://5a1178b42cc03.streamlock.net/golditalia/golditalia/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "ita"
-    ],
-    "country": "it",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "kTsDjvuR5SnaAA",
-    "name": "Gold TV Sat",
-    "stream_urls": [
-      "https://streaming.softwarecreation.it/GoldTvSat/GoldTvSat/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -1706,6 +1693,19 @@
       "pan"
     ],
     "country": "in",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "c9vagOs8X6vg6Q",
+    "name": "Guaro TV",
+    "stream_urls": [
+      "https://streamtv.intervenhosting.net:3592/stream/play.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "ve",
     "isGeoBlocked": false
   },
   {
@@ -1778,19 +1778,6 @@
     "name": "Historia",
     "stream_urls": [
       "https://d1k3vzh2ivy22k.cloudfront.net/Historia.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "h9YxHU0Ug32YMW",
-    "name": "HOLA! Play",
-    "stream_urls": [
-      "https://hola-play-2108fd06-86d4-44e8-9867-c35b4895a1c1-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6433/master.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -1889,6 +1876,19 @@
       "ind"
     ],
     "country": "id",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "gPHlL3FuCScLzN",
+    "name": "interTV",
+    "stream_urls": [
+      "https://streamtv.intervenhosting.net:3439/hybrid/play.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "ve",
     "isGeoBlocked": false
   },
   {
@@ -1998,6 +1998,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "2D5WXDkOrvxrFu",
+    "name": "Joy Prime TV",
+    "stream_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/Npd-0-R2iLc"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "country": "gh",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "NVz2ZnKyBDLvrQ",
     "name": "kabel eins",
     "stream_urls": [
@@ -2087,19 +2100,6 @@
       "eng"
     ],
     "country": "rw",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "T4bE3Y8IkS0Upm",
-    "name": "KCL TV",
-    "stream_urls": [
-      "https://kcltv.livebox.co.in/kclhls/live.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "mal"
-    ],
-    "country": "in",
     "isGeoBlocked": false
   },
   {
@@ -2259,6 +2259,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "nDbtRavjpP3dpF",
+    "name": "La Cheverisima Radio TV",
+    "stream_urls": [
+      "https://byecablecluster.ddns.net/neira/neira.stream/index.fmp4.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "co",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "BQiZCJpf4JlMdt",
     "name": "La Nueva Radio TV 97.7",
     "stream_urls": [
@@ -2301,8 +2314,8 @@
     "nanoid": "C0cUeJC4kMld9V",
     "name": "LATV",
     "stream_urls": [
-      "https://amg00779-latv-amg00779c1-klowdtv-us-2135.playouts.now.amagi.tv/playlist/amg00779-latvnetworkllc-latv-klowdtvus/playlist.m3u8",
-      "https://amg00779-latv-amg00779c1-cineverse-us-1746.playouts.now.amagi.tv/playlist/amg00779-latvnetworkllc-latv-cineverseus/playlist.m3u8"
+      "https://amg00779-latv-amg00779c1-cineverse-us-1746.playouts.now.amagi.tv/playlist/amg00779-latvnetworkllc-latv-cineverseus/playlist.m3u8",
+      "https://amg00779-latv-amg00779c1-klowdtv-us-2135.playouts.now.amagi.tv/playlist/amg00779-latvnetworkllc-latv-klowdtvus/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -2760,19 +2773,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "CrBo5aavsp4Rc1",
-    "name": "Nexus Television",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/mRX8BDZP0GM"
-    ],
-    "languages": [
-      "ben"
-    ],
-    "country": "bd",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "ZHvB1aVYlbRtJ0",
     "name": "Ning TV",
     "stream_urls": [
@@ -2848,6 +2848,32 @@
       "eng"
     ],
     "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "X0aofRewWamLuo",
+    "name": "Oli TV",
+    "stream_urls": [
+      "https://live.olidigital.in/olitv/olitv/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "tam"
+    ],
+    "country": "in",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "I1eaiqSEwU4HoX",
+    "name": "Omega TV",
+    "stream_urls": [
+      "https://5caf24a595d94.streamlock.net:1937/8142/8142/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "hn",
     "isGeoBlocked": false
   },
   {
@@ -3128,7 +3154,7 @@
     "name": "Raquel Daruech TV",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/msdDC4hwwAI"
+      "https://www.youtube-nocookie.com/embed/_nfLWozzpvA"
     ],
     "languages": [
       "spa"
@@ -3233,6 +3259,19 @@
     "name": "Salto 1",
     "stream_urls": [
       "https://d11lnfpmek70tc.cloudfront.net/nlpo/clr-nlpo/2103d417/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "nld"
+    ],
+    "country": "nl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Arhd6FvJ684mYa",
+    "name": "Salto MaLive",
+    "stream_urls": [
+      "https://live.salto.nl/hls/malive_high.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -3552,6 +3591,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "1E8L6wvxfbR06G",
+    "name": "TeleMIX",
+    "stream_urls": [
+      "https://haititivi.com/haiti/telemix1/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "fra"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "EOpqSrGmxuneK9",
     "name": "Telemundo Corpus Christi",
     "stream_urls": [
@@ -3688,7 +3740,7 @@
     "name": "The Why Files - Backstage",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/7mqeVbSVmmw"
+      "https://www.youtube-nocookie.com/embed/DT0aJIAGBnA"
     ],
     "languages": [
       "eng"
@@ -4267,7 +4319,6 @@
     "stream_urls": [
       "https://amg00143-younghollywoodfast-amg00143c1-cineverse-us-946.playouts.now.amagi.tv/playlist/amg00143-younghollywoodfast-younghollywood-cineverseus/playlist.m3u8",
       "https://younghollywood-rakuten-samsung.amagi.tv/playlist.m3u8",
-      "https://younghollywood-tcl.amagi.tv/playlist.m3u8",
       "https://younghollywood-vizio.amagi.tv/playlist.m3u8"
     ],
     "youtube_urls": [],

@@ -13,36 +13,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "RbybGfd6WxqoEp",
-    "name": "NETALKOLE TV",
-    "stream_urls": [
-      "https://watch.haitilive.net/naktvhd/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "fra"
-    ],
-    "country": "ht",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "j6PYx6KL1bwCxI",
     "name": "Radio Télé 4VEH",
     "stream_urls": [
       "https://uni01rtmp.tulix.tv/4vehtv/4vehtv-firetv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "fra"
-    ],
-    "country": "ht",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "HETvnlVLYFIj2v",
-    "name": "Radio Tele Eclair",
-    "stream_urls": [
-      "https://play.streamhaiti.com:3585/live/radioteleeclairlive.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -69,6 +43,19 @@
     "name": "Radio Télé Hit",
     "stream_urls": [
       "https://59d39900ebfb8.streamlock.net/RadioTelehit/RadioTelehit/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "fra"
+    ],
+    "country": "ht",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "2NvBfaKzTD56zL",
+    "name": "Radio Tele Planet Compas",
+    "stream_urls": [
+      "https://5dcab9aed5331.streamlock.net/mrcompas1/livestream/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
