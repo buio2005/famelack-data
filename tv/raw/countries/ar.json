@@ -1,18 +1,5 @@
 [
   {
-    "nanoid": "OuXJk2O3QtFOgh",
-    "name": "24/7 Canal de Noticias",
-    "stream_urls": [
-      "https://panel.host-live.com:19360/cn247tv/cn247tv.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
-    "country": "ar",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "Wa2wvWwVF98vcA",
     "name": "A24",
     "stream_urls": [],
@@ -69,6 +56,19 @@
     "name": "Atcco Canal 2",
     "stream_urls": [
       "https://ola1.com.ar/atccohd/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "ar",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "zZzdEeu5sohNZw",
+    "name": "Azahares Radio Multimedia",
+    "stream_urls": [
+      "https://streamyes.alsolnet.com/azaharesfm/live/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -343,7 +343,7 @@
     "name": "Canal 8 San Juan",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/gLkM_wjuIKE"
+      "https://www.youtube-nocookie.com/embed/q1VQ4q-ysRQ"
     ],
     "languages": [
       "spa"
@@ -408,7 +408,7 @@
     "name": "Canal 13 San Juan",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/gwAn2atXvtU"
+      "https://www.youtube-nocookie.com/embed/KLP_6tAl0KI"
     ],
     "languages": [
       "spa"
@@ -476,6 +476,19 @@
     "name": "Canal 34 San Juan",
     "stream_urls": [
       "https://streamyes.alsolnet.com/canal34hd/live/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "ar",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "v7fuzMjUcfiKGk",
+    "name": "Canal 79 La Costa",
+    "stream_urls": [
+      "https://streamconex.com:19360/lacosta/lacosta.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -604,10 +617,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "YK4jerPW8Ia03w",
-    "name": "Chaco TV",
+    "nanoid": "njewIOEi3Bzjbb",
+    "name": "Chilecito TV",
     "stream_urls": [
-      "https://wowzasrv.chaco.gov.ar/Streamtv/chacotv/playlist.m3u8"
+      "https://vivo.solumedia.com:19360/grupoemail/grupoemail.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -686,7 +699,7 @@
     "name": "El Observador 107.9",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/Qz69UE7Mvic"
+      "https://www.youtube-nocookie.com/embed/JYXeKCddIpc"
     ],
     "languages": [
       "spa"
@@ -753,6 +766,32 @@
       "https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8"
     ],
     "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "ar",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "rvSLmYJvnwZ691",
+    "name": "El Tres TV",
+    "stream_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/wMHEroSA4mI"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "country": "ar",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "NYXd2ClRBhOZGJ",
+    "name": "FMVale975",
+    "stream_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/VrNa1Yyza54"
+    ],
     "languages": [
       "spa"
     ],
@@ -1021,19 +1060,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "pOLw0wjFkchEX1",
-    "name": "TeleCinco Trelew",
-    "stream_urls": [
-      "https://videohd.live:19360/8016/8016.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
-    "country": "ar",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "Go5SKBRSJ9PYYw",
     "name": "Telediario Digital",
     "stream_urls": [],
@@ -1079,6 +1105,19 @@
       "https://stream-gtlc.telecentro.net.ar/hls/telemaxhls/main.m3u8"
     ],
     "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "ar",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "C4INN3f93tsfyG",
+    "name": "Televisión Pública",
+    "stream_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/nPsweLlMZSY"
+    ],
     "languages": [
       "spa"
     ],
@@ -1182,7 +1221,7 @@
     "name": "Urbana Play 104.3 FM",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/tEy2bqXdv_0"
+      "https://www.youtube-nocookie.com/embed/4AGty31OTJ4"
     ],
     "languages": [
       "spa"

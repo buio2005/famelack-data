@@ -91,6 +91,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "bJRjHgTM43iRML",
+    "name": "Fehérvár TV",
+    "stream_urls": [
+      "https://cloudfront44.lexanetwork.com:1344/freerelay/fehervartv.sdp/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "hun"
+    ],
+    "country": "hu",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "Sf3IhYO23ElUmb",
     "name": "Gyöngyösi TV",
     "stream_urls": [
@@ -134,6 +147,19 @@
     "name": "Jászsági Térségi TV",
     "stream_urls": [
       "https://cloudfront44.lexanetwork.com:1344/relay01/broadcast007.sdp/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "hun"
+    ],
+    "country": "hu",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "NQB6tBEbXbMz8O",
+    "name": "Kanizsa TV",
+    "stream_urls": [
+      "https://cloudfront44.lexanetwork.com:1344/freerelay/kanizsavtv.sdp/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -349,10 +375,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "VllabPXOUbWxCn",
-    "name": "Vásárhelyi Televízió",
+    "nanoid": "JyxPOf8oRL0K0y",
+    "name": "VTV Mór",
     "stream_urls": [
-      "https://stream.vasarhelyitelevizio.hu/stream/stream.m3u8"
+      "https://cloudfront44.lexanetwork.com:1344/freerelay/morvtv.sdp/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -379,19 +405,6 @@
     "name": "Zalaegerszegi TV",
     "stream_urls": [
       "https://cloudfront44.lexanetwork.com:1344/freerelay/zegtv.sdp/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "hun"
-    ],
-    "country": "hu",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "VR6QfXQAolyoFB",
-    "name": "Zuglo TV",
-    "stream_urls": [
-      "https://cloudfront44.lexanetwork.com:1344/freerelay/zuglotv.sdp/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [

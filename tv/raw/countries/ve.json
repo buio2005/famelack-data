@@ -299,6 +299,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "qRZZMGSFXehDnV",
+    "name": "TAM TV",
+    "stream_urls": [
+      "https://tv.webtuya.com:3726/hybrid/play.m3u8",
+      "https://tv.webtuya.com:3726/live/tammeridalive.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "ve",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "hWlY6DCrbQlbH1",
     "name": "Telecolor",
     "stream_urls": [
@@ -364,10 +378,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "1M4Le4GYVDf5Ni",
-    "name": "Televisora de Oriente",
+    "nanoid": "sB2nccFi22vLUq",
+    "name": "TNO Radio",
     "stream_urls": [
-      "https://cloud.fastchannel.es/manifiest/hls/prog9/tvo.m3u8"
+      "https://stmv1.srvstm.com/tnovideo1/tnovideo1/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -377,10 +391,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "sB2nccFi22vLUq",
-    "name": "TNO Radio",
+    "nanoid": "iQsTa6Z2cWc5Ch",
+    "name": "Torococo TV",
     "stream_urls": [
-      "https://stmv1.srvstm.com/tnovideo1/tnovideo1/playlist.m3u8"
+      "https://us.streaminghd.cl/torococotelevision/video.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -420,6 +434,19 @@
     "name": "TVM para ti",
     "stream_urls": [
       "https://streamtv.intervenhosting.net:3529/live/tvmparatilive.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "ve",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "plr8p8zjDPs7Ks",
+    "name": "TVS",
+    "stream_urls": [
+      "https://vcp10.myplaytv.com/tvs/tvs/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [

@@ -104,19 +104,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "NSPzc9dKFMP4eI",
-    "name": "Bebeto TV",
-    "stream_urls": [
-      "https://mlb.essastream.com:8081/bebetotelevision/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
-    "country": "do",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "s7Dh02ukL4EmZ3",
     "name": "Bellavision",
     "stream_urls": [
@@ -664,6 +651,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "ukJtvffDpvYFC6",
+    "name": "Edu+ TV",
+    "stream_urls": [
+      "https://vdopanel.jlahozconsulting.com:3720/hybrid/play.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "do",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "13Kg8AyngtvWeB",
     "name": "El Pituco TV",
     "stream_urls": [
@@ -768,19 +768,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "1jIpS9UxUWXHtf",
-    "name": "Farovisión",
-    "stream_urls": [
-      "https://streamtv.intervenhosting.net:3754/hybrid/play.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
-    "country": "do",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "s6QIcWuMdB9mV3",
     "name": "FRATA TV",
     "stream_urls": [
@@ -850,6 +837,19 @@
     "name": "Global TV",
     "stream_urls": [
       "https://stmv4.voxtvhd.com.br/globaltv/globaltv/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "do",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "duSXiulPj9T5qC",
+    "name": "Guaymate TV",
+    "stream_urls": [
+      "https://live20.bozztv.com/akamaissh101/ssh101/guaymatetv/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -963,19 +963,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "yuq8lQ2J6PpfyF",
-    "name": "JPD TV",
-    "stream_urls": [
-      "https://imagenuniversaltv.net:3026/live/juanpabloduartetvlive.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
-    "country": "do",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "yFiClHHlH26XIk",
     "name": "Junior Technologia TV",
     "stream_urls": [
@@ -1067,10 +1054,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "jkKIWp8tVeKWkO",
-    "name": "La Voz del Tropico",
+    "nanoid": "1E6yornrvUYytl",
+    "name": "Laguna TV",
     "stream_urls": [
-      "https://ss2.tvrdomi.com:1936/lavozdeltropico/lavozdeltropico/playlist.m3u8"
+      "https://cnn.hostlagarto.com/lagutv/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -1080,10 +1067,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "1E6yornrvUYytl",
-    "name": "Laguna TV",
+    "nanoid": "mWic7BKGFi5alJ",
+    "name": "Larivision TV",
     "stream_urls": [
-      "https://cnn.hostlagarto.com/lagutv/playlist.m3u8"
+      "https://live.larimartv.net/livelan/stream.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -1314,6 +1301,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "66sFUlHRIWhmDx",
+    "name": "Nueva Vision 14",
+    "stream_urls": [
+      "https://live20.bozztv.com/akamaissh101/ssh101/nuevavisionhd/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "do",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "u0r5JHswrz2Ecq",
     "name": "OEPM TV",
     "stream_urls": [
@@ -1409,19 +1409,6 @@
     "name": "Pula TV",
     "stream_urls": [
       "https://fox.hostlagarto.com:8081/pulatv/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
-    "country": "do",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "rLp9Txc3fbOq5h",
-    "name": "Punta Cana TV",
-    "stream_urls": [
-      "https://fox.hostlagarto.com:8081/puntacanatv/index.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -1769,19 +1756,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "OOmY76gDtl7haQ",
-    "name": "Telecanal 28",
-    "stream_urls": [
-      "https://mlb.essastream.com:8081/telecanal28/tracks-v1a1/mono.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
-    "country": "do",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "b0Jt7tq1ydDp20",
     "name": "TeleCibaoHD",
     "stream_urls": [
@@ -1977,6 +1951,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "Rq6AkjwJCWvOOq",
+    "name": "Telever",
+    "stream_urls": [
+      "https://soportedvb.click:3413/live/televerlive.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "do",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "lDzPoC5aKtmVl6",
     "name": "Televida",
     "stream_urls": [
@@ -2059,6 +2046,19 @@
     "name": "Tour Spot TV",
     "stream_urls": [
       "https://fox.hostlagarto.com:8081/toursporttv/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "do",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "FcofxamSLOIOdE",
+    "name": "TRA 2",
+    "stream_urls": [
+      "https://live20.bozztv.com/akamaissh101/ssh101/rctvhdtra/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -2176,19 +2176,6 @@
     "name": "TV Luz",
     "stream_urls": [
       "https://host.streamingnation.live/p/3780/live/tvluzlive.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
-    "country": "do",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "5mETthMYJTfyVc",
-    "name": "TV Montana Canal 10",
-    "stream_urls": [
-      "https://live20.bozztv.com/akamaissh101/ssh101/tvmontanahd/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -2358,19 +2345,6 @@
     "name": "Zinc Nombre TV",
     "stream_urls": [
       "https://5790d294af2dc.streamlock.net/zincnombretv/live/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
-    "country": "do",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "ux7RRYtoNICWVL",
-    "name": "Zonavision TV",
-    "stream_urls": [
-      "https://ds.tvabierta.net/memfs/b295f254-7af9-45e4-bfc6-7e0bba41929d.m3u8"
     ],
     "youtube_urls": [],
     "languages": [

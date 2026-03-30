@@ -334,19 +334,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "WWqClKgm7DSO3U",
-    "name": "Donna TV",
-    "stream_urls": [
-      "https://streaming.softwarecreation.it/DonnaTv/DonnaTv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "ita"
-    ],
-    "country": "it",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "BrM3wf2aWU1ejo",
     "name": "Elive TV Brescia",
     "stream_urls": [
@@ -451,6 +438,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "bT0DyxeO3Y36es",
+    "name": "Giornale Radio TV",
+    "stream_urls": [
+      "https://5f204aff97bee.streamlock.net/GR_tv/livestream/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "ita"
+    ],
+    "country": "it",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "Fsy8GZ76VPTJUS",
     "name": "Giovanni Paolo TV",
     "stream_urls": [
@@ -480,7 +480,21 @@
     "nanoid": "uyiyfk5r0UmGtm",
     "name": "Gold TV",
     "stream_urls": [
+      "https://streaming.softwarecreation.it/GoldTv/GoldTv/playlist.m3u8",
       "https://5a1178b42cc03.streamlock.net/golditalia/golditalia/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "ita"
+    ],
+    "country": "it",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "kTsDjvuR5SnaAA",
+    "name": "Gold TV Sat",
+    "stream_urls": [
+      "https://streaming.softwarecreation.it/GoldTvSat/GoldTvSat/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -553,10 +567,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "oBwvurm2qFur1v",
-    "name": "Italia 7",
+    "nanoid": "R8E994mqmmDshs",
+    "name": "Italian Fishing TV",
     "stream_urls": [
-      "https://streaming.softwarecreation.it/Italia7/Italia7/playlist.m3u8"
+      "https://fms.premio.link/fishingtv/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -853,6 +867,45 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "XVHhDeQHjuS3Dt",
+    "name": "Peer TV Alto Adige",
+    "stream_urls": [
+      "https://iptv.peer.biz/live/peertv-it.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "ita"
+    ],
+    "country": "it",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "N6SFUaTsOKbZm2",
+    "name": "Peer TV South Tyrol",
+    "stream_urls": [
+      "https://iptv.peer.biz/live/peertv-en.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "eng"
+    ],
+    "country": "it",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "wRTNWuXxEeSri7",
+    "name": "Peer TV Südtirol",
+    "stream_urls": [
+      "https://iptv.peer.biz/live/peertv.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "deu"
+    ],
+    "country": "it",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "Zsxyrl1EjMDxBi",
     "name": "Prima TV Sicilia",
     "stream_urls": [
@@ -1131,6 +1184,17 @@
     "name": "Rakuten TV Asian Cinema Italy",
     "stream_urls": [
       "https://asian-cinema-rakuten-tv-it.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6431/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [],
+    "country": "it",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "NnyzHhJkjsfZ3n",
+    "name": "Rakuten TV Crime Series Italy",
+    "stream_urls": [
+      "https://546609034c0e41d7b5852dd870ddb53b.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6216/master.m3u8"
     ],
     "youtube_urls": [],
     "languages": [],
@@ -1500,6 +1564,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "jHr3gQHmtG7nGu",
+    "name": "T9",
+    "stream_urls": [
+      "https://streaming.softwarecreation.it/tnove/tnove/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "ita"
+    ],
+    "country": "it",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "TapdG3gwdyMX3z",
     "name": "Taurianova TV",
     "stream_urls": [
@@ -1840,19 +1917,6 @@
     "name": "TR Sport",
     "stream_urls": [
       "https://livetr.teleromagna.it/mia/live/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "ita"
-    ],
-    "country": "it",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "4lRmmKh0IB2m5u",
-    "name": "TV Campane 1",
-    "stream_urls": [
-      "https://eu1.servers10.com:8081/8032/index.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
