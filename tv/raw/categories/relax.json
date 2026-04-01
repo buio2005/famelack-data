@@ -1,71 +1,298 @@
-[
-  {
-    "nanoid": "yHegYqGe8Y9Q5E",
-    "name": "10 Bold Adelaide",
-    "stream_urls": [
-      "https://dce3793146fef017.mediapackage.us-west-2.amazonaws.com/out/v1/55cdf73af7894775ba6de8f57482b66a/CMAF_HLS/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "eng"
-    ],
-    "country": "au",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "NI9bA34mB8Hi1j",
-    "name": "Better Life Nature Channel",
-    "stream_urls": [
-      "https://tgn.bozztv.com/betterlife/betternature/betternature/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "hDKihfnR1gIzAi",
-    "name": "Myzen TV",
-    "stream_urls": [
-      "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01255-secomcofites-my-myzen-samsungen-samsungit/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "fra"
-    ],
-    "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "cfBOOiTtczD84z",
-    "name": "Space Live powered by sen",
-    "stream_urls": [
-      "https://880ca9c9341c405f83d8664a18cc7134.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-1224-SPACELIVE-LG-UK/mt/lg-uk/1224/hls/master/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "eng"
-    ],
-    "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "NpJ5K3Avxx4otV",
-    "name": "WildEarth",
-    "stream_urls": [
-      "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01290-wildearth-oando/playlist.m3u8",
-      "https://wildearth-ono.amagi.tv/playlist/amg01290-wildearth-oando/playlist.m3u8",
-      "https://wildearth-xumo.amagi.tv/master.m3u8",
-      "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01290-wildearthmediap-wildearth-samsungnl/playlist.m3u8",
-      "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01290-wildearthmediap-wildearth-samsungse/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "eng"
-    ],
-    "country": "za",
-    "isGeoBlocked": false
-  }
+[{
+        "country": "au",
+        "isGeoBlocked": false,
+        "languages": ["eng"],
+        "name": "10 Bold Adelaide",
+        "nanoid": "yHegYqGe8Y9Q5E",
+        "stream_urls": ["https://dce3793146fef017.mediapackage.us-west-2.amazonaws.com/out/v1/55cdf73af7894775ba6de8f57482b66a/CMAF_HLS/index.m3u8"],
+        "youtube_urls": []
+    }, {
+        "country": "us",
+        "isGeoBlocked": false,
+        "languages": ["eng"],
+        "name": "Better Life Nature Channel",
+        "nanoid": "NI9bA34mB8Hi1j",
+        "stream_urls": ["https://tgn.bozztv.com/betterlife/betternature/betternature/index.m3u8"],
+        "youtube_urls": []
+    }, {
+        "country": "fr",
+        "isGeoBlocked": false,
+        "languages": ["fra"],
+        "name": "Myzen TV",
+        "nanoid": "hDKihfnR1gIzAi",
+        "stream_urls": ["https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01255-secomcofites-my-myzen-samsungen-samsungit/playlist.m3u8"],
+        "youtube_urls": []
+    }, {
+        "country": "uk",
+        "isGeoBlocked": false,
+        "languages": ["eng"],
+        "name": "Space Live powered by sen",
+        "nanoid": "cfBOOiTtczD84z",
+        "stream_urls": ["https://880ca9c9341c405f83d8664a18cc7134.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-1224-SPACELIVE-LG-UK/mt/lg-uk/1224/hls/master/playlist.m3u8"],
+        "youtube_urls": []
+    }, {
+        "country": "za",
+        "isGeoBlocked": false,
+        "languages": ["eng"],
+        "name": "WildEarth",
+        "nanoid": "NpJ5K3Avxx4otV",
+        "stream_urls": ["https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01290-wildearth-oando/playlist.m3u8", "https://wildearth-ono.amagi.tv/playlist/amg01290-wildearth-oando/playlist.m3u8", "https://wildearth-xumo.amagi.tv/master.m3u8", "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01290-wildearthmediap-wildearth-samsungnl/playlist.m3u8", "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01290-wildearthmediap-wildearth-samsungse/playlist.m3u8"],
+        "youtube_urls": []
+    }, {
+        "country": "us",
+        "isGeoBlocked": false,
+        "languages": ["eng"],
+        "name": "RELAX: Camino",
+        "nanoid": "rW1eA2sD3fG4hJ5",
+        "stream_urls": ["http://a.jsrdn.com/broadcast/aee08372e5/+0000/high/c.m3u8"],
+        "youtube_urls": []
+    }, {
+        "country": "us",
+        "isGeoBlocked": false,
+        "languages": ["eng"],
+        "name": "RELAX: Acquario",
+        "nanoid": "tY6uI7oP8lK9zX0",
+        "stream_urls": ["http://a.jsrdn.com/broadcast/8b43a16c1e/+0000/mid/c.m3u8"],
+        "youtube_urls": []
+    }, {
+        "country": "us",
+        "isGeoBlocked": false,
+        "languages": ["eng"],
+        "name": "RELAX: Thunderstorms",
+        "nanoid": "cV2bN3mQ4wE5rT6",
+        "stream_urls": ["http://a.jsrdn.com/broadcast/18b42f9aef/+0000/mid/c.m3u8"],
+        "youtube_urls": []
+    }, {
+        "country": "us",
+        "isGeoBlocked": false,
+        "languages": ["eng"],
+        "name": "RELAX: Island Escape",
+        "nanoid": "zX7cV8bN9mK0jH1",
+        "stream_urls": ["http://a.jsrdn.com/broadcast/41e3e6703e/+0000/mid/c.m3u8"],
+        "youtube_urls": []
+    }, {
+        "country": "us",
+        "isGeoBlocked": false,
+        "languages": ["eng"],
+        "name": "RELAX: Island Escape",
+        "nanoid": "aB2cD3eF4gH5iJ6",
+        "stream_urls": ["https://dai.google.com/linear/hls/event/IpUm6gZ6Tz-pEotpMRsZ4w/master.m3u8"],
+        "youtube_urls": []
+    }, {
+        "country": "us",
+        "isGeoBlocked": false,
+        "languages": ["eng"],
+        "name": "RELAX: Local Now ZEN TV",
+        "nanoid": "kL7mN8oP9qR0sT1",
+        "stream_urls": ["https://ln-zen.localnowlive.com/v1/master/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_5fd8fd0625dd2a6b74008872_ln-zen/playlist.m3u8"],
+        "youtube_urls": []
+    }, {
+        "country": "ua",
+        "isGeoBlocked": false,
+        "languages": ["eng"],
+        "name": "RELAX: Relax",
+        "nanoid": "uV2wX3yZ4aB5cD6",
+        "stream_urls": ["http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8?cur=tva.org.ua&key=3i277"],
+        "youtube_urls": []
+    }, {
+        "country": "ua",
+        "isGeoBlocked": false,
+        "languages": ["eng"],
+        "name": "RELAX: RELAXON",
+        "nanoid": "eF7gH8iJ9kL0mN1",
+        "stream_urls": ["http://iptv.prosto.tv:7000/ch317/video.m3u8"],
+        "youtube_urls": []
+    }, {
+        "country": "us",
+        "isGeoBlocked": false,
+        "languages": ["eng"],
+        "name": "Fruit Feeder",
+        "nanoid": "pQ2rS3tU4vW5xY6",
+        "stream_urls": ["https://outbound-production.explore.org/stream-production-127/.m3u8"],
+        "youtube_urls": []
+    }, {
+        "country": "us",
+        "isGeoBlocked": false,
+        "languages": ["eng"],
+        "name": "Hummingbird Trees",
+        "nanoid": "zA7bC8dE9fG0hI1",
+        "stream_urls": ["https://outbound-production.explore.org/stream-production-209/.m3u8"],
+        "youtube_urls": []
+    }, {
+        "country": "us",
+        "isGeoBlocked": false,
+        "languages": ["eng"],
+        "name": "Hummingbird Feeder",
+        "nanoid": "jK2lM3nO4pQ5rS6",
+        "stream_urls": ["https://outbound-production.explore.org/stream-production-189/.m3u8"],
+        "youtube_urls": []
+    }, {
+        "country": "us",
+        "isGeoBlocked": false,
+        "languages": ["eng"],
+        "name": "Tau Waterhole",
+        "nanoid": "tU7vW8xY9zA0bC1",
+        "stream_urls": ["https://outbound-production.explore.org/stream-production-317/.m3u8"],
+        "youtube_urls": []
+    }, {
+        "country": "us",
+        "isGeoBlocked": false,
+        "languages": ["eng"],
+        "name": "Bush Lodge",
+        "nanoid": "dE2fG3hI4jK5lM6",
+        "stream_urls": ["https://outbound-production.explore.org/stream-production-276/.m3u8"],
+        "youtube_urls": []
+    }, {
+        "country": "us",
+        "isGeoBlocked": false,
+        "languages": ["eng"],
+        "name": "Tembe",
+        "nanoid": "nO7pQ8rS9tU0vW1",
+        "stream_urls": ["https://outbound-production.explore.org/stream-production-110/.m3u8"],
+        "youtube_urls": []
+    }, {
+        "country": "us",
+        "isGeoBlocked": false,
+        "languages": ["eng"],
+        "name": "Rosies Pan",
+        "nanoid": "xY2zA3bC4dE5fG6",
+        "stream_urls": ["https://outbound-production.explore.org/stream-production-108/.m3u8"],
+        "youtube_urls": []
+    }, {
+        "country": "us",
+        "isGeoBlocked": false,
+        "languages": ["eng"],
+        "name": "Honey Bees",
+        "nanoid": "hI7jK8lM9nO0pQ1",
+        "stream_urls": ["https://outbound-production.explore.org/stream-production-207/.m3u8"],
+        "youtube_urls": []
+    }, {
+        "country": "us",
+        "isGeoBlocked": false,
+        "languages": ["eng"],
+        "name": "Penguin Beach",
+        "nanoid": "rS2tU3vW4xY5zA6",
+        "stream_urls": ["https://outbound-production.explore.org/stream-production-14/.m3u8"],
+        "youtube_urls": []
+    }, {
+        "country": "us",
+        "isGeoBlocked": false,
+        "languages": ["eng"],
+        "name": "Penguins",
+        "nanoid": "bC7dE8fG9hI0jK1",
+        "stream_urls": ["https://outbound-production.explore.org/stream-production-13/.m3u8"],
+        "youtube_urls": []
+    }, {
+        "country": "us",
+        "isGeoBlocked": false,
+        "languages": ["eng"],
+        "name": "Tropical Fish",
+        "nanoid": "lM2nO3pQ4rS5tU6",
+        "stream_urls": ["https://outbound-production.explore.org/stream-production-16/.m3u8"],
+        "youtube_urls": []
+    }, {
+        "country": "us",
+        "isGeoBlocked": false,
+        "languages": ["eng"],
+        "name": "Tropical Aquarium",
+        "nanoid": "vW7xY8zA9bC0dE1",
+        "stream_urls": ["https://outbound-production.explore.org/stream-production-10/.m3u8"],
+        "youtube_urls": []
+    }, {
+        "country": "us",
+        "isGeoBlocked": false,
+        "languages": ["eng"],
+        "name": "Shark Aquarium",
+        "nanoid": "fG2hI3jK4lM5nO6",
+        "stream_urls": ["https://outbound-production.explore.org/stream-production-12/.m3u8"],
+        "youtube_urls": []
+    }, {
+        "country": "us",
+        "isGeoBlocked": false,
+        "languages": ["eng"],
+        "name": "Homosassa Springs",
+        "nanoid": "pQ7rS8tU9vW0xY1",
+        "stream_urls": ["https://outbound-production.explore.org/stream-production-319/.m3u8"],
+        "youtube_urls": []
+    }, {
+        "country": "us",
+        "isGeoBlocked": false,
+        "languages": ["eng"],
+        "name": "Orcas",
+        "nanoid": "zA2bC3dE4fG5hI6",
+        "stream_urls": ["https://outbound-production.explore.org/stream-production-95/.m3u8"],
+        "youtube_urls": []
+    }, {
+        "country": "us",
+        "isGeoBlocked": false,
+        "languages": ["eng"],
+        "name": "Underwater Manatee",
+        "nanoid": "jK7lM8nO9pQ0rS1",
+        "stream_urls": ["https://outbound-production.explore.org/stream-production-162/.m3u8"],
+        "youtube_urls": []
+    }, {
+        "country": "us",
+        "isGeoBlocked": false,
+        "languages": ["eng"],
+        "name": "Underwater Coral",
+        "nanoid": "tU2vW3xY4zA5bC6",
+        "stream_urls": ["https://outbound-production.explore.org/stream-production-105/.m3u8"],
+        "youtube_urls": []
+    }, {
+        "country": "us",
+        "isGeoBlocked": false,
+        "languages": ["eng"],
+        "name": "Kelp Forest",
+        "nanoid": "dE7fG8hI9jK0lM1",
+        "stream_urls": ["https://outbound-production.explore.org/stream-production-70/.m3u8"],
+        "youtube_urls": []
+    }, {
+        "country": "us",
+        "isGeoBlocked": false,
+        "languages": ["eng"],
+        "name": "RELAX: Beach TV",
+        "nanoid": "nO2pQ3rS4tU5vW6",
+        "stream_urls": ["http://media4.tripsmarter.com:1935/LiveTV/MTVHD/playlist.m3u8"],
+        "youtube_urls": []
+    }, {
+        "country": "br",
+        "isGeoBlocked": false,
+        "languages": ["por"],
+        "name": "Brazil: Rio",
+        "nanoid": "xY7zA8bC9dE0fG1",
+        "stream_urls": ["http://189.90.46.138:80/mirante_rio_01/index.m3u8"],
+        "youtube_urls": []
+    }, {
+        "country": "br",
+        "isGeoBlocked": false,
+        "languages": ["por"],
+        "name": "Brazil: Rio (Copacabana Beach)",
+        "nanoid": "hI2jK3lM4nO5pQ6",
+        "stream_urls": ["https://video2archives.earthcam.com/archives/_definst_/MP4:permanent/6593/2017/10/01/1300.mp4/playlist.m3u8"],
+        "youtube_urls": []
+    }, {
+        "country": "ca",
+        "isGeoBlocked": false,
+        "languages": ["eng"],
+        "name": "Canada: Charlottetown",
+        "nanoid": "rS7tU8vW9xY0zA1",
+        "stream_urls": ["http://media.gpei.ca/islandcam/guild.stream/playlist.m3u8"],
+        "youtube_urls": []
+    }, {
+        "country": "ca",
+        "isGeoBlocked": false,
+        "languages": ["eng"],
+        "name": "Canada: Toronto (Niagara Falls 1)",
+        "nanoid": "bC2dE3fG4hI5jK6",
+        "stream_urls": ["https://video2archives.earthcam.com/archives/_definst_/MP4:permanent/4559/2019/08/11/1300.mp4/chunklist_w1595912559.m3u8"],
+        "youtube_urls": []
+    }, {
+        "country": "fr",
+        "isGeoBlocked": false,
+        "languages": ["fra"],
+        "name": "France: Biarritz (Esplanade du Rocher de la Vierge)",
+        "nanoid": "lM7nO8pQ9rS0tU1",
+        "stream_urls": ["https://5c8a7c996322e.streamlock.net/live/AquariumBiarritz-RocherdelaVierge-1080p/chunklist_w1767223388.m3u8"],
+        "youtube_urls": []
+    }
 ]
