@@ -65,19 +65,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "eko7uFhNP2g6vo",
-    "name": "Chile Channel",
-    "stream_urls": [
-      "https://v2.tustreaming.cl/chilechannel/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
-    "country": "cl",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "OAc1RsWsrgVUky",
     "name": "China Travel",
     "stream_urls": [
@@ -274,6 +261,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "xJdfWe2cF6aQkl",
+    "name": "Tanzania Safari Channel",
+    "stream_urls": [
+      "https://stream-134630.castr.net/5fe35eae8c53540cab83659a/live_31dabe40323511f08b8efff0016f3b67/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "eng"
+    ],
+    "country": "tz",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "4IxBqGTmogAaSR",
     "name": "Teletur",
     "stream_urls": [
@@ -310,6 +310,19 @@
       "eng"
     ],
     "country": "in",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "xCDrIWnNgtribb",
+    "name": "Turismo RDTV",
+    "stream_urls": [
+      "https://streamunoapp.com:3086/live/telemileniolive.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "do",
     "isGeoBlocked": false
   },
   {

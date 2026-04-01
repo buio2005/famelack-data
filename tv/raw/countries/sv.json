@@ -78,10 +78,23 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "d3wecW45nAhRjr",
-    "name": "JFV TV",
+    "nanoid": "lZCJ28tnHKpEgP",
+    "name": "El Camino TV",
     "stream_urls": [
-      "https://2nbyj587d53k-hls-live.5centscdn.com/09/25b94ec89b2aa708c3c4ad0014b09845.sdp/playlist.m3u8"
+      "https://5d32e2b9b7eed.streamlock.net:4443/ectv/ectv/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "sv",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Yd25no3suS2myQ",
+    "name": "Elim TV",
+    "stream_urls": [
+      "https://stream.soporteccrtv.xyz/hls/master-dveo.m3u8"
     ],
     "youtube_urls": [],
     "languages": [

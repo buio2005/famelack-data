@@ -395,7 +395,7 @@
     "name": "JTBC News",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/ckfu52cBVsI"
+      "https://www.youtube-nocookie.com/embed/z-yRULmzQXM"
     ],
     "languages": [
       "kor"
@@ -408,7 +408,7 @@
     "name": "KBS News",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/VCSJmMTapbY"
+      "https://www.youtube-nocookie.com/embed/mdWCBLinFcY"
     ],
     "languages": [
       "kor"
@@ -473,6 +473,19 @@
     "name": "MBC Chuncheon (춘천 MBC)",
     "stream_urls": [
       "https://stream.chmbc.co.kr/TV/myStream/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "kor"
+    ],
+    "country": "kr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "KfP1wxKWGNerV7",
+    "name": "MBC Daegu (대구 MBC)",
+    "stream_urls": [
+      "https://5ee1ec6f32118.streamlock.net/live/livetv/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -599,6 +612,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "LaJUiyDd3qErb2",
+    "name": "Pororo 뽀로로",
+    "stream_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/N2NDsuEV7V4"
+    ],
+    "languages": [
+      "kor"
+    ],
+    "country": "kr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "2JjtogNFSDfTsC",
     "name": "RUTC TV",
     "stream_urls": [
@@ -616,7 +642,7 @@
     "name": "SBS",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/V97Z3s9fD1w"
+      "https://www.youtube-nocookie.com/embed/vpzUVNvrlsE"
     ],
     "languages": [
       "kor"

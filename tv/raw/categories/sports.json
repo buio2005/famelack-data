@@ -159,6 +159,19 @@
     "isGeoBlocked": true
   },
   {
+    "nanoid": "haAQVTXfQJECVE",
+    "name": "CazeTV (1080i)",
+    "stream_urls": [
+      "https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "por"
+    ],
+    "country": "br",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "Mut1mafEBDelBc",
     "name": "CBS Sports Golazo Network",
     "stream_urls": [
@@ -320,7 +333,8 @@
     "nanoid": "LRBUacm9msNRQ8",
     "name": "Fight Network",
     "stream_urls": [
-      "https://amg00966-amg00966c10-amgplt0081.playout.now3.amagi.tv/playlist/amg00966-amg00966c10-amgplt0081/playlist.m3u8"
+      "https://amg00966-amg00966c10-amgplt0081.playout.now3.amagi.tv/playlist/amg00966-amg00966c10-amgplt0081/playlist.m3u8",
+      "https://a-cdn.klowdtv.com/live2/fight_720p/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -422,6 +436,19 @@
       "tgk"
     ],
     "country": "tj",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "3PWIwG9FFIlO5Y",
+    "name": "Game+",
+    "stream_urls": [
+      "https://a-cdn.klowdtv.com/live2/fntsy_720p/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "eng"
+    ],
+    "country": "ca",
     "isGeoBlocked": false
   },
   {
@@ -632,6 +659,19 @@
       "deu"
     ],
     "country": "de",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Da460ZcoL5SJKT",
+    "name": "Multivisión Sports",
+    "stream_urls": [
+      "https://stream.digitalgt.com:3605/live/multivisionsportslive.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "gt",
     "isGeoBlocked": false
   },
   {
@@ -1330,19 +1370,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "jZEkpGlt5AGs91",
-    "name": "WCW",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/lD8PpHHJvms"
-    ],
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "d0G4zB6FBlCOOM",
     "name": "Willow Sports",
     "stream_urls": [
@@ -1356,6 +1383,19 @@
     ],
     "country": "us",
     "isGeoBlocked": true
+  },
+  {
+    "nanoid": "DpycPrqQbvwAvY",
+    "name": "Win+ Futbol",
+    "stream_urls": [
+      "https://live20.bozztv.com/akamaissh101/ssh101/winsporplusco/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "co",
+    "isGeoBlocked": false
   },
   {
     "nanoid": "Rbcaed64dSHjvH",

@@ -39,19 +39,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "sPGmyALtlBkjD3",
-    "name": "Ameritrade",
-    "stream_urls": [
-      "https://tdameritrade-vizio.amagi.tv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "8W6k7lrcWYDap4",
     "name": "apart TV",
     "stream_urls": [
@@ -254,6 +241,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "0w7Ai7GtLMZNLS",
+    "name": "Canal Pro",
+    "stream_urls": [
+      "https://www.desde-paraguay.com/pro.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "py",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "vxtY5UyNAjZlYv",
     "name": "CGTN Global Biz",
     "stream_urls": [
@@ -386,11 +386,9 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "su2eDwMfYQsEMR",
+    "nanoid": "rMsmNDEeM1gRlB",
     "name": "Ekhon TV",
-    "stream_urls": [
-      "https://tplay.live/out/bangladesh/ekhontv.index.m3u8"
-    ],
+    "stream_urls": [],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/xVbGmFbKc4U"
     ],

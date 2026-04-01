@@ -1595,19 +1595,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "sPGmyALtlBkjD3",
-    "name": "Ameritrade",
-    "stream_urls": [
-      "https://tdameritrade-vizio.amagi.tv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "et5iR1Oc0qBZ3J",
     "name": "AMG TV",
     "stream_urls": [
@@ -3329,7 +3316,7 @@
     "name": "CBS News",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/PLdwd3wmC8c"
+      "https://www.youtube-nocookie.com/embed/3eMVaWoJtE0"
     ],
     "languages": [
       "eng"
@@ -3533,19 +3520,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "JTUMNatDLRAMOe",
-    "name": "CFN Catholic Faith Network",
-    "stream_urls": [
-      "https://uni8rtmp.tulix.tv/cfntv/cfntv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "Xllgdk742GTS9y",
     "name": "Challenge Accepted",
     "stream_urls": [
@@ -3612,7 +3586,7 @@
     "name": "Channel One",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/vhnFM7DBjYA"
+      "https://www.youtube-nocookie.com/embed/fH8YYpnkkvY"
     ],
     "languages": [
       "fas"
@@ -3839,6 +3813,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "CI4BtTpHkRl4IU",
+    "name": "CityTV San Diego",
+    "stream_urls": [
+      "https://cdn3.wowza.com/5/dk84U1p2UUdoMGxT/sandiego/G1826_005/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "vTxv1PvRyWOVp3",
     "name": "Clarity 4K",
     "stream_urls": [
@@ -3882,7 +3869,7 @@
     "name": "Clifford the Big Red Dog: Classic",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/5VaCxyq5V7c"
+      "https://www.youtube-nocookie.com/embed/WY7cNMApUyQ"
     ],
     "languages": [
       "eng"
@@ -3895,7 +3882,7 @@
     "name": "Clifford the Big Red Dog: Clifford's Puppy Days",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/AVljcFYtUyU"
+      "https://www.youtube-nocookie.com/embed/DMH2hPWlIPY"
     ],
     "languages": [
       "eng"
@@ -3947,7 +3934,6 @@
     "name": "CMC (California Music Channel)",
     "stream_urls": [
       "https://cmc-cmctv-cineverse.amagi.tv/playlist.m3u8",
-      "https://cmc-kowdtv.amagi.tv/playlist.m3u8",
       "https://cmc-ono.amagi.tv/hls/amagi_hls_data_cmcAAAAAA-cmc-ono/CDN/playlist.m3u8",
       "https://hwlive.streamingmediahosting.com/14215-live/0_obd393sh/playlist.m3u8"
     ],
@@ -4337,21 +4323,9 @@
     "isGeoBlocked": true
   },
   {
-    "nanoid": "F6ET6uh5OoA8Sd",
-    "name": "Crime Cults Killers",
-    "stream_urls": [
-      "https://live-manifest.production-public.tubi.io/live/0b476028-34aa-48e8-babe-5b7172babbb7/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "AoUnJFmR2SCf1D",
     "name": "Crime ThrillHer",
     "stream_urls": [
-      "https://aegis-cloudfront-1.tubi.video/031498eb-5826-4ed2-9795-05723c10fbe0/playlist.m3u8",
       "https://d1x6vwh5kyhcyb.cloudfront.net/v1/aenetworks_thrillher_1/samsungheadend_us/latest/main/hls/playlist.m3u8"
     ],
     "youtube_urls": [],
@@ -4412,19 +4386,6 @@
     "name": "CSat TV",
     "stream_urls": [
       "https://5b622f07944df.streamlock.net/csat.tv/csat.smil/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "rIKYP5py1TrF7Q",
-    "name": "CT-N Court Feed",
-    "stream_urls": [
-      "https://video.ct-n.com/live/ctnSupreme/playlist_DVR.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -4685,21 +4646,7 @@
     "nanoid": "4fRrTYUzIhzCTk",
     "name": "DC Council Channel",
     "stream_urls": [
-      "https://video.oct.dc.gov/out/u/15_12.m3u8",
       "https://video.oct.dc.gov/out/u/DCC.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "Nf4iMslErjtXta",
-    "name": "DC.gov Council Hearing Room 120 (Washington DC)",
-    "stream_urls": [
-      "https://video.oct.dc.gov/out/u/97_12.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -4752,8 +4699,7 @@
     "nanoid": "bZjMkiMJ4f9Sf9",
     "name": "Deal Zone",
     "stream_urls": [
-      "https://pb-2x4r5igjtn1o7.akamaized.net/v1/aenetworks_dealzone_1/samsungheadend_us/latest/main/hls/playlist.m3u8",
-      "https://live-manifest.production-public.tubi.io/live/01ef20d5-307d-4c6a-9d16-a6f3df1addd3/playlist.m3u8"
+      "https://pb-2x4r5igjtn1o7.akamaized.net/v1/aenetworks_dealzone_1/samsungheadend_us/latest/main/hls/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [],
@@ -5274,7 +5220,7 @@
     "name": "Dr. Seuss",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/zqWDC5xLEfA"
+      "https://www.youtube-nocookie.com/embed/Q90-_Ux1fZM"
     ],
     "languages": [
       "eng"
@@ -5553,7 +5499,6 @@
       "https://estrellanews-roku.amagi.tv/playlist.m3u8",
       "https://estrellanews-samsung-us.amagi.tv/playlist.m3u8",
       "https://estrellanews-xumo.amagi.tv/playlist.m3u8",
-      "https://estrellanews-glewed.amagi.tv/playlist.m3u8",
       "https://aegis-cloudfront-1.tubi.video/0383cf2d-1ca5-4765-aa18-ba81329a7b05/playlist.m3u8"
     ],
     "youtube_urls": [],
@@ -6431,6 +6376,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "o8GJhpgQxXREN1",
+    "name": "Geb Tv (KBPX LD5)",
+    "stream_urls": [
+      "https://edge1.lifestreamcdn.com/live/geb/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "vie"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "W3wX0To0U8aqpL",
     "name": "Gem Shopping",
     "stream_urls": [],
@@ -6799,19 +6757,6 @@
     "stream_urls": [],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/YGbsgUXdelE"
-    ],
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "0ivoQLrHJOMC00",
-    "name": "Hasbro Pulse: Transformers Generation 1",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/aTCYFcsbsxo"
     ],
     "languages": [
       "eng"
@@ -9616,6 +9561,7 @@
     "nanoid": "OO4sfDrtpxEZzI",
     "name": "MyTime Movie Network",
     "stream_urls": [
+      "https://mytime-tcl.amagi.tv/playlist.m3u8",
       "https://mytimeuk-rakuten-samsung.amagi.tv/playlist.m3u8"
     ],
     "youtube_urls": [],
@@ -10121,7 +10067,7 @@
       "https://xumo-drct-nbcnn-ir8ze.fast.nbcuni.com/live/master.m3u8"
     ],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/TSxc95WfTeI"
+      "https://www.youtube-nocookie.com/embed/JNvVuUHh9hE"
     ],
     "languages": [
       "eng"
@@ -10292,6 +10238,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "yJ6qb835TTUKh1",
+    "name": "News12 Bronx",
+    "stream_urls": [
+      "https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12XH_A1/index_new.m3u8?omap=https"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
+    "isGeoBlocked": true
+  },
+  {
     "nanoid": "EmHOTWEORpvSsZ",
     "name": "News12 Brooklyn",
     "stream_urls": [
@@ -10318,10 +10277,10 @@
     "isGeoBlocked": true
   },
   {
-    "nanoid": "kStaIms86sY53l",
-    "name": "News12 Hudson Valley",
+    "nanoid": "q8agflF5shjdE5",
+    "name": "News12 Westchester",
     "stream_urls": [
-      "https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12HH_A1/index_new.m3u8?omap=https"
+      "https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12WH_A1/index_new.m3u8?omap=https"
     ],
     "youtube_urls": [],
     "languages": [
@@ -10648,6 +10607,19 @@
     "isGeoBlocked": true
   },
   {
+    "nanoid": "c0XE4mMPfOFYJz",
+    "name": "Olelo Community Media Channel 49",
+    "stream_urls": [
+      "https://cdn3.wowza.com/5/V2Y2VmhqMEFDTUkx/olelo/G0125_009/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "WlUf5uIhWJFf6Y",
     "name": "Olelo Community Media Channel 53",
     "stream_urls": [
@@ -10904,19 +10876,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "iPhkcC76kYpp0C",
-    "name": "Palm Beach County TV Channel 20 (Palm Beach County FL)",
-    "stream_urls": [
-      "https://pbcvideostreams1.pbc.gov/memfs/1af49f9a-6b90-4ec2-a640-7f65ceebed4a.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "HuAgGKfyx6NIKq",
     "name": "Palm Beaches TV",
     "stream_urls": [
@@ -10978,6 +10937,19 @@
     "languages": [],
     "country": "us",
     "isGeoBlocked": true
+  },
+  {
+    "nanoid": "VFD90UpkQ7f9Ss",
+    "name": "Payam Javan TV",
+    "stream_urls": [
+      "https://uni01rtmp.tulix.tv/kensecure/pjtv.stream/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "fas"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
   },
   {
     "nanoid": "troXVuExuiRqrq",
@@ -12051,19 +12023,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "jEZKuysibqeB25",
-    "name": "Revry",
-    "stream_urls": [
-      "https://d36jpyyja698yd.cloudfront.net/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "NM4IM0OOuCrdjl",
     "name": "Revry Queer",
     "stream_urls": [
@@ -12196,19 +12155,6 @@
     "youtube_urls": [],
     "languages": [
       "fra"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "KjF2Vl25g6IXPG",
-    "name": "Rubble & Crew",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/Z_fycdPWJqI"
-    ],
-    "languages": [
-      "eng"
     ],
     "country": "us",
     "isGeoBlocked": false
@@ -13053,7 +12999,7 @@
     "name": "SpongeBob SquarePants Official",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/q9_F2qjdJWs"
+      "https://www.youtube-nocookie.com/embed/eH-Uxu3m7_g"
     ],
     "languages": [
       "eng"
@@ -13548,6 +13494,19 @@
     "stream_urls": [
       "https://watch.haitilive.net/app/2020/telepam/index.fmp4.m3u8",
       "https://watch.haitilive.net/gethb/telepam/index.fmp4.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "fra"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "1E8L6wvxfbR06G",
+    "name": "TeleMIX",
+    "stream_urls": [
+      "https://haititivi.com/haiti/telemix1/index.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -14193,7 +14152,7 @@
     "name": "Times Now World",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/9luZYpQv5tA"
+      "https://www.youtube-nocookie.com/embed/g_7amZB2GoU"
     ],
     "languages": [
       "eng"
@@ -14344,19 +14303,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "oUTXA9oxGi5Idx",
-    "name": "TokuSHOUTsu: Kamen Rider Kuuga",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/5OJg6z_77oU"
-    ],
-    "languages": [
-      "jpn"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "jCCrC4uMCnnFWp",
     "name": "TokuSHOUTsu: Kamen Rider Ryuki",
     "stream_urls": [],
@@ -14378,19 +14324,6 @@
     ],
     "languages": [
       "jpn"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "Lif7wI9SEZFwXL",
-    "name": "TokuSHOUTsu: ReBoot",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/pYHWkR8JaVQ"
-    ],
-    "languages": [
-      "eng"
     ],
     "country": "us",
     "isGeoBlocked": false
@@ -15184,6 +15117,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "5q1WUlrrnksdHQ",
+    "name": "UCTV University of California",
+    "stream_urls": [
+      "https://59e8e1c60a2b2.streamlock.net/509/509.stream/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "mOVoepTQVpOqRy",
     "name": "UFC",
     "stream_urls": [
@@ -15368,17 +15314,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "m9QIHlSA6xDqx9",
-    "name": "UnXplained Zone",
-    "stream_urls": [
-      "https://live-manifest.production-public.tubi.io/live/b78ffdc7-9b64-43b2-aa6c-1e3d5e782048/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "P0h4bvO7NJJFnP",
     "name": "USA Today",
     "stream_urls": [
@@ -15387,7 +15322,9 @@
       "https://amg00457-amg00457c1-stirr-us-8143.playouts.now.amagi.tv/playlist.m3u8",
       "https://usatodaynews-xumo.amagi.tv/playlist.m3u8"
     ],
-    "youtube_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/nQuV72tsvsM"
+    ],
     "languages": [
       "eng"
     ],
@@ -16134,19 +16071,6 @@
       "https://stream.talgov.net/WCOT/smil:WCOT.smil/playlist.m3u8"
     ],
     "youtube_urls": [],
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "jZEkpGlt5AGs91",
-    "name": "WCW",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/lD8PpHHJvms"
-    ],
     "languages": [
       "eng"
     ],
@@ -16919,7 +16843,6 @@
     "name": "WSOC-DT1",
     "stream_urls": [
       "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00327-coxmediagroup-wsocbreaking-ono/playlist.m3u8",
-      "https://d1q60ra9vxbqm1.cloudfront.net/playlist.m3u8",
       "https://aegis-cloudfront-1.tubi.video/d864a20b-85bb-41bc-8fbe-6c9d8a88a32d/playlist.m3u8"
     ],
     "youtube_urls": [],
@@ -17272,6 +17195,7 @@
     "stream_urls": [
       "https://amg00143-younghollywoodfast-amg00143c1-cineverse-us-946.playouts.now.amagi.tv/playlist/amg00143-younghollywoodfast-younghollywood-cineverseus/playlist.m3u8",
       "https://younghollywood-rakuten-samsung.amagi.tv/playlist.m3u8",
+      "https://younghollywood-tcl.amagi.tv/playlist.m3u8",
       "https://younghollywood-vizio.amagi.tv/playlist.m3u8"
     ],
     "youtube_urls": [],

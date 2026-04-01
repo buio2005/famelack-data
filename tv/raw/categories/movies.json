@@ -212,19 +212,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "5fPdHbPWBlhNGl",
-    "name": "Boreal",
-    "stream_urls": [
-      "https://mlb.essastream.com:8081/borealtelevision/tracks-v1a1/mono.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
-    "country": "do",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "JIDClGIovnJEWq",
     "name": "Cafe Film",
     "stream_urls": [
@@ -525,19 +512,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "cMA4Z4YzDINUPH",
-    "name": "GEM TV Plus",
-    "stream_urls": [
-      "https://ca-rt.onetv.app/gemtvplus/index-0.m3u8?token=onetv202"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "fas"
-    ],
-    "country": "tr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "c6W4AcGWKSc8qs",
     "name": "Gold Star",
     "stream_urls": [
@@ -707,6 +681,58 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "HW3VPKyt6mpMGb",
+    "name": "iFilm 2",
+    "stream_urls": [
+      "https://live.presstv.ir/hls/ifilm2.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "fas"
+    ],
+    "country": "ir",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "FThMLWk2PqeTHZ",
+    "name": "iFilm Arabic",
+    "stream_urls": [
+      "https://live.presstv.ir/hls/ifilmar.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "ara"
+    ],
+    "country": "ir",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "ELGjlFyEtfJ19e",
+    "name": "iFilm English",
+    "stream_urls": [
+      "https://live.presstv.ir/hls/ifilmen.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "eng"
+    ],
+    "country": "ir",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "g3vaXRs7MKcSOW",
+    "name": "iFilm Persian",
+    "stream_urls": [
+      "https://live.presstv.ir/hls/ifilmfa.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "fas"
+    ],
+    "country": "ir",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "gNZqBrN60JADEb",
     "name": "Indywood TV",
     "stream_urls": [
@@ -811,19 +837,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "xJcplFZvvoAwWP",
-    "name": "Maah TV",
-    "stream_urls": [
-      "https://hls.maahtv.live/hls/stream.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "fas"
-    ],
-    "country": "my",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "tWWWWJwjjkFKBL",
     "name": "Maha Movie",
     "stream_urls": [
@@ -860,19 +873,6 @@
       "tam"
     ],
     "country": "in",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "CH0OBldtzqtjEK",
-    "name": "Mega Cine TV",
-    "stream_urls": [
-      "https://mlb.essastream.com:8081/megacinetv/tracks-v1a1/mono.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
-    "country": "do",
     "isGeoBlocked": false
   },
   {
@@ -972,6 +972,7 @@
     "nanoid": "OO4sfDrtpxEZzI",
     "name": "MyTime Movie Network",
     "stream_urls": [
+      "https://mytime-tcl.amagi.tv/playlist.m3u8",
       "https://mytimeuk-rakuten-samsung.amagi.tv/playlist.m3u8"
     ],
     "youtube_urls": [],
@@ -1412,19 +1413,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "d85uJsQx5ZxBLM",
-    "name": "Rakuten TV Top Movies Germany",
-    "stream_urls": [
-      "https://cbb622b29f5d43b598991f3fa19de291.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5985/master.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "deu"
-    ],
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "iJhK4ZfrskifqI",
     "name": "Rakuten TV Top Movies Italy",
     "stream_urls": [
@@ -1617,6 +1605,19 @@
       "fas"
     ],
     "country": "ir",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "SaJL6RdlIDIuUu",
+    "name": "The Movie Club +2",
+    "stream_urls": [
+      "https://d3gnyty2vddhsg.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-ytipwjqub3kf8/TMC2_IN.m3u8?ads.ads_cdn=cf&ads.cdn=cf"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "hin"
+    ],
+    "country": "in",
     "isGeoBlocked": false
   },
   {
@@ -1882,10 +1883,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "Jqp4ZHvmJjGFio",
-    "name": "Сити Эдем КиноДрама",
+    "nanoid": "3bwrLU3me5VJ37",
+    "name": "Сити Эдем КиноКлассика",
     "stream_urls": [
-      "https://cityeden.catcast.tv/content/45269/index.m3u8"
+      "https://cityeden.catcast.tv/content/34185/index.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -1931,19 +1932,6 @@
       "rus"
     ],
     "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "wnXEnrj6C2tzO6",
-    "name": "أفلام تركية مدبلجة للعربية - Turkish Movies",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/t7JrYEkFr0A"
-    ],
-    "languages": [
-      "ara"
-    ],
-    "country": "sa",
     "isGeoBlocked": false
   }
 ]

@@ -195,10 +195,23 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "HiSqdLo7Vz02nV",
-    "name": "Canal 3 Las Heras",
+    "nanoid": "D3rtXC7Gev4etZ",
+    "name": "Canal 4 Posadas",
     "stream_urls": [
-      "https://stream.arcast.com.ar/canal3/canal3/playlist.m3u8"
+      "https://iptv.ixfo.com.ar:30443/live/C4POS/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "ar",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "j1Mx0NYk5KtzPX",
+    "name": "Canal 4 San Juan",
+    "stream_urls": [
+      "https://streamlov.alsolnet.com/canal4sanjuan/live/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -286,20 +299,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "WYgIM57T6cgvaF",
-    "name": "Canal 7 Salta",
-    "stream_urls": [
-      "https://vivo.solumedia.com:19360/cooperativa/cooperativa.m3u8",
-      "https://vivo.solumedia.com:19360/canal7salta/canal7salta.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
-    "country": "ar",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "nNW00C0yiqPydr",
     "name": "Canal 7 Santiago del Estero",
     "stream_urls": [
@@ -365,19 +364,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "pGg9E7GpQgpIle",
-    "name": "Canal 11 de la Costa",
-    "stream_urls": [
-      "https://vivo.solumedia.com:19360/dadaproductora/dadaproductora.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
-    "country": "ar",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "Gu6k19yrwk0QaT",
     "name": "Canal 13 San Juan",
     "stream_urls": [],
@@ -404,10 +390,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "urMZ5Xb5qp5veO",
-    "name": "Canal 21 TV",
+    "nanoid": "O7iLCv0ja7EK6w",
+    "name": "Canal 22",
     "stream_urls": [
-      "https://iptv.ixfo.com.ar:30443/c21tv/hd/c21tv/playlist.m3u8"
+      "https://5f700d5b2c46f.streamlock.net/canal22/canal22/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -565,19 +551,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "TyUx4dR3i3hPtN",
-    "name": "Celta TV",
-    "stream_urls": [
-      "https://vivo.solumedia.com:19360/celta/celta.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
-    "country": "ar",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "YK4jerPW8Ia03w",
     "name": "Chaco TV",
     "stream_urls": [
@@ -673,7 +646,7 @@
     "name": "El Observador 107.9",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/3MEBbSl89EI"
+      "https://www.youtube-nocookie.com/embed/25Oo-Oecjvo"
     ],
     "languages": [
       "spa"
@@ -712,7 +685,7 @@
     "name": "El Once TV",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/37TZ-qDyHos"
+      "https://www.youtube-nocookie.com/embed/7iHtgx6JcA8"
     ],
     "languages": [
       "spa"
@@ -751,7 +724,7 @@
     "name": "El Tres TV",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/Uxr35prpys0"
+      "https://www.youtube-nocookie.com/embed/UBPYHbc0mS0"
     ],
     "languages": [
       "spa"
@@ -764,7 +737,7 @@
     "name": "FMVale975",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/VrNa1Yyza54"
+      "https://www.youtube-nocookie.com/embed/2eJ_pkJHJlQ"
     ],
     "languages": [
       "spa"
@@ -847,17 +820,6 @@
     "languages": [
       "spa"
     ],
-    "country": "ar",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "nxOuJBvN9WDNwl",
-    "name": "Milennio TV",
-    "stream_urls": [
-      "https://videostream.shockmedia.com.ar:19360/milenniotv/milenniotv.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [],
     "country": "ar",
     "isGeoBlocked": false
   },
@@ -1163,19 +1125,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "HowIZnmgVTXqy2",
-    "name": "Uniteve",
-    "stream_urls": [
-      "https://vivo.solumedia.com:19360/uniteve/uniteve.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
-    "country": "ar",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "BCglO22FLrAJM4",
     "name": "Urban Mix",
     "stream_urls": [
@@ -1193,7 +1142,7 @@
     "name": "Urbana Play 104.3 FM",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/y1aqueO8D3A"
+      "https://www.youtube-nocookie.com/embed/NaKOpFKGpQs"
     ],
     "languages": [
       "spa"

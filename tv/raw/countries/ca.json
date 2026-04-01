@@ -26,6 +26,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "4tHkld19ADlLsM",
+    "name": "Apna Punjab TV",
+    "stream_urls": [
+      "https://plus.gigabitcdn.net/live-stream/apna-punjab-H3sE/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "hin"
+    ],
+    "country": "ca",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "qza0cF55H7P2sc",
     "name": "Az Star TV",
     "stream_urls": [
@@ -43,7 +56,7 @@
     "name": "Barney the Dinosaur",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/Dngj0O5U_s8"
+      "https://www.youtube-nocookie.com/embed/f5XL1RHSL1M"
     ],
     "languages": [
       "eng"
@@ -265,7 +278,8 @@
     "nanoid": "LRBUacm9msNRQ8",
     "name": "Fight Network",
     "stream_urls": [
-      "https://amg00966-amg00966c10-amgplt0081.playout.now3.amagi.tv/playlist/amg00966-amg00966c10-amgplt0081/playlist.m3u8"
+      "https://amg00966-amg00966c10-amgplt0081.playout.now3.amagi.tv/playlist/amg00966-amg00966c10-amgplt0081/playlist.m3u8",
+      "https://a-cdn.klowdtv.com/live2/fight_720p/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -281,6 +295,19 @@
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/CqLHCJ8qnVM"
     ],
+    "languages": [
+      "eng"
+    ],
+    "country": "ca",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "3PWIwG9FFIlO5Y",
+    "name": "Game+",
+    "stream_urls": [
+      "https://a-cdn.klowdtv.com/live2/fntsy_720p/playlist.m3u8"
+    ],
+    "youtube_urls": [],
     "languages": [
       "eng"
     ],
@@ -613,6 +640,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "XLkNES6kyKfJ4o",
+    "name": "Montreal Greek TV",
+    "stream_urls": [
+      "https://live.greektv.ca/hls1/greektv.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "ell"
+    ],
+    "country": "ca",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "PcZvzmtUOxudPS",
     "name": "NACTV",
     "stream_urls": [
@@ -757,19 +797,6 @@
     "youtube_urls": [],
     "languages": [
       "fra"
-    ],
-    "country": "ca",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "NYodd4ZllT4qNK",
-    "name": "Sikh Spiritual Centre Rexdale",
-    "stream_urls": [
-      "https://cdn12.henico.net:8443/live/ssct/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "pan"
     ],
     "country": "ca",
     "isGeoBlocked": false
@@ -1050,19 +1077,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "5X99oRpChEcKAS",
-    "name": "Super Simple: Simple Songs",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/GFb2wZ6vpDo"
-    ],
-    "languages": [
-      "eng"
-    ],
-    "country": "ca",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "DsGUoe2MbJmXQZ",
     "name": "TamilVision-TV",
     "stream_urls": [
@@ -1199,6 +1213,19 @@
     ],
     "languages": [
       "fra"
+    ],
+    "country": "ca",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "7MJcYnhqkdKmZp",
+    "name": "Watan-e-Maa TV",
+    "stream_urls": [
+      "https://5caf24a595d94.streamlock.net:1937/8132/8132/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "prd"
     ],
     "country": "ca",
     "isGeoBlocked": false

@@ -52,19 +52,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "tkEITU2bEZ7qMi",
-    "name": "Canal 13 Esquipulas",
-    "stream_urls": [
-      "https://tv91.hostingnuclear.com:19360/intercable/intercable.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
-    "country": "gt",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "HQW2P8evqWenGp",
     "name": "Canal 30 TV Bethel",
     "stream_urls": [
@@ -95,6 +82,32 @@
     "name": "Maxivisión TV",
     "stream_urls": [
       "https://video03.logicahost.com.br/maxivisiontv/maxivisiontv/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "gt",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "OJjfqTLSob6ySt",
+    "name": "Multivisión Canal 3",
+    "stream_urls": [
+      "https://stream.digitalgt.com:3136/live/multivisionlive.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "gt",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Da460ZcoL5SJKT",
+    "name": "Multivisión Sports",
+    "stream_urls": [
+      "https://stream.digitalgt.com:3605/live/multivisionsportslive.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -229,6 +242,19 @@
     "youtube_urls": [],
     "languages": [
       "yua"
+    ],
+    "country": "gt",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "XwiDGKdsH20Bju",
+    "name": "TVS Retro",
+    "stream_urls": [
+      "https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
     ],
     "country": "gt",
     "isGeoBlocked": false

@@ -639,19 +639,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "Pz1CuDeSJYHivR",
-    "name": "Jalisco TV",
-    "stream_urls": [
-      "https://video0.rogohosting.com:19360/sisjalisciense/sisjalisciense.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
-    "country": "mx",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "UakGhPnebL79ku",
     "name": "KCAT Public Media TV",
     "stream_urls": [
@@ -870,6 +857,19 @@
       "ara"
     ],
     "country": "ps",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "VFD90UpkQ7f9Ss",
+    "name": "Payam Javan TV",
+    "stream_urls": [
+      "https://uni01rtmp.tulix.tv/kensecure/pjtv.stream/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "fas"
+    ],
+    "country": "us",
     "isGeoBlocked": false
   },
   {
@@ -1212,6 +1212,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "5q1WUlrrnksdHQ",
+    "name": "UCTV University of California",
+    "stream_urls": [
+      "https://59e8e1c60a2b2.streamlock.net/509/509.stream/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "JLRlLiosJOhAzH",
     "name": "UMSA TVU Internacional",
     "stream_urls": [
@@ -1238,19 +1251,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "uhXaKy0zwMPJAb",
-    "name": "UNIANDES TV",
-    "stream_urls": [
-      "https://video.compuwebecuador.com:3323/live/uniandeslive.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
-    "country": "ec",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "igJmo5J6YhgXmV",
     "name": "Unifranz",
     "stream_urls": [
@@ -1274,19 +1274,6 @@
       "por"
     ],
     "country": "br",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "moehtnlcI4ChMQ",
-    "name": "Uniwersytet im. Adama Mickiewicza w Poznaniu",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/-n9Cvao4QpE"
-    ],
-    "languages": [
-      "pol"
-    ],
-    "country": "pl",
     "isGeoBlocked": false
   },
   {

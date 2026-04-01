@@ -184,19 +184,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "zjs8fScsFVoj7q",
-    "name": "Canal Parlamento del Congreso de Jalisco",
-    "stream_urls": [
-      "https://60417ddeaf0d9.streamlock.net/srtc/smil:srtc.smil/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
-    "country": "mx",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "xIwhqLk3kSoWQX",
     "name": "CFM TV Channel 98",
     "stream_urls": [
@@ -288,6 +275,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "CI4BtTpHkRl4IU",
+    "name": "CityTV San Diego",
+    "stream_urls": [
+      "https://cdn3.wowza.com/5/dk84U1p2UUdoMGxT/sandiego/G1826_005/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "xoaAXrl0HaqGHm",
     "name": "Collier Television CTV (Naples FL)",
     "stream_urls": [
@@ -298,19 +298,6 @@
       "eng"
     ],
     "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "WscC7Swxpk8hjp",
-    "name": "Congreso del Perú en Vivo",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/H7LS3xLYb40"
-    ],
-    "languages": [
-      "spa"
-    ],
-    "country": "pe",
     "isGeoBlocked": false
   },
   {
@@ -331,19 +318,6 @@
     "name": "Cruz TV",
     "stream_urls": [
       "https://reflect-communitytv.cablecast.tv/live-4/live/stream-2/live.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "rIKYP5py1TrF7Q",
-    "name": "CT-N Court Feed",
-    "stream_urls": [
-      "https://video.ct-n.com/live/ctnSupreme/playlist_DVR.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -408,21 +382,7 @@
     "nanoid": "4fRrTYUzIhzCTk",
     "name": "DC Council Channel",
     "stream_urls": [
-      "https://video.oct.dc.gov/out/u/15_12.m3u8",
       "https://video.oct.dc.gov/out/u/DCC.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "Nf4iMslErjtXta",
-    "name": "DC.gov Council Hearing Room 120 (Washington DC)",
-    "stream_urls": [
-      "https://video.oct.dc.gov/out/u/97_12.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -888,6 +848,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "c0XE4mMPfOFYJz",
+    "name": "Olelo Community Media Channel 49",
+    "stream_urls": [
+      "https://cdn3.wowza.com/5/V2Y2VmhqMEFDTUkx/olelo/G0125_009/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "TJnswyyOLgpbHY",
     "name": "Olelo Community Media Channel 54",
     "stream_urls": [
@@ -928,16 +901,16 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "iPhkcC76kYpp0C",
-    "name": "Palm Beach County TV Channel 20 (Palm Beach County FL)",
+    "nanoid": "hKXziqHmvJRVZi",
+    "name": "Parlamentsfernsehen 1",
     "stream_urls": [
-      "https://pbcvideostreams1.pbc.gov/memfs/1af49f9a-6b90-4ec2-a640-7f65ceebed4a.m3u8"
+      "https://cldf-hlsgw.r53.cdn.tv1.eu/1000153copo/hk1.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
-      "eng"
+      "deu"
     ],
-    "country": "us",
+    "country": "de",
     "isGeoBlocked": false
   },
   {
@@ -1036,7 +1009,7 @@
     "name": "Rio TV Câmara",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/OTr741P3mrw"
+      "https://www.youtube-nocookie.com/embed/QKk4Z9bZ4_0"
     ],
     "languages": [
       "por"
@@ -1221,7 +1194,7 @@
     "name": "TV Assembleia Minas Gerais",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/Ed4y1wJfc2g"
+      "https://www.youtube-nocookie.com/embed/s2fmkBT6YM0"
     ],
     "languages": [
       "por"
@@ -1247,7 +1220,7 @@
     "name": "TV Câmara Porto Alegre",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/Lzyj1lnQpHs"
+      "https://www.youtube-nocookie.com/embed/vJhlPhWJykc"
     ],
     "languages": [
       "por"

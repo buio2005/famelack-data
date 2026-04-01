@@ -39,6 +39,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "1LD9fRGKwL67SK",
+    "name": "BestClasicosTV",
+    "stream_urls": [
+      "https://acceso.mediosdecostarica.com:3873/multi_live/play.m3u8",
+      "https://acceso.mediosdecostarica.com:3873/live/bestclasicostvlive.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "cr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "X0fe1ozGC5qVsh",
     "name": "Canal 1",
     "stream_urls": [
@@ -56,19 +70,6 @@
     "name": "Canal 3 KMK TV",
     "stream_urls": [
       "https://live20.bozztv.com/giatv/giatv-KMKTV/KMKTV/chunks.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
-    "country": "cr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "lhFBUBQYMx1tnO",
-    "name": "Canal 10",
-    "stream_urls": [
-      "https://acceso.mediosdecostarica.com:3606/live/canal10costaricalive.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -180,6 +181,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "WGsDfHy5YE0QGF",
+    "name": "GAMTV.cr",
+    "stream_urls": [
+      "https://v2.azulstream.com:8081/gamtv/gamtv/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "cr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "GD6GIT9MV0x6kz",
     "name": "Garabito TV",
     "stream_urls": [
@@ -232,6 +246,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "fNzNQyxrdQA2dG",
+    "name": "Multimedios Costa Rica",
+    "stream_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/IHaC3-uFYdg"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "country": "cr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "K2jiXD7UiZELMV",
     "name": "Nicoya TV",
     "stream_urls": [
@@ -262,6 +289,19 @@
     "name": "Quince UCR",
     "stream_urls": [
       "https://wowza.ucr.ac.cr/quinceucr/_definst_/quinceucr.stream/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "cr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Oxstp5zvFaS9ZH",
+    "name": "Retrox TV",
+    "stream_urls": [
+      "https://live20.bozztv.com/giatv/giatv-TVCHANNEL/TVCHANNEL/chunks.m3u8"
     ],
     "youtube_urls": [],
     "languages": [

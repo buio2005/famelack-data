@@ -143,6 +143,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "QDT0Nt5qZTPoXG",
+    "name": "Comedy Play",
+    "stream_urls": [
+      "https://stream1.antenaplay.ro/live/ComedyPlay/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "ron"
+    ],
+    "country": "ro",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "rpSBQXW9F7j6Ri",
     "name": "Dotto TV",
     "stream_urls": [
@@ -511,8 +524,21 @@
     "name": "Tu Decizi",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/ANmeb1AcsHM"
+      "https://www.youtube-nocookie.com/embed/qwKtvN_cnPA"
     ],
+    "languages": [
+      "ron"
+    ],
+    "country": "ro",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "rMcJnRPCctPt1F",
+    "name": "TVR 1",
+    "stream_urls": [
+      "https://tvr-1.lg.mncdn.com/tvr1/smil:tvr1.smil/chunklist_b5160000.m3u8"
+    ],
+    "youtube_urls": [],
     "languages": [
       "ron"
     ],
@@ -550,6 +576,32 @@
     "name": "TVR Cluj",
     "stream_urls": [
       "https://tvr-cluj.lg.mncdn.com/tvrcluj/smil:tvrcluj.smil/chunklist_b5160000.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "ron"
+    ],
+    "country": "ro",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "5U2zNKFRDXgbSV",
+    "name": "TVR Craiova",
+    "stream_urls": [
+      "https://tvr-craiova.lg.mncdn.com/tvrcraiova/smil:tvrcraiova.smil/chunklist_b5160000.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "ron"
+    ],
+    "country": "ro",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "AgdBh1G6zjQQ1P",
+    "name": "TVR Cultural",
+    "stream_urls": [
+      "https://tvr-cultural.lg.mncdn.com/tvrcultural/smil:tvrcultural.smil/chunklist_b5160000.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
