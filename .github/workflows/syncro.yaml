@@ -25,7 +25,7 @@ jobs:
 
       - name: Aggiungi nuovo upstream
         run: |
-          git remote add upstream https://github.com/famelack/famelack-channels.git
+          git remote add upstream https://github.com/famelack/famelack-data.git
 
       - name: Fetch dall'upstream
         run: git fetch upstream
@@ -49,7 +49,7 @@ jobs:
           if git diff-index --quiet HEAD --; then
             echo "Nessun conflitto da risolvere"
           else
-            git commit -m "Risoluzione automatica conflitti merge da famelack-channels"
+            git commit -m "Risoluzione automatica conflitti merge da famelack-data"
           fi
 
       - name: Force push sul tuo fork
