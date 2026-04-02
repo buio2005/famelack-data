@@ -106,19 +106,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "4tOQsHNAnrUk50",
-    "name": "Canal Calima TV",
-    "stream_urls": [
-      "https://movil.ejeserver.com/live/calimatv.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
-    "country": "co",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "nZ3VlBbXU9SC9N",
     "name": "Canal Institucional",
     "stream_urls": [
@@ -389,6 +376,33 @@
     "name": "El Mundo del Campo",
     "stream_urls": [
       "https://movil.ejeserver.com/live/elmundodelcampo.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "co",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "vrb0tQpIhi4WoL",
+    "name": "Frecuencia F TV",
+    "stream_urls": [
+      "https://tv.frecuenciaf.com/live/envivo.m3u8",
+      "https://tv.frecuenciaf.com/live/envivo_1080p4000kbs/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "co",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "02mPmZWllvm8GE",
+    "name": "Kalu TV",
+    "stream_urls": [
+      "https://tv.kaludecolombia.com/memfs/d71c0104-4752-4690-bdbf-19aa849da6c4.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -672,6 +686,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "RV4q1AzygKEv9i",
+    "name": "Salsa Gorda Television",
+    "stream_urls": [
+      "https://live20.bozztv.com/akamaissh101/ssh101/qMUAZEy/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "co",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "cFQi4ufWGZkS8a",
     "name": "Senal Colombia",
     "stream_urls": [
@@ -777,19 +804,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "xDBdLJkOKLjnpa",
-    "name": "TV Penol",
-    "stream_urls": [
-      "https://live20.bozztv.com/akamaissh101/ssh101/tvpenol2026/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
-    "country": "co",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "VcAQv2UIywMiiL",
     "name": "TV San Jorge",
     "stream_urls": [
@@ -833,19 +847,6 @@
     "name": "UMC TV",
     "stream_urls": [
       "https://streaming5.globalhostla.com/rtplive/unamirad/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
-    "country": "co",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "DpycPrqQbvwAvY",
-    "name": "Win+ Futbol",
-    "stream_urls": [
-      "https://live20.bozztv.com/akamaissh101/ssh101/winsporplusco/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [

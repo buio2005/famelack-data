@@ -354,19 +354,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "cYXM1U8SiVQdBO",
-    "name": "Asia TV",
-    "stream_urls": [
-      "https://stream.asiatvnet.com/1/live/master.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "sin"
-    ],
-    "country": "lk",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "C3mGhUJUZGhZ3e",
     "name": "AsianCrush",
     "stream_urls": [
@@ -592,6 +579,19 @@
     "isGeoBlocked": true
   },
   {
+    "nanoid": "tKcX920U6xNUr7",
+    "name": "Brio TV",
+    "stream_urls": [
+      "https://mumt02.tangotv.in/BRIOTV/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "tam"
+    ],
+    "country": "in",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "BAl5rYC3FH50BY",
     "name": "BTV",
     "stream_urls": [
@@ -790,6 +790,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "qFvRLYDETWTBst",
+    "name": "Cartoon Network",
+    "stream_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/SGBDtzb2xtU"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "vJ6M72183wSuAL",
     "name": "Cartoon Network: Clarence",
     "stream_urls": [],
@@ -813,6 +826,32 @@
       "fra"
     ],
     "country": "tg",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "eko7uFhNP2g6vo",
+    "name": "Chile Channel",
+    "stream_urls": [
+      "https://v2.tustreaming.cl/chilechannel/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "cl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "4OYwTQMokvaR3R",
+    "name": "Chroma TV",
+    "stream_urls": [
+      "https://5c483b9d1019c.streamlock.net/8054/8054/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "por"
+    ],
+    "country": "br",
     "isGeoBlocked": false
   },
   {
@@ -955,6 +994,7 @@
     "nanoid": "1GDzfrRPyjZsIq",
     "name": "DD Malayalam",
     "stream_urls": [
+      "https://mumt02.tangotv.in/DDMALAYALAM/index.m3u8",
       "https://d2lk5u59tns74c.cloudfront.net/out/v1/c313674ffced4c9a90f1bba436df2b9b/index.m3u8"
     ],
     "youtube_urls": [],
@@ -1216,7 +1256,8 @@
     "nanoid": "x4rro7ayT4HpmN",
     "name": "Enterr 10 Bangla",
     "stream_urls": [
-      "https://live-bangla.akamaized.net/liveabr/playlist.m3u8"
+      "https://live-bangla.akamaized.net/liveabr/playlist.m3u8",
+      "https://mumt02.tangotv.in/ENTERR10BANGLA/index.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -1303,7 +1344,8 @@
     "nanoid": "gmVIqLjD7Mvf5B",
     "name": "Fakt Marathi",
     "stream_urls": [
-      "https://cdn-6.pishow.tv/live/10002/master.m3u8"
+      "https://cdn-6.pishow.tv/live/10002/master.m3u8",
+      "https://mumt02.tangotv.in/FAKTMARATHI/index.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -1603,21 +1645,7 @@
     "nanoid": "uyiyfk5r0UmGtm",
     "name": "Gold TV",
     "stream_urls": [
-      "https://streaming.softwarecreation.it/GoldTv/GoldTv/playlist.m3u8",
       "https://5a1178b42cc03.streamlock.net/golditalia/golditalia/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "ita"
-    ],
-    "country": "it",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "kTsDjvuR5SnaAA",
-    "name": "Gold TV Sat",
-    "stream_urls": [
-      "https://streaming.softwarecreation.it/GoldTvSat/GoldTvSat/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -1720,23 +1748,23 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "wbP1yV7MoOQbP3",
-    "name": "Hispania TV",
+    "nanoid": "RjKOHS1V7q1DJZ",
+    "name": "Historia",
     "stream_urls": [
-      "https://www.streaming507.net:19360/hispaniamediatv/hispaniamediatv.m3u8"
+      "https://d1k3vzh2ivy22k.cloudfront.net/Historia.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
       "spa"
     ],
-    "country": "pa",
+    "country": "es",
     "isGeoBlocked": false
   },
   {
-    "nanoid": "RjKOHS1V7q1DJZ",
-    "name": "Historia",
+    "nanoid": "h9YxHU0Ug32YMW",
+    "name": "HOLA! Play",
     "stream_urls": [
-      "https://d1k3vzh2ivy22k.cloudfront.net/Historia.m3u8"
+      "https://hola-play-2108fd06-86d4-44e8-9867-c35b4895a1c1-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6433/master.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -1928,6 +1956,19 @@
       "spa"
     ],
     "country": "do",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "pZScXgY8dAdzmZ",
+    "name": "Jaya Plus",
+    "stream_urls": [
+      "https://mumbai-edge.smartplaytv.in/JayaPLus/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "tam"
+    ],
+    "country": "in",
     "isGeoBlocked": false
   },
   {
@@ -2644,7 +2685,7 @@
     "name": "National Geographic",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/FqQJmDiW0xs"
+      "https://www.youtube-nocookie.com/embed/wVd836vHl6s"
     ],
     "languages": [
       "eng"
@@ -2888,19 +2929,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "AsXrZmZJWwf1us",
-    "name": "Popstar! TV",
-    "stream_urls": [
-      "https://linear-10.frequency.stream/dist/stirr/10/hls/master/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "2BUOGme9iVm1bq",
     "name": "Popu TV",
     "stream_urls": [
@@ -3031,6 +3059,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "yVHVo5RwmcKcvS",
+    "name": "Radio Czwórka",
+    "stream_urls": [
+      "https://stream14.polskieradio.pl/pr4_video/video_pr4.stream/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "pol"
+    ],
+    "country": "pl",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "m0PY7A5wSbXayY",
     "name": "Radio Yguazú TV",
     "stream_urls": [
@@ -3067,19 +3108,6 @@
       "eng"
     ],
     "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "qO9vRi6qWS9n0t",
-    "name": "Raquel Daruech TV",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/0zhSGQB6TF8"
-    ],
-    "languages": [
-      "spa"
-    ],
-    "country": "uy",
     "isGeoBlocked": false
   },
   {
@@ -3446,19 +3474,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "ZzjAbSJ99PhCGg",
-    "name": "Tele Boston",
-    "stream_urls": [
-      "https://tv2.fastcast4u.com:3238/live/radiotelebostonlive.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "fra"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "248WyVmGTSntgh",
     "name": "Telediario Guadalajara",
     "stream_urls": [],
@@ -3495,19 +3510,6 @@
       "spa"
     ],
     "country": "cr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "1E8L6wvxfbR06G",
-    "name": "TeleMIX",
-    "stream_urls": [
-      "https://haititivi.com/haiti/telemix1/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "fra"
-    ],
-    "country": "us",
     "isGeoBlocked": false
   },
   {
@@ -3600,6 +3602,19 @@
       "spa"
     ],
     "country": "co",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "lLUVhti4NYpEfI",
+    "name": "Thanthi One",
+    "stream_urls": [
+      "https://mumt02.tangotv.in/THANTHIONE/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "tam"
+    ],
+    "country": "in",
     "isGeoBlocked": false
   },
   {
@@ -4062,17 +4077,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "qAUF947AFuFdtH",
-    "name": "Vĩnh Long TV5",
-    "stream_urls": [
-      "https://live.fptplay53.net/epzsd1/vinhlong5_vhls.smil/chunklist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [],
-    "country": "vn",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "4CplZeiORcJRcS",
     "name": "Vision NDV",
     "stream_urls": [
@@ -4083,6 +4087,19 @@
       "spa"
     ],
     "country": "do",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "TNC2fQ03yBqfOT",
+    "name": "Vissa TV",
+    "stream_urls": [
+      "https://mumt02.tangotv.in/VISSATV/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "tel"
+    ],
+    "country": "in",
     "isGeoBlocked": false
   },
   {
@@ -4169,6 +4186,7 @@
     "nanoid": "Vc3SRmmxmlUN8r",
     "name": "WTV Canal 20",
     "stream_urls": [
+      "https://cootv.cootel.com.ni:8095/Canal40_WTV/playlist.m3u8",
       "https://cloudvideo.servers10.com:8081/8130/index.m3u8"
     ],
     "youtube_urls": [],
@@ -4259,19 +4277,6 @@
       "spa"
     ],
     "country": "do",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "Y67heKltErviMJ",
-    "name": "Zo'r TV",
-    "stream_urls": [
-      "https://stream8.cinerama.uz/1016/tracks-v1a1/mono.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "uzb"
-    ],
-    "country": "uz",
     "isGeoBlocked": false
   },
   {

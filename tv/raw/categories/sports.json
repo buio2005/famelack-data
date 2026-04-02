@@ -215,7 +215,8 @@
     "name": "DD Sports SD",
     "stream_urls": [
       "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8",
-      "https://cdn-6.pishow.tv/live/13/master.m3u8"
+      "https://cdn-6.pishow.tv/live/13/master.m3u8",
+      "https://mumt02.tangotv.in/DDSPORTS/index.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -531,19 +532,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "RFeb11iCYGMUEw",
-    "name": "ItalianFishingTV",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/6RyRm86QYgM"
-    ],
-    "languages": [
-      "ita"
-    ],
-    "country": "it",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "KPtXyd5nRjav8n",
     "name": "KCMN-LD6",
     "stream_urls": [
@@ -593,19 +581,6 @@
       "eng"
     ],
     "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "H7YKUTmTDg1xzR",
-    "name": "M-Net Sport",
-    "stream_urls": [
-      "https://live.mnet.mk/hls/mnet-sport.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "mkd"
-    ],
-    "country": "mk",
     "isGeoBlocked": false
   },
   {
@@ -728,19 +703,6 @@
       "eng"
     ],
     "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "g2M151IR177r4N",
-    "name": "Nudge Sports Channel",
-    "stream_urls": [
-      "https://streams.comclark.com/live_input/nudge_sports/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "eng"
-    ],
-    "country": "ph",
     "isGeoBlocked": false
   },
   {
@@ -1010,25 +972,13 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "VAXyuQmSe3glBx",
-    "name": "Sportdigital FUSSBALL HD",
-    "stream_urls": [
-      "https://live20.bozztv.com/akamaissh101/ssh101/sddd1hdde/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "deu"
-    ],
-    "country": "de",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "QwsKOZxcusvvv2",
     "name": "SportsGrid",
     "stream_urls": [
       "https://amg00315-sportsgrid-firetv.amagi.tv/playlist.m3u8",
       "https://sportsgrid-plex.amagi.tv/playlist.m3u8",
-      "https://sportsgrid-samsungus.amagi.tv/playlist.m3u8"
+      "https://sportsgrid-samsungus.amagi.tv/playlist.m3u8",
+      "https://sportsgrid-klowdtv.amagi.tv/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -1357,12 +1307,12 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "HoPPiJ6zSU8JBV",
-    "name": "W14DK-D 14.5 All Sports Television Network",
-    "stream_urls": [
-      "https://2-fss-2.streamhoster.com/pl_118/204972-2205186-1/playlist.m3u8"
+    "nanoid": "jZEkpGlt5AGs91",
+    "name": "WCW",
+    "stream_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/SIBP7u0tDJY"
     ],
-    "youtube_urls": [],
     "languages": [
       "eng"
     ],
@@ -1383,19 +1333,6 @@
     ],
     "country": "us",
     "isGeoBlocked": true
-  },
-  {
-    "nanoid": "DpycPrqQbvwAvY",
-    "name": "Win+ Futbol",
-    "stream_urls": [
-      "https://live20.bozztv.com/akamaissh101/ssh101/winsporplusco/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
-    "country": "co",
-    "isGeoBlocked": false
   },
   {
     "nanoid": "Rbcaed64dSHjvH",

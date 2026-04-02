@@ -52,10 +52,36 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "tkEITU2bEZ7qMi",
+    "name": "Canal 13 Esquipulas",
+    "stream_urls": [
+      "https://tv91.hostingnuclear.com:19360/intercable/intercable.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "gt",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "HQW2P8evqWenGp",
     "name": "Canal 30 TV Bethel",
     "stream_urls": [
       "https://s.emisoras.tv:8081/canal30tvbethel/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "gt",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "H9gOtmwx3FUQi5",
+    "name": "El-Roi TV",
+    "stream_urls": [
+      "https://cdn.streamhispanatv.net:3648/live/elroitvlive.m3u8"
     ],
     "youtube_urls": [],
     "languages": [

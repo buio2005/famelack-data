@@ -276,8 +276,7 @@
     "nanoid": "eXRHxuSjLuhKid",
     "name": "Carousel",
     "stream_urls": [
-      "https://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/variant.m3u8",
-      "https://streaming.televizor-24-tochka.ru/live/232.m3u8"
+      "https://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/variant.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -811,7 +810,7 @@
     "name": "Horrid Henry",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/U0R6IxyDWpk"
+      "https://www.youtube-nocookie.com/embed/35GxLMyoiJE"
     ],
     "languages": [
       "eng"
@@ -831,6 +830,19 @@
       "ita"
     ],
     "country": "it",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "1ov4rKCt7xdyVW",
+    "name": "Japanim TV",
+    "stream_urls": [
+      "https://foxkidstv.be:3369/stream/play.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "fra"
+    ],
+    "country": "be",
     "isGeoBlocked": false
   },
   {
@@ -982,7 +994,7 @@
     "name": "L.O.L. Surprise!",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/fDd0Zxbih1E",
+      "https://www.youtube-nocookie.com/embed/erCAlqNDMvo",
       "https://www.youtube-nocookie.com/embed/hoqTYCwqhqw"
     ],
     "languages": [
@@ -1100,6 +1112,7 @@
     "nanoid": "FeQiCZUhzv3lT3",
     "name": "Moonbug Kids",
     "stream_urls": [
+      "https://moonbug-rokuus.amagi.tv/playlist.m3u8",
       "https://dq2a9ghraf7sw.cloudfront.net/Moonbug.m3u8"
     ],
     "youtube_urls": [],
@@ -1146,6 +1159,19 @@
       "por"
     ],
     "country": "br",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "eyL4xvR1sE1phq",
+    "name": "Nicktoons",
+    "stream_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/ynpb_U4R4zc"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
     "isGeoBlocked": false
   },
   {
@@ -1283,7 +1309,7 @@
     "name": "Peppa Pig Brasil",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/sVnfiS6Fjdk"
+      "https://www.youtube-nocookie.com/embed/e-hezSJ6BO4"
     ],
     "languages": [
       "por"
@@ -1422,6 +1448,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "KjF2Vl25g6IXPG",
+    "name": "Rubble & Crew",
+    "stream_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/iyT6KqNCK-0"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "tONaVtyzG81qYw",
     "name": "Ryan and Friends",
     "stream_urls": [
@@ -1445,19 +1484,6 @@
       "ara"
     ],
     "country": "cy",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "E3BHAyBMKjTQ8M",
-    "name": "Sesame Street",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/tJoa6bu42g8"
-    ],
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
     "isGeoBlocked": false
   },
   {
@@ -1518,6 +1544,19 @@
     "stream_urls": [],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/_MBH9H9Lvb0"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "country": "ca",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "5X99oRpChEcKAS",
+    "name": "Super Simple: Simple Songs",
+    "stream_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/_NiZCci_Txk"
     ],
     "languages": [
       "eng"
@@ -1846,7 +1885,7 @@
     "name": "Zig & Sharko",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/6-CYVoR443g"
+      "https://www.youtube-nocookie.com/embed/-w62_1H18_Y"
     ],
     "languages": [
       "fra"
@@ -1882,10 +1921,36 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "MCj2Vyne0bnAk3",
+    "name": "Пингвин",
+    "stream_urls": [
+      "https://sirius.greenhosting.ru/PingvinRu/video.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "lav"
+    ],
+    "country": "lv",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "S7XWd4ADfnPIn3",
     "name": "Радость моя",
     "stream_urls": [
       "https://radm.mediacdn.ru/cdn/radost/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "XpAUv3L81CCuvw",
+    "name": "Смайл ТВ",
+    "stream_urls": [
+      "https://5f05e059699ae.streamlock.net/WEB_Smilik/ngrp:Smilik.stream-adaptive/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -1940,7 +2005,7 @@
     "name": "小猪佩奇 中文官方 - Peppa Pig",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/5Ou_AW6H21c"
+      "https://www.youtube-nocookie.com/embed/Rcqt5Mfi-GY"
     ],
     "languages": [
       "zho"

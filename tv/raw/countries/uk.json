@@ -347,12 +347,12 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "RGisQUNDzBMFhg",
-    "name": "Canaf54 TV",
-    "stream_urls": [
-      "https://5caf24a595d94.streamlock.net:1937/pvyugfkzkc/pvyugfkzkc/playlist.m3u8"
+    "nanoid": "qFvRLYDETWTBst",
+    "name": "Cartoon Network",
+    "stream_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/SGBDtzb2xtU"
     ],
-    "youtube_urls": [],
     "languages": [
       "eng"
     ],
@@ -655,6 +655,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "JabrObnW5dkkDn",
+    "name": "Hellenic TV",
+    "stream_urls": [
+      "https://l5.cloudskep.com/hellenictv/htv/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "ell"
+    ],
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "HFfnGAnD9LyqkB",
     "name": "Highway Thru Hell",
     "stream_urls": [
@@ -694,7 +707,7 @@
     "name": "Horrid Henry",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/U0R6IxyDWpk"
+      "https://www.youtube-nocookie.com/embed/35GxLMyoiJE"
     ],
     "languages": [
       "eng"
@@ -873,6 +886,7 @@
     "nanoid": "FeQiCZUhzv3lT3",
     "name": "Moonbug Kids",
     "stream_urls": [
+      "https://moonbug-rokuus.amagi.tv/playlist.m3u8",
       "https://dq2a9ghraf7sw.cloudfront.net/Moonbug.m3u8"
     ],
     "youtube_urls": [],
@@ -1245,6 +1259,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "mN7jjbfyCCrHDM",
+    "name": "Rakuten TV Romance Movies UK",
+    "stream_urls": [
+      "https://2c88ed8c4df9479aa0c7138dc42115e2.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6194/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [],
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "6OObHoCz5T6mVt",
     "name": "Rakuten TV Sci-Fi UK",
     "stream_urls": [
@@ -1321,6 +1346,19 @@
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/YDvsBbKfLPA"
     ],
+    "languages": [
+      "eng"
+    ],
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "CkqK0vHvwZKLiX",
+    "name": "Sky News Weather",
+    "stream_urls": [
+      "https://distro001-gb-hls1-prd.delivery.skycdp.com/easel_cdn/ngrp:weather_loop.stream_all/playlist.m3u8"
+    ],
+    "youtube_urls": [],
     "languages": [
       "eng"
     ],

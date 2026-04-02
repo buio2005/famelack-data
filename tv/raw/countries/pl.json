@@ -93,19 +93,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "QpkwHa7GwFnKLp",
-    "name": "BTB Music",
-    "stream_urls": [
-      "https://panel.btb.j00r.us/memfs/ebaffae6-0086-49d7-843d-57f2c561de86.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "pol"
-    ],
-    "country": "pl",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "QPykxNCJ0OXJFT",
     "name": "Buzzfeed Unsolved",
     "stream_urls": [
@@ -125,6 +112,19 @@
       "https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883095"
     ],
     "youtube_urls": [],
+    "languages": [
+      "pol"
+    ],
+    "country": "pl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "P2Z68epVFispXu",
+    "name": "Cartoon Network Polska",
+    "stream_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/G9hx5Al3vxM"
+    ],
     "languages": [
       "pol"
     ],
@@ -302,6 +302,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "yVHVo5RwmcKcvS",
+    "name": "Radio Czwórka",
+    "stream_urls": [
+      "https://stream14.polskieradio.pl/pr4_video/video_pr4.stream/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "pol"
+    ],
+    "country": "pl",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "oNpOE0EguTlVfK",
     "name": "Radio RAM",
     "stream_urls": [
@@ -464,19 +477,6 @@
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/_WfqynQRsoE"
     ],
-    "languages": [
-      "pol"
-    ],
-    "country": "pl",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "lZ08XnHwjKG7mF",
-    "name": "Telewizja Regionalna Zary",
-    "stream_urls": [
-      "https://tvregfull.mailfull.pl/tvregfull/memfs/e64b3e05-649c-4939-9ff6-584e79285ccd_output_0.m3u8"
-    ],
-    "youtube_urls": [],
     "languages": [
       "pol"
     ],
@@ -718,12 +718,12 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "UJrA93oKFNB1K1",
-    "name": "Twoja.TV",
-    "stream_urls": [
-      "https://stream.twoja.tv/ttv_hls/live.m3u8"
+    "nanoid": "moehtnlcI4ChMQ",
+    "name": "Uniwersytet im. Adama Mickiewicza w Poznaniu",
+    "stream_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/4qha6UZb4NE"
     ],
-    "youtube_urls": [],
     "languages": [
       "pol"
     ],
