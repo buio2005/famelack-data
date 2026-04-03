@@ -395,7 +395,7 @@
     "name": "JTBC News",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/z-yRULmzQXM"
+      "https://www.youtube-nocookie.com/embed/xP41oioocYY"
     ],
     "languages": [
       "kor"
@@ -408,8 +408,21 @@
     "name": "KBS News",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/mdWCBLinFcY"
+      "https://www.youtube-nocookie.com/embed/YzDEHcutjWM"
     ],
+    "languages": [
+      "kor"
+    ],
+    "country": "kr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "y96VZMuCp67Sxq",
+    "name": "KBS World",
+    "stream_urls": [
+      "https://liveh12.vtvprime.vn/hls/KBS/03.m3u8"
+    ],
+    "youtube_urls": [],
     "languages": [
       "kor"
     ],
@@ -499,19 +512,6 @@
     "name": "MBC Daejeon (대전 MBC)",
     "stream_urls": [
       "https://ns1.tjmbc.co.kr/live/myStream.sdp/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "kor"
-    ],
-    "country": "kr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "I27keaXmXV9AK5",
-    "name": "MBC Jeju (제주 MBC)",
-    "stream_urls": [
-      "https://wowza.jejumbc.com/live/tv_jejumbc/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -642,7 +642,7 @@
     "name": "SBS",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/vpzUVNvrlsE"
+      "https://www.youtube-nocookie.com/embed/U_OqyVKhKkk"
     ],
     "languages": [
       "kor"
@@ -760,19 +760,6 @@
     "stream_urls": [],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/CMnAakQCEdM"
-    ],
-    "languages": [
-      "kor"
-    ],
-    "country": "kr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "qfMepn6hwcvIUS",
-    "name": "TVCHOSUN JOY",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/4FMiq4--1MY"
     ],
     "languages": [
       "kor"

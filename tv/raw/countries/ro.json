@@ -91,19 +91,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "2UXhXxAP9FifSB",
-    "name": "Arges TV",
-    "stream_urls": [
-      "https://btutzctahuf0wjoq.cdn.streamingserver.io/hls/yjvam8hlp2g3u08z02tv0yz66rq3cy.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "ron"
-    ],
-    "country": "ro",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "c1gByRg7bGFR8Z",
     "name": "Atomic Academy TV",
     "stream_urls": [
@@ -136,6 +123,19 @@
       "https://www.bucovinatv.ro/proxy/video/playlist.m3u8"
     ],
     "youtube_urls": [],
+    "languages": [
+      "ron"
+    ],
+    "country": "ro",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "QwrXrJ43PZBFLz",
+    "name": "Cartoon Network România",
+    "stream_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/5e31prxEol0"
+    ],
     "languages": [
       "ron"
     ],
@@ -250,7 +250,8 @@
     "nanoid": "H8lAJKYghBWOpW",
     "name": "Kanal D",
     "stream_urls": [
-      "https://stream1.kanald.ro/iphone/knd-live.m3u8"
+      "https://stream1.kanald.ro/iphone/knd-live.m3u8",
+      "https://stream1.kanald.ro/iphone/knd-live_low/index.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -524,7 +525,7 @@
     "name": "Tu Decizi",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/qwKtvN_cnPA"
+      "https://www.youtube-nocookie.com/embed/VO6oBvPiy7A"
     ],
     "languages": [
       "ron"
@@ -602,6 +603,19 @@
     "name": "TVR Cultural",
     "stream_urls": [
       "https://tvr-cultural.lg.mncdn.com/tvrcultural/smil:tvrcultural.smil/chunklist_b5160000.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "ron"
+    ],
+    "country": "ro",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "pZ7DVIEngrRQGF",
+    "name": "TVR Folclor",
+    "stream_urls": [
+      "https://tvr-folclor.lg.mncdn.com/tvrfolclor/smil:tvrfolclor.smil/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [

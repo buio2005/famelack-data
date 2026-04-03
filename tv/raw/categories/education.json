@@ -473,7 +473,7 @@
     "name": "Earthquake Alert Channel",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/PFF_gkpAzoc"
+      "https://www.youtube-nocookie.com/embed/mCZwNqepzsk"
     ],
     "languages": [
       "jpn"
@@ -786,7 +786,7 @@
     "name": "Nat Geo Kids",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/42QyI_w6bEg"
+      "https://www.youtube-nocookie.com/embed/PApZ2oT5SuA"
     ],
     "languages": [
       "eng"
@@ -1147,6 +1147,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "DCzhAOMfIMF2kt",
+    "name": "TV Nuevo León Canal 28 (XHMNL-TDT)",
+    "stream_urls": [
+      "https://s5.mexside.net:1936/canal28/canal28/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "mx",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "HhUtzRJjCR6lUu",
     "name": "TV UFOP",
     "stream_urls": [
@@ -1287,6 +1300,19 @@
       "por"
     ],
     "country": "br",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "moehtnlcI4ChMQ",
+    "name": "Uniwersytet im. Adama Mickiewicza w Poznaniu",
+    "stream_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/4qha6UZb4NE"
+    ],
+    "languages": [
+      "pol"
+    ],
+    "country": "pl",
     "isGeoBlocked": false
   },
   {

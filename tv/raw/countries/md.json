@@ -65,10 +65,37 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "Vz912DM7zVlEgp",
+    "name": "Tezaur TV (576i)",
+    "stream_urls": [
+      "https://tezaurtv.md/stream/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "ron"
+    ],
+    "country": "md",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "sI0ew6lEh5sEPV",
+    "name": "TV-Nord",
+    "stream_urls": [
+      "https://6065d3147e895.streamlock.net:4444/npcl/live/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "ron"
+    ],
+    "country": "md",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "hNw3JhkAal07LE",
     "name": "TVR Moldova HD",
     "stream_urls": [
-      "https://tvr-moldova.lg.mncdn.com/tvrmoldova/smil:tvrmoldova.smil/chunklist.m3u8"
+      "https://tvr-moldova.lg.mncdn.com/tvrmoldova/smil:tvrmoldova.smil/chunklist.m3u8",
+      "https://tvr-moldova.lg.mncdn.com/tvrmoldova/smil:tvrmoldova.smil/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [

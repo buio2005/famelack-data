@@ -26,19 +26,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "4tHkld19ADlLsM",
-    "name": "Apna Punjab TV",
-    "stream_urls": [
-      "https://plus.gigabitcdn.net/live-stream/apna-punjab-H3sE/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "hin"
-    ],
-    "country": "ca",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "qza0cF55H7P2sc",
     "name": "Az Star TV",
     "stream_urls": [
@@ -108,8 +95,7 @@
     "name": "CBC News",
     "stream_urls": [
       "https://d2ny9lo79ujali.cloudfront.net/CBC_News_International.m3u8",
-      "https://aegis-cloudfront-1.tubi.video/c71ce9b6-cddb-4cec-b0db-2f09289f8782/master.m3u8",
-      "https://amg00788-cbc-amg00788c4-xumo-us-3045.playouts.now.amagi.tv/master.m3u8"
+      "https://aegis-cloudfront-1.tubi.video/c71ce9b6-cddb-4cec-b0db-2f09289f8782/master.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -293,7 +279,7 @@
     "name": "Fugget About It",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/CqLHCJ8qnVM"
+      "https://www.youtube-nocookie.com/embed/EDb9_xfiZHQ"
     ],
     "languages": [
       "eng"
@@ -319,7 +305,7 @@
     "name": "Garfield & Friends",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/8iJoMS9rqPk"
+      "https://www.youtube-nocookie.com/embed/RDIYeLPHw6Q"
     ],
     "languages": [
       "eng"
@@ -802,6 +788,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "NYodd4ZllT4qNK",
+    "name": "Sikh Spiritual Centre Rexdale",
+    "stream_urls": [
+      "https://cdn12.henico.net:8443/live/ssct/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "pan"
+    ],
+    "country": "ca",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "mmZjHuy87LmO4O",
     "name": "Sooriyan TV",
     "stream_urls": [
@@ -1055,7 +1054,7 @@
     "name": "Super Simple: Bedtime Songs",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/lHRigWowXlE"
+      "https://www.youtube-nocookie.com/embed/b9M9Z6kMMcQ"
     ],
     "languages": [
       "eng"
@@ -1068,7 +1067,20 @@
     "name": "Super Simple: Noodle and Pals",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/_MBH9H9Lvb0"
+      "https://www.youtube-nocookie.com/embed/jW6frCFdND4"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "country": "ca",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "5X99oRpChEcKAS",
+    "name": "Super Simple: Simple Songs",
+    "stream_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/_NiZCci_Txk"
     ],
     "languages": [
       "eng"
