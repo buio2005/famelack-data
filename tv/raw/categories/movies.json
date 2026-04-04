@@ -93,6 +93,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "P7GocxvCrb9Z27",
+    "name": "All Time Movies",
+    "stream_urls": [
+      "https://mumt03.tangotv.in/ALLTIMEMOVIES/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "hin"
+    ],
+    "country": "in",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "miNrjenD6E2QJg",
     "name": "alpha Cinema",
     "stream_urls": [
@@ -148,7 +161,8 @@
     "nanoid": "xXmpVBCoUAjDqh",
     "name": "B4U Bhojpuri",
     "stream_urls": [
-      "https://cdnb4u.wiseplayout.com/B4U_Bhojpuri/master.m3u8"
+      "https://cdnb4u.wiseplayout.com/B4U_Bhojpuri/master.m3u8",
+      "https://mumt05.tangotv.in/B4UBHOJPURI/index.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -543,7 +557,8 @@
     "nanoid": "Z3ikslJzUV8EMT",
     "name": "Goldmines",
     "stream_urls": [
-      "https://cdn-2.pishow.tv/live/1459/master.m3u8"
+      "https://cdn-2.pishow.tv/live/1459/master.m3u8",
+      "https://mumt04.tangotv.in/GOLDMINES/index.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -777,7 +792,8 @@
     "nanoid": "9tdQOe3oPZhf4V",
     "name": "Kairali We",
     "stream_urls": [
-      "https://cdn-3.pishow.tv/live/1530/master.m3u8"
+      "https://cdn-3.pishow.tv/live/1530/master.m3u8",
+      "https://mumt01.tangotv.in/WETV/index.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -879,6 +895,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "eYL7gjaPIYarUU",
+    "name": "Max Movies",
+    "stream_urls": [
+      "https://live.maxtn.in/maxmovies/maxmovies/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "tam"
+    ],
+    "country": "in",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "DOhQjr6d6DYcGE",
     "name": "Memorias TV Film",
     "stream_urls": [
@@ -905,6 +934,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "3oZt6WW4bpgdn6",
+    "name": "MH One Movies",
+    "stream_urls": [
+      "https://mumt03.tangotv.in/MHONEMOVIE/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "hin"
+    ],
+    "country": "in",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "zNKcIL8vSfNOiJ",
     "name": "Mix Hollywood",
     "stream_urls": [
@@ -915,6 +957,19 @@
       "ara"
     ],
     "country": "eg",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Ja6UIGMi8J4VxL",
+    "name": "Movieplex",
+    "stream_urls": [
+      "https://mumt04.tangotv.in/MOVIEPLEX/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "hin"
+    ],
+    "country": "in",
     "isGeoBlocked": false
   },
   {
@@ -1117,16 +1172,16 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "v5Cnt9e5fETRq9",
-    "name": "QTV-3",
+    "nanoid": "WcVSwnwXJXy7AW",
+    "name": "Public Movies",
     "stream_urls": [
-      "https://video10.qtv.com.cn/drm/qtv3at/manifest.m3u8"
+      "https://mumt04.tangotv.in/PUBLICMOVIES/index.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
-      "zho"
+      "kan"
     ],
-    "country": "cn",
+    "country": "in",
     "isGeoBlocked": false
   },
   {
@@ -1465,6 +1520,19 @@
       "spa"
     ],
     "country": "es",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "lHKnRUC8C4E8Tq",
+    "name": "Roja Movies",
+    "stream_urls": [
+      "https://stream.rojatv.cloud/rojatv/rojatv/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "tam"
+    ],
+    "country": "in",
     "isGeoBlocked": false
   },
   {
@@ -1873,36 +1941,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "OtO4WFOzaNdFUD",
-    "name": "Сити Эдем КиноАзия",
-    "stream_urls": [
-      "https://cityeden.catcast.tv/content/34393/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "UGkFnAuONipW2e",
     "name": "Сити Эдем КиноАрт",
     "stream_urls": [
       "https://cityeden.catcast.tv/content/38398/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "ujlkE2Qc3sujr0",
-    "name": "Сити Эдем КиноДетектив",
-    "stream_urls": [
-      "https://cityeden.catcast.tv/content/41327/index.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -1925,76 +1967,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "3bwrLU3me5VJ37",
-    "name": "Сити Эдем КиноКлассика",
-    "stream_urls": [
-      "https://cityeden.catcast.tv/content/34185/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "LN1hGmRGEKcWz7",
-    "name": "Сити Эдем КиноКомедия",
-    "stream_urls": [
-      "https://cityeden.catcast.tv/content/41331/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "6NRgQX5F3uvhNk",
-    "name": "Сити Эдем КиноМистика",
-    "stream_urls": [
-      "https://cityeden.catcast.tv/content/40783/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "pqEgU0y3jnIV9h",
-    "name": "Сити Эдем КиноФантастика",
-    "stream_urls": [
-      "https://cityeden.catcast.tv/content/45268/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "ID6NJjfwQAnwkN",
-    "name": "Сити Эдем КиноЭкшен",
-    "stream_urls": [
-      "https://cityeden.catcast.tv/content/41333/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "wnXEnrj6C2tzO6",
     "name": "أفلام تركية مدبلجة للعربية - Turkish Movies",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/gDVk57ZwSz0"
+      "https://www.youtube-nocookie.com/embed/fgF8lvJFXrg"
     ],
     "languages": [
       "ara"

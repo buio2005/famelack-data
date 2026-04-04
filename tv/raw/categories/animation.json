@@ -154,19 +154,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "fruS79xWb73ha2",
-    "name": "Barney the Dinosaur",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/f5XL1RHSL1M"
-    ],
-    "languages": [
-      "eng"
-    ],
-    "country": "ca",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "3zs2UMlidApgeb",
     "name": "Blues TV",
     "stream_urls": [
@@ -843,6 +830,19 @@
       "rus"
     ],
     "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "MCj2Vyne0bnAk3",
+    "name": "Пингвин",
+    "stream_urls": [
+      "https://sirius.greenhosting.ru/PingvinRu/video.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "lav"
+    ],
+    "country": "lv",
     "isGeoBlocked": false
   },
   {

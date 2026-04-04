@@ -234,58 +234,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "9nSOZBFhMDXFTD",
-    "name": "QTV-1",
-    "stream_urls": [
-      "https://video10.qtv.com.cn/drm/qtv1at/manifest.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "zho"
-    ],
-    "country": "cn",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "v5Cnt9e5fETRq9",
-    "name": "QTV-3",
-    "stream_urls": [
-      "https://video10.qtv.com.cn/drm/qtv3at/manifest.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "zho"
-    ],
-    "country": "cn",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "1by9GcHy62iZ4M",
-    "name": "QTV-5",
-    "stream_urls": [
-      "https://video10.qtv.com.cn/drm/qtv5at/manifest.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "zho"
-    ],
-    "country": "cn",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "KVsjP0kIbz2vIV",
-    "name": "QTV-6",
-    "stream_urls": [
-      "https://video10.qtv.com.cn/drm/qtv6at/manifest.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "zho"
-    ],
-    "country": "cn",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "WLDhCoRPpsdvH2",
     "name": "Siping TV",
     "stream_urls": [
@@ -364,17 +312,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "PQS6mmZySzL6Rf",
-    "name": "上虞1新闻综合",
-    "stream_urls": [
-      "https://l.cztvcloud.com/channels/lantian/SXshangyu1/720p.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [],
-    "country": "cn",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "2Fb8Um99xfgPRq",
     "name": "上虞3新商都",
     "stream_urls": [
@@ -386,43 +323,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "ZMTYKvEKk1dmYw",
-    "name": "上虞經濟文化",
-    "stream_urls": [
-      "https://l.cztvcloud.com/channels/lantian/SXshangyu2/720p.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [],
-    "country": "cn",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "HzvN0O8csJFrwx",
     "name": "之江纪录",
     "stream_urls": [
       "https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [],
-    "country": "cn",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "4gpT2C61YO4gJy",
-    "name": "余姚姚江文化",
-    "stream_urls": [
-      "https://l.cztvcloud.com/channels/lantian/SXyuyao3/720p.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [],
-    "country": "cn",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "Z6LINyrJx59mNs",
-    "name": "余姚新闻综合",
-    "stream_urls": [
-      "https://l.cztvcloud.com/channels/lantian/SXyuyao1/720p.m3u8"
     ],
     "youtube_urls": [],
     "languages": [],
@@ -511,7 +415,7 @@
     "name": "小猪佩奇 中文官方 - Peppa Pig",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/2dv4PpuOFyU"
+      "https://www.youtube-nocookie.com/embed/hGSPpkROFE8"
     ],
     "languages": [
       "zho"
@@ -586,10 +490,21 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "THg2ymDAp3wTLF",
-    "name": "河源综合",
+    "nanoid": "2D80wABwXq6SL0",
+    "name": "浙江 Ⅰ 绍兴影视",
     "stream_urls": [
-      "https://tmpstream.hyrtv.cn/xwzh/sd/live.m3u8"
+      "https://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [],
+    "country": "cn",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "tWjSdo4t72dhtd",
+    "name": "浙江 Ⅰ 绍兴综合",
+    "stream_urls": [
+      "https://live.shaoxing.com.cn/video/s10001-sxtv1/index.m3u8"
     ],
     "youtube_urls": [],
     "languages": [],

@@ -39,10 +39,36 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "YWNPX9f8P0Trxq",
+    "name": "BTA TV",
+    "stream_urls": [
+      "https://cloud.fastchannel.es/manifiest/hls/prog9/btatv.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "ve",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "OBFGqgcPLTbi6p",
     "name": "Canal 21 Táchira",
     "stream_urls": [
       "https://stmv2.voxtvhd.com.br/canal21/canal21/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "ve",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "fUuKAKoxR67afP",
+    "name": "Canal Once",
+    "stream_urls": [
+      "https://tv.streamcasthd.com:3676/live/canal11delzulialive.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -117,19 +143,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "uShK1SgZwLoTJ4",
-    "name": "Isla TV",
-    "stream_urls": [
-      "https://59d39900ebfb8.streamlock.net/islatv/islatv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
-    "country": "ve",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "MIcJy2C1jnLtEJ",
     "name": "KandelaTV",
     "stream_urls": [
@@ -195,6 +208,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "1b6pwDCZHXANgu",
+    "name": "PortuTV",
+    "stream_urls": [
+      "https://streamtv.intervenhosting.net:3789/live/portutvlive.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "ve",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "YQGNpYUE3gQTO4",
     "name": "PromarTV",
     "stream_urls": [
@@ -238,19 +264,6 @@
     "name": "Somos TV",
     "stream_urls": [
       "https://vcp3.myplaytv.com/somostv/somostv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
-    "country": "ve",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "hWlY6DCrbQlbH1",
-    "name": "Telecolor",
-    "stream_urls": [
-      "https://cloud.livescast.com:19360/telecolor/telecolor.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -355,6 +368,32 @@
     "name": "TRT",
     "stream_urls": [
       "https://vcp12.myplaytv.com/trt/trt/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "ve",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "b3aSHeBRmQKpi4",
+    "name": "TV Oasis Monay",
+    "stream_urls": [
+      "https://live20.bozztv.com/akamaissh101/ssh101/oasistv123/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "ve",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "XdOMLij5yy08uC",
+    "name": "TVM para ti",
+    "stream_urls": [
+      "https://streamtv.intervenhosting.net:3529/live/tvmparatilive.m3u8"
     ],
     "youtube_urls": [],
     "languages": [

@@ -104,6 +104,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "GYpj19hD6m2qFh",
+    "name": "California Medios TV",
+    "stream_urls": [
+      "https://s5.mexside.net:1936/medios/medios/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "mx",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "qhvLdupfMqmZsq",
     "name": "Canal 5 TV Cozumel",
     "stream_urls": [
@@ -366,12 +379,25 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "5lhODGYtGp6nxK",
-    "name": "ImagenTV",
+    "nanoid": "yk5LuaS8jCla7l",
+    "name": "Imagen Multicast",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/8QiumhOLdw0"
+      "https://www.youtube-nocookie.com/embed/aJr1gJ7nxMI"
     ],
+    "languages": [
+      "spa"
+    ],
+    "country": "mx",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Pz1CuDeSJYHivR",
+    "name": "Jalisco TV",
+    "stream_urls": [
+      "https://video0.rogohosting.com:19360/sisjalisciense/sisjalisciense.m3u8"
+    ],
+    "youtube_urls": [],
     "languages": [
       "spa"
     ],
@@ -476,19 +502,6 @@
       "https://live.iplanay.gob.mx/hls/nayarittv.m3u8"
     ],
     "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
-    "country": "mx",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "pCFfnKm8W8E1LH",
-    "name": "NMás",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/9QVb-as_V7I"
-    ],
     "languages": [
       "spa"
     ],
@@ -853,7 +866,7 @@
     "name": "Televisa Guadalajara",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/dpt12XGuN18"
+      "https://www.youtube-nocookie.com/embed/_J7xC4NptKA"
     ],
     "languages": [
       "spa"
@@ -905,7 +918,7 @@
     "name": "Televisa Monterrey",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/35_nuIxd_is"
+      "https://www.youtube-nocookie.com/embed/rB4M23VDIZ4"
     ],
     "languages": [
       "spa"
@@ -918,7 +931,7 @@
     "name": "Televisa Piedras Negras",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/fmE7tue7zzg"
+      "https://www.youtube-nocookie.com/embed/9yGxJpgdCrc"
     ],
     "languages": [
       "spa"
@@ -1282,6 +1295,19 @@
     "name": "UMTV",
     "stream_urls": [
       "https://60417ddeaf0d9.streamlock.net/montemorelos/videomontemorelos/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "mx",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "2EyL9brYPFxMTy",
+    "name": "VB Media TV",
+    "stream_urls": [
+      "https://capomo01-enitv.eninetworks.com/locales_vbmedia_publico/index.m3u8"
     ],
     "youtube_urls": [],
     "languages": [

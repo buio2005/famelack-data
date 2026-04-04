@@ -334,6 +334,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "WWqClKgm7DSO3U",
+    "name": "Donna TV",
+    "stream_urls": [
+      "https://streaming.softwarecreation.it/DonnaTv/DonnaTv/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "ita"
+    ],
+    "country": "it",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "BrM3wf2aWU1ejo",
     "name": "Elive TV Brescia",
     "stream_urls": [
@@ -480,7 +493,6 @@
     "nanoid": "uyiyfk5r0UmGtm",
     "name": "Gold TV",
     "stream_urls": [
-      "https://streaming.softwarecreation.it/GoldTv/GoldTv/playlist.m3u8",
       "https://5a1178b42cc03.streamlock.net/golditalia/golditalia/playlist.m3u8"
     ],
     "youtube_urls": [],
@@ -778,6 +790,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "fR0ICU1okqQxU4",
+    "name": "Minformo TV",
+    "stream_urls": [
+      "https://5db313b643fd8.streamlock.net/MinformoTV/MinformoTV/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "ita"
+    ],
+    "country": "it",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "TJTh9T3GBOw5hs",
     "name": "Mr. Bean Anime Italy",
     "stream_urls": [
@@ -785,19 +810,6 @@
     ],
     "youtube_urls": [],
     "languages": [],
-    "country": "it",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "vep0J58HudEoW3",
-    "name": "Odeon 24",
-    "stream_urls": [
-      "https://streaming.softwarecreation.it/Odeon/Odeon/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "ita"
-    ],
     "country": "it",
     "isGeoBlocked": false
   },
@@ -1106,32 +1118,6 @@
     "stream_urls": [
       "https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S9346184/XEx1LqlYbNic/playlist_video.m3u8",
       "https://streamcdnb1-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S9346184/XEx1LqlYbNic/playlist_video.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "ita"
-    ],
-    "country": "it",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "Ow01MUb56XjNYI",
-    "name": "Rai 1",
-    "stream_urls": [
-      "https://dash2.antik.sk/live/test_rai_uno_tizen/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "ita"
-    ],
-    "country": "it",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "gb89vMj4sSblmg",
-    "name": "Rai 3",
-    "stream_urls": [
-      "https://dash2.antik.sk/live/test_rai_tre_tizen/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [

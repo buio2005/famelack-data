@@ -221,6 +221,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "itmATVZa5Ggr1u",
+    "name": "Click TV (Coronel)",
+    "stream_urls": [
+      "https://v2.tustreaming.cl/clicktv/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "cl",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "i7jOCnWyYw935a",
     "name": "Contivision",
     "stream_urls": [
@@ -368,7 +381,7 @@
     "name": "Meganoticias",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/eO8dUdEeLHE"
+      "https://www.youtube-nocookie.com/embed/229tTJLS_38"
     ],
     "languages": [
       "spa"
@@ -460,9 +473,7 @@
     "stream_urls": [
       "https://pnt.janusmedia.tv/hls/pnt.m3u8"
     ],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/ALIoQuY6cIU"
-    ],
+    "youtube_urls": [],
     "languages": [
       "spa"
     ],
@@ -549,9 +560,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "jngXF7oLunOTve",
+    "nanoid": "c5GR1pLsbPd5BR",
     "name": "T13",
-    "stream_urls": [],
+    "stream_urls": [
+      "https://jireh-2-hls-video-us-isp.dps.live/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/t13/t13.smil/playlist.m3u8"
+    ],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/xyY9EXrOaPk"
     ],
@@ -774,6 +787,7 @@
     "nanoid": "fsG9WCXeLX2m3u",
     "name": "Universidad Autónoma Temuco (UATV)",
     "stream_urls": [
+      "https://unlimited1-us.dps.live/uatv/uatv.smil/playlist.m3u8",
       "https://unlimited6-cl.dps.live/uatv/uatv.smil/playlist.m3u8"
     ],
     "youtube_urls": [],

@@ -26,6 +26,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "4tHkld19ADlLsM",
+    "name": "Apna Punjab TV",
+    "stream_urls": [
+      "https://mumt03.tangotv.in/APNAPUNJAB/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "hin"
+    ],
+    "country": "ca",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "qza0cF55H7P2sc",
     "name": "Az Star TV",
     "stream_urls": [
@@ -34,19 +47,6 @@
     "youtube_urls": [],
     "languages": [
       "aze"
-    ],
-    "country": "ca",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "fruS79xWb73ha2",
-    "name": "Barney the Dinosaur",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/f5XL1RHSL1M"
-    ],
-    "languages": [
-      "eng"
     ],
     "country": "ca",
     "isGeoBlocked": false
@@ -95,7 +95,8 @@
     "name": "CBC News",
     "stream_urls": [
       "https://d2ny9lo79ujali.cloudfront.net/CBC_News_International.m3u8",
-      "https://aegis-cloudfront-1.tubi.video/c71ce9b6-cddb-4cec-b0db-2f09289f8782/master.m3u8"
+      "https://aegis-cloudfront-1.tubi.video/c71ce9b6-cddb-4cec-b0db-2f09289f8782/master.m3u8",
+      "https://amg00788-cbc-amg00788c4-xumo-us-3045.playouts.now.amagi.tv/master.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -294,19 +295,6 @@
       "https://a-cdn.klowdtv.com/live2/fntsy_720p/playlist.m3u8"
     ],
     "youtube_urls": [],
-    "languages": [
-      "eng"
-    ],
-    "country": "ca",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "hTAa42S6ckdNs5",
-    "name": "Garfield & Friends",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/RDIYeLPHw6Q"
-    ],
     "languages": [
       "eng"
     ],
@@ -621,6 +609,19 @@
     ],
     "languages": [
       "en"
+    ],
+    "country": "ca",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Iz0NChVF5yie3L",
+    "name": "Melody Hits",
+    "stream_urls": [
+      "https://mumt03.tangotv.in/MELODYHITS/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "ara"
     ],
     "country": "ca",
     "isGeoBlocked": false

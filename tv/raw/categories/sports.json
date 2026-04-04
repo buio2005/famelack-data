@@ -505,19 +505,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "GV38pwWqigwkoF",
-    "name": "HTV Thể thao",
-    "stream_urls": [
-      "https://live.fptplay53.net/epzhd1/htvcthethao_vhls.smil/chunklist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "vie"
-    ],
-    "country": "vn",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "YJ0VLCpIyYcZ5V",
     "name": "InTrouble",
     "stream_urls": [
@@ -581,19 +568,6 @@
       "eng"
     ],
     "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "H7YKUTmTDg1xzR",
-    "name": "M-Net Sport",
-    "stream_urls": [
-      "https://live.mnet.mk/hls/mnet-sport.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "mkd"
-    ],
-    "country": "mk",
     "isGeoBlocked": false
   },
   {
@@ -1107,6 +1081,19 @@
       "tur"
     ],
     "country": "tr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "MF8dCK1EmeF821",
+    "name": "Tour Spot TV",
+    "stream_urls": [
+      "https://fox.hostlagarto.com:8081/toursporttv/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "do",
     "isGeoBlocked": false
   },
   {

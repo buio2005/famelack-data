@@ -333,6 +333,7 @@
     "name": "DD Bharati",
     "stream_urls": [
       "https://cdn-1.pishow.tv/live/10/master.m3u8",
+      "https://mumt01.tangotv.in/DDBHARATI/index.m3u8",
       "https://d2lk5u59tns74c.cloudfront.net/out/v1/67cec794d8b14f9ba21f73924ac65797/index.m3u8"
     ],
     "youtube_urls": [
@@ -348,6 +349,7 @@
     "nanoid": "3RFBxxtq5PlDQ7",
     "name": "DD Kashir",
     "stream_urls": [
+      "https://mumt05.tangotv.in/DDKASHIR/index.m3u8",
       "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/8a59a828e80c49d0958925950cec0204/index.m3u8"
     ],
     "youtube_urls": [
@@ -666,6 +668,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "Pz1CuDeSJYHivR",
+    "name": "Jalisco TV",
+    "stream_urls": [
+      "https://video0.rogohosting.com:19360/sisjalisciense/sisjalisciense.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "mx",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "pZScXgY8dAdzmZ",
     "name": "Jaya Plus",
     "stream_urls": [
@@ -704,6 +719,19 @@
       "kur"
     ],
     "country": "nl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Bvox2CnXHOsvHp",
+    "name": "JOS TV HD",
+    "stream_urls": [
+      "https://stream.berosat.live:19360/jos-tv-stream/jos-tv-stream.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "fra"
+    ],
+    "country": "cg",
     "isGeoBlocked": false
   },
   {
@@ -789,6 +817,19 @@
     "name": "MCN6 Arts Channel",
     "stream_urls": [
       "https://d18fcxaqfnwjhj.cloudfront.net/CDN_Ingest/MCN6_COMEDY.smil/Playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "q666a4s6CEkDLb",
+    "name": "Midpen Media Center Arts Issues and Lifestyles Channel 30",
+    "stream_urls": [
+      "https://5c2974786200d.streamlock.net/live-chan30/ngrp:ch30_all/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -964,6 +1005,19 @@
       "spa"
     ],
     "country": "es",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "y8ufu4YXUzuRSK",
+    "name": "RTB 3",
+    "stream_urls": [
+      "https://edge13.vedge.infomaniak.com/livecast/ik:rtb3-1/manifest.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "mos"
+    ],
+    "country": "bf",
     "isGeoBlocked": false
   },
   {
@@ -1215,17 +1269,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "qAUF947AFuFdtH",
-    "name": "Vĩnh Long TV5",
-    "stream_urls": [
-      "https://live.fptplay53.net/epzsd1/vinhlong5_vhls.smil/chunklist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [],
-    "country": "vn",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "glNPCf2RbwoWmt",
     "name": "zenith",
     "stream_urls": [
@@ -1236,6 +1279,19 @@
       "fra"
     ],
     "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "SouHlOn23CzTQS",
+    "name": "НТВ Мир",
+    "stream_urls": [
+      "https://streaming.thestream.cyou/live/213.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
     "isGeoBlocked": false
   },
   {
