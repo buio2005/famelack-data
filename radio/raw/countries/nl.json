@@ -828,6 +828,18 @@
     ]
   },
   {
+    "nanoid": "BtHGsA17KYC17C",
+    "name": "Contikenzo",
+    "stream_urls": [
+      "https://contikenzo.beheerstream.nl:8136/stream"
+    ],
+    "country": "nl",
+    "languages": [
+      "eng",
+      "nld"
+    ]
+  },
+  {
     "nanoid": "Ev1SNcU040FS6f",
     "name": "Cool Dance Radio",
     "stream_urls": [
@@ -1021,6 +1033,18 @@
     ],
     "country": "nl",
     "languages": [
+      "nld"
+    ]
+  },
+  {
+    "nanoid": "r5FXfCNpfb5Jds",
+    "name": "Echobox Radio",
+    "stream_urls": [
+      "https://play.streamnerd.nl/echobox/echobox/icecast.audio"
+    ],
+    "country": "nl",
+    "languages": [
+      "eng",
       "nld"
     ]
   },
@@ -1239,6 +1263,17 @@
     "name": "FunX Arab",
     "stream_urls": [
       "https://icecast.omroep.nl/funx-arabfb-bb-mp3"
+    ],
+    "country": "nl",
+    "languages": [
+      "nld"
+    ]
+  },
+  {
+    "nanoid": "ssucP4SWyfuhWB",
+    "name": "FunX Dance",
+    "stream_urls": [
+      "https://icecast.omroep.nl/funx-dancefb-bb-mp3"
     ],
     "country": "nl",
     "languages": [
@@ -1534,29 +1569,6 @@
     ]
   },
   {
-    "nanoid": "1lASlOn216JGtv",
-    "name": "Happy Sound Music",
-    "stream_urls": [
-      "https://server-28.stream-server.nl:8918/stream"
-    ],
-    "country": "nl",
-    "languages": [
-      "nld"
-    ]
-  },
-  {
-    "nanoid": "Vid9EAfxjByqP4",
-    "name": "Happy Sound Music Limburg",
-    "stream_urls": [
-      "https://server-28.stream-server.nl/stream/happysoundmusic"
-    ],
-    "country": "nl",
-    "languages": [
-      "eng",
-      "lim"
-    ]
-  },
-  {
     "nanoid": "cSlcHTxD3Ib3JG",
     "name": "Happy-Tigers",
     "stream_urls": [
@@ -1786,7 +1798,6 @@
     "name": "i-turn Radio",
     "stream_urls": [
       "https://live.i-turnradio.nl/live",
-      "https://live2.i-turnradio.nl/stream4",
       "https://live.i-turnradio.nl:8035/;"
     ],
     "country": "nl",
@@ -2121,17 +2132,6 @@
     "name": "Kick Radio",
     "stream_urls": [
       "https://live.onlineradiostreaming.nl/kick"
-    ],
-    "country": "nl",
-    "languages": [
-      "nld"
-    ]
-  },
-  {
-    "nanoid": "URRb2rmDLPyhZz",
-    "name": "KingFM",
-    "stream_urls": [
-      "https://server-28.stream-server.nl:8870/"
     ],
     "country": "nl",
     "languages": [
@@ -3559,17 +3559,6 @@
     ]
   },
   {
-    "nanoid": "qRMQA8ZSbjYCox",
-    "name": "Piratenhits Internetradio",
-    "stream_urls": [
-      "https://www.piratenhits.com:8052/live"
-    ],
-    "country": "nl",
-    "languages": [
-      "nld"
-    ]
-  },
-  {
     "nanoid": "nudhkx810J9eNR",
     "name": "Piratenhits.fm",
     "stream_urls": [
@@ -3628,7 +3617,8 @@
     "nanoid": "lz9dL2AzofR498",
     "name": "Polder Radio",
     "stream_urls": [
-      "https://server-67.stream-server.nl:8734/"
+      "https://server-67.stream-server.nl:8734/",
+      "https://server-67.stream-server.nl:8738/"
     ],
     "country": "nl",
     "languages": [
@@ -4083,17 +4073,6 @@
     "name": "Radio Bildtstar",
     "stream_urls": [
       "https://radio-bildtstar.nl/luisteren"
-    ],
-    "country": "nl",
-    "languages": [
-      "nld"
-    ]
-  },
-  {
-    "nanoid": "GrsmDgoKC3M4Mo",
-    "name": "Radio Blacklight",
-    "stream_urls": [
-      "https://server-28.stream-server.nl:8876/autodj"
     ],
     "country": "nl",
     "languages": [
@@ -5226,6 +5205,17 @@
     ]
   },
   {
+    "nanoid": "YQuxGjofmlWfEM",
+    "name": "RTV80",
+    "stream_urls": [
+      "https://nlpo.stream.vip/rtv80/mp3-192/nlpo"
+    ],
+    "country": "nl",
+    "languages": [
+      "nld"
+    ]
+  },
+  {
     "nanoid": "QPCcyoGQfwoeib",
     "name": "RTW FM",
     "stream_urls": [
@@ -5867,6 +5857,18 @@
     ],
     "country": "nl",
     "languages": [
+      "nld"
+    ]
+  },
+  {
+    "nanoid": "QDeKJfYp7silCD",
+    "name": "Ujala Radio",
+    "stream_urls": [
+      "https://stream2.ujala.nl/stream/2/listen.mp3"
+    ],
+    "country": "nl",
+    "languages": [
+      "hin",
       "nld"
     ]
   },

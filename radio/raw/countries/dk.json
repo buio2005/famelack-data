@@ -33,6 +33,17 @@
     ]
   },
   {
+    "nanoid": "XtJRQHuOO4SkjO",
+    "name": "ANR",
+    "stream_urls": [
+      "https://stream.anr.dk/anr"
+    ],
+    "country": "dk",
+    "languages": [
+      "dan"
+    ]
+  },
+  {
     "nanoid": "unAjjDeMj3p6aP",
     "name": "Classic FM",
     "stream_urls": [
@@ -49,6 +60,17 @@
     "name": "Classic FM Esbjerg",
     "stream_urls": [
       "https://webradio.classicfm.dk/classicvejle"
+    ],
+    "country": "dk",
+    "languages": [
+      "dan"
+    ]
+  },
+  {
+    "nanoid": "7nCUH4oHoHfghk",
+    "name": "Classic FM Fyn",
+    "stream_urls": [
+      "https://netradio.classicfm.dk/cla12a"
     ],
     "country": "dk",
     "languages": [
@@ -596,17 +618,6 @@
     ]
   },
   {
-    "nanoid": "rSSbo1hRsYvhww",
-    "name": "Radio Mars",
-    "stream_urls": [
-      "https://radio2.digidi.net/listen/mars/radio_mid.mp3"
-    ],
-    "country": "dk",
-    "languages": [
-      "dan"
-    ]
-  },
-  {
     "nanoid": "fJHkYE3arOZIps",
     "name": "Radio Panini",
     "stream_urls": [
@@ -793,8 +804,6 @@
     "nanoid": "AK2ruqpuSmKsSW",
     "name": "TechnoBase.FM",
     "stream_urls": [
-      "https://listener2.aach.tb-group.fm/tb-high.aac",
-      "https://listener2.mp3.tb-group.fm/tb.mp3",
       "https://listen.technobase.fm/tunein-aacplus-pls",
       "https://listen.technobase.fm/tunein-mp3-pls"
     ],

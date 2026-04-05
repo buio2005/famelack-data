@@ -252,18 +252,6 @@
     ]
   },
   {
-    "nanoid": "d0PNW6ALPNlk7E",
-    "name": "3MBS Fine Music Melbourne",
-    "stream_urls": [
-      "https://playerservices.streamtheworld.com/api/livestream-redirect/3MBS.mp3",
-      "https://23093.live.streamtheworld.com/3MBS.mp3"
-    ],
-    "country": "au",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
     "nanoid": "eyDSKlwWaiDAzv",
     "name": "4MBS Classic FM",
     "stream_urls": [
@@ -1606,8 +1594,18 @@
     "nanoid": "llWq9ORGunJqF5",
     "name": "Classical 89 (KBYU-FM)",
     "stream_urls": [
-      "https://radio.byub.org/classical89/classical89_aac",
       "https://radio.byub.org/classical89/classical89_mp3"
+    ],
+    "country": "us",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "U51eXEIOlHegav",
+    "name": "Classical 89.3 WQED",
+    "stream_urls": [
+      "https://ice-1.streamhoster.com/lv_wqed--893"
     ],
     "country": "us",
     "languages": [
@@ -2702,17 +2700,6 @@
     "name": "CRB - Holiday Party Soundtrack",
     "stream_urls": [
       "https://wgbh-live.streamguys1.com/holiday1.aac"
-    ],
-    "country": "us",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
-    "nanoid": "3WeGPxtZpNaEV7",
-    "name": "CRB - Leonard Bernstein",
-    "stream_urls": [
-      "https://wgbh-live.streamguys1.com/classical-aac"
     ],
     "country": "us",
     "languages": [
@@ -3975,17 +3962,6 @@
     ]
   },
   {
-    "nanoid": "EEAL5VWsy5Bt4C",
-    "name": "KBYI 94.3 FM",
-    "stream_urls": [
-      "https://radiostream.byui.edu/kbyi"
-    ],
-    "country": "us",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
     "nanoid": "xZ39xYKPbYYOXX",
     "name": "KCME 88.7 FM",
     "stream_urls": [
@@ -4069,6 +4045,17 @@
     "name": "Klassik 1",
     "stream_urls": [
       "https://icepool.silvacast.com/KLASSIK1.mp3"
+    ],
+    "country": "de",
+    "languages": [
+      "deu"
+    ]
+  },
+  {
+    "nanoid": "DdIHfmJgavGP7C",
+    "name": "Klassik Co",
+    "stream_urls": [
+      "https://klassik_co.stream.laut.fm/klassik_co"
     ],
     "country": "de",
     "languages": [
@@ -4783,6 +4770,18 @@
     ]
   },
   {
+    "nanoid": "5PVDropy0yGh3Q",
+    "name": "Medi 1 Classique",
+    "stream_urls": [
+      "https://live.medi1.com/Classique"
+    ],
+    "country": "ma",
+    "languages": [
+      "ara",
+      "fra"
+    ]
+  },
+  {
     "nanoid": "BPR1yvOLXouMUT",
     "name": "Miled Music Clásica",
     "stream_urls": [
@@ -4857,17 +4856,6 @@
     "country": "us",
     "languages": [
       "eng"
-    ]
-  },
-  {
-    "nanoid": "sPUNp3AcdKSpZR",
-    "name": "Music'O",
-    "stream_urls": [
-      "https://rjl-misrahi.ice.infomaniak.ch/rjl-misrahi-128.mp3"
-    ],
-    "country": "fr",
-    "languages": [
-      "fra"
     ]
   },
   {
@@ -5131,6 +5119,17 @@
     "country": "mx",
     "languages": [
       "spa"
+    ]
+  },
+  {
+    "nanoid": "CbymLOzKG5TylD",
+    "name": "Organ Magic",
+    "stream_urls": [
+      "https://outpostradio.com/listen/omagic"
+    ],
+    "country": "us",
+    "languages": [
+      "eng"
     ]
   },
   {
@@ -6612,6 +6611,17 @@
     ]
   },
   {
+    "nanoid": "dPMtcic4UlcleG",
+    "name": "Radio TPI",
+    "stream_urls": [
+      "https://s1.slotex.pl/shoutcast/7632/stream"
+    ],
+    "country": "pl",
+    "languages": [
+      "pol"
+    ]
+  },
+  {
     "nanoid": "UQuTy9ny23uajc",
     "name": "Radio UdeC",
     "stream_urls": [
@@ -7188,6 +7198,17 @@
     ]
   },
   {
+    "nanoid": "TMezv5vxXekNVT",
+    "name": "SWR4 Karlsruhe",
+    "stream_urls": [
+      "https://liveradio.swr.de/sw282p3/swr4ka/play.mp3"
+    ],
+    "country": "de",
+    "languages": [
+      "deu"
+    ]
+  },
+  {
     "nanoid": "3jzF1TUWbN1EgZ",
     "name": "SWR4 Mainz",
     "stream_urls": [
@@ -7255,6 +7276,17 @@
     ]
   },
   {
+    "nanoid": "28Jcla8JjJ9YCJ",
+    "name": "The Classical Station WCPE",
+    "stream_urls": [
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/WCPE_FM.mp3"
+    ],
+    "country": "us",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
     "nanoid": "XR6mX7e0E4d5HI",
     "name": "The New Classical FM",
     "stream_urls": [
@@ -7271,6 +7303,28 @@
     "stream_urls": [
       "https://streaming.live365.com/a95442",
       "https://das-edge09-live365-dal03.cdnstream.com/a95442"
+    ],
+    "country": "us",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "OcwQRIKqotxvb8",
+    "name": "thegreatiamb Kids",
+    "stream_urls": [
+      "https://stream.zeno.fm/fwcpjdir9o1uv"
+    ],
+    "country": "us",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "yBps6AlLK4Ycxf",
+    "name": "thegreatiamb Radio",
+    "stream_urls": [
+      "https://stream.zeno.fm/0ntnamyl4q7uv"
     ],
     "country": "us",
     "languages": [
@@ -7545,7 +7599,6 @@
     "name": "WDR 3",
     "stream_urls": [
       "https://wdr-wdr3-live.icecast.wdr.de/wdr/wdr3/live/mp3/128/stream.mp3",
-      "https://wdr-wdr3-live.icecast.wdr.de/wdr/wdr3/live/mp3/64/stream.mp3",
       "https://wdr-wdr3-live.icecast.wdr.de/wdr/wdr3/live/mp3/256/stream.mp3",
       "https://wdr-wdr3-live.icecastssl.wdr.de/wdr/wdr3/live/mp3/256/stream.mp3"
     ],
@@ -7886,6 +7939,17 @@
     ]
   },
   {
+    "nanoid": "MOKJT8lqc3oKpx",
+    "name": "WUWG 90.7 FM",
+    "stream_urls": [
+      "https://gpb.streamguys1.com/gpb-atlanta-mp3"
+    ],
+    "country": "us",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
     "nanoid": "g5S0QEKpVDoiln",
     "name": "WVIA HD2",
     "stream_urls": [
@@ -8156,9 +8220,7 @@
     "name": "Детское Радио",
     "stream_urls": [
       "https://a5.radioheart.ru:8012/nonstop",
-      "https://ic7.101.ru:8000/v14_1",
-      "https://pub0102.101.ru:8000/stream/air/aac/64/199",
-      "https://pub0101.101.ru/stream/air/aac/64/199"
+      "https://ic7.101.ru:8000/v14_1"
     ],
     "country": "ru",
     "languages": [
@@ -8403,6 +8465,7 @@
     "nanoid": "lKzaFWRfxiLMZa",
     "name": "Радио Орфей: Фолк-музыка",
     "stream_urls": [
+      "https://channels.fonotron.ru:8000/Chan_63_128.aac",
       "https://channels.fonotron.ru:8000/Chan_63_256.mp3"
     ],
     "country": "ru",

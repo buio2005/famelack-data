@@ -167,6 +167,18 @@
     ]
   },
   {
+    "nanoid": "vfVWjR1FdlRSJi",
+    "name": "Arctic Outpost Radio",
+    "stream_urls": [
+      "https://radio.streemlion.com:3715/stream"
+    ],
+    "country": "no",
+    "languages": [
+      "nor",
+      "eng"
+    ]
+  },
+  {
     "nanoid": "eU7MzgJZMJ7xsa",
     "name": "ArtSound FM",
     "stream_urls": [
@@ -307,8 +319,7 @@
     "name": "BluesWave Radio",
     "stream_urls": [
       "https://blueswave.radio:8100/icyblues",
-      "https://blueswave.radio:8000/blueswave",
-      "https://blueswave.radio:8100/hifiblues"
+      "https://blueswave.radio:8000/blueswave"
     ],
     "country": "gr",
     "languages": [
@@ -348,6 +359,17 @@
     "country": "us",
     "languages": [
       "eng"
+    ]
+  },
+  {
+    "nanoid": "KKL3PVY6H4vEF5",
+    "name": "Candil Radio",
+    "stream_urls": [
+      "https://candilradio.com/liveradio/candil/live.mp3"
+    ],
+    "country": "es",
+    "languages": [
+      "spa"
     ]
   },
   {
@@ -1226,17 +1248,6 @@
     ]
   },
   {
-    "nanoid": "ytAPHch16DIn94",
-    "name": "Radio Art: Acoustic Blues",
-    "stream_urls": [
-      "https://live.radioart.com/fAcoustic_blues.mp3"
-    ],
-    "country": "us",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
     "nanoid": "E9sO3p7Dt21aeu",
     "name": "Radio Bluesflac",
     "stream_urls": [
@@ -1626,6 +1637,17 @@
     "country": "de",
     "languages": [
       "deu"
+    ]
+  },
+  {
+    "nanoid": "qAyVohlgjoa0MC",
+    "name": "Southern Rock Radio",
+    "stream_urls": [
+      "https://southern-rock_radio.stream.laut.fm/southern-rock_radio"
+    ],
+    "country": "de",
+    "languages": [
+      "eng"
     ]
   },
   {

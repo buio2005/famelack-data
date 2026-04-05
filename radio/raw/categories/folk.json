@@ -244,17 +244,6 @@
     ]
   },
   {
-    "nanoid": "LdnMdW5i82mCcl",
-    "name": "Aitia Radio",
-    "stream_urls": [
-      "https://netradio.live24.gr/aitiaradio"
-    ],
-    "country": "gr",
-    "languages": [
-      "ell"
-    ]
-  },
-  {
     "nanoid": "96mRY9zknNJLKD",
     "name": "AjoinMusic",
     "stream_urls": [
@@ -988,6 +977,17 @@
     ]
   },
   {
+    "nanoid": "e8IJZCuY2e6O8H",
+    "name": "Chaozhou Opera Broadcasting",
+    "stream_urls": [
+      "https://lhttp.qingting.fm/live/4595/64k.mp3"
+    ],
+    "country": "cn",
+    "languages": [
+      "zho"
+    ]
+  },
+  {
     "nanoid": "18QjTywxnrTXOr",
     "name": "Chinese Music World",
     "stream_urls": [
@@ -1394,6 +1394,17 @@
     "country": "ee",
     "languages": [
       "est"
+    ]
+  },
+  {
+    "nanoid": "tk2WYzoPRxtbCJ",
+    "name": "En Lefko World Music",
+    "stream_urls": [
+      "https://n0d.radiojar.com/u4w964dscrruv"
+    ],
+    "country": "gr",
+    "languages": [
+      "ell"
     ]
   },
   {
@@ -1893,7 +1904,6 @@
     "nanoid": "VJzzOqypjWvHGp",
     "name": "FM Esperanza 107.1",
     "stream_urls": [
-      "https://streaming.evolucionstreaming.com:10966/stream",
       "https://streaming01.shockmedia.com.ar:10404/stream"
     ],
     "country": "ar",
@@ -2014,17 +2024,6 @@
     "country": "hr",
     "languages": [
       "hrv"
-    ]
-  },
-  {
-    "nanoid": "IeWApBHgRCtYN6",
-    "name": "Foni Agrafon 1440 AM",
-    "stream_urls": [
-      "https://webinternetradio.eu:48000/"
-    ],
-    "country": "gr",
-    "languages": [
-      "ell"
     ]
   },
   {
@@ -4270,7 +4269,8 @@
     "nanoid": "lz9dL2AzofR498",
     "name": "Polder Radio",
     "stream_urls": [
-      "https://server-67.stream-server.nl:8734/"
+      "https://server-67.stream-server.nl:8734/",
+      "https://server-67.stream-server.nl:8738/"
     ],
     "country": "nl",
     "languages": [
@@ -4309,17 +4309,6 @@
     "country": "us",
     "languages": [
       "eng"
-    ]
-  },
-  {
-    "nanoid": "f3KrOdlejjnxZ4",
-    "name": "Pylia Radio",
-    "stream_urls": [
-      "https://webinternetradio.eu:59415/"
-    ],
-    "country": "gr",
-    "languages": [
-      "ell"
     ]
   },
   {
@@ -4467,6 +4456,17 @@
     ]
   },
   {
+    "nanoid": "hWX6kLKUmZ2xxO",
+    "name": "Radio 78 & 45",
+    "stream_urls": [
+      "https://rdst.win:37845/stream"
+    ],
+    "country": "gr",
+    "languages": [
+      "ell"
+    ]
+  },
+  {
     "nanoid": "PeaJOvT60EFmZM",
     "name": "Radio 92 FM",
     "stream_urls": [
@@ -4497,17 +4497,6 @@
     "country": "fr",
     "languages": [
       "fra"
-    ]
-  },
-  {
-    "nanoid": "wMHd0yGc8MmLeS",
-    "name": "Radio Acropol",
-    "stream_urls": [
-      "https://webinternetradio.eu:59373/"
-    ],
-    "country": "gr",
-    "languages": [
-      "ell"
     ]
   },
   {
@@ -4623,10 +4612,10 @@
     ]
   },
   {
-    "nanoid": "q6JTG6z1PWyMDf",
-    "name": "Radio Apollon 1242 AM",
+    "nanoid": "PNv9UC44TX4za0",
+    "name": "Radio Apopsi",
     "stream_urls": [
-      "https://webinternetradio.eu:47026/"
+      "https://link.radiojar.com/radio-apopsi"
     ],
     "country": "gr",
     "languages": [
@@ -5196,6 +5185,17 @@
     ]
   },
   {
+    "nanoid": "t8H19bgNRrnPg5",
+    "name": "Radio Energy Cugir",
+    "stream_urls": [
+      "https://sonicssl.namehost.ro/8790/stream/;"
+    ],
+    "country": "ro",
+    "languages": [
+      "ron"
+    ]
+  },
+  {
     "nanoid": "ksVUrg5PuWFNHJ",
     "name": "Radio Epirus 94.5 FM",
     "stream_urls": [
@@ -5337,17 +5337,6 @@
     "country": "bg",
     "languages": [
       "bul"
-    ]
-  },
-  {
-    "nanoid": "FoTe3eoUYqtt55",
-    "name": "Radio Fraoulitsa",
-    "stream_urls": [
-      "https://webinternetradio.eu:59402/"
-    ],
-    "country": "gr",
-    "languages": [
-      "ell"
     ]
   },
   {
@@ -5616,17 +5605,6 @@
     ]
   },
   {
-    "nanoid": "AmOt9fCO505A5N",
-    "name": "Radio Kiss",
-    "stream_urls": [
-      "https://cast2.asurahosting.com/proxy/kissdoog/stream"
-    ],
-    "country": "rs",
-    "languages": [
-      "srp"
-    ]
-  },
-  {
     "nanoid": "JIpIiQfOUyqJBD",
     "name": "Radio Klas",
     "stream_urls": [
@@ -5653,17 +5631,6 @@
     "name": "Radio Kolo",
     "stream_urls": [
       "https://mars.streamerr.co/8280/stream"
-    ],
-    "country": "rs",
-    "languages": [
-      "srp"
-    ]
-  },
-  {
-    "nanoid": "CuQlvhvQ40vE47",
-    "name": "Radio Kolubara",
-    "stream_urls": [
-      "https://a1.asurahosting.com:9130/radio.mp3"
     ],
     "country": "rs",
     "languages": [
@@ -5756,17 +5723,6 @@
       "https://radios.solumedia.com:6270/stream"
     ],
     "country": "uy",
-    "languages": [
-      "spa"
-    ]
-  },
-  {
-    "nanoid": "jUiBe2kpHb4pUc",
-    "name": "Radio Lafken Mawida",
-    "stream_urls": [
-      "https://radio.latina.red/lafkenmawida.mp3"
-    ],
-    "country": "cl",
     "languages": [
       "spa"
     ]
@@ -7148,6 +7104,17 @@
     ]
   },
   {
+    "nanoid": "4uqJbWiM0AjKDo",
+    "name": "Radio Takis",
+    "stream_urls": [
+      "https://i9.streams.ovh/sc/radiotak/stream"
+    ],
+    "country": "gr",
+    "languages": [
+      "ell"
+    ]
+  },
+  {
     "nanoid": "4l4hsQPMhhADJr",
     "name": "Radio Tequila Manele",
     "stream_urls": [
@@ -7167,17 +7134,6 @@
     "country": "nl",
     "languages": [
       "nld"
-    ]
-  },
-  {
-    "nanoid": "3jktfQdZwFo0EO",
-    "name": "Radio Thespies",
-    "stream_urls": [
-      "https://webinternetradio.eu:48796/"
-    ],
-    "country": "gr",
-    "languages": [
-      "ell"
     ]
   },
   {
@@ -7374,6 +7330,17 @@
     ]
   },
   {
+    "nanoid": "ZpbzLezo1gTIy3",
+    "name": "Radio Valori Românești",
+    "stream_urls": [
+      "https://securestreams6.autopo.st:2250/stream"
+    ],
+    "country": "ro",
+    "languages": [
+      "ron"
+    ]
+  },
+  {
     "nanoid": "m8bJMDCgZkhYrj",
     "name": "Radio Vastelaovend",
     "stream_urls": [
@@ -7544,6 +7511,17 @@
     ]
   },
   {
+    "nanoid": "fCxgMAiTPpH5qV",
+    "name": "Radio Wiracocha",
+    "stream_urls": [
+      "https://stream.zeno.fm/rtui1p0xscetv"
+    ],
+    "country": "bo",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
     "nanoid": "KwniNty3DdhyC4",
     "name": "Radio Zimia 94.5",
     "stream_urls": [
@@ -7552,6 +7530,18 @@
     "country": "gr",
     "languages": [
       "ell"
+    ]
+  },
+  {
+    "nanoid": "ppRbcJsa2cvsLk",
+    "name": "Radio Zouk Emotion",
+    "stream_urls": [
+      "https://stream.radiozoukemotion.com/rze"
+    ],
+    "country": "it",
+    "languages": [
+      "ita",
+      "fra"
     ]
   },
   {
@@ -7726,17 +7716,6 @@
     ]
   },
   {
-    "nanoid": "TjnY6AwAyweRQp",
-    "name": "Radyo Karabalı",
-    "stream_urls": [
-      "https://radyokarabali.ozelip.com:9884/;"
-    ],
-    "country": "tr",
-    "languages": [
-      "tur"
-    ]
-  },
-  {
     "nanoid": "R0ybaLYqPJ1UXL",
     "name": "Radyo Mezopotamya",
     "stream_urls": [
@@ -7883,6 +7862,17 @@
     ]
   },
   {
+    "nanoid": "8SVDRt5rn4HzCK",
+    "name": "Request Radio Inter",
+    "stream_urls": [
+      "https://cast.requestradio.in.th:840//stream/3"
+    ],
+    "country": "th",
+    "languages": [
+      "tha"
+    ]
+  },
+  {
     "nanoid": "kyh4GZxl5qvr1m",
     "name": "Resavski Radio",
     "stream_urls": [
@@ -7891,17 +7881,6 @@
     "country": "rs",
     "languages": [
       "srp"
-    ]
-  },
-  {
-    "nanoid": "s8lAGpm9PNLbkp",
-    "name": "Retro 937",
-    "stream_urls": [
-      "https://sp.streams.ovh/8056/stream"
-    ],
-    "country": "gr",
-    "languages": [
-      "ell"
     ]
   },
   {
@@ -8333,6 +8312,7 @@
     "nanoid": "Y092PJAm8VTgON",
     "name": "Rádio Samson",
     "stream_urls": [
+      "https://icecast8.play.cz/samsonfm128.mp3",
       "https://icecast2.play.cz/samsonfm128aac"
     ],
     "country": "cz",
@@ -8752,17 +8732,6 @@
     ]
   },
   {
-    "nanoid": "QKHPr5cxmnHs1D",
-    "name": "Studio 2000 Mousiko Leoforeio",
-    "stream_urls": [
-      "https://webinternetradio.eu:48723/"
-    ],
-    "country": "gr",
-    "languages": [
-      "ell"
-    ]
-  },
-  {
     "nanoid": "CnwxVv8BxROnSi",
     "name": "Studio A13",
     "stream_urls": [
@@ -8849,6 +8818,17 @@
     "country": "se",
     "languages": [
       "swe"
+    ]
+  },
+  {
+    "nanoid": "TMezv5vxXekNVT",
+    "name": "SWR4 Karlsruhe",
+    "stream_urls": [
+      "https://liveradio.swr.de/sw282p3/swr4ka/play.mp3"
+    ],
+    "country": "de",
+    "languages": [
+      "deu"
     ]
   },
   {
@@ -8984,6 +8964,28 @@
       "https://christmasfm.cdnstream1.com/2548_128.mp3"
     ],
     "country": "ie",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "OcwQRIKqotxvb8",
+    "name": "thegreatiamb Kids",
+    "stream_urls": [
+      "https://stream.zeno.fm/fwcpjdir9o1uv"
+    ],
+    "country": "us",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "yBps6AlLK4Ycxf",
+    "name": "thegreatiamb Radio",
+    "stream_urls": [
+      "https://stream.zeno.fm/0ntnamyl4q7uv"
+    ],
+    "country": "us",
     "languages": [
       "eng"
     ]
@@ -9227,7 +9229,6 @@
     "name": "WDR 3",
     "stream_urls": [
       "https://wdr-wdr3-live.icecast.wdr.de/wdr/wdr3/live/mp3/128/stream.mp3",
-      "https://wdr-wdr3-live.icecast.wdr.de/wdr/wdr3/live/mp3/64/stream.mp3",
       "https://wdr-wdr3-live.icecast.wdr.de/wdr/wdr3/live/mp3/256/stream.mp3",
       "https://wdr-wdr3-live.icecastssl.wdr.de/wdr/wdr3/live/mp3/256/stream.mp3"
     ],
@@ -9795,6 +9796,7 @@
     "nanoid": "lKzaFWRfxiLMZa",
     "name": "Радио Орфей: Фолк-музыка",
     "stream_urls": [
+      "https://channels.fonotron.ru:8000/Chan_63_128.aac",
       "https://channels.fonotron.ru:8000/Chan_63_256.mp3"
     ],
     "country": "ru",

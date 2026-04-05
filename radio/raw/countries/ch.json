@@ -1212,8 +1212,7 @@
     "stream_urls": [
       "https://de1.streamhosting.ch/",
       "https://fr1.streamhosting.ch/lounge128.mp3",
-      "https://player.streamhosting.ch/lounge128.ogg",
-      "https://player.streamhosting.ch/lounge64.aac"
+      "https://player.streamhosting.ch/lounge128.ogg"
     ],
     "country": "ch",
     "languages": [
@@ -1783,17 +1782,6 @@
     ]
   },
   {
-    "nanoid": "MBgO27h4JB7qrA",
-    "name": "Radio Freundes-Dienst Deutsch",
-    "stream_urls": [
-      "https://radiofd.ice.infomaniak.ch/radiofd.mp3"
-    ],
-    "country": "ch",
-    "languages": [
-      "deu"
-    ]
-  },
-  {
     "nanoid": "sw3Q78wwSHm8Og",
     "name": "Radio Freundes-Dienst Schweiz",
     "stream_urls": [
@@ -2221,17 +2209,6 @@
     ]
   },
   {
-    "nanoid": "xf32zvZnXsphTF",
-    "name": "Radio Stadtfilter",
-    "stream_urls": [
-      "https://www.digris.ch/stream/8a1a42f0-3f59-4113-b544-aad9275d34a7"
-    ],
-    "country": "ch",
-    "languages": [
-      "deu"
-    ]
-  },
-  {
     "nanoid": "sqgQQdxVhV4l0N",
     "name": "Radio Summernight",
     "stream_urls": [
@@ -2316,20 +2293,10 @@
     ]
   },
   {
-    "nanoid": "MwNkz98TGlXgAD",
-    "name": "Radio Vintage",
-    "stream_urls": [
-      "https://radiovintage.ice.infomaniak.ch/radiovintage-128.mp3"
-    ],
-    "country": "ch",
-    "languages": [
-      "fra"
-    ]
-  },
-  {
     "nanoid": "RFx4FgfJYRAByu",
     "name": "Radio Vostok",
     "stream_urls": [
+      "https://radiovostok.ice.infomaniak.ch/lavostoke.aac",
       "https://radiovostok.ice.infomaniak.ch/radiovostok.aac"
     ],
     "country": "ch",
@@ -3082,6 +3049,7 @@
     "nanoid": "HuyJ2wLenU0kgl",
     "name": "Vintage Radio",
     "stream_urls": [
+      "https://vintage.ice.infomaniak.ch/vintage",
       "https://vintageradio.ice.infomaniak.ch/vintageradio-high.mp3"
     ],
     "country": "ch",

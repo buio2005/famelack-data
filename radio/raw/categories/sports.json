@@ -188,17 +188,6 @@
     ]
   },
   {
-    "nanoid": "LAzKjIfNFzF6Ra",
-    "name": "1650 The Fan (KCNZ)",
-    "stream_urls": [
-      "https://ice23.securenetsystems.net/KCNZ"
-    ],
-    "country": "us",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
     "nanoid": "9K6pewdW6RR3a6",
     "name": "221 Radio 103.1",
     "stream_urls": [
@@ -225,17 +214,6 @@
     "name": "700 ESPN",
     "stream_urls": [
       "https://playerservices.streamtheworld.com/api/livestream-redirect/KXLXAMAAC_SC"
-    ],
-    "country": "us",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
-    "nanoid": "QG7mcfQkfIOwlB",
-    "name": "740 The Fan",
-    "stream_urls": [
-      "https://playerservices.streamtheworld.com/api/livestream-redirect/KVOXAMAAC_SC"
     ],
     "country": "us",
     "languages": [
@@ -275,17 +253,6 @@
     ]
   },
   {
-    "nanoid": "WtZ9S5VGEMelZM",
-    "name": "93.7 The Ticket",
-    "stream_urls": [
-      "https://ice8.securenetsystems.net/KNTK"
-    ],
-    "country": "us",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
     "nanoid": "obv1aK98koFu5q",
     "name": "930 AM The Sports Animal (WKY)",
     "stream_urls": [
@@ -312,17 +279,6 @@
     "name": "94.5 WJOX",
     "stream_urls": [
       "https://playerservices.streamtheworld.com/api/livestream-redirect/WJOXFM_SC"
-    ],
-    "country": "us",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
-    "nanoid": "uLGYgw9iUCG8NA",
-    "name": "940 ESPN (KFIG)",
-    "stream_urls": [
-      "https://ice5.securenetsystems.net/KFIG"
     ],
     "country": "us",
     "languages": [
@@ -480,7 +436,8 @@
     "nanoid": "9BFyf45WhOQ65Y",
     "name": "ADN Radio",
     "stream_urls": [
-      "https://27413.live.streamtheworld.com/ADNAAC.aac"
+      "https://27413.live.streamtheworld.com/ADNAAC.aac",
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/ADNAAC.aac"
     ],
     "country": "cl",
     "languages": [
@@ -503,17 +460,6 @@
     "name": "AEL Radio 104.8",
     "stream_urls": [
       "https://sp1.32bit.gr/8006/stream"
-    ],
-    "country": "gr",
-    "languages": [
-      "ell"
-    ]
-  },
-  {
-    "nanoid": "nRPqOoXPyuHD0h",
-    "name": "Akritas 94.8",
-    "stream_urls": [
-      "https://stream.ellada943.gr:10338/live.ogg"
     ],
     "country": "gr",
     "languages": [
@@ -625,6 +571,17 @@
     "stream_urls": [
       "https://stream.bpmsports.ca/cklx.mp3",
       "https://icecast-cklx.rncm.ca/cklx.mp3"
+    ],
+    "country": "ca",
+    "languages": [
+      "fra"
+    ]
+  },
+  {
+    "nanoid": "npIta0r99BiVF5",
+    "name": "BPM Sports 96.5",
+    "stream_urls": [
+      "https://stream0.bpmsports.ca/cftx.aac"
     ],
     "country": "ca",
     "languages": [
@@ -780,17 +737,6 @@
     "name": "Ellada Sports 94.3",
     "stream_urls": [
       "https://tls-chrome.live24.gr/3297"
-    ],
-    "country": "gr",
-    "languages": [
-      "ell"
-    ]
-  },
-  {
-    "nanoid": "k8KjdxEWquM3YW",
-    "name": "EOK Web Radio",
-    "stream_urls": [
-      "https://netradio.live24.gr/elomkal"
     ],
     "country": "gr",
     "languages": [
@@ -1560,6 +1506,17 @@
     ]
   },
   {
+    "nanoid": "kkKpn6qTvm2aRv",
+    "name": "MachDeportes",
+    "stream_urls": [
+      "https://ss.ecuastreamhd.com:8186/stream"
+    ],
+    "country": "ec",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
     "nanoid": "iA8DVeXJnIaFBX",
     "name": "Metropolis 95.5",
     "stream_urls": [
@@ -1736,17 +1693,6 @@
       "https://icecast.teveo.cu/fvc4RVRz"
     ],
     "country": "cu",
-    "languages": [
-      "spa"
-    ]
-  },
-  {
-    "nanoid": "8eV1jZTEZNx0uz",
-    "name": "Radio Colo Colo",
-    "stream_urls": [
-      "https://audio2.tustreaming.cl:10997/stream"
-    ],
-    "country": "cl",
     "languages": [
       "spa"
     ]
@@ -2277,17 +2223,6 @@
     ]
   },
   {
-    "nanoid": "m5KN7qw2evXg8z",
-    "name": "Rádio Cultura Rio Grande",
-    "stream_urls": [
-      "https://casthttps.suaradionanet.net/10402/stream"
-    ],
-    "country": "br",
-    "languages": [
-      "por"
-    ]
-  },
-  {
     "nanoid": "XUCxoGIccjJPy5",
     "name": "Rádio Estádio",
     "stream_urls": [
@@ -2532,6 +2467,17 @@
     ]
   },
   {
+    "nanoid": "0tMOtvgRovyulD",
+    "name": "Sports 56 WHBQ",
+    "stream_urls": [
+      "https://stream1.flinn.com:8443/560AM.mp3"
+    ],
+    "country": "us",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
     "nanoid": "6jgVF1nBPNV6bw",
     "name": "Sports Animal 920 AM",
     "stream_urls": [
@@ -2560,17 +2506,6 @@
     "country": "cn",
     "languages": [
       "zho"
-    ]
-  },
-  {
-    "nanoid": "sEThh1FKww8Q6X",
-    "name": "Sports Radio 100.3 The Team",
-    "stream_urls": [
-      "https://playerservices.streamtheworld.com/api/livestream-redirect/WSEAFMAAC_SC"
-    ],
-    "country": "us",
-    "languages": [
-      "eng"
     ]
   },
   {
@@ -2651,12 +2586,12 @@
     ]
   },
   {
-    "nanoid": "VpbosmBJzf013S",
-    "name": "Sports Radio Brila FM",
+    "nanoid": "9qe3KxWeTq37SV",
+    "name": "Sports Radio KWSN",
     "stream_urls": [
-      "https://atunwadigital.streamguys1.com/brilafm"
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/KWSNAMAAC_SC"
     ],
-    "country": "ng",
+    "country": "us",
     "languages": [
       "eng"
     ]
@@ -3244,6 +3179,17 @@
     ],
     "country": "us",
     "languages": []
+  },
+  {
+    "nanoid": "iV9lMVQBv8dz37",
+    "name": "WGNS 1450",
+    "stream_urls": [
+      "https://ice3.securenetsystems.net/WGNS"
+    ],
+    "country": "us",
+    "languages": [
+      "eng"
+    ]
   },
   {
     "nanoid": "ozDxQdgcjHm5Pk",

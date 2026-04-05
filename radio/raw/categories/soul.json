@@ -521,17 +521,6 @@
     ]
   },
   {
-    "nanoid": "vXlGSeOwJf7Fkw",
-    "name": "2Day FM",
-    "stream_urls": [
-      "https://peridot.streamguys1.com:7155/2Day"
-    ],
-    "country": "fj",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
     "nanoid": "ev234crP4BiZJ6",
     "name": "4Tune FM",
     "stream_urls": [
@@ -1018,17 +1007,6 @@
     "country": "de",
     "languages": [
       "deu"
-    ]
-  },
-  {
-    "nanoid": "0zl8d9VhD6VaOE",
-    "name": "Anyway Smooth",
-    "stream_urls": [
-      "https://greeksonic.alphaserver.gr/8020/stream"
-    ],
-    "country": "gr",
-    "languages": [
-      "ell"
     ]
   },
   {
@@ -1622,6 +1600,18 @@
     ],
     "country": "uk",
     "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "F6eZZ1hGeiPy1u",
+    "name": "Conquista WebStation",
+    "stream_urls": [
+      "https://stream.zeno.fm/ecryaaflji9tv"
+    ],
+    "country": "br",
+    "languages": [
+      "por",
       "eng"
     ]
   },
@@ -2276,6 +2266,7 @@
     "nanoid": "E5sKE3uIsMpe4c",
     "name": "Exclusively Ella Fitzgerald",
     "stream_urls": [
+      "https://streaming.exclusive.radio/er/ellafitzgerald/icecast.audio",
       "https://2.mystreaming.net/er/ellafitzgerald/icecast.audio",
       "https://nl4.mystreaming.net/er/ellafitzgerald/icecast.audio"
     ],
@@ -3135,6 +3126,17 @@
     ]
   },
   {
+    "nanoid": "Ol7l97ZBqnnabi",
+    "name": "Generation Soul Disco Funk",
+    "stream_urls": [
+      "https://gestream.fr/g-radio-sd.aac"
+    ],
+    "country": "fr",
+    "languages": [
+      "fra"
+    ]
+  },
+  {
     "nanoid": "D9yfjiQOrnjVF3",
     "name": "Generations Lyon",
     "stream_urls": [
@@ -3290,23 +3292,23 @@
     ]
   },
   {
+    "nanoid": "S42tpUjjUAuI8C",
+    "name": "Groove FM",
+    "stream_urls": [
+      "https://groovefm.stream.laut.fm/groovefm"
+    ],
+    "country": "de",
+    "languages": [
+      "deu"
+    ]
+  },
+  {
     "nanoid": "wF58vDu3JYQWXa",
     "name": "Groove Genie Radio",
     "stream_urls": [
       "https://groove-genie.co.uk/listen/groove_genie_radio/radio.mp3"
     ],
     "country": "uk",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
-    "nanoid": "48TmppSeKJ86pg",
-    "name": "GTA Radio - IF99",
-    "stream_urls": [
-      "https://audio.gtaradio.net/4/afro_beat"
-    ],
-    "country": "ru",
     "languages": [
       "eng"
     ]
@@ -3408,29 +3410,6 @@
     "country": "fr",
     "languages": [
       "fra"
-    ]
-  },
-  {
-    "nanoid": "1lASlOn216JGtv",
-    "name": "Happy Sound Music",
-    "stream_urls": [
-      "https://server-28.stream-server.nl:8918/stream"
-    ],
-    "country": "nl",
-    "languages": [
-      "nld"
-    ]
-  },
-  {
-    "nanoid": "Vid9EAfxjByqP4",
-    "name": "Happy Sound Music Limburg",
-    "stream_urls": [
-      "https://server-28.stream-server.nl/stream/happysoundmusic"
-    ],
-    "country": "nl",
-    "languages": [
-      "eng",
-      "lim"
     ]
   },
   {
@@ -3552,6 +3531,17 @@
     "country": "es",
     "languages": [
       "spa"
+    ]
+  },
+  {
+    "nanoid": "0oarbjsdpN4wEj",
+    "name": "Holy Culture Radio",
+    "stream_urls": [
+      "https://stream.radio.co/s09849366f/listen"
+    ],
+    "country": "us",
+    "languages": [
+      "eng"
     ]
   },
   {
@@ -3759,7 +3749,6 @@
     "name": "i-turn Radio",
     "stream_urls": [
       "https://live.i-turnradio.nl/live",
-      "https://live2.i-turnradio.nl/stream4",
       "https://live.i-turnradio.nl:8035/;"
     ],
     "country": "nl",
@@ -4495,8 +4484,7 @@
     "stream_urls": [
       "https://de1.streamhosting.ch/",
       "https://fr1.streamhosting.ch/lounge128.mp3",
-      "https://player.streamhosting.ch/lounge128.ogg",
-      "https://player.streamhosting.ch/lounge64.aac"
+      "https://player.streamhosting.ch/lounge128.ogg"
     ],
     "country": "ch",
     "languages": [
@@ -4580,17 +4568,6 @@
     "country": "pt",
     "languages": [
       "por"
-    ]
-  },
-  {
-    "nanoid": "uOtGAE8uzIJKoD",
-    "name": "Magic 102.9",
-    "stream_urls": [
-      "https://playerservices.streamtheworld.com/api/livestream-redirect/KVMAFMAAC_SC"
-    ],
-    "country": "us",
-    "languages": [
-      "eng"
     ]
   },
   {
@@ -4925,17 +4902,6 @@
       "https://streaming.radio.co/s0d090ee43/listen"
     ],
     "country": "us",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
-    "nanoid": "aOFN4bHex53Et9",
-    "name": "Nice Cream Green",
-    "stream_urls": [
-      "https://play.nicecream.fm/radio/8010/green.mp3"
-    ],
-    "country": "uk",
     "languages": [
       "eng"
     ]
@@ -6735,17 +6701,6 @@
     ]
   },
   {
-    "nanoid": "4SBQS5CBzvVZYd",
-    "name": "SecondRadio",
-    "stream_urls": [
-      "https://stream.secondradio.de/"
-    ],
-    "country": "de",
-    "languages": [
-      "deu"
-    ]
-  },
-  {
     "nanoid": "LTyY1kw4NevJkc",
     "name": "Shake!FM",
     "stream_urls": [
@@ -6891,6 +6846,17 @@
       "https://ais-sa1.streamon.fm/7281_64k.aac"
     ],
     "country": "us",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "vmVBEkTEYlk6Vj",
+    "name": "Smooth Sailing Radio",
+    "stream_urls": [
+      "https://s44.myradiostream.com/9144/listen.mp3"
+    ],
+    "country": "au",
     "languages": [
       "eng"
     ]
@@ -8049,7 +8015,6 @@
     "nanoid": "PEYy3HUkS7xCer",
     "name": "WHUR 96.3 FM",
     "stream_urls": [
-      "https://futuri-das.cdnstream1.com/7167_48k.aac",
       "https://ais-sa1.streamon.fm/7028_48k.aac"
     ],
     "country": "us",
@@ -8102,10 +8067,10 @@
     ]
   },
   {
-    "nanoid": "ZxCUj8kYnVXRXD",
-    "name": "World Vibe Radio One",
+    "nanoid": "fNy8kmuTxi3mIR",
+    "name": "WSNR.US",
     "stream_urls": [
-      "https://www.radioking.com/play/wvro/436102"
+      "https://www.stepnorthdigitalradio.com:6008/stream"
     ],
     "country": "us",
     "languages": [
@@ -8113,10 +8078,10 @@
     ]
   },
   {
-    "nanoid": "fNy8kmuTxi3mIR",
-    "name": "WSNR.US",
+    "nanoid": "LAUZl2NgCpOG77",
+    "name": "WUFO 1080 AM",
     "stream_urls": [
-      "https://www.stepnorthdigitalradio.com:6008/stream"
+      "https://crystalout.surfernetwork.com:8001/WUFO_MP3"
     ],
     "country": "us",
     "languages": [
