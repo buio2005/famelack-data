@@ -330,8 +330,7 @@
     "nanoid": "NTGny7tSfvhncO",
     "name": "Jamie Oliver",
     "stream_urls": [
-      "https://pb-gxzycliwq14lw.akamaized.net/Jamie_Oliver.m3u8",
-      "https://jamieoliver-xumo.amagi.tv/playlist.m3u8"
+      "https://pb-gxzycliwq14lw.akamaized.net/Jamie_Oliver.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -485,6 +484,32 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "ozrwv5yOFSMLm3",
+    "name": "QTV-2",
+    "stream_urls": [
+      "https://video10.qtv.com.cn/drm/qtv2at/manifest.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "zho"
+    ],
+    "country": "cn",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "KVsjP0kIbz2vIV",
+    "name": "QTV-6",
+    "stream_urls": [
+      "https://video10.qtv.com.cn/drm/qtv6at/manifest.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "zho"
+    ],
+    "country": "cn",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "NM4IM0OOuCrdjl",
     "name": "Revry Queer",
     "stream_urls": [
@@ -544,19 +569,6 @@
     "name": "Открытый мир. Здоровье",
     "stream_urls": [
       "https://v4.proofix.ru/0mir/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "kmnCkTtdi4cLR8",
-    "name": "Сити Эдем МедЗдрав",
-    "stream_urls": [
-      "https://cityeden.catcast.tv/content/47519/index.m3u8"
     ],
     "youtube_urls": [],
     "languages": [

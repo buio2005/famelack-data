@@ -39,20 +39,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "TKjF9Dh5jBDraW",
-    "name": "Ashiil TV",
-    "stream_urls": [
-      "https://ams.juraganstreaming.com:5443/LiveApp/streams/ashiiltv2.m3u8",
-      "https://wahyu1ptv.pages.dev/AshiilTV-HD.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "ind"
-    ],
-    "country": "id",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "wgCHFkD8F6PNpc",
     "name": "Astha TV",
     "stream_urls": [
@@ -183,19 +169,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "u2sCANZ3ft5IKm",
-    "name": "Bungo TV",
-    "stream_urls": [
-      "https://5bf7b725107e5.streamlock.net/bungotv/bungotv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "ind"
-    ],
-    "country": "id",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "csTsVz553duuxV",
     "name": "Caruban TV",
     "stream_urls": [
@@ -313,6 +286,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "XgBmwiqwEZak5t",
+    "name": "Elshinta TV",
+    "stream_urls": [
+      "https://ams.juraganstreaming.com:5443/LiveApp/streams/elshintatv.m3u8",
+      "https://op-group2-swiftservesd-1.dens.tv/s/s12/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "ind"
+    ],
+    "country": "id",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "swg1noloxNDS5D",
     "name": "Ficom Channel",
     "stream_urls": [
@@ -365,10 +352,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "4XTEtIon4adh6d",
-    "name": "Indonesiana.TV",
+    "nanoid": "T3RkIVyDffmjkr",
+    "name": "Izzah TV",
     "stream_urls": [
-      "https://tvstreamcast.com/indonesiana.m3u8"
+      "https://streaming.radiosalamjambi.com/izzahtv.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -391,10 +378,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "AwWVoTg8nnvs2w",
-    "name": "Jambi TV",
+    "nanoid": "oSWD42bHwHKlIE",
+    "name": "Jogja TV",
     "stream_urls": [
-      "https://ams.juraganstreaming.com:5443/JambiTV/streams/livestream.m3u8"
+      "https://stream.jogjatv.co.id/jtvlive/stream/index.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -404,10 +391,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "oSWD42bHwHKlIE",
-    "name": "Jogja TV",
+    "nanoid": "0xr9dDKplwszmy",
+    "name": "Kids TV",
     "stream_urls": [
-      "https://stream.jogjatv.co.id/jtvlive/stream/index.m3u8"
+      "https://origin5.mediacdn.ru/live/kidstv/index.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -469,36 +456,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "0KL7HXYYAtsJlk",
-    "name": "Lingkar TV",
-    "stream_urls": [
-      "https://lingkartv.my.id/hls/lingkartv.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "ind"
-    ],
-    "country": "id",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "76VjihbmJOrWcW",
     "name": "Madani TV",
     "stream_urls": [
       "https://stream.asianastream.com/madani/madanitv.smil/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "ind"
-    ],
-    "country": "id",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "ImH0HN1MdNlCn0",
-    "name": "Madu TV",
-    "stream_urls": [
-      "https://re1.siar.us/madutv/hd720/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -525,7 +486,7 @@
     "name": "Marhaban TV",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/Pi6ZZstn8Dw"
+      "https://www.youtube-nocookie.com/embed/gOjY1XO6zAY"
     ],
     "languages": [
       "ind"
@@ -573,11 +534,9 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "NTyXj8xoKlplvb",
-    "name": "Metro TV",
-    "stream_urls": [
-      "https://edge.medcom.id/live-edge/smil:metro.smil/playlist.m3u8"
-    ],
+    "nanoid": "Mr33fExabQcdS4",
+    "name": "METRO TV ",
+    "stream_urls": [],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/AUE5iHINUIw"
     ],
@@ -670,6 +629,19 @@
     "name": "PKTV",
     "stream_urls": [
       "https://ams.juraganstreaming.com:5443/LiveApp/streams/pktv.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "ind"
+    ],
+    "country": "id",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Ha2zWLoq5d13uY",
+    "name": "Radar Lampung TV",
+    "stream_urls": [
+      "https://www.streaming.radartv.co.id/hls/test.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -814,6 +786,19 @@
     "name": "Sampit TV",
     "stream_urls": [
       "https://sampit-tv.siar.us/live/sampit-tv.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "ind"
+    ],
+    "country": "id",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "4WttbEI2P66IMh",
+    "name": "Sangaji TV",
+    "stream_urls": [
+      "https://cdn.gunadarma.ac.id/streams/sangajitv/ingestsangajitv.m3u8"
     ],
     "youtube_urls": [],
     "languages": [

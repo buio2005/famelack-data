@@ -505,6 +505,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "GV38pwWqigwkoF",
+    "name": "HTV Thể thao",
+    "stream_urls": [
+      "https://live.fptplay53.net/epzhd1/htvcthethao_vhls.smil/chunklist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "vie"
+    ],
+    "country": "vn",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "YJ0VLCpIyYcZ5V",
     "name": "InTrouble",
     "stream_urls": [
@@ -571,6 +584,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "H7YKUTmTDg1xzR",
+    "name": "M-Net Sport",
+    "stream_urls": [
+      "https://live.mnet.mk/hls/mnet-sport.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "mkd"
+    ],
+    "country": "mk",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "hRCPRwYpEDOZ41",
     "name": "MadeinBO TV",
     "stream_urls": [
@@ -621,19 +647,6 @@
       "deu"
     ],
     "country": "de",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "Da460ZcoL5SJKT",
-    "name": "Multivisión Sports",
-    "stream_urls": [
-      "https://stream.digitalgt.com:3605/live/multivisionsportslive.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
-    "country": "gt",
     "isGeoBlocked": false
   },
   {
@@ -963,7 +976,6 @@
     "name": "SportsGrid",
     "stream_urls": [
       "https://amg00315-sportsgrid-firetv.amagi.tv/playlist.m3u8",
-      "https://sportsgrid-plex.amagi.tv/playlist.m3u8",
       "https://sportsgrid-samsungus.amagi.tv/playlist.m3u8",
       "https://sportsgrid-klowdtv.amagi.tv/playlist.m3u8"
     ],
@@ -1113,6 +1125,7 @@
     "nanoid": "KqqtNJzLvYMM8F",
     "name": "Trace Sports Stars",
     "stream_urls": [
+      "https://tracesportstars-klowdtv.amagi.tv/playlist.m3u8",
       "https://amg01131-tracetv-amg01131c2-stirr-us-4392.playouts.now.amagi.tv/playlist.m3u8"
     ],
     "youtube_urls": [],
@@ -1383,7 +1396,7 @@
     "name": "WWE",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/AkeYTf2Itwk"
+      "https://www.youtube-nocookie.com/embed/-b4UEAGPBBQ"
     ],
     "languages": [
       "eng"

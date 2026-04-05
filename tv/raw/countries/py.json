@@ -1,18 +1,5 @@
 [
   {
-    "nanoid": "ZOwQAPUGPgS297",
-    "name": "4DmásNoticias TV",
-    "stream_urls": [
-      "https://rds3.desdeparaguay.net/4dmasnoticiastv/4dmasnoticiastv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
-    "country": "py",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "MC0Hkz9sP3iFPv",
     "name": "Almaya TV",
     "stream_urls": [
@@ -52,6 +39,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "6EkiXPfK5IL7VS",
+    "name": "Canal 8 Vision TV",
+    "stream_urls": [
+      "https://tigocloudgen.desdeparaguay.net/satelitaltv/satelitaltv/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "py",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "0w7Ai7GtLMZNLS",
     "name": "Canal Pro",
     "stream_urls": [
@@ -82,6 +82,19 @@
     "name": "Cosmos TV",
     "stream_urls": [
       "https://video.hostingcaaguazu.com:19360/cosmostv/cosmostv.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "py",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Q47i8YiwhnYOOa",
+    "name": "Del Rey TV",
+    "stream_urls": [
+      "https://video.hostingcaaguazu.com:19360/delreytv/delreytv.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
