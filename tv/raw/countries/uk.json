@@ -334,6 +334,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "RGisQUNDzBMFhg",
+    "name": "Canaf54 TV",
+    "stream_urls": [
+      "https://5caf24a595d94.streamlock.net:1937/pvyugfkzkc/pvyugfkzkc/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "eng"
+    ],
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "qFvRLYDETWTBst",
     "name": "Cartoon Network",
     "stream_urls": [],
@@ -875,6 +888,7 @@
     "nanoid": "FeQiCZUhzv3lT3",
     "name": "Moonbug Kids",
     "stream_urls": [
+      "https://moonbug-rokuus.amagi.tv/playlist.m3u8",
       "https://dq2a9ghraf7sw.cloudfront.net/Moonbug.m3u8"
     ],
     "youtube_urls": [],
@@ -1111,6 +1125,7 @@
     "nanoid": "vnFJqEonENKTpG",
     "name": "Now 80s",
     "stream_urls": [
+      "https://lightning-now80s-samsungnz.amagi.tv/playlist720p.m3u8",
       "https://lightning-now80s-rakuten.amagi.tv/playlist.m3u8",
       "https://lightning-now80s-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-lightning-now80s-rakuten/CDN/playlist.m3u8"
     ],
@@ -1250,17 +1265,6 @@
     "name": "Rakuten TV Romance Movies UK",
     "stream_urls": [
       "https://2c88ed8c4df9479aa0c7138dc42115e2.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6194/master.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [],
-    "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "6OObHoCz5T6mVt",
-    "name": "Rakuten TV Sci-Fi UK",
-    "stream_urls": [
-      "https://sci-fi-rakuten-tv-uk.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6241/master.m3u8"
     ],
     "youtube_urls": [],
     "languages": [],
@@ -1635,7 +1639,7 @@
     "name": "WildBrain Kids",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/6UxqUdEx0fI"
+      "https://www.youtube-nocookie.com/embed/YLnJ3G7yQ8Q"
     ],
     "languages": [
       "eng"
@@ -1663,19 +1667,6 @@
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/0Y7TTS3h6co"
     ],
-    "languages": [
-      "eng"
-    ],
-    "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "M9HwvmHmrMZElD",
-    "name": "Wonder",
-    "stream_urls": [
-      "https://lds-wonder-plex.amagi.tv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
     "languages": [
       "eng"
     ],

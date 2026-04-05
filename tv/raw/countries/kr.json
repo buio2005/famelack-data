@@ -395,7 +395,7 @@
     "name": "JTBC News",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/xP41oioocYY"
+      "https://www.youtube-nocookie.com/embed/ls3cCiZhNxQ"
     ],
     "languages": [
       "kor"
@@ -408,7 +408,7 @@
     "name": "KBS News",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/YzDEHcutjWM"
+      "https://www.youtube-nocookie.com/embed/fLw8i92ChQ0"
     ],
     "languages": [
       "kor"
@@ -512,6 +512,19 @@
     "name": "MBC Daejeon (대전 MBC)",
     "stream_urls": [
       "https://ns1.tjmbc.co.kr/live/myStream.sdp/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "kor"
+    ],
+    "country": "kr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "I27keaXmXV9AK5",
+    "name": "MBC Jeju (제주 MBC)",
+    "stream_urls": [
+      "https://wowza.jejumbc.com/live/tv_jejumbc/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -631,19 +644,6 @@
       "https://d26sxnc75smwvh.cloudfront.net/livehttporigin/rutclive_720p2.stream/playlist.m3u8"
     ],
     "youtube_urls": [],
-    "languages": [
-      "kor"
-    ],
-    "country": "kr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "wLvMxnvxZbDm1t",
-    "name": "SBS",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/U_OqyVKhKkk"
-    ],
     "languages": [
       "kor"
     ],

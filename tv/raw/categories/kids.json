@@ -65,19 +65,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "AeG4E88wj1aN3z",
-    "name": "Afarin TV",
-    "stream_urls": [
-      "https://65f16f0fdfc51.streamlock.net/afarinTV/livestream/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "kur"
-    ],
-    "country": "iq",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "mtvxflwldN4QsH",
     "name": "Aghapy Kids",
     "stream_urls": [
@@ -781,19 +768,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "hTAa42S6ckdNs5",
-    "name": "Garfield & Friends",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/RDIYeLPHw6Q"
-    ],
-    "languages": [
-      "eng"
-    ],
-    "country": "ca",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "B8LyCtk6GOmYge",
     "name": "GEM Junior",
     "stream_urls": [
@@ -910,19 +884,6 @@
       "eng"
     ],
     "country": "ca",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "yQPdPKGvAyjQ79",
-    "name": "Kids Land: Urdu",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/cgMIr9IW2-c"
-    ],
-    "languages": [
-      "urd"
-    ],
-    "country": "pk",
     "isGeoBlocked": false
   },
   {
@@ -1126,6 +1087,7 @@
     "nanoid": "FeQiCZUhzv3lT3",
     "name": "Moonbug Kids",
     "stream_urls": [
+      "https://moonbug-rokuus.amagi.tv/playlist.m3u8",
       "https://dq2a9ghraf7sw.cloudfront.net/Moonbug.m3u8"
     ],
     "youtube_urls": [],
@@ -1335,7 +1297,7 @@
     "name": "Peppa Pig Brasil",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/rxsAxac1uhE"
+      "https://www.youtube-nocookie.com/embed/DHklABIzp94"
     ],
     "languages": [
       "por"
@@ -1406,19 +1368,6 @@
       "kor"
     ],
     "country": "kr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "KVsjP0kIbz2vIV",
-    "name": "QTV-6",
-    "stream_urls": [
-      "https://video10.qtv.com.cn/drm/qtv6at/manifest.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "zho"
-    ],
-    "country": "cn",
     "isGeoBlocked": false
   },
   {
@@ -1645,19 +1594,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "1FcDtz6oQnPOL5",
-    "name": "Tom And Jerry",
-    "stream_urls": [
-      "https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "eng"
-    ],
-    "country": "do",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "XVTTuFjxudH7Ir",
     "name": "Toon Goggles",
     "stream_urls": [
@@ -1846,7 +1782,7 @@
     "name": "WildBrain Kids",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/6UxqUdEx0fI"
+      "https://www.youtube-nocookie.com/embed/YLnJ3G7yQ8Q"
     ],
     "languages": [
       "eng"
@@ -1947,6 +1883,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "MCj2Vyne0bnAk3",
+    "name": "Пингвин",
+    "stream_urls": [
+      "https://sirius.greenhosting.ru/PingvinRu/video.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "lav"
+    ],
+    "country": "lv",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "S7XWd4ADfnPIn3",
     "name": "Радость моя",
     "stream_urls": [
@@ -2018,7 +1967,7 @@
     "name": "小猪佩奇 中文官方 - Peppa Pig",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/2dv4PpuOFyU"
+      "https://www.youtube-nocookie.com/embed/hGSPpkROFE8"
     ],
     "languages": [
       "zho"
