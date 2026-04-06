@@ -271,19 +271,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "mi7Zl9xYkTcqpw",
-    "name": "Nativa TV Satipo",
-    "stream_urls": [
-      "https://7.innovatestream.pe:19360/nativatv/nativatv.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
-    "country": "pe",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "EXY3gFnP4pv3FX",
     "name": "ONDA DIGITAL",
     "stream_urls": [
@@ -340,6 +327,19 @@
     "name": "RN Televisión",
     "stream_urls": [
       "https://videoserver.tmcreativos.com:19360/rnyurimaguas/rnyurimaguas.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "pe",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "3xHIJhktLp5hmp",
+    "name": "RPP TV",
+    "stream_urls": [
+      "https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea/rpptv/rpptv.smil/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [

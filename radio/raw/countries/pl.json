@@ -23,6 +23,17 @@
     ]
   },
   {
+    "nanoid": "SlfNZYUdTCLCGm",
+    "name": "4Music",
+    "stream_urls": [
+      "https://s1.slotex.pl/shoutcast/7102/stream"
+    ],
+    "country": "pl",
+    "languages": [
+      "pol"
+    ]
+  },
+  {
     "nanoid": "EDukHiPZ3u5Fa9",
     "name": "Akademickie Radio Kampus",
     "stream_urls": [
@@ -631,6 +642,17 @@
     ]
   },
   {
+    "nanoid": "10ITGMalB6TfFO",
+    "name": "Meloradio Olsztyn",
+    "stream_urls": [
+      "https://ml.cdn.eurozet.pl/mel-ols.mp3"
+    ],
+    "country": "pl",
+    "languages": [
+      "pol"
+    ]
+  },
+  {
     "nanoid": "AsgXM863dkIeMT",
     "name": "Meloradio Opole",
     "stream_urls": [
@@ -685,6 +707,17 @@
     "languages": [
       "pol",
       "deu"
+    ]
+  },
+  {
+    "nanoid": "hPmKV5j9RrqK6w",
+    "name": "Music Family",
+    "stream_urls": [
+      "https://s3.slotex.pl:7216/stream"
+    ],
+    "country": "pl",
+    "languages": [
+      "pol"
     ]
   },
   {
@@ -950,6 +983,7 @@
       "https://n09a-eu.rcs.revma.com/ye5kghkgcm0uv",
       "https://n23a-eu.rcs.revma.com/ye5kghkgcm0uv",
       "https://n23a-eu.rcs.revma.com/an1ugyygzk8uv",
+      "https://n04a-eu.rcs.revma.com/an1ugyygzk8uv",
       "https://n-11-21.dcs.redcdn.pl/sc/o2/radio357/live/radio357_pr.livx"
     ],
     "country": "pl",
@@ -984,6 +1018,17 @@
     "name": "Radio 7 90.8 FM",
     "stream_urls": [
       "https://stream.radio7.pl:443/radio7.mp3"
+    ],
+    "country": "pl",
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "UdsJX8rGGRMS5a",
+    "name": "Radio Afera 98.6 FM",
+    "stream_urls": [
+      "https://radio.afera.com.pl/afera128.ogg"
     ],
     "country": "pl",
     "languages": [
@@ -1231,19 +1276,6 @@
     ],
     "country": "pl",
     "languages": [
-      "pol"
-    ]
-  },
-  {
-    "nanoid": "d7M6HWPAsEBIk1",
-    "name": "Radio DHT - Kanał 2",
-    "stream_urls": [
-      "https://radiodht.com/stream_second/",
-      "https://radiodht.com/stream_main/"
-    ],
-    "country": "pl",
-    "languages": [
-      "eng",
       "pol"
     ]
   },
@@ -2355,6 +2387,17 @@
     ]
   },
   {
+    "nanoid": "LR9iM2kuaP7cDg",
+    "name": "Radio ONY 93.1 FM",
+    "stream_urls": [
+      "https://n14.rcs.revma.com/yxv344rra2zuv"
+    ],
+    "country": "pl",
+    "languages": [
+      "pol"
+    ]
+  },
+  {
     "nanoid": "Pkq0SrlyQgGhfj",
     "name": "Radio Opole",
     "stream_urls": [
@@ -2416,6 +2459,17 @@
       "https://shoutcast.paranormalium.pl:8000/5",
       "https://azuracast.paranormalium.pl/listen/radio_paranormalium/opus8",
       "https://azuracast.paranormalium.pl/listen/radio_paranormalium/1"
+    ],
+    "country": "pl",
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "Jtk00sL2RQUx5J",
+    "name": "Radio Park",
+    "stream_urls": [
+      "https://sluchaj2.radiopark.biz.pl:8443/stream"
     ],
     "country": "pl",
     "languages": [
@@ -2562,6 +2616,28 @@
     "name": "Radio Plus Lublin",
     "stream_urls": [
       "https://waw.ic.smcdn.pl/4130-1.aac"
+    ],
+    "country": "pl",
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "M7SwHt7FhGit3m",
+    "name": "Radio Plus Olsztyn",
+    "stream_urls": [
+      "https://waw.ic.smcdn.pl/4110-1.aac"
+    ],
+    "country": "pl",
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "xBQ9wQLFer4x7G",
+    "name": "Radio Plus Warszawa",
+    "stream_urls": [
+      "https://pl.cdn.eurozet.pl/plu-waw.mp3"
     ],
     "country": "pl",
     "languages": [
@@ -2969,6 +3045,17 @@
     ]
   },
   {
+    "nanoid": "dPMtcic4UlcleG",
+    "name": "Radio TPI",
+    "stream_urls": [
+      "https://s1.slotex.pl/shoutcast/7632/stream"
+    ],
+    "country": "pl",
+    "languages": [
+      "pol"
+    ]
+  },
+  {
     "nanoid": "aDVY9w1TNcjggd",
     "name": "Radio UAP",
     "stream_urls": [
@@ -3353,17 +3440,6 @@
     ]
   },
   {
-    "nanoid": "QuxAsV8g4kHtUB",
-    "name": "Radio Świnoujście",
-    "stream_urls": [
-      "https://stream.rcast.net/62853"
-    ],
-    "country": "pl",
-    "languages": [
-      "pol"
-    ]
-  },
-  {
     "nanoid": "g4FILENjLDOz2O",
     "name": "Radio Żuławy",
     "stream_urls": [
@@ -3666,17 +3742,6 @@
     ]
   },
   {
-    "nanoid": "ub9NvLiT5mwCLy",
-    "name": "RMF Top 2",
-    "stream_urls": [
-      "https://rs103-krk.rmfstream.pl/TOP2"
-    ],
-    "country": "pl",
-    "languages": [
-      "pol"
-    ]
-  },
-  {
     "nanoid": "0NsxrHaa84ocUI",
     "name": "RMF Top 3",
     "stream_urls": [
@@ -3782,7 +3847,8 @@
     "name": "SmoothJazz.com.pl",
     "stream_urls": [
       "https://bcast.vigormultimedia.com:48888/sjcompl320mp3",
-      "https://bcast.vigormultimedia.com:48888/sjcompl192aac"
+      "https://bcast.vigormultimedia.com:48888/sjcompl192aac",
+      "https://bcast.vigormultimedia.com:48888/sjcompl64aac"
     ],
     "country": "pl",
     "languages": [

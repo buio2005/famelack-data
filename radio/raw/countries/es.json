@@ -135,6 +135,17 @@
     ]
   },
   {
+    "nanoid": "lKjR4vZuOQPL49",
+    "name": "AFN Rota",
+    "stream_urls": [
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/AFNE_RTA_SC"
+    ],
+    "country": "es",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
     "nanoid": "ru0uhazAVyxzBD",
     "name": "Afro Radio",
     "stream_urls": [
@@ -403,6 +414,18 @@
     "name": "Cadena 100",
     "stream_urls": [
       "https://cadena100-streamers-mp3.flumotion.com/cope/cadena100.mp3"
+    ],
+    "country": "es",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "M95N5Bmk7hRJrW",
+    "name": "Cadena Dial",
+    "stream_urls": [
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/DIAL_ASO_MORON.mp3",
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/CADENADIAL.mp3"
     ],
     "country": "es",
     "languages": [
@@ -1261,6 +1284,17 @@
     ]
   },
   {
+    "nanoid": "KKL3PVY6H4vEF5",
+    "name": "Candil Radio",
+    "stream_urls": [
+      "https://candilradio.com/liveradio/candil/live.mp3"
+    ],
+    "country": "es",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
     "nanoid": "5qZAUD666QmcyW",
     "name": "Cantabria FM",
     "stream_urls": [
@@ -1329,17 +1363,6 @@
     "languages": [
       "cat",
       "spa"
-    ]
-  },
-  {
-    "nanoid": "hioDa9VvpiPZyN",
-    "name": "CCmixes",
-    "stream_urls": [
-      "https://audio.apps.dj/ccmixes"
-    ],
-    "country": "es",
-    "languages": [
-      "eng"
     ]
   },
   {
@@ -1468,6 +1491,17 @@
     ]
   },
   {
+    "nanoid": "RFVGlRIhgVKd2e",
+    "name": "COPE+ Sevilla",
+    "stream_urls": [
+      "https://wecast09-h-cloud.flumotion.com/copesedes/sevilla-mas.mp3"
+    ],
+    "country": "es",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
     "nanoid": "HbvX3LkSPI1o7P",
     "name": "Costa Blanca Radio",
     "stream_urls": [
@@ -1530,6 +1564,7 @@
     "nanoid": "ptQGOCWdeMIW5X",
     "name": "CUAC FM",
     "stream_urls": [
+      "https://streaming.cuacfm.org/cuacfm.ogg",
       "https://streaming.cuacfm.org/cuacfm-128k.mp3"
     ],
     "country": "es",
@@ -1559,6 +1594,17 @@
     "country": "es",
     "languages": [
       "deu"
+    ]
+  },
+  {
+    "nanoid": "0R92NdM2XXhkV6",
+    "name": "Davisow Radio",
+    "stream_urls": [
+      "https://stream-47.zeno.fm/gdyhnx3xem8uv"
+    ],
+    "country": "es",
+    "languages": [
+      "spa"
     ]
   },
   {
@@ -1760,17 +1806,6 @@
     "name": "Elite FM",
     "stream_urls": [
       "https://stream.zeno.fm/atsvz45arm0uv"
-    ],
-    "country": "es",
-    "languages": [
-      "spa"
-    ]
-  },
-  {
-    "nanoid": "eWCHLAqMAaTF9f",
-    "name": "Elixir FM",
-    "stream_urls": [
-      "https://radio.grupoelixir.es:9006/stream"
     ],
     "country": "es",
     "languages": [
@@ -2190,17 +2225,6 @@
     "country": "es",
     "languages": [
       "spa"
-    ]
-  },
-  {
-    "nanoid": "wzqnh8YjV6a14G",
-    "name": "Free Techno",
-    "stream_urls": [
-      "https://audio.apps.dj/freetechno"
-    ],
-    "country": "es",
-    "languages": [
-      "eng"
     ]
   },
   {
@@ -3099,8 +3123,7 @@
     "nanoid": "8mTFVDFHMzk41U",
     "name": "Loca FM",
     "stream_urls": [
-      "https://s3.we4stream.com:2020/stream/locafm",
-      "https://s47.myradiostream.com:13914/;"
+      "https://s3.we4stream.com:2020/stream/locafm"
     ],
     "country": "es",
     "languages": [
@@ -3200,17 +3223,6 @@
     "name": "Lola Dance",
     "stream_urls": [
       "https://digitalcreative.es:9000/lolafm_dance"
-    ],
-    "country": "es",
-    "languages": [
-      "spa"
-    ]
-  },
-  {
-    "nanoid": "jfRepOo1a7sRA1",
-    "name": "Lola FM",
-    "stream_urls": [
-      "https://srv7031.dns-lcinternet.com/8096/stream"
     ],
     "country": "es",
     "languages": [
@@ -3608,18 +3620,6 @@
     ]
   },
   {
-    "nanoid": "xVhguufkFVkofc",
-    "name": "Monster Radio",
-    "stream_urls": [
-      "https://monster.canarysat.eu/monster"
-    ],
-    "country": "es",
-    "languages": [
-      "eng",
-      "spa"
-    ]
-  },
-  {
     "nanoid": "WnxEvusuqPK2LA",
     "name": "Montserrat Ràdio",
     "stream_urls": [
@@ -3895,6 +3895,17 @@
     "name": "Onda Jerez Radio",
     "stream_urls": [
       "https://radio.ondajerez.com:8443/Ondajerez.mp3"
+    ],
+    "country": "es",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "clEi6SkbYPcUnr",
+    "name": "Onda Marina Radio",
+    "stream_urls": [
+      "https://srv7031.dns-lcinternet.com/8052/stream"
     ],
     "country": "es",
     "languages": [
@@ -4246,17 +4257,6 @@
     ]
   },
   {
-    "nanoid": "l3sKTfCtRIWnvO",
-    "name": "Radio Argayo",
-    "stream_urls": [
-      "https://radiobot.radioslibres.info/radio/8030/radio.ogg"
-    ],
-    "country": "es",
-    "languages": [
-      "spa"
-    ]
-  },
-  {
     "nanoid": "lXXb9fAUbXBvgU",
     "name": "Radio Arte 107.7 FM",
     "stream_urls": [
@@ -4429,17 +4429,6 @@
     "name": "Radio Esperantia",
     "stream_urls": [
       "https://radios.solumedia.com/6526/stream"
-    ],
-    "country": "es",
-    "languages": [
-      "spa"
-    ]
-  },
-  {
-    "nanoid": "M56xqA5pUdKkJM",
-    "name": "Radio Espiritrompa 102.2 FM",
-    "stream_urls": [
-      "https://radiobot.radioslibres.info/listen/radio_espiritrompa/radio.mp3"
     ],
     "country": "es",
     "languages": [
@@ -4677,17 +4666,6 @@
     "name": "Radio Jesus",
     "stream_urls": [
       "https://paginas.moisespaulino.com/proxy/radiojesus/stream"
-    ],
-    "country": "es",
-    "languages": [
-      "spa"
-    ]
-  },
-  {
-    "nanoid": "pLHukG90OOxkig",
-    "name": "Radio La Granja 102.1 FM",
-    "stream_urls": [
-      "https://radiobot.radioslibres.info/listen/radio_la_granja/rlg.mp3"
     ],
     "country": "es",
     "languages": [
@@ -5202,17 +5180,6 @@
     ]
   },
   {
-    "nanoid": "gvaxlXmm9HfCrK",
-    "name": "Radio Sin Barreras",
-    "stream_urls": [
-      "https://live.radiosinbarreras.com/radio/8020/stream"
-    ],
-    "country": "es",
-    "languages": [
-      "spa"
-    ]
-  },
-  {
     "nanoid": "yZ3rTxCfolxZ3x",
     "name": "Radio Sintonía",
     "stream_urls": [
@@ -5295,17 +5262,6 @@
     "name": "Radio Tinamar",
     "stream_urls": [
       "https://radiostreaming.online/8012/stream"
-    ],
-    "country": "es",
-    "languages": [
-      "spa"
-    ]
-  },
-  {
-    "nanoid": "Ix37mnT5HlqsCa",
-    "name": "Radio Topo",
-    "stream_urls": [
-      "https://radiobot.radioslibres.info/radio/8060/radio.mp3"
     ],
     "country": "es",
     "languages": [
@@ -5479,8 +5435,7 @@
     "nanoid": "JvMFzglts0VN9z",
     "name": "Radio Zaragoza",
     "stream_urls": [
-      "https://playerservices.streamtheworld.com/api/livestream-redirect/SER_ZARAGOZA.mp3",
-      "https://zaragoza-copesedes-rrcast.flumotion.com/copesedes/zaragoza-low.mp3"
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/SER_ZARAGOZA.mp3"
     ],
     "country": "es",
     "languages": [
@@ -5549,6 +5504,17 @@
     "name": "RadioMv Español El Antiguo Testamento",
     "stream_urls": [
       "https://stream.radiomv.com/spanish-ot/stream.mp3"
+    ],
+    "country": "es",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "Ey3kzLvL70fniY",
+    "name": "RadioMv Español El Nuevo Testamento",
+    "stream_urls": [
+      "https://stream.radiomv.com/spanish-nt/stream.mp3"
     ],
     "country": "es",
     "languages": [
@@ -6322,6 +6288,17 @@
     ]
   },
   {
+    "nanoid": "1njoBpMY9gaDgI",
+    "name": "Ràdio Sant Fruitós",
+    "stream_urls": [
+      "https://ascella.streamerr.co/listen/radiosantfruitos/radio.mp3"
+    ],
+    "country": "es",
+    "languages": [
+      "cat"
+    ]
+  },
+  {
     "nanoid": "2naRvgqKQlULY2",
     "name": "Ràdio SantVi 107.4 FM",
     "stream_urls": [
@@ -6504,6 +6481,17 @@
     "country": "es",
     "languages": [
       "por"
+    ]
+  },
+  {
+    "nanoid": "TPX3JFhPsSZFL4",
+    "name": "scannerFM",
+    "stream_urls": [
+      "https://eu10.fastcast4u.com/scannerfm"
+    ],
+    "country": "es",
+    "languages": [
+      "spa"
     ]
   },
   {
@@ -6814,18 +6802,6 @@
     ]
   },
   {
-    "nanoid": "pL6wpiMXEnVlUb",
-    "name": "The Sound of Chill",
-    "stream_urls": [
-      "https://itsshort.info/listen/thesoundofchill/radio.mp3"
-    ],
-    "country": "es",
-    "languages": [
-      "spa",
-      "eng"
-    ]
-  },
-  {
     "nanoid": "XAOn7yWKx6aJEm",
     "name": "The Waiting Room",
     "stream_urls": [
@@ -7069,17 +7045,6 @@
     "name": "Zona Rap Radio",
     "stream_urls": [
       "https://radio.zonarap.es/listen/zona_rap_radio/radio.mp3"
-    ],
-    "country": "es",
-    "languages": [
-      "spa"
-    ]
-  },
-  {
-    "nanoid": "crwfzps1IVPf0H",
-    "name": "Ágora Sol Radio",
-    "stream_urls": [
-      "https://cervera.eldialdigital.com:23141/stream"
     ],
     "country": "es",
     "languages": [

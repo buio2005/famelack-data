@@ -133,20 +133,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "5GEVv3vX7BnAy7",
-    "name": "Canal Mundo Visión",
-    "stream_urls": [
-      "https://movil.ejeserver.com/live/mundovisiontv.m3u8",
-      "https://video.ejeserver.com/live/mundovisiontv.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
-    "country": "co",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "QA1x5OQRH7UVPJ",
     "name": "Canal Nets",
     "stream_urls": [
@@ -257,20 +243,6 @@
     "stream_urls": [
       "https://cdn1.cmbcolombia.tv/bethesda/video.m3u8",
       "https://hls-m9hrfayq-livepush.akamaized.net/live_cdn/nsxlDfnVmUyEy/eme2QCj5oX02cY/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
-    "country": "co",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "xk2bL1B2O6nqIC",
-    "name": "CNC Bugavisión",
-    "stream_urls": [
-      "https://movil.ejeserver.com/live/cncbuga.m3u8",
-      "https://video.ejeserver.com/live/cncbuga.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -542,19 +514,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "snUHMUBtSh5kZt",
-    "name": "Memorias TV Toons",
-    "stream_urls": [
-      "https://video.xtrematv.com:3812/live/memoriastoonslive.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
-    "country": "co",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "zI3NybQoMP9Xkx",
     "name": "Noticias Caracol",
     "stream_urls": [],
@@ -729,6 +688,19 @@
     "name": "Tele Mocoa Canal 10",
     "stream_urls": [
       "https://live.amelbatv.co:81/telemocoalive/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "co",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "OQFI4DY0MMP8is",
+    "name": "Telebolívar",
+    "stream_urls": [
+      "https://live20.bozztv.com/akamaissh101/ssh101/telebolivar/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [

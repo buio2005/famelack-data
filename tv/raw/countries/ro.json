@@ -91,6 +91,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "2UXhXxAP9FifSB",
+    "name": "Arges TV",
+    "stream_urls": [
+      "https://btutzctahuf0wjoq.cdn.streamingserver.io/hls/yjvam8hlp2g3u08z02tv0yz66rq3cy.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "ron"
+    ],
+    "country": "ro",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "c1gByRg7bGFR8Z",
     "name": "Atomic Academy TV",
     "stream_urls": [
@@ -234,19 +247,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "E9smyEh0BaQpif",
-    "name": "JOB TV",
-    "stream_urls": [
-      "https://jobtvserver.eu/hls/stream.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "ron"
-    ],
-    "country": "ro",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "H8lAJKYghBWOpW",
     "name": "Kanal D",
     "stream_urls": [
@@ -300,6 +300,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "dfvV9SkyUqJgjs",
+    "name": "MeteoTV",
+    "stream_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/lqMWeBc6_Kg"
+    ],
+    "languages": [
+      "ron"
+    ],
+    "country": "ro",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "U81csRB9YHDFcc",
     "name": "Mireasa",
     "stream_urls": [
@@ -317,6 +330,19 @@
     "name": "MISA TV",
     "stream_urls": [
       "https://vidl.misatv.ro:5050/MSTV/romanian_720p_baseline/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "ron"
+    ],
+    "country": "ro",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "wAAXdhWFrvqJmH",
+    "name": "Mooz Dance",
+    "stream_urls": [
+      "https://rtmp.digitalbroadcast.ro/moozdance/moozdance.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -670,6 +696,19 @@
       "https://tvr-timisoara.lg.mncdn.com/tvrtimisoara/smil:tvrtimisoara.smil/chunklist_b5160000.m3u8"
     ],
     "youtube_urls": [],
+    "languages": [
+      "ron"
+    ],
+    "country": "ro",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "wEoUUNJpcYsZs6",
+    "name": "Z-TV",
+    "stream_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/tG8iGmlmEWg"
+    ],
     "languages": [
       "ron"
     ],

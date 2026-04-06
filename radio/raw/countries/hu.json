@@ -663,17 +663,6 @@
     ]
   },
   {
-    "nanoid": "2HenIWKzAONYoh",
-    "name": "Győr+ Rádió",
-    "stream_urls": [
-      "https://stream.42netmedia.com:8443/sc_gyor1"
-    ],
-    "country": "hu",
-    "languages": [
-      "hun"
-    ]
-  },
-  {
     "nanoid": "JbJN7l7ghVL4KX",
     "name": "HBC News",
     "stream_urls": [
@@ -799,6 +788,7 @@
     "nanoid": "rpfeq0BConOuFA",
     "name": "Kossuth Rádió",
     "stream_urls": [
+      "https://icast.connectmedia.hu/4736/mr1.mp3",
       "https://mr-stream.connectmedia.hu/4736/mr1.mp3"
     ],
     "country": "hu",
@@ -817,6 +807,17 @@
     "languages": [
       "hun",
       "eng"
+    ]
+  },
+  {
+    "nanoid": "ePOAuAmvmnc6Js",
+    "name": "Lakihegy Rádió",
+    "stream_urls": [
+      "https://lakihegyradio.hu/player/stream.php"
+    ],
+    "country": "hu",
+    "languages": [
+      "hun"
     ]
   },
   {
@@ -1660,17 +1661,6 @@
     ]
   },
   {
-    "nanoid": "hKbtNsvZOmtZd9",
-    "name": "Sárvár Rádió",
-    "stream_urls": [
-      "https://stream.42netmedia.com:8443/sarvar"
-    ],
-    "country": "hu",
-    "languages": [
-      "hun"
-    ]
-  },
-  {
     "nanoid": "MgxQbwKjOTnyq6",
     "name": "Tilos Rádió",
     "stream_urls": [
@@ -1726,6 +1716,18 @@
     "country": "hu",
     "languages": [
       "hun"
+    ]
+  },
+  {
+    "nanoid": "qlWprHXsYULVXL",
+    "name": "Zalan Radio",
+    "stream_urls": [
+      "https://stream.zeno.fm/kvqrsxeeafctv"
+    ],
+    "country": "hu",
+    "languages": [
+      "hun",
+      "eng"
     ]
   },
   {

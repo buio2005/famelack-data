@@ -24,18 +24,6 @@
     ]
   },
   {
-    "nanoid": "k77xh91crYL7Tt",
-    "name": "City FM 89",
-    "stream_urls": [
-      "https://radio.cityfm89.com/stream"
-    ],
-    "country": "pk",
-    "languages": [
-      "eng",
-      "urd"
-    ]
-  },
-  {
     "nanoid": "u2IYiUT7n0wTKp",
     "name": "DC Naat Radio",
     "stream_urls": [
@@ -265,6 +253,17 @@
     ]
   },
   {
+    "nanoid": "4l1d0pGJgDSBxu",
+    "name": "Radio Pakistan D.I. Khan",
+    "stream_urls": [
+      "https://whmsonic.radio.gov.pk:7000/Dikhan"
+    ],
+    "country": "pk",
+    "languages": [
+      "urd"
+    ]
+  },
+  {
     "nanoid": "Ebfs6UDzxdg8Tk",
     "name": "Radio Pakistan Hyderabad",
     "stream_urls": [
@@ -286,6 +285,18 @@
     "languages": [
       "urd",
       "eng"
+    ]
+  },
+  {
+    "nanoid": "TkcOfg6dyeQvPa",
+    "name": "Radio Pakistan Karachi",
+    "stream_urls": [
+      "https://whmsonic.radio.gov.pk:7000/MW639khi"
+    ],
+    "country": "pk",
+    "languages": [
+      "urd",
+      "snd"
     ]
   },
   {

@@ -1280,6 +1280,7 @@
     "nanoid": "Y092PJAm8VTgON",
     "name": "Rádio Samson",
     "stream_urls": [
+      "https://icecast8.play.cz/samsonfm128.mp3",
       "https://icecast2.play.cz/samsonfm128aac"
     ],
     "country": "cz",
@@ -1292,17 +1293,6 @@
     "name": "Rádio Sázava",
     "stream_urls": [
       "https://icecast8.play.cz/sazava192.mp3"
-    ],
-    "country": "cz",
-    "languages": [
-      "ces"
-    ]
-  },
-  {
-    "nanoid": "bEcOwXIFX5SKeB",
-    "name": "Rádio Xaver",
-    "stream_urls": [
-      "https://icecast6.play.cz/radio-xaver.aac"
     ],
     "country": "cz",
     "languages": [
@@ -1518,6 +1508,17 @@
     "name": "Český rozhlas Olomouc",
     "stream_urls": [
       "https://rozhlas.stream/olomouc_low.aac"
+    ],
+    "country": "cz",
+    "languages": [
+      "ces"
+    ]
+  },
+  {
+    "nanoid": "Z9rX60A0ug0n1w",
+    "name": "Český rozhlas Ostrava",
+    "stream_urls": [
+      "https://rozhlas.stream/ostrava_high.aac"
     ],
     "country": "cz",
     "languages": [
