@@ -39,10 +39,36 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "cnFlZpQ0FKCBXe",
+    "name": "DanceTV EDM Mainstage",
+    "stream_urls": [
+      "https://mbit1.worldcast.tv/dancetelevisionseven/multibit.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "eng"
+    ],
+    "country": "ee",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "Q5enIVFByh6WlU",
     "name": "DanceTV House Floor",
     "stream_urls": [
       "https://m2b2.worldcast.tv:7443/dancetelevisionfive/dancetelevisionfive.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "eng"
+    ],
+    "country": "ee",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "dGqTIRUXI72pxD",
+    "name": "DanceTV Minimal Tech",
+    "stream_urls": [
+      "https://mbit1.worldcast.tv/dancetelevisionsix/multibit.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -147,19 +173,6 @@
     "name": "Vantage Music",
     "stream_urls": [
       "https://hls.vantagetv.ee/vmusic_stream/main_stream.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "eng"
-    ],
-    "country": "ee",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "6GLl0eCnvKpLx9",
-    "name": "Vantage Music UK",
-    "stream_urls": [
-      "https://hls.vantagetv.co.uk/vmusicuk_stream/index.m3u8"
     ],
     "youtube_urls": [],
     "languages": [

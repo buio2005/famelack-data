@@ -1,5 +1,18 @@
 [
   {
+    "nanoid": "ZOwQAPUGPgS297",
+    "name": "4DmásNoticias TV",
+    "stream_urls": [
+      "https://rds3.desdeparaguay.net/4dmasnoticiastv/4dmasnoticiastv/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "py",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "MC0Hkz9sP3iFPv",
     "name": "Almaya TV",
     "stream_urls": [
@@ -104,10 +117,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "u5b2On0IzN64A2",
-    "name": "E40",
+    "nanoid": "RszKNvM58V3E5m",
+    "name": "Dismar Radio TV",
     "stream_urls": [
-      "https://copacotf.desdeparaguay.net/e40tv/e40tv_py_alta/playlist.m3u8?admin=tvaccion"
+      "https://rds3.desdeparaguay.net/dismartv/dismartv/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -169,10 +182,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "blN8uMLBNq1v02",
-    "name": "LIM TV",
+    "nanoid": "vCORrvB9khbwBn",
+    "name": "Mega TV",
     "stream_urls": [
-      "https://tv.invasivamedia.com/hls/limtv.m3u8"
+      "https://www.desde-paraguay.com/mega.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -221,6 +234,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "KKXSDc79SjuRMG",
+    "name": "Nanduti",
+    "stream_urls": [
+      "https://zn1tf.desdeparaguay.net/nandutitv/nandutitv_alta/playlist.m3u8",
+      "https://copacogen.desdeparaguay.net/nandutitv/nandutitv_baja/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "py",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "mKiiX9v0iS1lOZ",
     "name": "Next HD",
     "stream_urls": [
@@ -247,10 +274,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "DTGn1oGPUrbYoj",
-    "name": "Paraguay TV",
+    "nanoid": "2BUOGme9iVm1bq",
+    "name": "Popu TV",
     "stream_urls": [
-      "https://stream.paraguaytv.gov.py/memfs/bbe36fed-9b49-4d1d-adaa-4bd6d1b2e386.m3u8"
+      "https://copacogen.desdeparaguay.net/universotv/universotv_py_alta/playlist.m3u8?admin=nacion"
     ],
     "youtube_urls": [],
     "languages": [
@@ -260,10 +287,36 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "2BUOGme9iVm1bq",
-    "name": "Popu TV",
+    "nanoid": "bcFsomEBowqYIB",
+    "name": "Productiva TV",
     "stream_urls": [
-      "https://copacogen.desdeparaguay.net/universotv/universotv_py_alta/playlist.m3u8?admin=nacion"
+      "https://copacoradios.desdeparaguay.net/productivatv/productivatv_baja/playlist.m3u8?admin=nacion"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "py",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "dLi3714dJiy1F0",
+    "name": "RCC TV",
+    "stream_urls": [
+      "https://copacoradios.desdeparaguay.net/rcctv/rcctv/playlist.m3u8?admin=nacion"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "py",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "ERBtwPcBChyLTj",
+    "name": "Red Digital",
+    "stream_urls": [
+      "https://video.hostingcaaguazu.com:19360/reddigitalsanpedro/reddigitalsanpedro.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -312,10 +365,36 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "cwbcfkhV6RVquj",
+    "name": "TV Aire",
+    "stream_urls": [
+      "https://video.hostingcaaguazu.com:19360/tvairepy/tvairepy.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "py",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "ASrUvdpVK7ci3L",
     "name": "UnionTV",
     "stream_urls": [
       "https://tigocloud.desdeparaguay.net/800tv/800tv/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "py",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "9Ihh2szFUbQs2q",
+    "name": "Villa Elisa Radio TV",
+    "stream_urls": [
+      "https://copacogen.desdeparaguay.net/villaelisatv/villaelisatv/playlist.m3u8?admin=nacion"
     ],
     "youtube_urls": [],
     "languages": [

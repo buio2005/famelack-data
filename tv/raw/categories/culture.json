@@ -13,19 +13,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "pNO1A2SnOPsV3y",
-    "name": "AABC TV",
-    "stream_urls": [
-      "https://streamer1.connectto.com/AABC_WEB_1201/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "hye"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "SUz6ZlewrjG9Ml",
     "name": "Abai TV",
     "stream_urls": [
@@ -55,8 +42,7 @@
     "nanoid": "lk0uWzuq5z3huX",
     "name": "Afro Magic Channel",
     "stream_urls": [
-      "https://video1.getstreamhosting.com:1936/8306/8306/playlist.m3u8",
-      "https://video1.getstreamhosting.com:1936/8490/8490/playlist.m3u8"
+      "https://video1.getstreamhosting.com:1936/8306/8306/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -444,19 +430,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "nuCkj2isILRO5a",
-    "name": "EET TV",
-    "stream_urls": [
-      "https://eu.streamjo.com/eetlive/eettv.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "tam"
-    ],
-    "country": "ca",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "h9xUZ9qtOT3ejC",
     "name": "El 33 Originals",
     "stream_urls": [
@@ -527,6 +500,7 @@
     "nanoid": "2QHwYMt2XZKYvG",
     "name": "Fox Soul",
     "stream_urls": [
+      "https://foxsoul-vizio.amagi.tv/playlist.m3u8",
       "https://aegis-cloudfront-1.tubi.video/0c4bd880-76cc-4000-b9cb-8edabeb88daa/index.m3u8"
     ],
     "youtube_urls": [],
@@ -537,29 +511,16 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "o8GJhpgQxXREN1",
-    "name": "Geb Tv (KBPX LD5)",
+    "nanoid": "y9tmDdGOMUn9pB",
+    "name": "Garshom TV",
     "stream_urls": [
-      "https://edge1.lifestreamcdn.com/live/geb/playlist.m3u8"
+      "https://og2qd3aal7an-hls-live.5centscdn.com/garshomtv/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
-      "vie"
+      "mal"
     ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "duSXiulPj9T5qC",
-    "name": "Guaymate TV",
-    "stream_urls": [
-      "https://live20.bozztv.com/akamaissh101/ssh101/guaymatetv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
-    "country": "do",
+    "country": "uk",
     "isGeoBlocked": false
   },
   {
@@ -786,19 +747,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "4GP05gaKgeZLke",
-    "name": "MBC America",
-    "stream_urls": [
-      "https://cdn-us-east-prod-ingest-infra-dacast-com.akamaized.net/624ff8f9-db18-da92-4d42-896fa2ff3eb3/source/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "kor"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "xx7eina1wOQhnp",
     "name": "MCN6 Arts Channel",
     "stream_urls": [
@@ -926,6 +874,19 @@
       "spa"
     ],
     "country": "co",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "RiifWdXjWLsqP4",
+    "name": "ORF III HD",
+    "stream_urls": [
+      "https://orf3.mdn.ors.at/orf/orf3/qxa/manifest.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "deu"
+    ],
+    "country": "at",
     "isGeoBlocked": false
   },
   {
@@ -1086,6 +1047,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "Am4Jb6RFmtHHBI",
+    "name": "Superscreen TV",
+    "stream_urls": [
+      "https://video1.getstreamhosting.com:1936/8398/8398/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "eng"
+    ],
+    "country": "ng",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "WSVwH48J9agVpk",
     "name": "TBN TV",
     "stream_urls": [
@@ -1242,16 +1216,16 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "SouHlOn23CzTQS",
-    "name": "НТВ Мир",
+    "nanoid": "glNPCf2RbwoWmt",
+    "name": "zenith",
     "stream_urls": [
-      "https://streaming.thestream.cyou/live/213.m3u8"
+      "https://srv.zenith-tv.fr:8888/zenithwchl/index.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
-      "rus"
+      "fra"
     ],
-    "country": "ru",
+    "country": "fr",
     "isGeoBlocked": false
   },
   {

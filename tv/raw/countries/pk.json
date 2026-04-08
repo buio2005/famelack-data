@@ -43,7 +43,7 @@
     "name": "Aaj TV",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/hdzrOU2GvmI"
+      "https://www.youtube-nocookie.com/embed/WzB36LDF6uo"
     ],
     "languages": [
       "urd"
@@ -95,7 +95,7 @@
     "name": "Awaz Tv News",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/GoMr2zv1jsk"
+      "https://www.youtube-nocookie.com/embed/xRHCTXE3_0Q"
     ],
     "languages": [
       "sd"
@@ -278,8 +278,21 @@
     "name": "GNN",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/8mhPYTm3kEs"
+      "https://www.youtube-nocookie.com/embed/Pzv58lUgiVo"
     ],
+    "languages": [
+      "urd"
+    ],
+    "country": "pk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "nWhRA7BRbeT6Pd",
+    "name": "God Stands TV",
+    "stream_urls": [
+      "https://online.godstands.tv:5443/WebRTCApp/streams/mainlive.m3u8"
+    ],
+    "youtube_urls": [],
     "languages": [
       "urd"
     ],
@@ -365,6 +378,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "5jBZcISN5C325C",
+    "name": "God Stands TV Urdu",
+    "stream_urls": [
+      "https://online.godstands.tv:5443/WebRTCApp/streams/UrduStreaming.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "urd"
+    ],
+    "country": "pk",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "y7f5txzCbtS5vm",
     "name": "Grace Network",
     "stream_urls": [
@@ -438,6 +464,19 @@
     "youtube_urls": [],
     "languages": [
       "eng"
+    ],
+    "country": "pk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "yQPdPKGvAyjQ79",
+    "name": "Kids Land: Urdu",
+    "stream_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/4tCZRZO84Yc"
+    ],
+    "languages": [
+      "urd"
     ],
     "country": "pk",
     "isGeoBlocked": false

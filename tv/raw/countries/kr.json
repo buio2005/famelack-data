@@ -395,7 +395,7 @@
     "name": "JTBC News",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/y9-ZgDAs_jA"
+      "https://www.youtube-nocookie.com/embed/x0O2HlrrKUI"
     ],
     "languages": [
       "kor"
@@ -408,7 +408,7 @@
     "name": "KBS News",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/-_-Ib-Mo1dk"
+      "https://www.youtube-nocookie.com/embed/uihJS1tjfX8"
     ],
     "languages": [
       "kor"
@@ -521,19 +521,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "I27keaXmXV9AK5",
-    "name": "MBC Jeju (제주 MBC)",
-    "stream_urls": [
-      "https://wowza.jejumbc.com/live/tv_jejumbc/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "kor"
-    ],
-    "country": "kr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "jvEnH2enN4Ahyj",
     "name": "MBC News",
     "stream_urls": [],
@@ -573,6 +560,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "oNnWdV2miCH9OF",
+    "name": "NS Home Shopping",
+    "stream_urls": [
+      "https://livestream.nsmall.com/IPHONE/nsmallMobile.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "kor"
+    ],
+    "country": "kr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "dniHBftPCZaKkW",
     "name": "OBS Gyeongin TV (OBS경인TV)",
     "stream_urls": [
@@ -599,12 +599,12 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "LaJUiyDd3qErb2",
-    "name": "Pororo 뽀로로",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/N2NDsuEV7V4"
+    "nanoid": "2JjtogNFSDfTsC",
+    "name": "RUTC TV",
+    "stream_urls": [
+      "https://d26sxnc75smwvh.cloudfront.net/livehttporigin/rutclive_720p2.stream/playlist.m3u8"
     ],
+    "youtube_urls": [],
     "languages": [
       "kor"
     ],
@@ -612,12 +612,12 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "2JjtogNFSDfTsC",
-    "name": "RUTC TV",
-    "stream_urls": [
-      "https://d26sxnc75smwvh.cloudfront.net/livehttporigin/rutclive_720p2.stream/playlist.m3u8"
+    "nanoid": "wLvMxnvxZbDm1t",
+    "name": "SBS",
+    "stream_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/R8SJRgKJiSg"
     ],
-    "youtube_urls": [],
     "languages": [
       "kor"
     ],
