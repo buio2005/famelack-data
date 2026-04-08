@@ -334,7 +334,8 @@
     "nanoid": "LRBUacm9msNRQ8",
     "name": "Fight Network",
     "stream_urls": [
-      "https://amg00966-amg00966c10-amgplt0081.playout.now3.amagi.tv/playlist/amg00966-amg00966c10-amgplt0081/playlist.m3u8"
+      "https://amg00966-amg00966c10-amgplt0081.playout.now3.amagi.tv/playlist/amg00966-amg00966c10-amgplt0081/playlist.m3u8",
+      "https://a-cdn.klowdtv.com/live2/fight_720p/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -439,6 +440,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "3PWIwG9FFIlO5Y",
+    "name": "Game+",
+    "stream_urls": [
+      "https://a-cdn.klowdtv.com/live2/fntsy_720p/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "eng"
+    ],
+    "country": "ca",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "kM3B5XM0dLyl7Z",
     "name": "GEM Fit",
     "stream_urls": [
@@ -491,6 +505,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "GV38pwWqigwkoF",
+    "name": "HTV Thể thao",
+    "stream_urls": [
+      "https://live.fptplay53.net/epzhd1/htvcthethao_vhls.smil/chunklist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "vie"
+    ],
+    "country": "vn",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "YJ0VLCpIyYcZ5V",
     "name": "InTrouble",
     "stream_urls": [
@@ -505,16 +532,16 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "RFeb11iCYGMUEw",
-    "name": "ItalianFishingTV",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/Gp6DnJLssXc"
+    "nanoid": "KPtXyd5nRjav8n",
+    "name": "KCMN-LD6",
+    "stream_urls": [
+      "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg02873-kravemedia-mtrspt1-distrotv/playlist.m3u8"
     ],
+    "youtube_urls": [],
     "languages": [
-      "ita"
+      "eng"
     ],
-    "country": "it",
+    "country": "us",
     "isGeoBlocked": false
   },
   {
@@ -554,19 +581,6 @@
       "eng"
     ],
     "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "1eV4O1qgcFehgA",
-    "name": "LaLiga Hypermotion",
-    "stream_urls": [
-      "https://latam-cache-sv2-cdn.latamlive.net/LA_LIGA_SMARTBANK_IP_ENC_LIVE/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "eng"
-    ],
-    "country": "es",
     "isGeoBlocked": false
   },
   {
@@ -636,19 +650,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "Da460ZcoL5SJKT",
-    "name": "Multivisión Sports",
-    "stream_urls": [
-      "https://stream.digitalgt.com:3605/live/multivisionsportslive.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
-    "country": "gt",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "RcmUVMpfqvK186",
     "name": "NBA TV",
     "stream_urls": [
@@ -702,19 +703,6 @@
       "eng"
     ],
     "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "g2M151IR177r4N",
-    "name": "Nudge Sports Channel",
-    "stream_urls": [
-      "https://streams.comclark.com/live_input/nudge_sports/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "eng"
-    ],
-    "country": "ph",
     "isGeoBlocked": false
   },
   {
@@ -988,8 +976,8 @@
     "name": "SportsGrid",
     "stream_urls": [
       "https://amg00315-sportsgrid-firetv.amagi.tv/playlist.m3u8",
-      "https://sportsgrid-plex.amagi.tv/playlist.m3u8",
-      "https://sportsgrid-samsungus.amagi.tv/playlist.m3u8"
+      "https://sportsgrid-samsungus.amagi.tv/playlist.m3u8",
+      "https://sportsgrid-klowdtv.amagi.tv/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -1137,6 +1125,7 @@
     "nanoid": "KqqtNJzLvYMM8F",
     "name": "Trace Sports Stars",
     "stream_urls": [
+      "https://tracesportstars-klowdtv.amagi.tv/playlist.m3u8",
       "https://amg01131-tracetv-amg01131c2-stirr-us-4392.playouts.now.amagi.tv/playlist.m3u8"
     ],
     "youtube_urls": [],
@@ -1420,7 +1409,7 @@
     "name": "WWE Vault",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/yRc2z0F_8uE"
+      "https://www.youtube-nocookie.com/embed/yqYTyztFSw8"
     ],
     "languages": [
       "eng"

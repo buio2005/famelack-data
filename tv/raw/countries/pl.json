@@ -66,6 +66,46 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "ZgdcsAoxUBnS3U",
+    "name": "BTB HD",
+    "stream_urls": [
+      "https://fa723fc1b171.us-west-2.playback.live-video.net/api/video/v1/us-west-2.196233775518.channel.tm5ELzwtPY6t.m3u8",
+      "https://emisja.btb.j00r.us/iptv/channel/1.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "pol"
+    ],
+    "country": "pl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Zgg5DBKwX2XCJo",
+    "name": "BTB International",
+    "stream_urls": [
+      "https://emisja.btb.j00r.us/iptv/channel/2.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "pol"
+    ],
+    "country": "pl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "QpkwHa7GwFnKLp",
+    "name": "BTB Music",
+    "stream_urls": [
+      "https://panel.btb.j00r.us/memfs/ebaffae6-0086-49d7-843d-57f2c561de86.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "pol"
+    ],
+    "country": "pl",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "QPykxNCJ0OXJFT",
     "name": "Buzzfeed Unsolved",
     "stream_urls": [
@@ -200,7 +240,7 @@
     "name": "Kapitan Bomba",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/OfUHOCXXVxw"
+      "https://www.youtube-nocookie.com/embed/q7ctP7tnEBU"
     ],
     "languages": [
       "pol"
@@ -405,6 +445,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "hjCXHjX41BNCM8",
+    "name": "Telewizja Gorzów",
+    "stream_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/QXemHHAx9X8"
+    ],
+    "languages": [
+      "pol"
+    ],
+    "country": "pl",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "hs9A8d0OBl1eij",
     "name": "Telewizja iTTV",
     "stream_urls": [
@@ -500,7 +553,7 @@
     "name": "Telewizja Zabrze",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/Mstk06UUD9o"
+      "https://www.youtube-nocookie.com/embed/8u4h61vLDV8"
     ],
     "languages": [
       "pol"
@@ -556,6 +609,19 @@
     "youtube_urls": [],
     "languages": [
       "eng"
+    ],
+    "country": "pl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "zm99zgCQP8EGKf",
+    "name": "Top Movies Polska",
+    "stream_urls": [
+      "https://top-movies-rakuten-tv-pl.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6059/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "pol"
     ],
     "country": "pl",
     "isGeoBlocked": false

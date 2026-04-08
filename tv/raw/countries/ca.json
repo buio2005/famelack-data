@@ -53,19 +53,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "fruS79xWb73ha2",
-    "name": "Barney the Dinosaur",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/GYP4xkbYjlc"
-    ],
-    "languages": [
-      "eng"
-    ],
-    "country": "ca",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "XHxGpxMeodxqTd",
     "name": "C Malayalam TV",
     "stream_urls": [
@@ -237,6 +224,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "nuCkj2isILRO5a",
+    "name": "EET TV",
+    "stream_urls": [
+      "https://eu.streamjo.com/eetlive/eettv.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "tam"
+    ],
+    "country": "ca",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "BFpewkLm3lqPGP",
     "name": "Erfan Halgheh TV",
     "stream_urls": [
@@ -266,7 +266,8 @@
     "nanoid": "LRBUacm9msNRQ8",
     "name": "Fight Network",
     "stream_urls": [
-      "https://amg00966-amg00966c10-amgplt0081.playout.now3.amagi.tv/playlist/amg00966-amg00966c10-amgplt0081/playlist.m3u8"
+      "https://amg00966-amg00966c10-amgplt0081.playout.now3.amagi.tv/playlist/amg00966-amg00966c10-amgplt0081/playlist.m3u8",
+      "https://a-cdn.klowdtv.com/live2/fight_720p/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -280,8 +281,21 @@
     "name": "Fugget About It",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/4HD4A6b32ZU"
+      "https://www.youtube-nocookie.com/embed/EDb9_xfiZHQ"
     ],
+    "languages": [
+      "eng"
+    ],
+    "country": "ca",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "3PWIwG9FFIlO5Y",
+    "name": "Game+",
+    "stream_urls": [
+      "https://a-cdn.klowdtv.com/live2/fntsy_720p/playlist.m3u8"
+    ],
+    "youtube_urls": [],
     "languages": [
       "eng"
     ],
@@ -1038,24 +1052,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "3C5tAme4Sy2gIV",
-    "name": "Super Simple: Bedtime Songs",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/JjVBBUL6hr4"
-    ],
-    "languages": [
-      "eng"
-    ],
-    "country": "ca",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "GdyuPfPjDfUi5s",
     "name": "Super Simple: Noodle and Pals",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/4SUZEIrirqU"
+      "https://www.youtube-nocookie.com/embed/kJXpIQ2dO6I"
     ],
     "languages": [
       "eng"
@@ -1068,7 +1069,7 @@
     "name": "Super Simple: Simple Songs",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/532H4zx8t8E"
+      "https://www.youtube-nocookie.com/embed/1ypB5RYbdEo"
     ],
     "languages": [
       "eng"
@@ -1209,7 +1210,7 @@
     "name": "TV Témis",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/JfOrJAO8DhU"
+      "https://www.youtube-nocookie.com/embed/jk7qltqsJec"
     ],
     "languages": [
       "fra"

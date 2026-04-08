@@ -184,19 +184,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "zjs8fScsFVoj7q",
-    "name": "Canal Parlamento del Congreso de Jalisco",
-    "stream_urls": [
-      "https://60417ddeaf0d9.streamlock.net/srtc/smil:srtc.smil/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
-    "country": "mx",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "xIwhqLk3kSoWQX",
     "name": "CFM TV Channel 98",
     "stream_urls": [
@@ -207,19 +194,6 @@
       "eng"
     ],
     "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "udSOaNy3d31JFB",
-    "name": "Chamber TV",
-    "stream_urls": [
-      "https://media02.webtvlive.eu/chd-edge/smil:chamber_tv_hd.smil/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "ltz"
-    ],
-    "country": "lu",
     "isGeoBlocked": false
   },
   {
@@ -928,19 +902,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "iPhkcC76kYpp0C",
-    "name": "Palm Beach County TV Channel 20 (Palm Beach County FL)",
-    "stream_urls": [
-      "https://pbcvideostreams1.pbc.gov/memfs/1af49f9a-6b90-4ec2-a640-7f65ceebed4a.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "hKXziqHmvJRVZi",
     "name": "Parlamentsfernsehen 1",
     "stream_urls": [
@@ -1049,7 +1010,7 @@
     "name": "Rio TV Câmara",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/kiL2i6Ah0FU"
+      "https://www.youtube-nocookie.com/embed/9TZM_XMULo0"
     ],
     "languages": [
       "por"
@@ -1234,7 +1195,7 @@
     "name": "TV Assembleia Minas Gerais",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/Bxdo90XumWY"
+      "https://www.youtube-nocookie.com/embed/QzLnOS2-hmk"
     ],
     "languages": [
       "por"
@@ -1500,6 +1461,19 @@
       "ell"
     ],
     "country": "gr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "jdtDDFx09GQYAn",
+    "name": "Дума ТВ",
+    "stream_urls": [
+      "https://dumatv.iptv2022.com/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
     "isGeoBlocked": false
   }
 ]

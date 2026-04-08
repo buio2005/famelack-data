@@ -1,18 +1,5 @@
 [
   {
-    "nanoid": "ziSogPvWMMpIww",
-    "name": "Alhiwar TV",
-    "stream_urls": [
-      "https://mn-nl.mncdn.com/alhiwar_live/smil:alhiwar.smil/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "ara"
-    ],
-    "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "FHHW8HxY4wkWHY",
     "name": "Arche TV",
     "stream_urls": [],
@@ -247,19 +234,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "IVwVAzQdAWOVvy",
-    "name": "DC.gov DKN (Washington DC)",
-    "stream_urls": [
-      "https://video.oct.dc.gov/out/u/DKN.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "jDP6MUrSN5cKSo",
     "name": "DD Kisan",
     "stream_urls": [
@@ -487,7 +461,7 @@
     "name": "Earthquake Alert Channel",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/UJYyY_mrUmo"
+      "https://www.youtube-nocookie.com/embed/iHFhMGWlvXQ"
     ],
     "languages": [
       "jpn"
@@ -718,6 +692,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "v5EGekXWA63xCM",
+    "name": "Los Angeles Local Television Channel 36",
+    "stream_urls": [
+      "https://reflect-channel36-la.cablecast.tv/live-3/live/stream-1/live.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "xsRHw7w1yWnmCm",
     "name": "Made In History",
     "stream_urls": [],
@@ -748,6 +735,19 @@
     "name": "Midpen Media Center Youth Education and Sports Channel 28",
     "stream_urls": [
       "https://5c2974786200d.streamlock.net/live-chan28/ngrp:ch28_all/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "a5pCHJNR4Ar34s",
+    "name": "Mobile County Public Schools TV Network (MCPSS)",
+    "stream_urls": [
+      "https://5b200f5268ceb.streamlock.net/MCPSS/MCPSS247.smil/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -861,14 +861,14 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "VFD90UpkQ7f9Ss",
-    "name": "Payam Javan TV",
+    "nanoid": "tCMMSwaVSeASoi",
+    "name": "PBS KET Louisville KY (WKMJ-TV)",
     "stream_urls": [
-      "https://uni01rtmp.tulix.tv/kensecure/pjtv.stream/playlist.m3u8"
+      "https://2-fss-1.streamhoster.com/pl_134/amlst:200914-1282960/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
-      "fas"
+      "eng"
     ],
     "country": "us",
     "isGeoBlocked": false
@@ -957,6 +957,19 @@
     "stream_urls": [
       "https://pbs.lls.cdn.pbs.org/est/index.m3u8",
       "https://pbs.lls.cdn.pbs.org/pst/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
+    "isGeoBlocked": true
+  },
+  {
+    "nanoid": "swDwJ289dGk8e3",
+    "name": "PBS Sedalia British Columbia MO (KMOS)",
+    "stream_urls": [
+      "https://hls-kmosdt.lls.cdn.pbs.org/hls/live/index.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -1109,6 +1122,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "DCzhAOMfIMF2kt",
+    "name": "TV Nuevo León Canal 28 (XHMNL-TDT)",
+    "stream_urls": [
+      "https://s5.mexside.net:1936/canal28/canal28/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "mx",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "HhUtzRJjCR6lUu",
     "name": "TV UFOP",
     "stream_urls": [
@@ -1226,19 +1252,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "uhXaKy0zwMPJAb",
-    "name": "UNIANDES TV",
-    "stream_urls": [
-      "https://video.compuwebecuador.com:3323/live/uniandeslive.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
-    "country": "ec",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "igJmo5J6YhgXmV",
     "name": "Unifranz",
     "stream_urls": [
@@ -1249,19 +1262,6 @@
       "spa"
     ],
     "country": "bo",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "JvGEcuMecAcih8",
-    "name": "Unison TV",
-    "stream_urls": [
-      "https://stream.unison.mx/hls/unisontvatem.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
-    "country": "mx",
     "isGeoBlocked": false
   },
   {

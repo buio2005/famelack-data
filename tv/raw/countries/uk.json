@@ -26,14 +26,14 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "ziSogPvWMMpIww",
-    "name": "Alhiwar TV",
+    "nanoid": "SCCSu7TMHcxg2h",
+    "name": "Akaal Channel",
     "stream_urls": [
-      "https://mn-nl.mncdn.com/alhiwar_live/smil:alhiwar.smil/playlist.m3u8"
+      "https://cdn-globecast.akamaized.net/live/eds/akaal_tv/hls1_smart_akaal/akaal_tv.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
-      "ara"
+      "pan"
     ],
     "country": "uk",
     "isGeoBlocked": false
@@ -117,24 +117,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "Hvqcyi1KP5PsvX",
-    "name": "Banijay Engine: Full Custom Garage",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/1cPc_EA7tOU"
-    ],
-    "languages": [
-      "eng"
-    ],
-    "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "pJl8pmCiIwVpiF",
     "name": "Banijay History: Secrets They Tried to Bury",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/2Jv6qsrHh0A"
+      "https://www.youtube-nocookie.com/embed/t4Yjz37mQOw"
     ],
     "languages": [
       "eng"
@@ -153,19 +140,6 @@
     "youtube_urls": [],
     "languages": [
       "ara"
-    ],
-    "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "jwxJ88yTnvCRN9",
-    "name": "BBC Comedy Greats",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/hJbIWakkNNI"
-    ],
-    "languages": [
-      "eng"
     ],
     "country": "uk",
     "isGeoBlocked": false
@@ -564,19 +538,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "y9tmDdGOMUn9pB",
-    "name": "Garshom TV",
-    "stream_urls": [
-      "https://og2qd3aal7an-hls-live.5centscdn.com/garshomtv/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "mal"
-    ],
-    "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "xAwIJiuvV7pfvX",
     "name": "GB News",
     "stream_urls": [
@@ -664,6 +625,19 @@
     ],
     "youtube_urls": [],
     "languages": [],
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "JabrObnW5dkkDn",
+    "name": "Hellenic TV",
+    "stream_urls": [
+      "https://l5.cloudskep.com/hellenictv/htv/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "ell"
+    ],
     "country": "uk",
     "isGeoBlocked": false
   },
@@ -859,6 +833,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "uRulb7ZJ6GHCyf",
+    "name": "Manoto TV",
+    "stream_urls": [
+      "https://ca-rt.onetv.app/manototv/index-0.m3u8?token=onetv202"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "fas"
+    ],
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "LbTx61exNziTLe",
     "name": "Miracle TV",
     "stream_urls": [
@@ -1037,19 +1024,6 @@
     "name": "MTA8 America",
     "stream_urls": [
       "https://chlivemta.akamaized.net/hls/live/2016718/mta8/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "eng"
-    ],
-    "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "hNQTzHtY43GPXe",
-    "name": "MyTime Movie Network",
-    "stream_urls": [
-      "https://appletree-mytimeuk-rakuten.amagi.tv/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -1305,30 +1279,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "KdzGfTStEzNt7p",
-    "name": "Real Wild",
-    "stream_urls": [
-      "https://lds-realwild-rakuten.amagi.tv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [],
-    "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "8LKXkhcjKmXHN8",
-    "name": "Rick and Morty",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/iiRNq1sxr0U"
-    ],
-    "languages": [
-      "eng"
-    ],
-    "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "HJBdn9H2l9QQ1Y",
     "name": "RugbyPass TV",
     "stream_urls": [
@@ -1387,6 +1337,19 @@
     "youtube_urls": [],
     "languages": [
       "eng"
+    ],
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "pApkFb67wcPTJl",
+    "name": "Soviet Toons: Ну, погоди!",
+    "stream_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/g-EfxLjV9WI"
+    ],
+    "languages": [
+      "rus"
     ],
     "country": "uk",
     "isGeoBlocked": false
@@ -1661,7 +1624,7 @@
     "name": "WildBrain Kids",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/vHQIQkwLCXg"
+      "https://www.youtube-nocookie.com/embed/YLnJ3G7yQ8Q"
     ],
     "languages": [
       "eng"
@@ -1674,7 +1637,7 @@
     "name": "WildBrain Max: LEGO",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/_VXEAzGV3VM"
+      "https://www.youtube-nocookie.com/embed/ArEAphPs3Ng"
     ],
     "languages": [
       "eng"

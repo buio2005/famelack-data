@@ -52,10 +52,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "bvlSaREPWvRbiw",
-    "name": "7 TeleValencia",
+    "nanoid": "mIBXDjfzsNrIT3",
+    "name": "12TV Alicante",
     "stream_urls": [
-      "https://play.cdn.enetres.net/9E9557EFCEBB43A89CEC8FBD3C500247022/028/playlist.m3u8"
+      "https://cloud.fastchannel.es/mic/manifiest/hls/12tv/12tv.m3u8",
+      "https://cloud.streamingconnect.tv/hls/12tv/12tv2.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -246,6 +247,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "nZxdZLBQ6KuYOb",
+    "name": "Cadena Elite",
+    "stream_urls": [
+      "https://cloudvideo.servers10.com:8081/8004/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "bJvWnnQVU7Dde8",
     "name": "Canal 1 Mar Menor-Torre Pacheco",
     "stream_urls": [
@@ -367,19 +381,6 @@
     "name": "Canal Diocesano",
     "stream_urls": [
       "https://nlb2-live.emitstream.com/hls/5i3pxfuz4az356yu22ij/master.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "fSeqRheB6IOZIg",
-    "name": "Canal Doñana",
-    "stream_urls": [
-      "https://secure5.todostreaming.es/live/division-alm.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -535,19 +536,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "IJ0S19qs2zsgF7",
-    "name": "Canal Terres de L'Ebre",
-    "stream_urls": [
-      "https://ingest1-video.streaming-pro.com/canalteABR/ctestream/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "cat"
-    ],
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "Pckvfd0U1p60iP",
     "name": "Ciudades Del Ocio TV",
     "stream_urls": [
@@ -587,19 +575,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "dUunw6na7BVxaU",
-    "name": "Costa Noroeste TV",
-    "stream_urls": [
-      "https://limited31.todostreaming.es/live/noroestetv-livestream.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "cXG1ys411JhMWW",
     "name": "Crímenes Reales",
     "stream_urls": [
@@ -607,32 +582,6 @@
     ],
     "youtube_urls": [],
     "languages": [],
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "cYGWjqo31Nlvlm",
-    "name": "Diez TV Las Villas",
-    "stream_urls": [
-      "https://streaming.cloud.innovasur.es/mmj2/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "LRZN3u44ShLFfe",
-    "name": "Diez TV Úbeda",
-    "stream_urls": [
-      "https://streaming.cloud.innovasur.es/mmj/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
     "country": "es",
     "isGeoBlocked": false
   },
@@ -681,7 +630,7 @@
     "name": "El Futuro En tu Mano",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/CKIUDf5UHyM"
+      "https://www.youtube-nocookie.com/embed/x282KrrIuxw"
     ],
     "languages": [
       "spa"
@@ -907,14 +856,27 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "1eV4O1qgcFehgA",
-    "name": "LaLiga Hypermotion",
+    "nanoid": "254O8QVRoi3Ec6",
+    "name": "La 2",
     "stream_urls": [
-      "https://latam-cache-sv2-cdn.latamlive.net/LA_LIGA_SMARTBANK_IP_ENC_LIVE/index.m3u8"
+      "https://ztnr.rtve.es/ztnr/1688885.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
-      "eng"
+      "spa"
+    ],
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "MtvAPbtuZZyeOW",
+    "name": "La 2 Canarias",
+    "stream_urls": [
+      "https://ztnr.rtve.es/ztnr/5468585.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
     ],
     "country": "es",
     "isGeoBlocked": false
@@ -950,19 +912,6 @@
     "name": "Logos TV",
     "stream_urls": [
       "https://streamer1.streamhost.org/salive/logosH/master.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "tAfeiYdJicPmo2",
-    "name": "Logos TV Estudio",
-    "stream_urls": [
-      "https://streamer1.streamhost.org/salive/logosdirectaH/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -1161,19 +1110,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "F35HwcheJoUwkz",
-    "name": "Onda Cádiz 24h",
-    "stream_urls": [
-      "https://ondacadiztv.es:30443/octv/24h/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "fP9X0eMOqpaGfw",
     "name": "Onda Valencia",
     "stream_urls": [
@@ -1278,14 +1214,14 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "cZ8WdRSawqzh4E",
-    "name": "Rakuten TV Action Movies Finland",
+    "nanoid": "OfgEoWKYhuXnuw",
+    "name": "Rakuten Top Movies UK",
     "stream_urls": [
-      "https://bca5a421a70c46ad911efd0a4767c4bf.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6075/master.m3u8"
+      "https://0145451975a64b35866170fd2e8fa486.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5987/master.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
-      "fin"
+      "eng"
     ],
     "country": "es",
     "isGeoBlocked": false
@@ -1640,19 +1576,6 @@
     "youtube_urls": [],
     "languages": [
       "ita"
-    ],
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "dGOfxttCQdrVvT",
-    "name": "Rakuten TV Top Movies Spain",
-    "stream_urls": [
-      "https://ff335120300e4742a2b135ee9a9e7df8.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5983/master.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "spa"
     ],
     "country": "es",
     "isGeoBlocked": false

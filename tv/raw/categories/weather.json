@@ -13,6 +13,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "J88e8bsmJwJAa9",
+    "name": "ABC 9 Manchester NH (WMUR-TV)",
+    "stream_urls": [
+      "https://aegis-cloudfront-1.tubi.video/b77ffe96-c5d1-43a7-8687-306ff244d725/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "AQflHxNei4CCgO",
     "name": "AccuWeather Now",
     "stream_urls": [
@@ -32,7 +45,6 @@
     "name": "FOX Weather",
     "stream_urls": [
       "https://pb-hum8cczphcrpf.akamaized.net/FOX_Weather.m3u8",
-      "https://foxweather-xumo.amagi.tv/playlist.m3u8",
       "https://247wlive.foxweather.com/stream/index.m3u8",
       "https://aegis-cloudfront-1.tubi.video/d4d03a5e-dd3e-4b9a-8b11-b86c88d717fe/index.m3u8"
     ],

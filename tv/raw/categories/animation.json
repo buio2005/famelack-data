@@ -154,16 +154,16 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "fruS79xWb73ha2",
-    "name": "Barney the Dinosaur",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/GYP4xkbYjlc"
+    "nanoid": "3zs2UMlidApgeb",
+    "name": "Blues TV",
+    "stream_urls": [
+      "https://2-fss-2.streamhoster.com/pl_138/205510-3094608-1/playlist.m3u8"
     ],
+    "youtube_urls": [],
     "languages": [
       "eng"
     ],
-    "country": "ca",
+    "country": "us",
     "isGeoBlocked": false
   },
   {
@@ -353,7 +353,7 @@
     "name": "Fugget About It",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/4HD4A6b32ZU"
+      "https://www.youtube-nocookie.com/embed/EDb9_xfiZHQ"
     ],
     "languages": [
       "eng"
@@ -496,7 +496,7 @@
     "name": "Kapitan Bomba",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/OfUHOCXXVxw"
+      "https://www.youtube-nocookie.com/embed/q7ctP7tnEBU"
     ],
     "languages": [
       "pol"
@@ -649,19 +649,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "8LKXkhcjKmXHN8",
-    "name": "Rick and Morty",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/iiRNq1sxr0U"
-    ],
-    "languages": [
-      "eng"
-    ],
-    "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "P0LU27eSLAz1HY",
     "name": "Shout! Studios: Speed Racer",
     "stream_urls": [],
@@ -679,12 +666,25 @@
     "name": "Simon Super Lapin",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/5AaJR6CSIbE"
+      "https://www.youtube-nocookie.com/embed/0Nj__lUuYw8"
     ],
     "languages": [
       "fra"
     ],
     "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "pApkFb67wcPTJl",
+    "name": "Soviet Toons: Ну, погоди!",
+    "stream_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/g-EfxLjV9WI"
+    ],
+    "languages": [
+      "rus"
+    ],
+    "country": "uk",
     "isGeoBlocked": false
   },
   {
@@ -796,7 +796,7 @@
     "name": "Universal Jr: Team Mekbots",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/ilcJNw1SToA"
+      "https://www.youtube-nocookie.com/embed/UIau7ncawyc"
     ],
     "languages": [
       "eng"
@@ -835,7 +835,8 @@
     "nanoid": "gJChs4RXWcqghm",
     "name": "Мультимания",
     "stream_urls": [
-      "https://sirius.greenhosting.ru/MultimaniaRu/tracks-v1a1/mono.m3u8"
+      "https://sirius.greenhosting.ru/MultimaniaRu/tracks-v1a1/mono.m3u8",
+      "https://sirius.greenhosting.ru/MultimaniaRu/video.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
