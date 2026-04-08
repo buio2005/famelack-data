@@ -14,8 +14,7 @@
     "nanoid": "kf6jB0W2ZfgBHo",
     "name": "Alem FM",
     "stream_urls": [
-      "https://edge1.radyotvonline.net/shoutcast/play/alemfm",
-      "https://turkmedya.radyotvonline.net/alemfmaac"
+      "https://edge1.radyotvonline.net/shoutcast/play/alemfm"
     ],
     "country": "tr",
     "languages": [
@@ -547,7 +546,6 @@
     "nanoid": "qoeRj8L0KWdleL",
     "name": "JoyTürk Rock",
     "stream_urls": [
-      "https://23613.live.streamtheworld.com/JOYTURK_ROCK128AAC.aac",
       "https://21633.live.streamtheworld.com/JOYTURK_ROCK128AAC.aac"
     ],
     "country": "tr",
@@ -619,6 +617,17 @@
     "country": "tr",
     "languages": [
       "kur"
+    ]
+  },
+  {
+    "nanoid": "6C5PvMTlwSaOlH",
+    "name": "Köroğlu FM",
+    "stream_urls": [
+      "https://yayin.turkhosted.com:6068/stream"
+    ],
+    "country": "tr",
+    "languages": [
+      "tur"
     ]
   },
   {
@@ -1205,17 +1214,6 @@
     "name": "Radyo Fıtrat",
     "stream_urls": [
       "https://radyofitrat.radyotvonline.net/"
-    ],
-    "country": "tr",
-    "languages": [
-      "tur"
-    ]
-  },
-  {
-    "nanoid": "f6C7v3q8GAx4TU",
-    "name": "Radyo Gedik",
-    "stream_urls": [
-      "https://radyo-t.gedik.edu.tr/stream.mp3"
     ],
     "country": "tr",
     "languages": [

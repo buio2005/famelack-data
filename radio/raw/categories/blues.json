@@ -57,8 +57,7 @@
     "name": "5MBS 99.9 FM",
     "stream_urls": [
       "https://stream.sigile.net/5mbs-128-mp3",
-      "https://stream01.sigile.net/5mbs-128-mp3",
-      "https://stream.sigile.net/5mbs-64-aac"
+      "https://stream01.sigile.net/5mbs-128-mp3"
     ],
     "country": "au",
     "languages": [
@@ -319,7 +318,8 @@
     "name": "BluesWave Radio",
     "stream_urls": [
       "https://blueswave.radio:8100/icyblues",
-      "https://blueswave.radio:8000/blueswave"
+      "https://blueswave.radio:8000/blueswave",
+      "https://blueswave.radio:8100/hifiblues"
     ],
     "country": "gr",
     "languages": [
@@ -493,18 +493,6 @@
     "languages": [
       "eng",
       "jpn"
-    ]
-  },
-  {
-    "nanoid": "xagLqu889Abf9M",
-    "name": "EklectyWaves",
-    "stream_urls": [
-      "https://play.radioking.io/eklectywaves-the-sharing-radio"
-    ],
-    "country": "fr",
-    "languages": [
-      "eng",
-      "fra"
     ]
   },
   {
@@ -1248,6 +1236,17 @@
     ]
   },
   {
+    "nanoid": "ytAPHch16DIn94",
+    "name": "Radio Art: Acoustic Blues",
+    "stream_urls": [
+      "https://live.radioart.com/fAcoustic_blues.mp3"
+    ],
+    "country": "us",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
     "nanoid": "E9sO3p7Dt21aeu",
     "name": "Radio Bluesflac",
     "stream_urls": [
@@ -1438,17 +1437,6 @@
     ]
   },
   {
-    "nanoid": "z5SC7Gh2uSNStE",
-    "name": "Radio Sampotaz",
-    "stream_urls": [
-      "https://eu10.fastcast4u.com/sampotaz"
-    ],
-    "country": "gr",
-    "languages": [
-      "ell"
-    ]
-  },
-  {
     "nanoid": "SmTxW3uWzAUton",
     "name": "Radio SAR",
     "stream_urls": [
@@ -1524,6 +1512,28 @@
     "country": "ch",
     "languages": [
       "fra"
+    ]
+  },
+  {
+    "nanoid": "ZWVaDlbGZ7ugiJ",
+    "name": "RMF Blues",
+    "stream_urls": [
+      "https://rs103-krk.rmfstream.pl/BLUES"
+    ],
+    "country": "pl",
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "AkZgTssEKMQafd",
+    "name": "RMF Smooth Jazz",
+    "stream_urls": [
+      "https://rs102-krk.rmfstream.pl/SJAZZ"
+    ],
+    "country": "pl",
+    "languages": [
+      "pol"
     ]
   },
   {

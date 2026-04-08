@@ -191,7 +191,7 @@
     "name": "60 North Radio",
     "stream_urls": [
       "https://cdn1.zetcast.net/stream",
-      "https://r5.zetcast.net/flac"
+      "https://cdn1.zetcast.net/flac"
     ],
     "country": "uk",
     "languages": [
@@ -6073,17 +6073,6 @@
     ]
   },
   {
-    "nanoid": "PegR9feY4JmU4B",
-    "name": "NTS Heartlands",
-    "stream_urls": [
-      "https://stream-mixtape-geo.ntslive.net/mixtape32"
-    ],
-    "country": "uk",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
     "nanoid": "3wX8NeJGBohym5",
     "name": "NTS Labyrinth",
     "stream_urls": [
@@ -7751,6 +7740,18 @@
     ]
   },
   {
+    "nanoid": "2EqtrWmC3GevjR",
+    "name": "RadioSEGA",
+    "stream_urls": [
+      "https://icecast.radiosega.net/rs-flac.ogg",
+      "https://icecast.radiosega.net/live"
+    ],
+    "country": "uk",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
     "nanoid": "RKZRLPPcGtdERH",
     "name": "Raiders Radio",
     "stream_urls": [
@@ -9176,17 +9177,6 @@
     ]
   },
   {
-    "nanoid": "xWob6RTHK4xQZN",
-    "name": "TeamSport Radio",
-    "stream_urls": [
-      "https://uksouth1.juiceboxradio.com/tsradionational"
-    ],
-    "country": "uk",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
     "nanoid": "o7etiUdJ6LEd3o",
     "name": "Teenage Kicks Radio",
     "stream_urls": [
@@ -9214,17 +9204,6 @@
     "name": "The Ambientscape Project",
     "stream_urls": [
       "https://listen.radioking.com/radio/504205/stream/561655"
-    ],
-    "country": "uk",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
-    "nanoid": "FhL1NCzANH1TLd",
-    "name": "The Beat London 103.6 FM",
-    "stream_urls": [
-      "https://stream.zeno.fm/x59sz6hkev8uv"
     ],
     "country": "uk",
     "languages": [

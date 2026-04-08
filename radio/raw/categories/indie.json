@@ -915,6 +915,17 @@
     ]
   },
   {
+    "nanoid": "wCCoLhBLij7fko",
+    "name": "91.7 WMCN",
+    "stream_urls": [
+      "https://audio-edge-vqwx4.yyz.g.radiomast.io/0786c562-432d-4d2b-a4b6-fda1a2f60cf7"
+    ],
+    "country": "us",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
     "nanoid": "pv81oamsfcCUrg",
     "name": "91.9 KSOI",
     "stream_urls": [
@@ -1796,9 +1807,10 @@
     "nanoid": "Iyz5WYJguHIheg",
     "name": "BDPST ROCK",
     "stream_urls": [
+      "https://s2.audiostream.hu/bdpstrock_FLAC",
+      "https://bdpstrock.hu/live_320.mp3",
       "https://bdpstrock.hu/live_HiFi.mp3",
       "https://bdpstrock.hu/live.mp3",
-      "https://bdpstrock.hu/live_320.mp3",
       "https://bdpstrock.hu/live_128.mp3"
     ],
     "country": "hu",
@@ -1860,17 +1872,6 @@
     "country": "de",
     "languages": [
       "deu"
-    ]
-  },
-  {
-    "nanoid": "kOX3p4gld6V8WP",
-    "name": "Best Net Radio - 90s Alternative",
-    "stream_urls": [
-      "https://bigrradio.cdnstream1.com/5147_128"
-    ],
-    "country": "us",
-    "languages": [
-      "eng"
     ]
   },
   {
@@ -2042,17 +2043,6 @@
     "languages": [
       "tha",
       "eng"
-    ]
-  },
-  {
-    "nanoid": "2QnRs6vNdbqZR7",
-    "name": "Black Duck Radio",
-    "stream_urls": [
-      "https://n0c.radiojar.com/2p937t2kb.m4a"
-    ],
-    "country": "gr",
-    "languages": [
-      "ell"
     ]
   },
   {
@@ -2530,17 +2520,6 @@
     ]
   },
   {
-    "nanoid": "jUddQHywXl1D7d",
-    "name": "CJAM 99.1 FM",
-    "stream_urls": [
-      "https://cast5.my-control-panel.com/proxy/lorne/stream.aac"
-    ],
-    "country": "ca",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
     "nanoid": "2rnk4D8I6TO9Zr",
     "name": "CJIQ 88.3",
     "stream_urls": [
@@ -2690,6 +2669,17 @@
     ]
   },
   {
+    "nanoid": "xtXRy8t6AKJHwx",
+    "name": "Codiac FM",
+    "stream_urls": [
+      "https://stream2.statsradio.com:8054/stream"
+    ],
+    "country": "ca",
+    "languages": [
+      "fra"
+    ]
+  },
+  {
     "nanoid": "BJHTpqJp9MnO90",
     "name": "Columbus Alternative 105.7",
     "stream_urls": [
@@ -2720,17 +2710,6 @@
     "country": "de",
     "languages": [
       "deu"
-    ]
-  },
-  {
-    "nanoid": "yccsdRpcZqzqPd",
-    "name": "Controradio",
-    "stream_urls": [
-      "https://s4.yesstreaming.net:17199/stream"
-    ],
-    "country": "it",
-    "languages": [
-      "ita"
     ]
   },
   {
@@ -3168,6 +3147,8 @@
     "name": "DR P6 Beat",
     "stream_urls": [
       "https://live-icy.dr.dk/A/A29H.mp3",
+      "https://live-icy.gss.dr.dk/A/A29H.mp3",
+      "https://live-icy.gslb01.dr.dk/A/A29H.mp3",
       "https://drliveradio1.akamaized.net/hls/live/2097651/p6beat/playlist-96000.m3u8"
     ],
     "country": "dk",
@@ -3487,18 +3468,6 @@
     ],
     "country": "ke",
     "languages": [
-      "eng"
-    ]
-  },
-  {
-    "nanoid": "QB75FyjCvezfC7",
-    "name": "eMusic Site",
-    "stream_urls": [
-      "https://solid67.streamupsolutions.com/proxy/wvsivbgn/stream"
-    ],
-    "country": "gr",
-    "languages": [
-      "ell",
       "eng"
     ]
   },
@@ -3911,23 +3880,28 @@
     ]
   },
   {
+    "nanoid": "yN0Lgi9LNMvbHM",
+    "name": "FluxFM FluxKompensator",
+    "stream_urls": [
+      "https://streams.fluxfm.de/fluxkompensator/mp3-320/audio/",
+      "https://fluxfm.streamabc.net/flx-fluxkompensator-mp3-128-2993622",
+      "https://fluxfm.streamabc.net/flx-fluxkompensator-mp3-320-8749226",
+      "https://streams.fluxfm.de/fluxkompensator/mp3-128",
+      "https://streams.fluxfm.de/fluxkompensator/mp3-320",
+      "https://fluxfm.streamabc.net/flx-fluxkompensator-aacplus-64-6283953",
+      "https://streams.fluxfm.de/fluxkompensator/mp3-128/fluxfm.de_webplayer/"
+    ],
+    "country": "de",
+    "languages": [
+      "deu",
+      "eng"
+    ]
+  },
+  {
     "nanoid": "xXx1cIzC9sMCHb",
     "name": "FluxFM Indie Disco",
     "stream_urls": [
       "https://streams.fluxfm.de/indiedisco/mp3-320/streams.fluxfm.de/"
-    ],
-    "country": "de",
-    "languages": [
-      "deu"
-    ]
-  },
-  {
-    "nanoid": "Y9XrGrFFRmJSoJ",
-    "name": "FluxFM JägerMusic Radio",
-    "stream_urls": [
-      "https://streams.fluxfm.de/jaegermusic/mp3-128/streams.fluxfm.de/",
-      "https://streams.fluxfm.de/jaegermusic/mp3-320/streams.fluxfm.de/",
-      "https://streams.fluxfm.de/jaegermusic/aac-64/streams.fluxfm.de/"
     ],
     "country": "de",
     "languages": [
@@ -4216,17 +4190,6 @@
     "country": "us",
     "languages": [
       "eng"
-    ]
-  },
-  {
-    "nanoid": "2xqahrpoZAT2fc",
-    "name": "Graffiti Urban Radio",
-    "stream_urls": [
-      "https://diffusion.lafrap.fr/graffiti"
-    ],
-    "country": "fr",
-    "languages": [
-      "fra"
     ]
   },
   {
@@ -4979,6 +4942,7 @@
     "nanoid": "IGxGW0fc31dxfk",
     "name": "KFJC 89.7 FM",
     "stream_urls": [
+      "https://netcast.kfjc.org/kfjc-320k-aac",
       "https://netcast.kfjc.org/kfjc-32k-mp3"
     ],
     "country": "us",
@@ -5278,6 +5242,17 @@
     ]
   },
   {
+    "nanoid": "q1kMMPn6p3JFhh",
+    "name": "KTXT 88.1 The Raider",
+    "stream_urls": [
+      "https://ice7.securenetsystems.net/KTXTFM"
+    ],
+    "country": "us",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
     "nanoid": "RkiHQ1ZvLsxw8G",
     "name": "Kukuruz",
     "stream_urls": [
@@ -5349,6 +5324,18 @@
     "name": "KWTS 91.1 FM The One",
     "stream_urls": [
       "https://ice41.securenetsystems.net/KWTS"
+    ],
+    "country": "us",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "HL0mDCBOu0b7jK",
+    "name": "KXLU 88.9 FM",
+    "stream_urls": [
+      "https://kxlu.streamguys1.com/kxlu-hi",
+      "https://kxlu.streamguys1.com/kxlu-lo"
     ],
     "country": "us",
     "languages": [
@@ -5848,17 +5835,6 @@
     "country": "ca",
     "languages": [
       "eng"
-    ]
-  },
-  {
-    "nanoid": "EgzM7C3G2mXdpM",
-    "name": "Milano XR",
-    "stream_urls": [
-      "https://milanoxr.gatesweb.info:8443/live"
-    ],
-    "country": "it",
-    "languages": [
-      "ita"
     ]
   },
   {
@@ -7285,17 +7261,6 @@
     ]
   },
   {
-    "nanoid": "N2pVbd8mxewK1z",
-    "name": "Radio Ciroma",
-    "stream_urls": [
-      "https://s.streampunk.cc/ciroma.mp3"
-    ],
-    "country": "it",
-    "languages": [
-      "ita"
-    ]
-  },
-  {
     "nanoid": "KrbxFVU544svEa",
     "name": "Radio Città Aperta",
     "stream_urls": [
@@ -7371,6 +7336,19 @@
     "country": "us",
     "languages": [
       "eng"
+    ]
+  },
+  {
+    "nanoid": "d7M6HWPAsEBIk1",
+    "name": "Radio DHT - Kanał 2",
+    "stream_urls": [
+      "https://radiodht.com/stream_second/",
+      "https://radiodht.com/stream_main/"
+    ],
+    "country": "pl",
+    "languages": [
+      "eng",
+      "pol"
     ]
   },
   {
@@ -8513,6 +8491,17 @@
     ]
   },
   {
+    "nanoid": "xf32zvZnXsphTF",
+    "name": "Radio Stadtfilter",
+    "stream_urls": [
+      "https://www.digris.ch/stream/8a1a42f0-3f59-4113-b544-aad9275d34a7"
+    ],
+    "country": "ch",
+    "languages": [
+      "deu"
+    ]
+  },
+  {
     "nanoid": "bGFyKDCYBxczcQ",
     "name": "Radio Studio Souto - The Beatles",
     "stream_urls": [
@@ -8856,6 +8845,17 @@
     ]
   },
   {
+    "nanoid": "U67rPHxZrUSeEa",
+    "name": "Radioacktiva 102.3 FM",
+    "stream_urls": [
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIOACKTIVA_MEDAAC.aac"
+    ],
+    "country": "co",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
     "nanoid": "uxNKL16fRiD6Nz",
     "name": "Radioacktiva 97.9 FM",
     "stream_urls": [
@@ -9002,8 +9002,7 @@
     "stream_urls": [
       "https://stream.rcvfm.fr:8443/rcv64k.aac",
       "https://listen.radioking.com/radio/3086/stream/9476",
-      "https://stream.rcvfm.fr:8000/rcv128k.mp3",
-      "https://www.radioking.com/play/rcv99fm"
+      "https://stream.rcvfm.fr:8000/rcv128k.mp3"
     ],
     "country": "fr",
     "languages": [
@@ -9064,6 +9063,28 @@
     "country": "de",
     "languages": [
       "deu"
+    ]
+  },
+  {
+    "nanoid": "okbNXwUUaARUtM",
+    "name": "RMF Alternatywa",
+    "stream_urls": [
+      "https://rs103-krk-cyfronet.rmfstream.pl/ALTERNATYWA"
+    ],
+    "country": "pl",
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "iIBMI6on02K9Io",
+    "name": "RMF Polska Alternatywa",
+    "stream_urls": [
+      "https://rs102-krk.rmfstream.pl/POLSKAALTERNATYWA"
+    ],
+    "country": "pl",
+    "languages": [
+      "pol"
     ]
   },
   {
@@ -9314,17 +9335,6 @@
     "country": "de",
     "languages": [
       "eng"
-    ]
-  },
-  {
-    "nanoid": "Qw5vxQk8Ex1dex",
-    "name": "RUC - Rádio Universidade de Coimbra",
-    "stream_urls": [
-      "https://stream.ruc.pt/high"
-    ],
-    "country": "pt",
-    "languages": [
-      "por"
     ]
   },
   {
@@ -10456,34 +10466,12 @@
     ]
   },
   {
-    "nanoid": "gX5D4H8F1wRo6x",
-    "name": "TST Radio",
-    "stream_urls": [
-      "https://listen.radioking.com/radio/113992/stream/153202"
-    ],
-    "country": "fr",
-    "languages": [
-      "fra"
-    ]
-  },
-  {
     "nanoid": "wHOKaVAlPf0b8k",
     "name": "Tuks FM",
     "stream_urls": [
       "https://edge.iono.fm/xice/tuksfm_live_medium.aac"
     ],
     "country": "za",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
-    "nanoid": "wWNP7i4BoVKiOA",
-    "name": "TUNE! FM 106.9",
-    "stream_urls": [
-      "https://23153.live.streamtheworld.com/2UNEAAC.aac"
-    ],
-    "country": "au",
     "languages": [
       "eng"
     ]
@@ -10506,6 +10494,17 @@
       "https://stream.radiojar.com/56p3rt9eytzuv"
     ],
     "country": "us",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "UZMKc8VyCBnTaz",
+    "name": "UCFM 87.8",
+    "stream_urls": [
+      "https://www.radioking.com/play/ucfm/631505"
+    ],
+    "country": "au",
     "languages": [
       "eng"
     ]
@@ -10636,7 +10635,6 @@
     "nanoid": "PnNp2C7w6qYYKU",
     "name": "VillageRadio.Net",
     "stream_urls": [
-      "https://free.rcast.net/67041",
       "https://ais-edge09-live365-dal02.cdnstream.com/a73319",
       "https://streaming.live365.com/a73319"
     ],
@@ -11029,6 +11027,17 @@
     "languages": []
   },
   {
+    "nanoid": "hbDlw7u0VSXEoa",
+    "name": "WMSC 90.3 FM",
+    "stream_urls": [
+      "https://peridot.streamguys1.com:5485/live-mp3"
+    ],
+    "country": "us",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
     "nanoid": "iRVyKgqWSihNYv",
     "name": "WMSE 91.7 FM",
     "stream_urls": [
@@ -11281,17 +11290,6 @@
     ]
   },
   {
-    "nanoid": "DajmAMuXvmLhJk",
-    "name": "WVKC 90.7 FM",
-    "stream_urls": [
-      "https://15723.live.streamtheworld.com/VKC.mp3"
-    ],
-    "country": "us",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
     "nanoid": "9xuuo1k6eq7wDn",
     "name": "WVKR 91.3 FM",
     "stream_urls": [
@@ -11436,6 +11434,17 @@
     ]
   },
   {
+    "nanoid": "7PNHGkuHhOZbaR",
+    "name": "Z104.5 The Edge",
+    "stream_urls": [
+      "https://ice8.securenetsystems.net/KMYZ"
+    ],
+    "country": "us",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
     "nanoid": "lqfQ9GnmWs500H",
     "name": "Ze Rock Radio",
     "stream_urls": [
@@ -11508,6 +11517,7 @@
     "nanoid": "e2dg83A6eXxFhq",
     "name": "ČRo Radio Wave",
     "stream_urls": [
+      "https://amp1.cesnet.cz:8443/cro-radio-wave.flac",
       "https://rozhlas.stream/wave_mp3_128.mp3",
       "https://rozhlas.stream/wave_mp3_256.mp3"
     ],

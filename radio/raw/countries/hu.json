@@ -55,9 +55,10 @@
     "nanoid": "Iyz5WYJguHIheg",
     "name": "BDPST ROCK",
     "stream_urls": [
+      "https://s2.audiostream.hu/bdpstrock_FLAC",
+      "https://bdpstrock.hu/live_320.mp3",
       "https://bdpstrock.hu/live_HiFi.mp3",
       "https://bdpstrock.hu/live.mp3",
-      "https://bdpstrock.hu/live_320.mp3",
       "https://bdpstrock.hu/live_128.mp3"
     ],
     "country": "hu",
@@ -585,6 +586,7 @@
     "nanoid": "Sli5b6f5rHlvpN",
     "name": "Danubius Rádió",
     "stream_urls": [
+      "https://stream.danubiusradio.hu/danubius_HiFi",
       "https://danubiusradio.hu/live.mp3",
       "https://stream.danubiusradio.hu/danubius_320k",
       "https://stream.danubiusradio.hu/danubius_128k",
@@ -630,17 +632,6 @@
     ]
   },
   {
-    "nanoid": "yssvNpelyvDlDi",
-    "name": "Európa Rádió",
-    "stream_urls": [
-      "https://europaradio.hu/miskolc"
-    ],
-    "country": "hu",
-    "languages": [
-      "hun"
-    ]
-  },
-  {
     "nanoid": "ZOdHP35NDAl8Zo",
     "name": "Ez az a nap! Rádió",
     "stream_urls": [
@@ -656,6 +647,17 @@
     "name": "Folkrádió",
     "stream_urls": [
       "https://stream.folkradio.hu/folkradio.mp3"
+    ],
+    "country": "hu",
+    "languages": [
+      "hun"
+    ]
+  },
+  {
+    "nanoid": "2HenIWKzAONYoh",
+    "name": "Győr+ Rádió",
+    "stream_urls": [
+      "https://stream.42netmedia.com:8443/sc_gyor1"
     ],
     "country": "hu",
     "languages": [
@@ -1247,6 +1249,19 @@
     ]
   },
   {
+    "nanoid": "FbW4RDOIXsWqyJ",
+    "name": "Radio Bias",
+    "stream_urls": [
+      "https://admin.biasradio.com/listen/bias_radio/flac",
+      "https://admin.biasradio.com/listen/bias_radio/live",
+      "https://admin.biasradio.com/listen/bias_radio/mobile"
+    ],
+    "country": "hu",
+    "languages": [
+      "hun"
+    ]
+  },
+  {
     "nanoid": "z03QzkVwzDIcSQ",
     "name": "Radio Groove",
     "stream_urls": [
@@ -1327,6 +1342,17 @@
     ]
   },
   {
+    "nanoid": "gxf9vTVz9lgyO2",
+    "name": "Reménység Hangja Rádió",
+    "stream_urls": [
+      "https://live.rvs.ro/mg"
+    ],
+    "country": "hu",
+    "languages": [
+      "hun"
+    ]
+  },
+  {
     "nanoid": "kKnMfOlRUDVOZk",
     "name": "Retro Rádió",
     "stream_urls": [
@@ -1398,6 +1424,7 @@
     "nanoid": "lDc8WnMyrPpMt7",
     "name": "Roxy Rádió",
     "stream_urls": [
+      "https://s2.audiostream.hu/roxy_FLAC",
       "https://s2.audiostream.hu/roxy_192k"
     ],
     "country": "hu",
@@ -1661,6 +1688,17 @@
     ]
   },
   {
+    "nanoid": "hKbtNsvZOmtZd9",
+    "name": "Sárvár Rádió",
+    "stream_urls": [
+      "https://stream.42netmedia.com:8443/sarvar"
+    ],
+    "country": "hu",
+    "languages": [
+      "hun"
+    ]
+  },
+  {
     "nanoid": "MgxQbwKjOTnyq6",
     "name": "Tilos Rádió",
     "stream_urls": [
@@ -1710,6 +1748,7 @@
     "nanoid": "gXhAVeDX541Poi",
     "name": "Youventus Rádió",
     "stream_urls": [
+      "https://s2.audiostream.hu/juventus_FLAC",
       "https://s2.audiostream.hu/juventus_192k",
       "https://youventusradio.hu/stream_96k"
     ],

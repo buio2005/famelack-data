@@ -465,17 +465,6 @@
     "languages": []
   },
   {
-    "nanoid": "Cj9gvoDudR3I5n",
-    "name": "1A Radio - 60er",
-    "stream_urls": [
-      "https://1a-60er.radionetz.de/1a-60er.aac"
-    ],
-    "country": "de",
-    "languages": [
-      "deu"
-    ]
-  },
-  {
     "nanoid": "5y0d2oMhxBxrpi",
     "name": "1A Urban Music",
     "stream_urls": [
@@ -1120,17 +1109,6 @@
     ]
   },
   {
-    "nanoid": "cf55HH7orZAO2z",
-    "name": "Best Net Radio - Classic R&B",
-    "stream_urls": [
-      "https://bigrradio.cdnstream1.com/5154_128"
-    ],
-    "country": "us",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
     "nanoid": "Pvqvqj95V2KzZw",
     "name": "Best Radio 94.7",
     "stream_urls": [
@@ -1217,29 +1195,6 @@
     "country": "ru",
     "languages": [
       "rus"
-    ]
-  },
-  {
-    "nanoid": "ndWTghzQv9ttR5",
-    "name": "Black Corvette",
-    "stream_urls": [
-      "https://radio2.vip-radios.fm:18084/stream-AAC-BlackCorvette",
-      "https://radio2.vip-radios.fm:18084/stream-mp3-BlackCorvette"
-    ],
-    "country": "fr",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
-    "nanoid": "2QnRs6vNdbqZR7",
-    "name": "Black Duck Radio",
-    "stream_urls": [
-      "https://n0c.radiojar.com/2p937t2kb.m4a"
-    ],
-    "country": "gr",
-    "languages": [
-      "ell"
     ]
   },
   {
@@ -1604,18 +1559,6 @@
     ]
   },
   {
-    "nanoid": "F6eZZ1hGeiPy1u",
-    "name": "Conquista WebStation",
-    "stream_urls": [
-      "https://stream.zeno.fm/ecryaaflji9tv"
-    ],
-    "country": "br",
-    "languages": [
-      "por",
-      "eng"
-    ]
-  },
-  {
     "nanoid": "cPIOxXWOu3JS2g",
     "name": "Cool FM Soul & Funky",
     "stream_urls": [
@@ -1975,18 +1918,6 @@
     "country": "de",
     "languages": [
       "deu"
-    ]
-  },
-  {
-    "nanoid": "QB75FyjCvezfC7",
-    "name": "eMusic Site",
-    "stream_urls": [
-      "https://solid67.streamupsolutions.com/proxy/wvsivbgn/stream"
-    ],
-    "country": "gr",
-    "languages": [
-      "ell",
-      "eng"
     ]
   },
   {
@@ -3314,6 +3245,17 @@
     ]
   },
   {
+    "nanoid": "48TmppSeKJ86pg",
+    "name": "GTA Radio - IF99",
+    "stream_urls": [
+      "https://audio.gtaradio.net/4/afro_beat"
+    ],
+    "country": "ru",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
     "nanoid": "2c6F7FqUuQbyPd",
     "name": "Générations",
     "stream_urls": [
@@ -3589,6 +3531,17 @@
     ]
   },
   {
+    "nanoid": "FMQmnJ8Zc2QU9u",
+    "name": "Hot 107.1 (KXHT)",
+    "stream_urls": [
+      "https://stream1.flinn.com:8443/1071FM.aac"
+    ],
+    "country": "us",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
     "nanoid": "6abq77g7J58KI5",
     "name": "Hot 107.7 (WUHT)",
     "stream_urls": [
@@ -3749,6 +3702,7 @@
     "name": "i-turn Radio",
     "stream_urls": [
       "https://live.i-turnradio.nl/live",
+      "https://live2.i-turnradio.nl/stream4",
       "https://live.i-turnradio.nl:8035/;"
     ],
     "country": "nl",
@@ -3787,18 +3741,6 @@
     "country": "nl",
     "languages": [
       "nld"
-    ]
-  },
-  {
-    "nanoid": "lv4OEMYp0IuMlf",
-    "name": "IceRadio Germany",
-    "stream_urls": [
-      "https://www.iceradio.net/listen"
-    ],
-    "country": "de",
-    "languages": [
-      "eng",
-      "deu"
     ]
   },
   {
@@ -4249,17 +4191,6 @@
     ]
   },
   {
-    "nanoid": "Y3Fi7ao4BN6IoO",
-    "name": "Kifissia Radio",
-    "stream_urls": [
-      "https://cast.streams.ovh:12097/;"
-    ],
-    "country": "gr",
-    "languages": [
-      "ell"
-    ]
-  },
-  {
     "nanoid": "ATL2Ge3vUg6a3o",
     "name": "Kiss 103.1",
     "stream_urls": [
@@ -4484,7 +4415,8 @@
     "stream_urls": [
       "https://de1.streamhosting.ch/",
       "https://fr1.streamhosting.ch/lounge128.mp3",
-      "https://player.streamhosting.ch/lounge128.ogg"
+      "https://player.streamhosting.ch/lounge128.ogg",
+      "https://player.streamhosting.ch/lounge64.aac"
     ],
     "country": "ch",
     "languages": [
@@ -5583,7 +5515,6 @@
     "nanoid": "MIdEfpq9KYwVya",
     "name": "Q106.5",
     "stream_urls": [
-      "https://18423.live.streamtheworld.com/KQXLFMAAC.aac",
       "https://playerservices.streamtheworld.com/api/livestream-redirect/KQXLFMAAC.aac"
     ],
     "country": "us",
@@ -6580,7 +6511,7 @@
     "nanoid": "YxFn6shrif8k8g",
     "name": "RMF 4 Dance & RNB",
     "stream_urls": [
-      "https://rs6-krk2.rmfstream.pl/rmf_4"
+      "https://rs103-krk-cyfronet.rmfstream.pl/RMF4"
     ],
     "country": "pl",
     "languages": [
@@ -6591,7 +6522,7 @@
     "nanoid": "5mSl13QP8P5U7o",
     "name": "RMF Vibe",
     "stream_urls": [
-      "https://rs101-krk-cyfronet.rmfstream.pl/rmf_funk"
+      "https://rs102-krk-cyfronet.rmfstream.pl/VIBE"
     ],
     "country": "pl",
     "languages": [
@@ -6726,7 +6657,6 @@
     "nanoid": "dSh3nJvVNU7eQ2",
     "name": "SIZE Radio",
     "stream_urls": [
-      "https://n01.radiojar.com/atr1e8aswa5tv",
       "https://n10.radiojar.com/atr1e8aswa5tv"
     ],
     "country": "fr",
@@ -7477,17 +7407,6 @@
     ]
   },
   {
-    "nanoid": "FhL1NCzANH1TLd",
-    "name": "The Beat London 103.6 FM",
-    "stream_urls": [
-      "https://stream.zeno.fm/x59sz6hkev8uv"
-    ],
-    "country": "uk",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
     "nanoid": "BraxIqin2h84gn",
     "name": "The Beat Top 20",
     "stream_urls": [
@@ -8015,6 +7934,7 @@
     "nanoid": "PEYy3HUkS7xCer",
     "name": "WHUR 96.3 FM",
     "stream_urls": [
+      "https://futuri-das.cdnstream1.com/7167_48k.aac",
       "https://ais-sa1.streamon.fm/7028_48k.aac"
     ],
     "country": "us",

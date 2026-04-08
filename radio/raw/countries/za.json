@@ -135,8 +135,7 @@
     "nanoid": "cmssuXkPvx4TcG",
     "name": "Cape Talk",
     "stream_urls": [
-      "https://playerservices.streamtheworld.com/api/livestream-redirect/CAPE_TALK_SC",
-      "https://27863.live.streamtheworld.com/CAPE_TALKAAC_SC"
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/CAPE_TALK_SC"
     ],
     "country": "za",
     "languages": [
@@ -266,6 +265,15 @@
     "languages": []
   },
   {
+    "nanoid": "op7EbH173gy4K4",
+    "name": "Fresh 87.6 FM",
+    "stream_urls": [
+      "https://stream-173.zeno.fm/ut4p7ak2uhhvv"
+    ],
+    "country": "za",
+    "languages": []
+  },
+  {
     "nanoid": "pG7eIXtDoKwuAB",
     "name": "Gay SA Radio",
     "stream_urls": [
@@ -330,15 +338,6 @@
     "name": "Hot 102.7 FM",
     "stream_urls": [
       "https://edge.iono.fm/xice/57_high.aac"
-    ],
-    "country": "za",
-    "languages": []
-  },
-  {
-    "nanoid": "Wc9AOpruBoIT6a",
-    "name": "Hot 102.7 FM Club",
-    "stream_urls": [
-      "https://edge.iono.fm/xice/306_high.aac"
     ],
     "country": "za",
     "languages": []
@@ -474,11 +473,19 @@
     ]
   },
   {
+    "nanoid": "Nvmx2viLwovtZQ",
+    "name": "Lekoa FM",
+    "stream_urls": [
+      "https://zas1-2-3-6.ndx.co.za/stream/lekoafm"
+    ],
+    "country": "za",
+    "languages": []
+  },
+  {
     "nanoid": "g1gpIsb2GxwVr2",
     "name": "Lesedi FM",
     "stream_urls": [
-      "https://playerservices.streamtheworld.com/api/livestream-redirect/LESEDIAAC_SC",
-      "https://27863.live.streamtheworld.com/LESEDIAAC.aac"
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/LESEDIAAC_SC"
     ],
     "country": "za",
     "languages": []
@@ -494,15 +501,6 @@
       "eng",
       "xho"
     ]
-  },
-  {
-    "nanoid": "ee9Bqkn0js2a8G",
-    "name": "Lotus FM",
-    "stream_urls": [
-      "https://27863.live.streamtheworld.com/LOTUSFMAAC.aac"
-    ],
-    "country": "za",
-    "languages": []
   },
   {
     "nanoid": "OsTFLF2yskLgD3",
@@ -734,15 +732,6 @@
     ]
   },
   {
-    "nanoid": "WhsV6MNNSl308x",
-    "name": "Radio 2000",
-    "stream_urls": [
-      "https://27863.live.streamtheworld.com/RADIO2000AAC.aac"
-    ],
-    "country": "za",
-    "languages": []
-  },
-  {
     "nanoid": "J3d2m3K5YYQwaO",
     "name": "Radio Atlantis 107.9 FM",
     "stream_urls": [
@@ -929,17 +918,6 @@
     "name": "Rosestad 100.6FM",
     "stream_urls": [
       "https://edge.iono.fm/xice/122_medium.aac"
-    ],
-    "country": "za",
-    "languages": [
-      "afr"
-    ]
-  },
-  {
-    "nanoid": "P24kL0H7X4dS9K",
-    "name": "RSG",
-    "stream_urls": [
-      "https://25583.live.streamtheworld.com/RSGAAC.aac"
     ],
     "country": "za",
     "languages": [
@@ -1149,15 +1127,6 @@
     "name": "Vuma FM 103.0",
     "stream_urls": [
       "https://edge.iono.fm/xice/77_medium.aac"
-    ],
-    "country": "za",
-    "languages": []
-  },
-  {
-    "nanoid": "kSds186QRedTMw",
-    "name": "XK FM 107.9",
-    "stream_urls": [
-      "https://23543.live.streamtheworld.com/XKFMAAC_SC"
     ],
     "country": "za",
     "languages": []

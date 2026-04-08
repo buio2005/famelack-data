@@ -828,18 +828,6 @@
     ]
   },
   {
-    "nanoid": "BtHGsA17KYC17C",
-    "name": "Contikenzo",
-    "stream_urls": [
-      "https://contikenzo.beheerstream.nl:8136/stream"
-    ],
-    "country": "nl",
-    "languages": [
-      "eng",
-      "nld"
-    ]
-  },
-  {
     "nanoid": "Ev1SNcU040FS6f",
     "name": "Cool Dance Radio",
     "stream_urls": [
@@ -1432,7 +1420,6 @@
     "nanoid": "sY4QzKGcFsmsBk",
     "name": "Grand Prix Radio",
     "stream_urls": [
-      "https://22543.live.streamtheworld.com/GRAND_PRIX_RADIO.mp3",
       "https://playerservices.streamtheworld.com/api/livestream-redirect/GRAND_PRIX_RADIO.mp3"
     ],
     "country": "nl",
@@ -1798,6 +1785,7 @@
     "name": "i-turn Radio",
     "stream_urls": [
       "https://live.i-turnradio.nl/live",
+      "https://live2.i-turnradio.nl/stream4",
       "https://live.i-turnradio.nl:8035/;"
     ],
     "country": "nl",
@@ -1853,6 +1841,7 @@
     "nanoid": "WVsSyuM2aribWm",
     "name": "Intense Radio",
     "stream_urls": [
+      "https://secure.live-streams.nl/flac.ogg",
       "https://secure.live-streams.nl/flac.flac",
       "https://intenseradio.live-streams.nl:18000/main",
       "https://intenseradio.live-streams.nl/main"
@@ -3660,6 +3649,17 @@
     ]
   },
   {
+    "nanoid": "CG1oPlY5IxvwKR",
+    "name": "Pure Classix Radio",
+    "stream_urls": [
+      "https://mscp4.live-streams.nl:8142/flac.ogg"
+    ],
+    "country": "nl",
+    "languages": [
+      "nld"
+    ]
+  },
+  {
     "nanoid": "4KiPfsp9SuYkTP",
     "name": "Pure Lounge Radio",
     "stream_urls": [
@@ -3671,8 +3671,41 @@
     ]
   },
   {
+    "nanoid": "uoKyJJoDJRTiZg",
+    "name": "Pure Radio Holland: Dance",
+    "stream_urls": [
+      "https://streamserver.pure-isp.eu/listen/pure_radio_holland_-_dance_channel/aac-plus"
+    ],
+    "country": "nl",
+    "languages": [
+      "nld"
+    ]
+  },
+  {
+    "nanoid": "X9vQrGzUNIvzGN",
+    "name": "Pure Radio Holland: DJ R.I.P's Podcast",
+    "stream_urls": [
+      "https://streamserver.pure-isp.eu/listen/pure_radio_holland_-_dj_r.i.ps_podcast/aac-plus"
+    ],
+    "country": "nl",
+    "languages": [
+      "nld"
+    ]
+  },
+  {
+    "nanoid": "XREOnKSkKCovdw",
+    "name": "Pure Radio Holland: Downtempo",
+    "stream_urls": [
+      "https://streamserver.pure-isp.eu/listen/pure_radio_holland_-_downtempo_channel/aac-plus"
+    ],
+    "country": "nl",
+    "languages": [
+      "nld"
+    ]
+  },
+  {
     "nanoid": "cUCO87VGYX2mlY",
-    "name": "Pure Radio Holland Hardcore",
+    "name": "Pure Radio Holland: Hardcore",
     "stream_urls": [
       "https://streamserver.pure-isp.eu/listen/pure_radio_holland_-_hardcore_channel/aac-plus"
     ],
@@ -3682,8 +3715,30 @@
     ]
   },
   {
+    "nanoid": "4RD9fV03vidczm",
+    "name": "Pure Radio Holland: Live Party",
+    "stream_urls": [
+      "https://streamserver.pure-isp.eu/listen/pure_radio_holland_-_live-party_channel/aac-plus"
+    ],
+    "country": "nl",
+    "languages": [
+      "nld"
+    ]
+  },
+  {
+    "nanoid": "ft2irZxsXtydnb",
+    "name": "Pure Radio Holland: Rap & HIP-HOP",
+    "stream_urls": [
+      "https://streamserver.pure-isp.eu/listen/pure_radio_holland_-_rap__hip-hop_channel/aac-plus"
+    ],
+    "country": "nl",
+    "languages": [
+      "nld"
+    ]
+  },
+  {
     "nanoid": "gTtxmZEBR2xg8B",
-    "name": "Pure Radio Holland Trance-Electro",
+    "name": "Pure Radio Holland: Trance-Electro",
     "stream_urls": [
       "https://streamserver.pure-isp.eu/listen/pure_radio_holland_-_trance-electro_channel/aac-plus"
     ],
@@ -3694,9 +3749,20 @@
   },
   {
     "nanoid": "tt7jFhUweUFOiR",
-    "name": "Pure Radio Holland Underground",
+    "name": "Pure Radio Holland: Underground",
     "stream_urls": [
       "https://streamserver.pure-isp.eu/listen/pure_radio_holland_the_underground_channel/aac-plus"
+    ],
+    "country": "nl",
+    "languages": [
+      "nld"
+    ]
+  },
+  {
+    "nanoid": "LJMOLULOHENBdZ",
+    "name": "Pure Radio Holland: Various",
+    "stream_urls": [
+      "https://streamserver.pure-isp.eu/listen/pure_radio_holland_-_various_channel/aac-plus"
     ],
     "country": "nl",
     "languages": [
@@ -4059,8 +4125,8 @@
     "nanoid": "bZnjVolmDeGzQC",
     "name": "Radio Bergeijk",
     "stream_urls": [
-      "https://stream.radiobergeijk.nl/listen/radio_bergeijk/mobiel",
-      "https://stream.radiobergeijk.nl/listen/radio_bergeijk/flac"
+      "https://stream.radiobergeijk.nl/listen/radio_bergeijk/flac",
+      "https://stream.radiobergeijk.nl/listen/radio_bergeijk/mobiel"
     ],
     "country": "nl",
     "languages": [
@@ -4621,6 +4687,18 @@
     ]
   },
   {
+    "nanoid": "oq4ZWByf1SsPex",
+    "name": "Radio Sputnik",
+    "stream_urls": [
+      "https://radiosputnik.nl:8443/flac"
+    ],
+    "country": "nl",
+    "languages": [
+      "eng",
+      "nld"
+    ]
+  },
+  {
     "nanoid": "j9Bz1eUxNyin1F",
     "name": "Radio Stad Den Haag",
     "stream_urls": [
@@ -4774,8 +4852,7 @@
     "stream_urls": [
       "https://22333.live.streamtheworld.com/VERONICAAAC.aac",
       "https://playerservices.streamtheworld.com/api/livestream-redirect/VERONICA.mp3",
-      "https://playerservices.streamtheworld.com/api/livestream-redirect/VERONICAAAC.aac",
-      "https://19993.live.streamtheworld.com/VERONICA_SC"
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/VERONICAAAC.aac"
     ],
     "country": "nl",
     "languages": [
@@ -4890,8 +4967,7 @@
     "nanoid": "oWmbJT6yxG74d0",
     "name": "Radioachterhoek.nl",
     "stream_urls": [
-      "https://stream.radioachterhoek.nl/index.html",
-      "https://stream.radioachterhoek.nl/live"
+      "https://stream.radioachterhoek.nl/index.html"
     ],
     "country": "nl",
     "languages": [

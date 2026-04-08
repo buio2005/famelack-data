@@ -160,8 +160,7 @@
     "nanoid": "U4x54BzKeJmnMT",
     "name": "East FM",
     "stream_urls": [
-      "https://listen.eastfm.nz/stream.aac",
-      "https://listen.eastfm.nz/stream-aac-64"
+      "https://listen.eastfm.nz/stream.aac"
     ],
     "country": "nz",
     "languages": [
@@ -565,6 +564,18 @@
     ]
   },
   {
+    "nanoid": "bWjRIdsRLNHBDZ",
+    "name": "Radio Samoa 1593 AM",
+    "stream_urls": [
+      "https://radiosamoa.stream.broadcast.co.nz:8000/rsamoa48k"
+    ],
+    "country": "nz",
+    "languages": [
+      "eng",
+      "smo"
+    ]
+  },
+  {
     "nanoid": "oVPNez5MfWuBu7",
     "name": "Radio Sangeet Masti",
     "stream_urls": [
@@ -626,7 +637,8 @@
     "name": "Radiowave NZ",
     "stream_urls": [
       "https://stream.radiowavenz.com/stream",
-      "https://stream.radiowavenz.com/stream-aac"
+      "https://stream.radiowavenz.com/stream-aac",
+      "https://stream.radiowavenz.com/stream-aac-low"
     ],
     "country": "nz",
     "languages": [

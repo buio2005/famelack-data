@@ -48,6 +48,7 @@
     "nanoid": "wqvSZhq1RLKF3y",
     "name": "Antyradio",
     "stream_urls": [
+      "https://an.cdn.eurozet.pl/ant-web.mp3",
       "https://n-4-4.dcs.redcdn.pl/sc/o2/Eurozet/live/antyradio.livx",
       "https://an02.cdn.eurozet.pl/ant-web.mp3"
     ],
@@ -1280,6 +1281,19 @@
     ]
   },
   {
+    "nanoid": "d7M6HWPAsEBIk1",
+    "name": "Radio DHT - Kanał 2",
+    "stream_urls": [
+      "https://radiodht.com/stream_second/",
+      "https://radiodht.com/stream_main/"
+    ],
+    "country": "pl",
+    "languages": [
+      "eng",
+      "pol"
+    ]
+  },
+  {
     "nanoid": "ihNRIOPeYwxo9g",
     "name": "Radio Disco-Dance",
     "stream_urls": [
@@ -2264,17 +2278,6 @@
     ]
   },
   {
-    "nanoid": "Fi5Wj0pHmAI5nt",
-    "name": "Radio Mrągowo",
-    "stream_urls": [
-      "https://a1.asurahosting.com/listen/radio_mr%C4%85gowo/radio.mp3"
-    ],
-    "country": "pl",
-    "languages": [
-      "pol"
-    ]
-  },
-  {
     "nanoid": "TOHpdZ3Z9T5d6z",
     "name": "Radio Muzyczny Zakątek",
     "stream_urls": [
@@ -2605,6 +2608,17 @@
     "name": "Radio Plus Kraków 106.1 FM",
     "stream_urls": [
       "https://waw.ic.smcdn.pl/4070-1.mp3"
+    ],
+    "country": "pl",
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "DCu6SbBZmNNXjw",
+    "name": "Radio Plus Legnica",
+    "stream_urls": [
+      "https://player.legnica.fm/listen/radio_plus_legnica/radio256.mp3"
     ],
     "country": "pl",
     "languages": [
@@ -3540,10 +3554,43 @@
     ]
   },
   {
-    "nanoid": "wG1iHyPpdZ4xvc",
-    "name": "RMF 30 Lat",
+    "nanoid": "79KR8GyPzkj1XC",
+    "name": "RMF 2 Pop",
     "stream_urls": [
-      "https://rs202-krk-cyfronet.rmfstream.pl/20LAT"
+      "https://rs103-krk.rmfstream.pl/RMF2"
+    ],
+    "country": "pl",
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "19vs8xsLb2QDxN",
+    "name": "RMF 2000",
+    "stream_urls": [
+      "https://rs103-krk-cyfronet.rmfstream.pl/2000"
+    ],
+    "country": "pl",
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "WPnpPdzf1SjmZL",
+    "name": "RMF 3 Pop Rock",
+    "stream_urls": [
+      "https://rs102-krk-cyfronet.rmfstream.pl/RMF3"
+    ],
+    "country": "pl",
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "wG1iHyPpdZ4xvc",
+    "name": "RMF 36 lat",
+    "stream_urls": [
+      "https://rs101-krk-cyfronet.rmfstream.pl/20LAT"
     ],
     "country": "pl",
     "languages": [
@@ -3554,7 +3601,18 @@
     "nanoid": "YxFn6shrif8k8g",
     "name": "RMF 4 Dance & RNB",
     "stream_urls": [
-      "https://rs6-krk2.rmfstream.pl/rmf_4"
+      "https://rs103-krk-cyfronet.rmfstream.pl/RMF4"
+    ],
+    "country": "pl",
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "AGQjucygQBkrPv",
+    "name": "RMF 5 Łagodne Przeboje",
+    "stream_urls": [
+      "https://rs102-krk.rmfstream.pl/RMF5"
     ],
     "country": "pl",
     "languages": [
@@ -3573,10 +3631,153 @@
     ]
   },
   {
+    "nanoid": "BxfErrJlSKjom4",
+    "name": "RMF 60s",
+    "stream_urls": [
+      "https://rs202-krk.rmfstream.pl/60S"
+    ],
+    "country": "pl",
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "37W2ILwezNAzUq",
+    "name": "RMF 70s",
+    "stream_urls": [
+      "https://rs203-krk-cyfronet.rmfstream.pl/70S"
+    ],
+    "country": "pl",
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "j5uYdSp4xYMM1U",
+    "name": "RMF 80s",
+    "stream_urls": [
+      "https://rs203-krk-cyfronet.rmfstream.pl/80S"
+    ],
+    "country": "pl",
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "1JaJX2fvknpd9u",
+    "name": "RMF 80s Disco",
+    "stream_urls": [
+      "https://rs101-krk.rmfstream.pl/80SDISCO"
+    ],
+    "country": "pl",
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "50jLZPJy9FNYhq",
+    "name": "RMF 90s",
+    "stream_urls": [
+      "https://rs203-krk-cyfronet.rmfstream.pl/90S"
+    ],
+    "country": "pl",
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "uVYEHGzjYxcyK6",
+    "name": "RMF 90s Dance",
+    "stream_urls": [
+      "https://rs103-krk-cyfronet.rmfstream.pl/90SDANCE"
+    ],
+    "country": "pl",
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "okbNXwUUaARUtM",
+    "name": "RMF Alternatywa",
+    "stream_urls": [
+      "https://rs103-krk-cyfronet.rmfstream.pl/ALTERNATYWA"
+    ],
+    "country": "pl",
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "BYC4oafCCYmspz",
+    "name": "RMF Ballady",
+    "stream_urls": [
+      "https://rs101-krk.rmfstream.pl/NOSTALGIA"
+    ],
+    "country": "pl",
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "zfPnm9a5BA693Y",
+    "name": "RMF Beatlemania",
+    "stream_urls": [
+      "https://rs203-krk.rmfstream.pl/BEATLEMANIA"
+    ],
+    "country": "pl",
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "ZWVaDlbGZ7ugiJ",
+    "name": "RMF Blues",
+    "stream_urls": [
+      "https://rs103-krk.rmfstream.pl/BLUES"
+    ],
+    "country": "pl",
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "9GczIAzeoa5031",
+    "name": "RMF Celtic",
+    "stream_urls": [
+      "https://rs102-krk-cyfronet.rmfstream.pl/CELTIC"
+    ],
+    "country": "pl",
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "HMgGKzc8ArmwPf",
+    "name": "RMF Chillout",
+    "stream_urls": [
+      "https://rs203-krk-cyfronet.rmfstream.pl/CHILLOUT"
+    ],
+    "country": "pl",
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "nJu47IDHoPjmPL",
+    "name": "RMF Chopin",
+    "stream_urls": [
+      "https://rs203-krk.rmfstream.pl/CHOPIN"
+    ],
+    "country": "pl",
+    "languages": [
+      "pol"
+    ]
+  },
+  {
     "nanoid": "Eb9q6Cgye96vTA",
     "name": "RMF Classic",
     "stream_urls": [
-      "https://rs9-krk2.rmfstream.pl/rmf_classic"
+      "https://rs103-krk.rmfstream.pl/RMFCLASSIC48"
     ],
     "country": "pl",
     "languages": [
@@ -3587,7 +3788,84 @@
     "nanoid": "LMD8fDkE5ZQrWK",
     "name": "RMF Classic Rock",
     "stream_urls": [
-      "https://rs201-krk.rmfstream.pl/rmf_classic_rock"
+      "https://rs202-krk-cyfronet.rmfstream.pl/CLASSICROCK"
+    ],
+    "country": "pl",
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "9Lwx2bLajAuYFO",
+    "name": "RMF Club",
+    "stream_urls": [
+      "https://rs101-krk.rmfstream.pl/CLUB"
+    ],
+    "country": "pl",
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "4yj1Q3Vcuou0hm",
+    "name": "RMF Cuba",
+    "stream_urls": [
+      "https://rs202-krk-cyfronet.rmfstream.pl/CUBA"
+    ],
+    "country": "pl",
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "haMucXyBFa19VQ",
+    "name": "RMF Dance",
+    "stream_urls": [
+      "https://rs202-krk.rmfstream.pl/DANCE"
+    ],
+    "country": "pl",
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "SupsFM1fHTIk0V",
+    "name": "RMF Depeche Mode",
+    "stream_urls": [
+      "https://rs202-krk.rmfstream.pl/DEPECHEMODE"
+    ],
+    "country": "pl",
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "q46csBzRZdmWwl",
+    "name": "RMF Disco Polo",
+    "stream_urls": [
+      "https://rs101-krk.rmfstream.pl/DISCOPOLO"
+    ],
+    "country": "pl",
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "iCjkwdw7F5zNXW",
+    "name": "RMF Dla dzieci",
+    "stream_urls": [
+      "https://rs201-krk.rmfstream.pl/BABY"
+    ],
+    "country": "pl",
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "luzzRWIy9t9hBx",
+    "name": "RMF Fitness",
+    "stream_urls": [
+      "https://rs201-krk-cyfronet.rmfstream.pl/FITNESS"
     ],
     "country": "pl",
     "languages": [
@@ -3598,9 +3876,42 @@
     "nanoid": "uXQguVBW6Kj1Mh",
     "name": "RMF FM",
     "stream_urls": [
-      "https://rs101-krk.rmfstream.pl/rmf_fm",
-      "https://rs102-krk-cyfronet.rmfstream.pl/RMFFM48",
-      "https://rs101-krk-cyfronet.rmfstream.pl/RMFFM48"
+      "https://rs203-krk-cyfronet.rmfstream.pl/RMFFM48",
+      "https://rs101-krk.rmfstream.pl/rmf_fm"
+    ],
+    "country": "pl",
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "h6wVhRpCYwdQZd",
+    "name": "RMF Français",
+    "stream_urls": [
+      "https://rs203-krk-cyfronet.rmfstream.pl/FRANCAIS"
+    ],
+    "country": "pl",
+    "languages": [
+      "pol",
+      "fra"
+    ]
+  },
+  {
+    "nanoid": "utKOyXo3YiYs5q",
+    "name": "RMF Gold",
+    "stream_urls": [
+      "https://rs103-krk-cyfronet.rmfstream.pl/GOLD"
+    ],
+    "country": "pl",
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "BoROSEyXPOpBDY",
+    "name": "RMF Grunge",
+    "stream_urls": [
+      "https://rs201-krk.rmfstream.pl/GRUNGE"
     ],
     "country": "pl",
     "languages": [
@@ -3612,6 +3923,28 @@
     "name": "RMF Hard & Heavy",
     "stream_urls": [
       "https://rs201-krk-cyfronet.rmfstream.pl/HARDHEAVY"
+    ],
+    "country": "pl",
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "J1bUNC2nkzIAB5",
+    "name": "RMF Hip Hop",
+    "stream_urls": [
+      "https://rs201-krk.rmfstream.pl/HIPHOP"
+    ],
+    "country": "pl",
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "1NtI10dYVJCym4",
+    "name": "RMF Hot New",
+    "stream_urls": [
+      "https://rs201-krk.rmfstream.pl/HOTNEW"
     ],
     "country": "pl",
     "languages": [
@@ -3631,11 +3964,65 @@
     ]
   },
   {
+    "nanoid": "gYRrJ2MKDojTZu",
+    "name": "RMF Kolędy",
+    "stream_urls": [
+      "https://rs201-krk.rmfstream.pl/KOLEDY"
+    ],
+    "country": "pl",
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "fq7QoSX8D71y1I",
+    "name": "RMF Lady Pank",
+    "stream_urls": [
+      "https://rs201-krk.rmfstream.pl/LADYPANK"
+    ],
+    "country": "pl",
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "jTvn83xEgcZzlV",
+    "name": "RMF Latino",
+    "stream_urls": [
+      "https://rs201-krk.rmfstream.pl/LATINO"
+    ],
+    "country": "pl",
+    "languages": [
+      "pol"
+    ]
+  },
+  {
     "nanoid": "yibCkIglUZ0V1P",
     "name": "RMF MAXX",
     "stream_urls": [
-      "https://rs202-krk.rmfstream.pl/RMFMAXXX48",
-      "https://rs9-krk2-cyfronet.rmfstream.pl/RMFMAXXX48"
+      "https://rs203-krk.rmfstream.pl/RMFMAXXX48"
+    ],
+    "country": "pl",
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "V2ARpBHtBFj2Rx",
+    "name": "RMF MAXX Bydgoszcz",
+    "stream_urls": [
+      "https://rs201-krk.rmfstream.pl/MAXXXBYD"
+    ],
+    "country": "pl",
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "DOUwnwqxRgrilE",
+    "name": "RMF MAXX Hop Bęc",
+    "stream_urls": [
+      "https://rs201-krk.rmfstream.pl/HOPBEC"
     ],
     "country": "pl",
     "languages": [
@@ -3646,7 +4033,7 @@
     "nanoid": "gjltfLLggAlPsp",
     "name": "RMF MAXX Kielce",
     "stream_urls": [
-      "https://rs6-krk2.rmfstream.pl/rmf_maxxx_kie"
+      "https://rs201-krk.rmfstream.pl/MAXXXKIE"
     ],
     "country": "pl",
     "languages": [
@@ -3668,7 +4055,18 @@
     "nanoid": "F0GeIhTNafzAY4",
     "name": "RMF MAXX Krosno",
     "stream_urls": [
-      "https://rs6-krk2.rmfstream.pl/rmf_maxxx_ksn"
+      "https://rs201-krk.rmfstream.pl/MAXXXKSN"
+    ],
+    "country": "pl",
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "R3xxjcqDwv5ebw",
+    "name": "RMF MAXX Mazowsze",
+    "stream_urls": [
+      "https://rs201-krk.rmfstream.pl/MAXXXCIE"
     ],
     "country": "pl",
     "languages": [
@@ -3679,7 +4077,7 @@
     "nanoid": "c6bTBDlOXNnNN4",
     "name": "RMF MAXX Podlasie",
     "stream_urls": [
-      "https://rs101-krk.rmfstream.pl/rmf_maxxx_lom"
+      "https://rs201-krk.rmfstream.pl/MAXXXLOM"
     ],
     "country": "pl",
     "languages": [
@@ -3690,7 +4088,7 @@
     "nanoid": "b6p9wMJIVMxb0q",
     "name": "RMF MAXX Pomorze",
     "stream_urls": [
-      "https://rs202-krk-cyfronet.rmfstream.pl/rmf_maxxx"
+      "https://rs201-krk.rmfstream.pl/MAXXXSLU"
     ],
     "country": "pl",
     "languages": [
@@ -3701,7 +4099,29 @@
     "nanoid": "Eib5UReaqqvxis",
     "name": "RMF MAXX Poznań",
     "stream_urls": [
-      "https://rs103-krk-cyfronet.rmfstream.pl/MAXXXPOZ"
+      "https://rs201-krk.rmfstream.pl/MAXXXPOZ"
+    ],
+    "country": "pl",
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "Xg0L5NT3ALFwgA",
+    "name": "RMF MAXX Sunrise Festival",
+    "stream_urls": [
+      "https://rs201-krk.rmfstream.pl/MAXXSUNF"
+    ],
+    "country": "pl",
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "9hYkes0ptVXKb6",
+    "name": "RMF MAXX Szczecin",
+    "stream_urls": [
+      "https://rs201-krk.rmfstream.pl/MAXXXSZC"
     ],
     "country": "pl",
     "languages": [
@@ -3712,7 +4132,18 @@
     "nanoid": "HM0Hu4V1Ukm45P",
     "name": "RMF MAXX Warszawa",
     "stream_urls": [
-      "https://rs202-krk.rmfstream.pl/MAXXXWAW"
+      "https://rs201-krk.rmfstream.pl/MAXXXWAW"
+    ],
+    "country": "pl",
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "ClDkIDUjMyxR1x",
+    "name": "RMF MAXX Włocławek",
+    "stream_urls": [
+      "https://rs201-krk.rmfstream.pl/MAXXXWLC"
     ],
     "country": "pl",
     "languages": [
@@ -3723,7 +4154,18 @@
     "nanoid": "5fwoHICkZGURKr",
     "name": "RMF MAXX Śląsk",
     "stream_urls": [
-      "https://rs202-krk-cyfronet.rmfstream.pl/MAXXXSLK"
+      "https://rs201-krk.rmfstream.pl/MAXXXSLK"
+    ],
+    "country": "pl",
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "VMJvfBJwm1SHPR",
+    "name": "RMF Michael Jackson",
+    "stream_urls": [
+      "https://rs202-krk-cyfronet.rmfstream.pl/MICHALEJACKSON"
     ],
     "country": "pl",
     "languages": [
@@ -3734,7 +4176,271 @@
     "nanoid": "zUSSS9edjUL5el",
     "name": "RMF Muzyka Filmowa",
     "stream_urls": [
-      "https://rs101-krk-cyfronet.rmfstream.pl/rmf_muzyka_filmowa"
+      "https://rs203-krk-cyfronet.rmfstream.pl/MUZYKAFILMOWA"
+    ],
+    "country": "pl",
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "FcNxpPZkKIbdmD",
+    "name": "RMF Muzyka Klasyczna",
+    "stream_urls": [
+      "https://rs202-krk.rmfstream.pl/MUZYKAKLASYCZNA"
+    ],
+    "country": "pl",
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "G3903ohvaRDMUV",
+    "name": "RMF Największe Polskie Przeboje",
+    "stream_urls": [
+      "https://rs102-krk.rmfstream.pl/NPPRMFON"
+    ],
+    "country": "pl",
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "r7vm7bdGOYQtws",
+    "name": "RMF Niezapomniane Melodie",
+    "stream_urls": [
+      "https://rs201-krk-cyfronet.rmfstream.pl/NIEZAPOMNIANEMELODIE"
+    ],
+    "country": "pl",
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "D7aSxZQmTMLLoL",
+    "name": "RMF Party",
+    "stream_urls": [
+      "https://rs203-krk-cyfronet.rmfstream.pl/PARTY"
+    ],
+    "country": "pl",
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "w5wIuKmEDGTjhB",
+    "name": "RMF Piosenka Filmowa",
+    "stream_urls": [
+      "https://rs101-krk.rmfstream.pl/PIOSENKAFILMOWA"
+    ],
+    "country": "pl",
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "3RGNg8G3rIIi5R",
+    "name": "RMF Piosenka Literacka",
+    "stream_urls": [
+      "https://rs201-krk.rmfstream.pl/PIOSENKALITERACKA"
+    ],
+    "country": "pl",
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "8E3eFDUPgFtHe5",
+    "name": "RMF Pobudka",
+    "stream_urls": [
+      "https://rs201-krk.rmfstream.pl/POBUDKA"
+    ],
+    "country": "pl",
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "iIBMI6on02K9Io",
+    "name": "RMF Polska Alternatywa",
+    "stream_urls": [
+      "https://rs102-krk.rmfstream.pl/POLSKAALTERNATYWA"
+    ],
+    "country": "pl",
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "wKMBAe5D5cyBGM",
+    "name": "RMF Polska Prywatka",
+    "stream_urls": [
+      "https://rs101-krk.rmfstream.pl/POLSKAPRYWATKA"
+    ],
+    "country": "pl",
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "pgRZWnhzg88tnK",
+    "name": "RMF Polski Hip Hop",
+    "stream_urls": [
+      "https://rs201-krk.rmfstream.pl/TOP18"
+    ],
+    "country": "pl",
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "p9qYIOGAv7a55n",
+    "name": "RMF Polski Rock",
+    "stream_urls": [
+      "https://rs103-krk-cyfronet.rmfstream.pl/POLSKIROCK"
+    ],
+    "country": "pl",
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "IDsFvVlMYy5riD",
+    "name": "RMF Polskie Przeboje",
+    "stream_urls": [
+      "https://rs103-krk.rmfstream.pl/PPRZEBOJE"
+    ],
+    "country": "pl",
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "K3LRb38ECtkw1i",
+    "name": "RMF Poplista",
+    "stream_urls": [
+      "https://rs202-krk-cyfronet.rmfstream.pl/POPLISTA"
+    ],
+    "country": "pl",
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "shisw970KhL99O",
+    "name": "RMF PRL",
+    "stream_urls": [
+      "https://rs202-krk-cyfronet.rmfstream.pl/PRL"
+    ],
+    "country": "pl",
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "ranKQpv4wAw22R",
+    "name": "RMF Przebój Roku",
+    "stream_urls": [
+      "https://rs102-krk-cyfronet.rmfstream.pl/PRZEBOJROKU"
+    ],
+    "country": "pl",
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "VmeskbIbbCiU5t",
+    "name": "RMF Queen",
+    "stream_urls": [
+      "https://rs202-krk-cyfronet.rmfstream.pl/QUEEN"
+    ],
+    "country": "pl",
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "YSBCLZoZsxRIaX",
+    "name": "RMF Reggae",
+    "stream_urls": [
+      "https://rs101-krk.rmfstream.pl/REGGAE"
+    ],
+    "country": "pl",
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "qviBGNZuLxd5Zl",
+    "name": "RMF Relaks",
+    "stream_urls": [
+      "https://rs202-krk.rmfstream.pl/RELAKS"
+    ],
+    "country": "pl",
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "Zzy1MmachuCPBx",
+    "name": "RMF Rock",
+    "stream_urls": [
+      "https://rs201-krk.rmfstream.pl/ROCK"
+    ],
+    "country": "pl",
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "KmXesjqByHVRr4",
+    "name": "RMF Rock Progresywny",
+    "stream_urls": [
+      "https://rs203-krk.rmfstream.pl/ROCKPROGRESYWNY"
+    ],
+    "country": "pl",
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "AkZgTssEKMQafd",
+    "name": "RMF Smooth Jazz",
+    "stream_urls": [
+      "https://rs102-krk.rmfstream.pl/SJAZZ"
+    ],
+    "country": "pl",
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "GWLm2eyj4JTbrd",
+    "name": "RMF Styl",
+    "stream_urls": [
+      "https://rs102-krk-cyfronet.rmfstream.pl/STYL"
+    ],
+    "country": "pl",
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "sKtXLbGNux8zL5",
+    "name": "RMF Szanty",
+    "stream_urls": [
+      "https://rs201-krk-cyfronet.rmfstream.pl/SZANTY"
+    ],
+    "country": "pl",
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "bD2luohJ6OakOr",
+    "name": "RMF Słoneczne Przeboje",
+    "stream_urls": [
+      "https://rs101-krk-cyfronet.rmfstream.pl/SPRZEBOJE"
     ],
     "country": "pl",
     "languages": [
@@ -3753,10 +4459,21 @@
     ]
   },
   {
-    "nanoid": "U4EG9OpL6RKhk7",
-    "name": "RMF Top 4",
+    "nanoid": "E6IeL7DxbRdJgs",
+    "name": "RMF Top 30 PL",
     "stream_urls": [
-      "https://rs102-krk-cyfronet.rmfstream.pl/rmf_top4"
+      "https://rs203-krk-cyfronet.rmfstream.pl/TOP5PL"
+    ],
+    "country": "pl",
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "YUsBOYTbAuBSH6",
+    "name": "RMF Top 30 Pop",
+    "stream_urls": [
+      "https://rs202-krk-cyfronet.rmfstream.pl/TOP5POP"
     ],
     "country": "pl",
     "languages": [
@@ -3775,10 +4492,76 @@
     ]
   },
   {
+    "nanoid": "ub9NvLiT5mwCLy",
+    "name": "RMF Top Disco Polo",
+    "stream_urls": [
+      "https://rs203-krk.rmfstream.pl/TOP2"
+    ],
+    "country": "pl",
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "ZG1GHHProyplst",
+    "name": "RMF Trend Sounds",
+    "stream_urls": [
+      "https://rs202-krk-cyfronet.rmfstream.pl/TRENDSOUNDS"
+    ],
+    "country": "pl",
+    "languages": [
+      "pol"
+    ]
+  },
+  {
     "nanoid": "5mSl13QP8P5U7o",
     "name": "RMF Vibe",
     "stream_urls": [
-      "https://rs101-krk-cyfronet.rmfstream.pl/rmf_funk"
+      "https://rs102-krk-cyfronet.rmfstream.pl/VIBE"
+    ],
+    "country": "pl",
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "h58iAxUkoy96Vv",
+    "name": "RMF Viral",
+    "stream_urls": [
+      "https://rs103-krk-cyfronet.rmfstream.pl/BRAVO"
+    ],
+    "country": "pl",
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "XZvKhLkIiKx7YC",
+    "name": "RMF W pracy",
+    "stream_urls": [
+      "https://rs103-krk-cyfronet.rmfstream.pl/WPRACY"
+    ],
+    "country": "pl",
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "U4EG9OpL6RKhk7",
+    "name": "RMF Wakacyjne TOP 100",
+    "stream_urls": [
+      "https://rs103-krk.rmfstream.pl/TOP4"
+    ],
+    "country": "pl",
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "8CXj5INoJca4i2",
+    "name": "RMF Święta",
+    "stream_urls": [
+      "https://rs101-krk-cyfronet.rmfstream.pl/SWIETA"
     ],
     "country": "pl",
     "languages": [
@@ -3846,6 +4629,7 @@
     "nanoid": "6udDTi7uBjSXjv",
     "name": "SmoothJazz.com.pl",
     "stream_urls": [
+      "https://bcast.vigormultimedia.com:48888/sjcomplflac",
       "https://bcast.vigormultimedia.com:48888/sjcompl320mp3",
       "https://bcast.vigormultimedia.com:48888/sjcompl192aac",
       "https://bcast.vigormultimedia.com:48888/sjcompl64aac"

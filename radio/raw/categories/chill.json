@@ -1167,17 +1167,6 @@
     ]
   },
   {
-    "nanoid": "GSasE2ANTnxBEu",
-    "name": "Ambient Space Meditation Radio",
-    "stream_urls": [
-      "https://immortalharmony.out.airtime.pro:8000/immortalharmony_a"
-    ],
-    "country": "af",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
     "nanoid": "B1Lz2D42KiLete",
     "name": "ambient.fm",
     "stream_urls": [
@@ -1355,7 +1344,8 @@
     "nanoid": "GNAcsjmajHVMWC",
     "name": "Aplus.FM Relax",
     "stream_urls": [
-      "https://s.aplus.fm/aplus_relax_64"
+      "https://s.aplus.fm/aplus_relax_64",
+      "https://s.aplus.fm/aplus_relax_128"
     ],
     "country": "by",
     "languages": [
@@ -1497,6 +1487,17 @@
     "country": "uk",
     "languages": [
       "eng"
+    ]
+  },
+  {
+    "nanoid": "F8mIaiS38fpIzh",
+    "name": "Bitter Sweet Music",
+    "stream_urls": [
+      "https://sonicssl.namehost.ro/8520/stream"
+    ],
+    "country": "ro",
+    "languages": [
+      "ron"
     ]
   },
   {
@@ -3978,6 +3979,19 @@
     ]
   },
   {
+    "nanoid": "QNk5YGl26d8ZeB",
+    "name": "FluxFM FluxLounge",
+    "stream_urls": [
+      "https://fluxfm.streamabc.net/flx-fluxlounge-mp3-320-6616851",
+      "https://fluxfm.streamabc.net/flx-fluxlounge-mp3-128-8660249",
+      "https://fluxfm.streamabc.net/flx-fluxlounge-aacplus-64-3246257"
+    ],
+    "country": "de",
+    "languages": [
+      "deu"
+    ]
+  },
+  {
     "nanoid": "RoKKfnGAfNE7aM",
     "name": "FluxFM Hippie Trippy Garden Pretty",
     "stream_urls": [
@@ -4251,6 +4265,17 @@
     "country": "de",
     "languages": [
       "deu"
+    ]
+  },
+  {
+    "nanoid": "qXemkGQWOr55um",
+    "name": "Hit 88.9 Relax",
+    "stream_urls": [
+      "https://n11.radiojar.com/ecngxqha1mzuv"
+    ],
+    "country": "gr",
+    "languages": [
+      "ell"
     ]
   },
   {
@@ -4676,6 +4701,17 @@
     "languages": [
       "eng",
       "spa"
+    ]
+  },
+  {
+    "nanoid": "2p2qKsotNYN0Bt",
+    "name": "Jiaozuo Traffic and Tourism Broadcasting",
+    "stream_urls": [
+      "https://lhttp.qingting.fm/live/20805/64k.mp3"
+    ],
+    "country": "cn",
+    "languages": [
+      "zho"
     ]
   },
   {
@@ -5112,7 +5148,8 @@
     "stream_urls": [
       "https://de1.streamhosting.ch/",
       "https://fr1.streamhosting.ch/lounge128.mp3",
-      "https://player.streamhosting.ch/lounge128.ogg"
+      "https://player.streamhosting.ch/lounge128.ogg",
+      "https://player.streamhosting.ch/lounge64.aac"
     ],
     "country": "ch",
     "languages": [
@@ -6174,7 +6211,8 @@
     "nanoid": "q2OgRZAbqVkwPr",
     "name": "Otvoreni Fitness",
     "stream_urls": [
-      "https://stream2.otvoreni.hr/fitness"
+      "https://stream2.otvoreni.hr/fitness",
+      "https://stream.otvoreni.hr/fitness"
     ],
     "country": "hr",
     "languages": [
@@ -8532,6 +8570,17 @@
     ]
   },
   {
+    "nanoid": "2J1y1xOr9Q4Rbs",
+    "name": "Radio Rudina",
+    "stream_urls": [
+      "https://azuracast.datea.services:8000/radio.mp3"
+    ],
+    "country": "at",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
     "nanoid": "h8WCKhlK398t0J",
     "name": "radio SAW Good Life",
     "stream_urls": [
@@ -9228,6 +9277,28 @@
     ]
   },
   {
+    "nanoid": "HMgGKzc8ArmwPf",
+    "name": "RMF Chillout",
+    "stream_urls": [
+      "https://rs203-krk-cyfronet.rmfstream.pl/CHILLOUT"
+    ],
+    "country": "pl",
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "qviBGNZuLxd5Zl",
+    "name": "RMF Relaks",
+    "stream_urls": [
+      "https://rs202-krk.rmfstream.pl/RELAKS"
+    ],
+    "country": "pl",
+    "languages": [
+      "pol"
+    ]
+  },
+  {
     "nanoid": "zu15ztBSHH0WXt",
     "name": "Rocket Radio",
     "stream_urls": [
@@ -9457,17 +9528,6 @@
     "languages": [
       "ukr",
       "eng"
-    ]
-  },
-  {
-    "nanoid": "oiCmeorsmc01bu",
-    "name": "Shanghai Lido Radio (1940s Vintage Jazz)",
-    "stream_urls": [
-      "https://radio.nitro-server.uk/listen/1940sshanghaioldtimesmusicradio/radio.mp3"
-    ],
-    "country": "cn",
-    "languages": [
-      "zho"
     ]
   },
   {
@@ -9900,6 +9960,7 @@
     "nanoid": "6udDTi7uBjSXjv",
     "name": "SmoothJazz.com.pl",
     "stream_urls": [
+      "https://bcast.vigormultimedia.com:48888/sjcomplflac",
       "https://bcast.vigormultimedia.com:48888/sjcompl320mp3",
       "https://bcast.vigormultimedia.com:48888/sjcompl192aac",
       "https://bcast.vigormultimedia.com:48888/sjcompl64aac"
@@ -10394,17 +10455,6 @@
     "country": "at",
     "languages": [
       "deu"
-    ]
-  },
-  {
-    "nanoid": "Dd5yCczvj6UyYT",
-    "name": "Sweet Vibes Radio",
-    "stream_urls": [
-      "https://a8.asurahosting.com:7640/stream"
-    ],
-    "country": "ro",
-    "languages": [
-      "ron"
     ]
   },
   {

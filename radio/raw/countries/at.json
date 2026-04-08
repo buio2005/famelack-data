@@ -1521,6 +1521,17 @@
     ]
   },
   {
+    "nanoid": "2J1y1xOr9Q4Rbs",
+    "name": "Radio Rudina",
+    "stream_urls": [
+      "https://azuracast.datea.services:8000/radio.mp3"
+    ],
+    "country": "at",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
     "nanoid": "XWIorZUdlN2au2",
     "name": "Radio Salzburg",
     "stream_urls": [
@@ -1596,17 +1607,6 @@
     ]
   },
   {
-    "nanoid": "sN39B5ob75idtn",
-    "name": "Radio VM1",
-    "stream_urls": [
-      "https://radiovm1.fluidstream.eu/radiovm1.mp3"
-    ],
-    "country": "at",
-    "languages": [
-      "deu"
-    ]
-  },
-  {
     "nanoid": "x3NfLP0fqs8ncx",
     "name": "Radio VM1 Steiermark",
     "stream_urls": [
@@ -1634,17 +1634,6 @@
     "stream_urls": [
       "https://orf-live.ors-shoutcast.at/vbg-q1a",
       "https://orf-live.ors-shoutcast.at/vbg-q2a"
-    ],
-    "country": "at",
-    "languages": [
-      "deu"
-    ]
-  },
-  {
-    "nanoid": "ZDVYE4MtjvXLLk",
-    "name": "Radio Weanerisch gspielt",
-    "stream_urls": [
-      "https://radiovm1.fluidstream.eu/weanarisch"
     ],
     "country": "at",
     "languages": [

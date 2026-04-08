@@ -884,26 +884,6 @@
     ]
   },
   {
-    "nanoid": "Vfxv2KTnoZxKii",
-    "name": "Best Net Radio - 80s and 90s Mix",
-    "stream_urls": [
-      "https://bigrradio.cdnstream1.com/5143_128"
-    ],
-    "country": "us",
-    "languages": []
-  },
-  {
-    "nanoid": "kOX3p4gld6V8WP",
-    "name": "Best Net Radio - 90s Alternative",
-    "stream_urls": [
-      "https://bigrradio.cdnstream1.com/5147_128"
-    ],
-    "country": "us",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
     "nanoid": "VOcp3K5NMFZHdM",
     "name": "Best of 80's & 90's",
     "stream_urls": [
@@ -952,17 +932,6 @@
     "name": "Big R Radio - 90s Alternative Rock",
     "stream_urls": [
       "https://bigrradio.cdnstream1.com/5187_128"
-    ],
-    "country": "us",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
-    "nanoid": "lMDFjm5lB6s4B9",
-    "name": "Big R Radio - 90s FM",
-    "stream_urls": [
-      "https://bigrradio.cdnstream1.com/5188_128"
     ],
     "country": "us",
     "languages": [
@@ -1032,18 +1001,6 @@
     ]
   },
   {
-    "nanoid": "n5tkLCCIriRUzI",
-    "name": "Canal 8090 Radio",
-    "stream_urls": [
-      "https://stream.radiojar.com/syk7c423n48uv"
-    ],
-    "country": "us",
-    "languages": [
-      "eng",
-      "spa"
-    ]
-  },
-  {
     "nanoid": "I52SMjX7JndYAh",
     "name": "Classic 21 90s",
     "stream_urls": [
@@ -1108,6 +1065,17 @@
     "country": "hr",
     "languages": [
       "hrv"
+    ]
+  },
+  {
+    "nanoid": "oH36bsTWvNclsc",
+    "name": "Coast 2 Coast Radio Australia",
+    "stream_urls": [
+      "https://stream.c2cra.online/live"
+    ],
+    "country": "au",
+    "languages": [
+      "eng"
     ]
   },
   {
@@ -1204,6 +1172,7 @@
     "nanoid": "Sli5b6f5rHlvpN",
     "name": "Danubius Rádió",
     "stream_urls": [
+      "https://stream.danubiusradio.hu/danubius_HiFi",
       "https://danubiusradio.hu/live.mp3",
       "https://stream.danubiusradio.hu/danubius_320k",
       "https://stream.danubiusradio.hu/danubius_128k",
@@ -1576,6 +1545,17 @@
     ]
   },
   {
+    "nanoid": "r69Mrd2306C7g8",
+    "name": "Galaxy 106.1 Patra",
+    "stream_urls": [
+      "https://sh.onweb.gr/8818/stream"
+    ],
+    "country": "gr",
+    "languages": [
+      "ell"
+    ]
+  },
+  {
     "nanoid": "1qCzryIyP7kPRT",
     "name": "Getarum Radio",
     "stream_urls": [
@@ -1604,7 +1584,6 @@
     "nanoid": "QlI2yzPEihO2zy",
     "name": "Gold Web Radio",
     "stream_urls": [
-      "https://centova.svdns.com.br:19418/stream1",
       "https://centova.svdns.com.br:19418/stream2",
       "https://centova.svdns.com.br:19418/stream"
     ],
@@ -1891,21 +1870,6 @@
     "country": "uk",
     "languages": [
       "eng"
-    ]
-  },
-  {
-    "nanoid": "WVsSyuM2aribWm",
-    "name": "Intense Radio",
-    "stream_urls": [
-      "https://secure.live-streams.nl/flac.flac",
-      "https://intenseradio.live-streams.nl:18000/main",
-      "https://intenseradio.live-streams.nl/main"
-    ],
-    "country": "nl",
-    "languages": [
-      "eng",
-      "nld",
-      "bel"
     ]
   },
   {
@@ -3188,17 +3152,6 @@
     ]
   },
   {
-    "nanoid": "Tv93Rt4M56nOOz",
-    "name": "Radio La Noventera",
-    "stream_urls": [
-      "https://host.gometri.com/proxy/lanoventera/stream/"
-    ],
-    "country": "pe",
-    "languages": [
-      "spa"
-    ]
-  },
-  {
     "nanoid": "yCQYysRlDVBzW7",
     "name": "Radio Lausitz - 90er XXL",
     "stream_urls": [
@@ -3800,6 +3753,17 @@
     ]
   },
   {
+    "nanoid": "AltSL23IhZvcEp",
+    "name": "Rhythm 98 WTHM-DB",
+    "stream_urls": [
+      "https://cast6.my-control-panel.com/proxy/rhythm98/stream"
+    ],
+    "country": "us",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
     "nanoid": "WrycwFprNblfN6",
     "name": "Riverwood Radio",
     "stream_urls": [
@@ -3808,6 +3772,28 @@
     "country": "ca",
     "languages": [
       "eng"
+    ]
+  },
+  {
+    "nanoid": "50jLZPJy9FNYhq",
+    "name": "RMF 90s",
+    "stream_urls": [
+      "https://rs203-krk-cyfronet.rmfstream.pl/90S"
+    ],
+    "country": "pl",
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "uVYEHGzjYxcyK6",
+    "name": "RMF 90s Dance",
+    "stream_urls": [
+      "https://rs103-krk-cyfronet.rmfstream.pl/90SDANCE"
+    ],
+    "country": "pl",
+    "languages": [
+      "pol"
     ]
   },
   {
@@ -4119,6 +4105,17 @@
     "country": "ee",
     "languages": [
       "est"
+    ]
+  },
+  {
+    "nanoid": "xMqfo9cVNEdLf7",
+    "name": "Stereo Ceiba 99.9 FM",
+    "stream_urls": [
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_CEIBAAAC_SC"
+    ],
+    "country": "hn",
+    "languages": [
+      "spa"
     ]
   },
   {
@@ -4528,18 +4525,6 @@
     ]
   },
   {
-    "nanoid": "aflZnU1NjaxacI",
-    "name": "Vinyl Hits",
-    "stream_urls": [
-      "https://stream.vinylhits.dk/vinylaac",
-      "https://stream.vinylhits.dk/vinylmp3"
-    ],
-    "country": "dk",
-    "languages": [
-      "dan"
-    ]
-  },
-  {
     "nanoid": "q3aWVgAtNl6j12",
     "name": "Vinyl Maxi FM",
     "stream_urls": [
@@ -4722,6 +4707,17 @@
     "name": "Россия 90-х",
     "stream_urls": [
       "https://pub0202.101.ru:8443/stream/pro/aac/64/33"
+    ],
+    "country": "ru",
+    "languages": [
+      "rus"
+    ]
+  },
+  {
+    "nanoid": "VULLWua23RnJ2d",
+    "name": "Русское Радио: Лихие 90-е",
+    "stream_urls": [
+      "https://rr-90.hostingradio.ru/rr9096.aacp"
     ],
     "country": "ru",
     "languages": [
