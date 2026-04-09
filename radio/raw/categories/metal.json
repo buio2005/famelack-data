@@ -250,6 +250,7 @@
     "nanoid": "wqvSZhq1RLKF3y",
     "name": "Antyradio",
     "stream_urls": [
+      "https://an.cdn.eurozet.pl/ant-web.mp3",
       "https://n-4-4.dcs.redcdn.pl/sc/o2/Eurozet/live/antyradio.livx",
       "https://an02.cdn.eurozet.pl/ant-web.mp3"
     ],
@@ -263,17 +264,6 @@
     "name": "BadRock Hard & Heavy",
     "stream_urls": [
       "https://play-radio0.jump.bg:7049/live"
-    ],
-    "country": "bg",
-    "languages": [
-      "bul"
-    ]
-  },
-  {
-    "nanoid": "n9xF9Ujp7SAOrD",
-    "name": "BadRock Radio",
-    "stream_urls": [
-      "https://play-radio0.jump.bg:7028/live"
     ],
     "country": "bg",
     "languages": [
@@ -307,9 +297,10 @@
     "nanoid": "Iyz5WYJguHIheg",
     "name": "BDPST ROCK",
     "stream_urls": [
+      "https://s2.audiostream.hu/bdpstrock_FLAC",
+      "https://bdpstrock.hu/live_320.mp3",
       "https://bdpstrock.hu/live_HiFi.mp3",
       "https://bdpstrock.hu/live.mp3",
-      "https://bdpstrock.hu/live_320.mp3",
       "https://bdpstrock.hu/live_128.mp3"
     ],
     "country": "hu",
@@ -360,17 +351,6 @@
     "country": "de",
     "languages": [
       "deu"
-    ]
-  },
-  {
-    "nanoid": "zXgRjIXbceE11c",
-    "name": "Big R Radio - 80s Metal",
-    "stream_urls": [
-      "https://bigrradio.cdnstream1.com/5186_128"
-    ],
-    "country": "us",
-    "languages": [
-      "eng"
     ]
   },
   {
@@ -602,6 +582,7 @@
     "nanoid": "OyRsleVN3IpTPZ",
     "name": "Distorsión FM",
     "stream_urls": [
+      "https://radioemisoras.cl/distorsion.flac",
       "https://radioemisoras.cl/distorsion.mp3",
       "https://tunein.radiomaniacos.cl/distorsion.mp3"
     ],
@@ -609,18 +590,6 @@
     "languages": [
       "eng",
       "spa"
-    ]
-  },
-  {
-    "nanoid": "xagLqu889Abf9M",
-    "name": "EklectyWaves",
-    "stream_urls": [
-      "https://play.radioking.io/eklectywaves-the-sharing-radio"
-    ],
-    "country": "fr",
-    "languages": [
-      "eng",
-      "fra"
     ]
   },
   {
@@ -1255,6 +1224,17 @@
     ]
   },
   {
+    "nanoid": "plE7XHvd2eGBzY",
+    "name": "MetalMusicRadio",
+    "stream_urls": [
+      "https://metalradio.net/128K.aac"
+    ],
+    "country": "us",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
     "nanoid": "z6veV02v79F5ne",
     "name": "Metalománie",
     "stream_urls": [
@@ -1867,6 +1847,7 @@
     "nanoid": "Qb0VmUHFO0193s",
     "name": "Radio Maximum - Heavy Monday",
     "stream_urls": [
+      "https://s.fmplay.ru/3ce8899d",
       "https://heavymonday.hostingradio.ru/heavymonday96.aacp"
     ],
     "country": "ru",

@@ -434,17 +434,6 @@
     ]
   },
   {
-    "nanoid": "eyDSKlwWaiDAzv",
-    "name": "4MBS Classic FM",
-    "stream_urls": [
-      "https://stream.4mbs.com.au/4mbsclassicfm"
-    ],
-    "country": "au",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
     "nanoid": "ev234crP4BiZJ6",
     "name": "4Tune FM",
     "stream_urls": [
@@ -460,8 +449,7 @@
     "name": "5MBS 99.9 FM",
     "stream_urls": [
       "https://stream.sigile.net/5mbs-128-mp3",
-      "https://stream01.sigile.net/5mbs-128-mp3",
-      "https://stream.sigile.net/5mbs-64-aac"
+      "https://stream01.sigile.net/5mbs-128-mp3"
     ],
     "country": "au",
     "languages": [
@@ -618,17 +606,6 @@
       "https://cast1.torontocast.com:4450/;"
     ],
     "country": "ca",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
-    "nanoid": "acY4S3UknfSbWP",
-    "name": "Aardvark Blues FM",
-    "stream_urls": [
-      "https://edge4.peta.live365.net/b77280_128mp3"
-    ],
-    "country": "us",
     "languages": [
       "eng"
     ]
@@ -1242,7 +1219,8 @@
     "name": "BluesWave Radio",
     "stream_urls": [
       "https://blueswave.radio:8100/icyblues",
-      "https://blueswave.radio:8000/blueswave"
+      "https://blueswave.radio:8000/blueswave",
+      "https://blueswave.radio:8100/hifiblues"
     ],
     "country": "gr",
     "languages": [
@@ -1423,17 +1401,6 @@
     "name": "CBC Music Eastern",
     "stream_urls": [
       "https://cbcradiolive.akamaized.net/hls/live/2041057/ES_R2ETR/master.m3u8"
-    ],
-    "country": "ca",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
-    "nanoid": "mV4nW1EXFuqN15",
-    "name": "CBC Music Edmonton",
-    "stream_urls": [
-      "https://18303.live.streamtheworld.com/CBXFM_CBC.mp3"
     ],
     "country": "ca",
     "languages": [
@@ -1680,17 +1647,6 @@
     "country": "gt",
     "languages": [
       "spa"
-    ]
-  },
-  {
-    "nanoid": "5aEwOaGsUOEO7P",
-    "name": "Comète FM",
-    "stream_urls": [
-      "https://str0.creacast.com/cometefm"
-    ],
-    "country": "fr",
-    "languages": [
-      "fra"
     ]
   },
   {
@@ -2016,6 +1972,8 @@
     "stream_urls": [
       "https://live-icy.dr.dk/A/A04L.mp3",
       "https://live-icy.dr.dk/A/A27L.mp3",
+      "https://live-icy.gslb01.dr.dk/A/A04H.mp3",
+      "https://live-icy.gss.dr.dk/A/A04H.mp3",
       "https://drliveradio1.akamaized.net/hls/live/2097651/p2/playlist-96000.m3u8"
     ],
     "country": "dk",
@@ -2028,6 +1986,8 @@
     "name": "DR P8 Jazz",
     "stream_urls": [
       "https://drliveradio.akamaized.net/hls/live/2022411/p8jazz/playlist-320000.m3u8",
+      "https://live-icy.gslb01.dr.dk/A/A22H.mp3",
+      "https://live-icy.gss.dr.dk/A/A22H.mp3",
       "https://drliveradio1.akamaized.net/hls/live/2097651/p8jazz/playlist-96000.m3u8"
     ],
     "country": "dk",
@@ -5239,17 +5199,6 @@
     ]
   },
   {
-    "nanoid": "Y3Fi7ao4BN6IoO",
-    "name": "Kifissia Radio",
-    "stream_urls": [
-      "https://cast.streams.ovh:12097/;"
-    ],
-    "country": "gr",
-    "languages": [
-      "ell"
-    ]
-  },
-  {
     "nanoid": "GjiKkeBBXwuFv3",
     "name": "KJazz 88.1",
     "stream_urls": [
@@ -5997,6 +5946,30 @@
     ]
   },
   {
+    "nanoid": "KjSHULkaQq0NNf",
+    "name": "Mother Earth Jazz",
+    "stream_urls": [
+      "https://stream.motherearthradio.de/listen/motherearth_jazz/motherearth.jazz"
+    ],
+    "country": "de",
+    "languages": [
+      "deu",
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "txvLpau0e4Cg0D",
+    "name": "Mother Earth Radio",
+    "stream_urls": [
+      "https://stream.motherearthradio.de/listen/motherearth/motherearth"
+    ],
+    "country": "de",
+    "languages": [
+      "deu",
+      "eng"
+    ]
+  },
+  {
     "nanoid": "KOj80khy8kVnsU",
     "name": "Motsweding FM",
     "stream_urls": [
@@ -6410,6 +6383,17 @@
     ]
   },
   {
+    "nanoid": "ttgIuWUXEcexAZ",
+    "name": "ON Christmas",
+    "stream_urls": [
+      "https://0n-christmas.radionetz.de/0n-christmas.mp3"
+    ],
+    "country": "de",
+    "languages": [
+      "deu"
+    ]
+  },
+  {
     "nanoid": "gF1doFBHDWsk8Y",
     "name": "ON Jazz",
     "stream_urls": [
@@ -6537,6 +6521,18 @@
     "country": "nl",
     "languages": [
       "nld"
+    ]
+  },
+  {
+    "nanoid": "CGVza0SfpYmjyX",
+    "name": "Piñata Radio",
+    "stream_urls": [
+      "https://listen.radioking.com/radio/96031/stream/134656"
+    ],
+    "country": "fr",
+    "languages": [
+      "fra",
+      "eng"
     ]
   },
   {
@@ -6972,6 +6968,17 @@
     ]
   },
   {
+    "nanoid": "ytAPHch16DIn94",
+    "name": "Radio Art: Acoustic Blues",
+    "stream_urls": [
+      "https://live.radioart.com/fAcoustic_blues.mp3"
+    ],
+    "country": "us",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
     "nanoid": "okSBrOu2hu73Km",
     "name": "Radio Art: Vocal Jazz",
     "stream_urls": [
@@ -7364,17 +7371,6 @@
     ]
   },
   {
-    "nanoid": "Fi5Wj0pHmAI5nt",
-    "name": "Radio Mrągowo",
-    "stream_urls": [
-      "https://a1.asurahosting.com/listen/radio_mr%C4%85gowo/radio.mp3"
-    ],
-    "country": "pl",
-    "languages": [
-      "pol"
-    ]
-  },
-  {
     "nanoid": "9AXndTglfqf8KF",
     "name": "Radio Muzaica",
     "stream_urls": [
@@ -7598,17 +7594,6 @@
     "languages": [
       "heb",
       "eng"
-    ]
-  },
-  {
-    "nanoid": "z5SC7Gh2uSNStE",
-    "name": "Radio Sampotaz",
-    "stream_urls": [
-      "https://eu10.fastcast4u.com/sampotaz"
-    ],
-    "country": "gr",
-    "languages": [
-      "ell"
     ]
   },
   {
@@ -8057,6 +8042,17 @@
     ]
   },
   {
+    "nanoid": "AkZgTssEKMQafd",
+    "name": "RMF Smooth Jazz",
+    "stream_urls": [
+      "https://rs102-krk.rmfstream.pl/SJAZZ"
+    ],
+    "country": "pl",
+    "languages": [
+      "pol"
+    ]
+  },
+  {
     "nanoid": "fVQcY5oJDQkYk0",
     "name": "Rock & Blues Radio",
     "stream_urls": [
@@ -8309,17 +8305,6 @@
     ]
   },
   {
-    "nanoid": "oiCmeorsmc01bu",
-    "name": "Shanghai Lido Radio (1940s Vintage Jazz)",
-    "stream_urls": [
-      "https://radio.nitro-server.uk/listen/1940sshanghaioldtimesmusicradio/radio.mp3"
-    ],
-    "country": "cn",
-    "languages": [
-      "zho"
-    ]
-  },
-  {
     "nanoid": "yBrRbgcObTNMkr",
     "name": "Shonan Beach FM",
     "stream_urls": [
@@ -8541,6 +8526,7 @@
     "nanoid": "6udDTi7uBjSXjv",
     "name": "SmoothJazz.com.pl",
     "stream_urls": [
+      "https://bcast.vigormultimedia.com:48888/sjcomplflac",
       "https://bcast.vigormultimedia.com:48888/sjcompl320mp3",
       "https://bcast.vigormultimedia.com:48888/sjcompl192aac",
       "https://bcast.vigormultimedia.com:48888/sjcompl64aac"
@@ -9244,17 +9230,6 @@
     ]
   },
   {
-    "nanoid": "Q1ZTkNSlfQCbzn",
-    "name": "VPM Music",
-    "stream_urls": [
-      "https://22203.live.streamtheworld.com/WCVEHD2_SC"
-    ],
-    "country": "us",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
     "nanoid": "WwZxC71PykzuDQ",
     "name": "VRTW Radio",
     "stream_urls": [
@@ -9512,6 +9487,17 @@
     ],
     "country": "us",
     "languages": []
+  },
+  {
+    "nanoid": "JZOXSsayegaRQ1",
+    "name": "WNCU 90.7 FM",
+    "stream_urls": [
+      "https://wncu.streamguys1.com/live"
+    ],
+    "country": "us",
+    "languages": [
+      "eng"
+    ]
   },
   {
     "nanoid": "SNeOctqQ7pID9a",
@@ -9827,7 +9813,7 @@
   },
   {
     "nanoid": "Lz2IPMhn5w2c4K",
-    "name": "Český rozhlas Jazz",
+    "name": "ČRo Jazz",
     "stream_urls": [
       "https://rozhlas.stream/jazz_high.aac"
     ],

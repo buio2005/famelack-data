@@ -22,6 +22,17 @@
     ]
   },
   {
+    "nanoid": "ynOMgJ138tlNvS",
+    "name": "EHR Festivālu Hiti",
+    "stream_urls": [
+      "https://stream.ehrhiti.lv:8000/Stream_73.mp3"
+    ],
+    "country": "lv",
+    "languages": [
+      "lav"
+    ]
+  },
+  {
     "nanoid": "xU25bBKxKPbd63",
     "name": "EHR Fresh",
     "stream_urls": [
@@ -234,18 +245,6 @@
     ]
   },
   {
-    "nanoid": "BowiJMWCY73UQG",
-    "name": "Radio Mix FM",
-    "stream_urls": [
-      "https://live.relaxfm.lv/07"
-    ],
-    "country": "lv",
-    "languages": [
-      "rus",
-      "eng"
-    ]
-  },
-  {
     "nanoid": "MdbzeQw0FTwx7v",
     "name": "Radio Roks",
     "stream_urls": [
@@ -254,17 +253,6 @@
     "country": "lv",
     "languages": [
       "rus"
-    ]
-  },
-  {
-    "nanoid": "PujzJMUZYMn7QY",
-    "name": "Radio Skonto",
-    "stream_urls": [
-      "https://stream.radioskonto.lv:8443/stereo"
-    ],
-    "country": "lv",
-    "languages": [
-      "lav"
     ]
   },
   {
@@ -391,6 +379,18 @@
     ],
     "country": "lv",
     "languages": [
+      "lav"
+    ]
+  },
+  {
+    "nanoid": "SMmgqjhUkS0Nj8",
+    "name": "Авторадио (Avtoradio)",
+    "stream_urls": [
+      "https://live.relaxfm.lv/03"
+    ],
+    "country": "lv",
+    "languages": [
+      "rus",
       "lav"
     ]
   }

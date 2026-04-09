@@ -252,10 +252,11 @@
     ]
   },
   {
-    "nanoid": "eyDSKlwWaiDAzv",
-    "name": "4MBS Classic FM",
+    "nanoid": "d0PNW6ALPNlk7E",
+    "name": "3MBS Fine Music Melbourne",
     "stream_urls": [
-      "https://stream.4mbs.com.au/4mbsclassicfm"
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/3MBS.mp3",
+      "https://23093.live.streamtheworld.com/3MBS.mp3"
     ],
     "country": "au",
     "languages": [
@@ -278,8 +279,7 @@
     "name": "5MBS 99.9 FM",
     "stream_urls": [
       "https://stream.sigile.net/5mbs-128-mp3",
-      "https://stream01.sigile.net/5mbs-128-mp3",
-      "https://stream.sigile.net/5mbs-64-aac"
+      "https://stream01.sigile.net/5mbs-128-mp3"
     ],
     "country": "au",
     "languages": [
@@ -1239,17 +1239,6 @@
     ]
   },
   {
-    "nanoid": "mV4nW1EXFuqN15",
-    "name": "CBC Music Edmonton",
-    "stream_urls": [
-      "https://18303.live.streamtheworld.com/CBXFM_CBC.mp3"
-    ],
-    "country": "ca",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
     "nanoid": "sWPwK2IyQi5Z5w",
     "name": "CBC Music Mountain",
     "stream_urls": [
@@ -1594,6 +1583,7 @@
     "nanoid": "llWq9ORGunJqF5",
     "name": "Classical 89 (KBYU-FM)",
     "stream_urls": [
+      "https://radio.byub.org/classical89/classical89_aac",
       "https://radio.byub.org/classical89/classical89_mp3"
     ],
     "country": "us",
@@ -2774,6 +2764,8 @@
     "stream_urls": [
       "https://live-icy.dr.dk/A/A04L.mp3",
       "https://live-icy.dr.dk/A/A27L.mp3",
+      "https://live-icy.gslb01.dr.dk/A/A04H.mp3",
+      "https://live-icy.gss.dr.dk/A/A04H.mp3",
       "https://drliveradio1.akamaized.net/hls/live/2097651/p2/playlist-96000.m3u8"
     ],
     "country": "dk",
@@ -3962,6 +3954,17 @@
     ]
   },
   {
+    "nanoid": "EEAL5VWsy5Bt4C",
+    "name": "KBYI 94.3 FM",
+    "stream_urls": [
+      "https://radiostream.byui.edu/kbyi"
+    ],
+    "country": "us",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
     "nanoid": "xZ39xYKPbYYOXX",
     "name": "KCME 88.7 FM",
     "stream_urls": [
@@ -4834,6 +4837,18 @@
     "country": "br",
     "languages": [
       "por"
+    ]
+  },
+  {
+    "nanoid": "YbuyVSOchWIbQ9",
+    "name": "Mother Earth Klassik",
+    "stream_urls": [
+      "https://stream.motherearthradio.de/listen/motherearth_klassik/motherearth.klassik"
+    ],
+    "country": "de",
+    "languages": [
+      "deu",
+      "eng"
     ]
   },
   {
@@ -6817,10 +6832,21 @@
     ]
   },
   {
+    "nanoid": "nJu47IDHoPjmPL",
+    "name": "RMF Chopin",
+    "stream_urls": [
+      "https://rs203-krk.rmfstream.pl/CHOPIN"
+    ],
+    "country": "pl",
+    "languages": [
+      "pol"
+    ]
+  },
+  {
     "nanoid": "Eb9q6Cgye96vTA",
     "name": "RMF Classic",
     "stream_urls": [
-      "https://rs9-krk2.rmfstream.pl/rmf_classic"
+      "https://rs103-krk.rmfstream.pl/RMFCLASSIC48"
     ],
     "country": "pl",
     "languages": [
@@ -6831,7 +6857,18 @@
     "nanoid": "zUSSS9edjUL5el",
     "name": "RMF Muzyka Filmowa",
     "stream_urls": [
-      "https://rs101-krk-cyfronet.rmfstream.pl/rmf_muzyka_filmowa"
+      "https://rs203-krk-cyfronet.rmfstream.pl/MUZYKAFILMOWA"
+    ],
+    "country": "pl",
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "FcNxpPZkKIbdmD",
+    "name": "RMF Muzyka Klasyczna",
+    "stream_urls": [
+      "https://rs202-krk.rmfstream.pl/MUZYKAKLASYCZNA"
     ],
     "country": "pl",
     "languages": [
@@ -7478,17 +7515,6 @@
     "country": "lb",
     "languages": [
       "ara"
-    ]
-  },
-  {
-    "nanoid": "Q1ZTkNSlfQCbzn",
-    "name": "VPM Music",
-    "stream_urls": [
-      "https://22203.live.streamtheworld.com/WCVEHD2_SC"
-    ],
-    "country": "us",
-    "languages": [
-      "eng"
     ]
   },
   {
@@ -8183,10 +8209,11 @@
     ]
   },
   {
-    "nanoid": "AtJVb5IBwTMXfY",
-    "name": "ČRo Vltava",
+    "nanoid": "9D9gZTolvSfV3H",
+    "name": "ČRo D-dur",
     "stream_urls": [
-      "https://icecast5.play.cz/cro3-128.mp3"
+      "https://amp1.cesnet.cz:8443/cro-d-dur.flac",
+      "https://rozhlas.stream/ddur_high.aac"
     ],
     "country": "cz",
     "languages": [
@@ -8194,9 +8221,10 @@
     ]
   },
   {
-    "nanoid": "PesGnZoErboq1e",
-    "name": "ČRo Vltava (FLAC)",
+    "nanoid": "AtJVb5IBwTMXfY",
+    "name": "ČRo Vltava",
     "stream_urls": [
+      "https://rozhlas.stream/vltava_high.aac",
       "https://amp.cesnet.cz:8443/cro3.flac"
     ],
     "country": "cz",
@@ -8220,7 +8248,9 @@
     "name": "Детское Радио",
     "stream_urls": [
       "https://a5.radioheart.ru:8012/nonstop",
-      "https://ic7.101.ru:8000/v14_1"
+      "https://ic7.101.ru:8000/v14_1",
+      "https://pub0102.101.ru:8000/stream/air/aac/64/199",
+      "https://pub0101.101.ru/stream/air/aac/64/199"
     ],
     "country": "ru",
     "languages": [

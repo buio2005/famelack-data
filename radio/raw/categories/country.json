@@ -564,6 +564,7 @@
     "nanoid": "wswgt8N8G4vI13",
     "name": "88.9 FM Tamworth",
     "stream_urls": [
+      "https://stream.889fmtamworth.com.au:8443/stream",
       "https://stream.889fmtamworth.com.au/stream"
     ],
     "country": "au",
@@ -1140,17 +1141,6 @@
     ]
   },
   {
-    "nanoid": "NKEK5ooEvySxR2",
-    "name": "99.9 Free Country WFRE",
-    "stream_urls": [
-      "https://14843.live.streamtheworld.com/WFREFM.mp3"
-    ],
-    "country": "us",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
     "nanoid": "EVgo7I3YLBgV2Z",
     "name": "99.9 Gator Country",
     "stream_urls": [
@@ -1396,17 +1386,6 @@
     ]
   },
   {
-    "nanoid": "okPJPN1Fpt4Axl",
-    "name": "Best Net Radio - Country Oldies",
-    "stream_urls": [
-      "https://bigrradio.cdnstream1.com/5158_128"
-    ],
-    "country": "us",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
     "nanoid": "S5IWgBEHHtejAA",
     "name": "Big 104.7 (WPGB)",
     "stream_urls": [
@@ -1433,17 +1412,6 @@
     "name": "Big 99.9 Coyote Country",
     "stream_urls": [
       "https://playerservices.streamtheworld.com/api/livestream-redirect/KXLYFMAAC_SC"
-    ],
-    "country": "us",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
-    "nanoid": "IBtOCHuoRRuh9U",
-    "name": "Big Buck Country 98.1",
-    "stream_urls": [
-      "https://ice7.securenetsystems.net/KRRG"
     ],
     "country": "us",
     "languages": [
@@ -1610,17 +1578,6 @@
     "name": "Bob 95 FM (KBVB)",
     "stream_urls": [
       "https://ice8.securenetsystems.net/KBVB"
-    ],
-    "country": "us",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
-    "nanoid": "XxA9sbE2jcX40K",
-    "name": "Borderline Radio",
-    "stream_urls": [
-      "https://s6.citrus3.com/stream/borderlineradio"
     ],
     "country": "us",
     "languages": [
@@ -2644,6 +2601,17 @@
     ]
   },
   {
+    "nanoid": "PBDiKXz1CgU4hp",
+    "name": "Duke FM 104.7",
+    "stream_urls": [
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/KMJOFMAAC_SC"
+    ],
+    "country": "us",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
     "nanoid": "tYBYocapbIXXZ5",
     "name": "Duo Country",
     "stream_urls": [
@@ -3275,6 +3243,7 @@
     "name": "G Radio",
     "stream_urls": [
       "https://n06.radiojar.com/garavelas-radio-gr.m4a",
+      "https://n0e.radiojar.com/garavelas-radio-gr",
       "https://n10.radiojar.com/garavelas-radio-gr",
       "https://stream.radiojar.com/garavelas-radio-gr.m4a"
     ],
@@ -3828,6 +3797,17 @@
     ]
   },
   {
+    "nanoid": "HlM1KQ02UwcrO9",
+    "name": "KBMW 1450 AM",
+    "stream_urls": [
+      "https://ice6.securenetsystems.net/KBMWAM"
+    ],
+    "country": "us",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
     "nanoid": "GRRmw63l9rriFV",
     "name": "KBOW Country 550 AM",
     "stream_urls": [
@@ -3947,15 +3927,6 @@
     "languages": [
       "eng"
     ]
-  },
-  {
-    "nanoid": "arbAYcQltPkxD6",
-    "name": "Kicker 108",
-    "stream_urls": [
-      "https://ice42.securenetsystems.net/WZKX"
-    ],
-    "country": "us",
-    "languages": []
   },
   {
     "nanoid": "WHktG89nWIYDGc",
@@ -4150,7 +4121,6 @@
     "nanoid": "rWVDuQv5tyHGI2",
     "name": "Krushnation",
     "stream_urls": [
-      "https://s2.yesstreaming.net:7183/stream",
       "https://streaming.live365.com/a77618"
     ],
     "country": "us",
@@ -4515,6 +4485,17 @@
       "https://ais-edge09-live365-dal02.cdnstream.com/a73754",
       "https://ais-edge37-live365-dal02.cdnstream.com/a73754",
       "https://streaming.live365.com/a73754"
+    ],
+    "country": "us",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "aGZSbwTLzOgxQT",
+    "name": "My Country 93.5",
+    "stream_urls": [
+      "https://ice8.securenetsystems.net/KKDT"
     ],
     "country": "us",
     "languages": [
@@ -5192,18 +5173,6 @@
     ]
   },
   {
-    "nanoid": "a3qOFucS9VSTR3",
-    "name": "Radio Dixie",
-    "stream_urls": [
-      "https://icecast8.play.cz/radiodixie192.mp3"
-    ],
-    "country": "cz",
-    "languages": [
-      "ces",
-      "eng"
-    ]
-  },
-  {
     "nanoid": "6LvphVpH41PDSe",
     "name": "Radio Eureka",
     "stream_urls": [
@@ -5268,17 +5237,6 @@
     "country": "ro",
     "languages": [
       "ron"
-    ]
-  },
-  {
-    "nanoid": "Fi5Wj0pHmAI5nt",
-    "name": "Radio Mrągowo",
-    "stream_urls": [
-      "https://a1.asurahosting.com/listen/radio_mr%C4%85gowo/radio.mp3"
-    ],
-    "country": "pl",
-    "languages": [
-      "pol"
     ]
   },
   {
@@ -5687,17 +5645,6 @@
     ]
   },
   {
-    "nanoid": "oM47VG55uZZ9w7",
-    "name": "RTL Georges Lang",
-    "stream_urls": [
-      "https://live.m6radio.quortex.io/webpHJPXnXrN7B6J7Q8mcqmxP/webradio/rtl-georges-lang/130/audio-64000/index.m3u8"
-    ],
-    "country": "fr",
-    "languages": [
-      "fra"
-    ]
-  },
-  {
     "nanoid": "SbzugWPzqVsScx",
     "name": "Rádio Buteco Sertanejo",
     "stream_urls": [
@@ -5758,6 +5705,17 @@
     "name": "Rádio Terra 1330 AM",
     "stream_urls": [
       "https://cloud1.cdnseguro.com:16020/stream"
+    ],
+    "country": "br",
+    "languages": [
+      "por"
+    ]
+  },
+  {
+    "nanoid": "T4xWXwlloudmJB",
+    "name": "Rádio Tok",
+    "stream_urls": [
+      "https://cast2.hoost.com.br:20088/stream"
     ],
     "country": "br",
     "languages": [
@@ -5972,17 +5930,6 @@
     "country": "us",
     "languages": [
       "eng"
-    ]
-  },
-  {
-    "nanoid": "QIVuDfESjkKYGY",
-    "name": "Suðurland FM",
-    "stream_urls": [
-      "https://ice-11.spilarinn.is/xsudurlandfm"
-    ],
-    "country": "is",
-    "languages": [
-      "isl"
     ]
   },
   {
@@ -6533,17 +6480,6 @@
     ],
     "country": "us",
     "languages": []
-  },
-  {
-    "nanoid": "6oDIyXbzqAq7F4",
-    "name": "WNKX 96.7 FM",
-    "stream_urls": [
-      "https://ice25.securenetsystems.net:80/WNKX"
-    ],
-    "country": "us",
-    "languages": [
-      "eng"
-    ]
   },
   {
     "nanoid": "yZ3nLJkR86POWe",

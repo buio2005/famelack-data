@@ -122,9 +122,22 @@
     ]
   },
   {
+    "nanoid": "RWXkBX2Ma2DiRh",
+    "name": "DR Nyheder",
+    "stream_urls": [
+      "https://live-icy.gslb01.dr.dk/A/A02L.mp3",
+      "https://live-icy.gss.dr.dk/A/A02H.mp3"
+    ],
+    "country": "dk",
+    "languages": [
+      "dan"
+    ]
+  },
+  {
     "nanoid": "P5vwRFH8zkpXFf",
     "name": "DR P1",
     "stream_urls": [
+      "https://live-icy.gss.dr.dk/A/A03H.mp3",
       "https://drliveradio1.akamaized.net/hls/live/2097651/p1/playlist-96000.m3u8"
     ],
     "country": "dk",
@@ -138,6 +151,8 @@
     "stream_urls": [
       "https://live-icy.dr.dk/A/A04L.mp3",
       "https://live-icy.dr.dk/A/A27L.mp3",
+      "https://live-icy.gslb01.dr.dk/A/A04H.mp3",
+      "https://live-icy.gss.dr.dk/A/A04H.mp3",
       "https://drliveradio1.akamaized.net/hls/live/2097651/p2/playlist-96000.m3u8"
     ],
     "country": "dk",
@@ -149,6 +164,7 @@
     "nanoid": "LqCdSPetys5n74",
     "name": "DR P3",
     "stream_urls": [
+      "https://live-icy.gslb01.dr.dk/A/A05H.mp3",
       "https://drliveradio1.akamaized.net/hls/live/2097651/p3/playlist-96000.m3u8"
     ],
     "country": "dk",
@@ -160,7 +176,32 @@
     "nanoid": "2IPEYmBJKvx3Ks",
     "name": "DR P4 Bornholm",
     "stream_urls": [
+      "https://live-icy.gslb01.dr.dk/A/A06H.mp3",
+      "https://live-icy.gss.dr.dk/A/A06H.mp3",
       "https://live-icy.dr.dk/A/A30H.mp3"
+    ],
+    "country": "dk",
+    "languages": [
+      "dan"
+    ]
+  },
+  {
+    "nanoid": "vpSzgm3M9ipYtr",
+    "name": "DR P4 Esbjerg",
+    "stream_urls": [
+      "https://live-icy.gslb01.dr.dk/A/A15H.mp3",
+      "https://live-icy.gss.dr.dk/A/A15H.mp3"
+    ],
+    "country": "dk",
+    "languages": [
+      "dan"
+    ]
+  },
+  {
+    "nanoid": "ZvzdlSNHnfuhVO",
+    "name": "DR P4 Fyn",
+    "stream_urls": [
+      "https://live-icy.gslb01.dr.dk/A/A07H.mp3"
     ],
     "country": "dk",
     "languages": [
@@ -171,8 +212,89 @@
     "nanoid": "bcfWLGANQwWcLE",
     "name": "DR P4 København",
     "stream_urls": [
+      "https://live-icy.gslb01.dr.dk/A/A08H.mp3",
+      "https://live-icy.gss.dr.dk/A/A08H.mp3",
       "https://live-icy.dr.dk/A/A08H.mp3",
       "https://drliveradio1.akamaized.net/hls/live/2097651/p4kobenhavn/playlist-96000.m3u8"
+    ],
+    "country": "dk",
+    "languages": [
+      "dan"
+    ]
+  },
+  {
+    "nanoid": "H1EsdIzcv3sG0x",
+    "name": "DR P4 Midt & Vest",
+    "stream_urls": [
+      "https://live-icy.gslb01.dr.dk/A/A09H.mp3",
+      "https://live-icy.gss.dr.dk/A/A09H.mp3"
+    ],
+    "country": "dk",
+    "languages": [
+      "dan"
+    ]
+  },
+  {
+    "nanoid": "NnTVYFytnSxycq",
+    "name": "DR P4 Nordjylland",
+    "stream_urls": [
+      "https://live-icy.gslb01.dr.dk/A/A10H.mp3"
+    ],
+    "country": "dk",
+    "languages": [
+      "dan"
+    ]
+  },
+  {
+    "nanoid": "Cqc3lNGoTdV6Ip",
+    "name": "DR P4 Sjælland",
+    "stream_urls": [
+      "https://live-icy.gslb01.dr.dk/A/A11H.mp3"
+    ],
+    "country": "dk",
+    "languages": [
+      "dan"
+    ]
+  },
+  {
+    "nanoid": "6ICzYVoDHZKhr0",
+    "name": "DR P4 Syd",
+    "stream_urls": [
+      "https://live-icy.gslb01.dr.dk/A/A12H.mp3",
+      "https://live-icy.gss.dr.dk/A/A12H.mp3"
+    ],
+    "country": "dk",
+    "languages": [
+      "dan"
+    ]
+  },
+  {
+    "nanoid": "Zrdo0JnpkepHR9",
+    "name": "DR P4 Trekanten",
+    "stream_urls": [
+      "https://live-icy.gslb01.dr.dk/A/A13H.mp3"
+    ],
+    "country": "dk",
+    "languages": [
+      "dan"
+    ]
+  },
+  {
+    "nanoid": "UbU4mcRQoQik1G",
+    "name": "DR P4 Østjylland",
+    "stream_urls": [
+      "https://live-icy.gslb01.dr.dk/A/A14H.mp3"
+    ],
+    "country": "dk",
+    "languages": [
+      "dan"
+    ]
+  },
+  {
+    "nanoid": "xSzMcoR7MZE1c7",
+    "name": "DR P5",
+    "stream_urls": [
+      "https://live-icy.gslb01.dr.dk/A/A25H.mp3"
     ],
     "country": "dk",
     "languages": [
@@ -229,6 +351,8 @@
     "name": "DR P6 Beat",
     "stream_urls": [
       "https://live-icy.dr.dk/A/A29H.mp3",
+      "https://live-icy.gss.dr.dk/A/A29H.mp3",
+      "https://live-icy.gslb01.dr.dk/A/A29H.mp3",
       "https://drliveradio1.akamaized.net/hls/live/2097651/p6beat/playlist-96000.m3u8"
     ],
     "country": "dk",
@@ -241,7 +365,20 @@
     "name": "DR P8 Jazz",
     "stream_urls": [
       "https://drliveradio.akamaized.net/hls/live/2022411/p8jazz/playlist-320000.m3u8",
+      "https://live-icy.gslb01.dr.dk/A/A22H.mp3",
+      "https://live-icy.gss.dr.dk/A/A22H.mp3",
       "https://drliveradio1.akamaized.net/hls/live/2097651/p8jazz/playlist-96000.m3u8"
+    ],
+    "country": "dk",
+    "languages": [
+      "dan"
+    ]
+  },
+  {
+    "nanoid": "SpMwDA0nf9pW3M",
+    "name": "DR Ramasjang Ultra",
+    "stream_urls": [
+      "https://live-icy.gss.dr.dk/A/A24H.mp3"
     ],
     "country": "dk",
     "languages": [
@@ -840,18 +977,6 @@
     "name": "Uniradioen",
     "stream_urls": [
       "https://uniradio.out.airtime.pro/uniradio_a"
-    ],
-    "country": "dk",
-    "languages": [
-      "dan"
-    ]
-  },
-  {
-    "nanoid": "aflZnU1NjaxacI",
-    "name": "Vinyl Hits",
-    "stream_urls": [
-      "https://stream.vinylhits.dk/vinylaac",
-      "https://stream.vinylhits.dk/vinylmp3"
     ],
     "country": "dk",
     "languages": [

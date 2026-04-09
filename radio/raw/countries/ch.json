@@ -1212,7 +1212,8 @@
     "stream_urls": [
       "https://de1.streamhosting.ch/",
       "https://fr1.streamhosting.ch/lounge128.mp3",
-      "https://player.streamhosting.ch/lounge128.ogg"
+      "https://player.streamhosting.ch/lounge128.ogg",
+      "https://player.streamhosting.ch/lounge64.aac"
     ],
     "country": "ch",
     "languages": [
@@ -1782,6 +1783,17 @@
     ]
   },
   {
+    "nanoid": "MBgO27h4JB7qrA",
+    "name": "Radio Freundes-Dienst Deutsch",
+    "stream_urls": [
+      "https://radiofd.ice.infomaniak.ch/radiofd.mp3"
+    ],
+    "country": "ch",
+    "languages": [
+      "deu"
+    ]
+  },
+  {
     "nanoid": "sw3Q78wwSHm8Og",
     "name": "Radio Freundes-Dienst Schweiz",
     "stream_urls": [
@@ -2202,6 +2214,17 @@
       "https://stream.srg-ssr.ch/m/drsvirus/aacp_32",
       "https://stream.srg-ssr.ch/m/drsvirus/aacp_96",
       "https://stream.srg-ssr.ch/m/drsvirus/mp3_128"
+    ],
+    "country": "ch",
+    "languages": [
+      "deu"
+    ]
+  },
+  {
+    "nanoid": "xf32zvZnXsphTF",
+    "name": "Radio Stadtfilter",
+    "stream_urls": [
+      "https://www.digris.ch/stream/8a1a42f0-3f59-4113-b544-aad9275d34a7"
     ],
     "country": "ch",
     "languages": [

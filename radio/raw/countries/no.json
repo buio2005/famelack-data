@@ -198,8 +198,7 @@
     "nanoid": "bJ4UqZXlLG8aI8",
     "name": "NRK P1 Buskerud",
     "stream_urls": [
-      "https://lyd.nrk.no/nrk_radio_p1_buskerud_mp3_h",
-      "https://cdn0-47115-liveicecast0.dna.contentdelivery.net/p1_dk13_aac_h"
+      "https://lyd.nrk.no/nrk_radio_p1_buskerud_mp3_h"
     ],
     "country": "no",
     "languages": [
@@ -293,6 +292,7 @@
     "name": "NRK P1 Sogn og Fjordane",
     "stream_urls": [
       "https://lyd.nrk.no/nrk_radio_p1_sogn_og_fjordane_mp3_h",
+      "https://lyd.nrk.no/icecast/aac/high/s0w7hwn47m/p1_dk7",
       "https://lyd.nrk.no/icecast/mp3/high/s0w7hwn47m/p1_dk7"
     ],
     "country": "no",
@@ -351,6 +351,7 @@
     "stream_urls": [
       "https://lyd.nrk.no/nrk_radio_p1_trondelag_mp3_h",
       "https://lyd.nrk.no/nrk_radio_p1_trondelag_mp3_l",
+      "https://lyd.nrk.no/nrk_radio_p1_trondelag_aac_l",
       "https://lyd.nrk.no/icecast/mp3/high/s0w7hwn47m/p1_dk5"
     ],
     "country": "no",
@@ -719,18 +720,6 @@
     "languages": [
       "spa",
       "nor"
-    ]
-  },
-  {
-    "nanoid": "EgfjRZnyDeSQPF",
-    "name": "Radio Lyngdal",
-    "stream_urls": [
-      "https://live.radiolyngdal.com/rly_mq"
-    ],
-    "country": "no",
-    "languages": [
-      "nor",
-      "eng"
     ]
   },
   {

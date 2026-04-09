@@ -191,6 +191,18 @@
     ]
   },
   {
+    "nanoid": "fzD20dFIGkimcT",
+    "name": "HRT Radio 2",
+    "stream_urls": [
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/PROGRAM2AAC_SC",
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/PROGRAM2.mp3"
+    ],
+    "country": "hr",
+    "languages": [
+      "hrv"
+    ]
+  },
+  {
     "nanoid": "Pm9rhwXxJha1D1",
     "name": "HRT Radio 3",
     "stream_urls": [
@@ -367,7 +379,8 @@
     "nanoid": "q2OgRZAbqVkwPr",
     "name": "Otvoreni Fitness",
     "stream_urls": [
-      "https://stream2.otvoreni.hr/fitness"
+      "https://stream2.otvoreni.hr/fitness",
+      "https://stream.otvoreni.hr/fitness"
     ],
     "country": "hr",
     "languages": [

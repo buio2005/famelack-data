@@ -752,18 +752,6 @@
     ]
   },
   {
-    "nanoid": "a3qOFucS9VSTR3",
-    "name": "Radio Dixie",
-    "stream_urls": [
-      "https://icecast8.play.cz/radiodixie192.mp3"
-    ],
-    "country": "cz",
-    "languages": [
-      "ces",
-      "eng"
-    ]
-  },
-  {
     "nanoid": "F7y7dgKaWAHvYQ",
     "name": "Radio Energic",
     "stream_urls": [
@@ -930,8 +918,7 @@
     "nanoid": "9Fm4EDZRBTqgYL",
     "name": "Radio Proglas",
     "stream_urls": [
-      "https://icecast2.play.cz/proglas128",
-      "https://icecast1.play.cz/proglas96aac"
+      "https://icecast2.play.cz/proglas128"
     ],
     "country": "cz",
     "languages": [
@@ -1472,8 +1459,9 @@
   },
   {
     "nanoid": "LQ49CS3yG61Ihj",
-    "name": "Český rozhlas Brno",
+    "name": "ČRo Brno",
     "stream_urls": [
+      "https://rozhlas.stream/brno_high.aac",
       "https://rozhlas.stream/brno.mp3"
     ],
     "country": "cz",
@@ -1482,10 +1470,33 @@
     ]
   },
   {
-    "nanoid": "9hSPMJ0VJU5uNM",
-    "name": "Český rozhlas Dvojka",
+    "nanoid": "9D9gZTolvSfV3H",
+    "name": "ČRo D-dur",
     "stream_urls": [
-      "https://icecast6.play.cz/cro2-128.mp3"
+      "https://amp1.cesnet.cz:8443/cro-d-dur.flac",
+      "https://rozhlas.stream/ddur_high.aac"
+    ],
+    "country": "cz",
+    "languages": [
+      "ces"
+    ]
+  },
+  {
+    "nanoid": "9hSPMJ0VJU5uNM",
+    "name": "ČRo Dvojka",
+    "stream_urls": [
+      "https://rozhlas.stream/dvojka_high.aac"
+    ],
+    "country": "cz",
+    "languages": [
+      "ces"
+    ]
+  },
+  {
+    "nanoid": "pDcjz3ifhQGckf",
+    "name": "ČRo Hradec Králové",
+    "stream_urls": [
+      "https://rozhlas.stream/hradec_kralove_high.aac"
     ],
     "country": "cz",
     "languages": [
@@ -1494,7 +1505,7 @@
   },
   {
     "nanoid": "Lz2IPMhn5w2c4K",
-    "name": "Český rozhlas Jazz",
+    "name": "ČRo Jazz",
     "stream_urls": [
       "https://rozhlas.stream/jazz_high.aac"
     ],
@@ -1504,10 +1515,21 @@
     ]
   },
   {
-    "nanoid": "IMx6be6LKldi9m",
-    "name": "Český rozhlas Olomouc",
+    "nanoid": "1kXxw4mbET5UEE",
+    "name": "ČRo Karlovy Vary",
     "stream_urls": [
-      "https://rozhlas.stream/olomouc_low.aac"
+      "https://rozhlas.stream/karlovy_vary_high.aac"
+    ],
+    "country": "cz",
+    "languages": [
+      "ces"
+    ]
+  },
+  {
+    "nanoid": "a2RUKEqOb5hayV",
+    "name": "ČRo Liberec",
+    "stream_urls": [
+      "https://rozhlas.stream/liberec_high.aac"
     ],
     "country": "cz",
     "languages": [
@@ -1516,7 +1538,7 @@
   },
   {
     "nanoid": "Z9rX60A0ug0n1w",
-    "name": "Český rozhlas Ostrava",
+    "name": "ČRo Ostrava",
     "stream_urls": [
       "https://rozhlas.stream/ostrava_high.aac"
     ],
@@ -1526,11 +1548,72 @@
     ]
   },
   {
-    "nanoid": "TGCDQZOWi5a0m2",
-    "name": "Český rozhlas Plus",
+    "nanoid": "7lzBZt745ev5at",
+    "name": "ČRo Pardubice",
     "stream_urls": [
-      "https://rozhlas.stream/plus_low.aac",
-      "https://rozhlas.stream/plus_mp3_128.mp3"
+      "https://rozhlas.stream/pardubice_high.aac"
+    ],
+    "country": "cz",
+    "languages": [
+      "ces"
+    ]
+  },
+  {
+    "nanoid": "TGCDQZOWi5a0m2",
+    "name": "ČRo Plus",
+    "stream_urls": [
+      "https://rozhlas.stream/plus_high.aac"
+    ],
+    "country": "cz",
+    "languages": [
+      "ces"
+    ]
+  },
+  {
+    "nanoid": "vCQWkEgC3z4zAU",
+    "name": "ČRo Plzeň",
+    "stream_urls": [
+      "https://rozhlas.stream/plzen_high.aac"
+    ],
+    "country": "cz",
+    "languages": [
+      "ces"
+    ]
+  },
+  {
+    "nanoid": "ZqLBxE8iU07WXT",
+    "name": "ČRo Radio Prague International",
+    "stream_urls": [
+      "https://rozhlas.stream/radio_prague_int_high.aac"
+    ],
+    "country": "cz",
+    "languages": [
+      "eng",
+      "deu",
+      "fra",
+      "spa",
+      "rus",
+      "ces"
+    ]
+  },
+  {
+    "nanoid": "uGDezu56JkZIUW",
+    "name": "ČRo Radio Ukrajina",
+    "stream_urls": [
+      "https://rozhlasstream.eu/ur1.mp3"
+    ],
+    "country": "cz",
+    "languages": [
+      "ukr"
+    ]
+  },
+  {
+    "nanoid": "e2dg83A6eXxFhq",
+    "name": "ČRo Radio Wave",
+    "stream_urls": [
+      "https://amp1.cesnet.cz:8443/cro-radio-wave.flac",
+      "https://rozhlas.stream/wave_mp3_128.mp3",
+      "https://rozhlas.stream/wave_mp3_256.mp3"
     ],
     "country": "cz",
     "languages": [
@@ -1539,7 +1622,7 @@
   },
   {
     "nanoid": "XkIU3MPhGQuzGY",
-    "name": "Český rozhlas Radiožurnál",
+    "name": "ČRo Radiožurnál",
     "stream_urls": [
       "https://rozhlas.stream/radiozurnal_aac_128.aac",
       "https://icecast8.play.cz/cro1-128.mp3"
@@ -1551,32 +1634,9 @@
   },
   {
     "nanoid": "DcliChdnKxTTrN",
-    "name": "Český rozhlas Radiožurnál Sport",
+    "name": "ČRo Radiožurnál Sport",
     "stream_urls": [
       "https://rozhlas.stream/radiozurnal_sport_high.aac"
-    ],
-    "country": "cz",
-    "languages": [
-      "ces"
-    ]
-  },
-  {
-    "nanoid": "j5DCIUndS05Cbn",
-    "name": "Český rozhlas České Budějovice",
-    "stream_urls": [
-      "https://rozhlas.stream/ceske_budejovice_high.aac"
-    ],
-    "country": "cz",
-    "languages": [
-      "ces"
-    ]
-  },
-  {
-    "nanoid": "e2dg83A6eXxFhq",
-    "name": "ČRo Radio Wave",
-    "stream_urls": [
-      "https://rozhlas.stream/wave_mp3_128.mp3",
-      "https://rozhlas.stream/wave_mp3_256.mp3"
     ],
     "country": "cz",
     "languages": [
@@ -1606,10 +1666,10 @@
     ]
   },
   {
-    "nanoid": "LuwDUBlFTiERDw",
-    "name": "ČRo Region Vysočina",
+    "nanoid": "BwgimflrslsvAo",
+    "name": "ČRo Sever",
     "stream_urls": [
-      "https://rozhlas.stream/vysocina_high.aac"
+      "https://rozhlas.stream/sever_high.aac"
     ],
     "country": "cz",
     "languages": [
@@ -1620,7 +1680,8 @@
     "nanoid": "AtJVb5IBwTMXfY",
     "name": "ČRo Vltava",
     "stream_urls": [
-      "https://icecast5.play.cz/cro3-128.mp3"
+      "https://rozhlas.stream/vltava_high.aac",
+      "https://amp.cesnet.cz:8443/cro3.flac"
     ],
     "country": "cz",
     "languages": [
@@ -1628,10 +1689,21 @@
     ]
   },
   {
-    "nanoid": "PesGnZoErboq1e",
-    "name": "ČRo Vltava (FLAC)",
+    "nanoid": "LuwDUBlFTiERDw",
+    "name": "ČRo Vysočina",
     "stream_urls": [
-      "https://amp.cesnet.cz:8443/cro3.flac"
+      "https://rozhlas.stream/vysocina_high.aac"
+    ],
+    "country": "cz",
+    "languages": [
+      "ces"
+    ]
+  },
+  {
+    "nanoid": "NKtsJ3j4KhNRPN",
+    "name": "ČRo Vysočina",
+    "stream_urls": [
+      "https://rozhlas.stream/vysocina_high.aac"
     ],
     "country": "cz",
     "languages": [
@@ -1643,6 +1715,17 @@
     "name": "ČRo Zlín",
     "stream_urls": [
       "https://rozhlas.stream/zlin_high.aac"
+    ],
+    "country": "cz",
+    "languages": [
+      "ces"
+    ]
+  },
+  {
+    "nanoid": "j5DCIUndS05Cbn",
+    "name": "ČRo České Budějovice",
+    "stream_urls": [
+      "https://rozhlas.stream/ceske_budejovice_high.aac"
     ],
     "country": "cz",
     "languages": [

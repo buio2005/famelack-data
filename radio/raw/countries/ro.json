@@ -91,10 +91,10 @@
     ]
   },
   {
-    "nanoid": "50rZ9LvuHH8q8t",
-    "name": "Black Rhino Radio",
+    "nanoid": "F8mIaiS38fpIzh",
+    "name": "Bitter Sweet Music",
     "stream_urls": [
-      "https://blackrhinoradio.out.airtime.pro/blackrhinoradio_a"
+      "https://sonicssl.namehost.ro/8520/stream"
     ],
     "country": "ro",
     "languages": [
@@ -102,10 +102,10 @@
     ]
   },
   {
-    "nanoid": "8rUDLvi9lPD1dW",
-    "name": "București FM",
+    "nanoid": "50rZ9LvuHH8q8t",
+    "name": "Black Rhino Radio",
     "stream_urls": [
-      "https://stream4.srr.ro:8443/bucuresti-fm"
+      "https://blackrhinoradio.out.airtime.pro/blackrhinoradio_a"
     ],
     "country": "ro",
     "languages": [
@@ -425,6 +425,17 @@
     "country": "ro",
     "languages": [
       "hun"
+    ]
+  },
+  {
+    "nanoid": "88L2elIFG0vsnp",
+    "name": "Europa FM",
+    "stream_urls": [
+      "https://astreaming.edi.ro:8443/EuropaFM_aac"
+    ],
+    "country": "ro",
+    "languages": [
+      "ron"
     ]
   },
   {
@@ -1165,6 +1176,17 @@
     ]
   },
   {
+    "nanoid": "y5NCZxFVpGYA0U",
+    "name": "Radio Boom Energy",
+    "stream_urls": [
+      "https://stream.radioboom.ro/listen/boom_energy/radio.mp3"
+    ],
+    "country": "ro",
+    "languages": [
+      "ron"
+    ]
+  },
+  {
     "nanoid": "o3XgFhi0HxJAer",
     "name": "Radio Boom Gold",
     "stream_urls": [
@@ -1744,17 +1766,6 @@
     ]
   },
   {
-    "nanoid": "Sbqjt5jrmKj73Y",
-    "name": "Radio Manele FM",
-    "stream_urls": [
-      "https://play.wrhradios.com/8044/stream"
-    ],
-    "country": "ro",
-    "languages": [
-      "ron"
-    ]
-  },
-  {
     "nanoid": "sqQGMgp4iKA6aI",
     "name": "Radio Manele Petrecere",
     "stream_urls": [
@@ -1890,7 +1901,6 @@
     "nanoid": "wPrc0P0LZH2dtw",
     "name": "Radio Prahova",
     "stream_urls": [
-      "https://streamx.rph.ro:8100/relay;",
       "https://streamx.rph.ro:8100/relay"
     ],
     "country": "ro",
@@ -1971,17 +1981,6 @@
     "stream_urls": [
       "https://stream.zeno.fm/72k4a597rs8uv",
       "https://radio-romantic.ro/stream"
-    ],
-    "country": "ro",
-    "languages": [
-      "ron"
-    ]
-  },
-  {
-    "nanoid": "BjnhfUX8B33nLM",
-    "name": "Radio România Actualități",
-    "stream_urls": [
-      "https://stream4.srr.ro:8443/romania-actualitati"
     ],
     "country": "ro",
     "languages": [
@@ -2693,7 +2692,8 @@
     "nanoid": "AduB5vkEXU7YG0",
     "name": "Radio Vocea Speranței",
     "stream_urls": [
-      "https://live.rvs.ro/play"
+      "https://live.rvs.ro/play",
+      "https://live.rvs.ro/playhq"
     ],
     "country": "ro",
     "languages": [
@@ -3266,17 +3266,6 @@
     ]
   },
   {
-    "nanoid": "Dd5yCczvj6UyYT",
-    "name": "Sweet Vibes Radio",
-    "stream_urls": [
-      "https://a8.asurahosting.com:7640/stream"
-    ],
-    "country": "ro",
-    "languages": [
-      "ron"
-    ]
-  },
-  {
     "nanoid": "owzD1xnGZVKWu0",
     "name": "Szépvíz FM",
     "stream_urls": [
@@ -3370,6 +3359,17 @@
     "stream_urls": [
       "https://radiotrucker.com/en/play/vibe-fm-romania",
       "https://live.radiovibefm.eu/8052/stream"
+    ],
+    "country": "ro",
+    "languages": [
+      "ron"
+    ]
+  },
+  {
+    "nanoid": "wtUu0jvddRPK7j",
+    "name": "Virgin Radio România",
+    "stream_urls": [
+      "https://astreaming.edi.ro:8443/VirginRadio_aac"
     ],
     "country": "ro",
     "languages": [
