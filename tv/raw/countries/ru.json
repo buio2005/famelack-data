@@ -202,7 +202,7 @@
     "name": "Jetix",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/tUDH-g2jEGo"
+      "https://www.youtube-nocookie.com/embed/-xrEeuIgO-c"
     ],
     "languages": [
       "rus"
@@ -329,19 +329,6 @@
     "youtube_urls": [],
     "languages": [
       "eng"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "uuwdAM4ggDTLQ4",
-    "name": "SONGTV Russia",
-    "stream_urls": [
-      "https://songtv.hls.iptvdc.com/web-russia/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "rus"
     ],
     "country": "ru",
     "isGeoBlocked": false
@@ -545,19 +532,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "uwiOfsLMvkb1ym",
-    "name": "Волга (HD)",
-    "stream_urls": [
-      "https://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Volga/hls/1920x1080@4504/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "OBL6eAcx0qwNkD",
     "name": "Восток 24 (Владивосток)",
     "stream_urls": [
@@ -610,10 +584,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "GXyfpkGN0MGlca",
-    "name": "Дом Кино",
+    "nanoid": "jdtDDFx09GQYAn",
+    "name": "Дума ТВ",
     "stream_urls": [
-      "https://streaming.thestream.cyou/live/44.m3u8"
+      "https://dumatv.iptv2022.com/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -945,7 +919,8 @@
     "nanoid": "lCl8WMVdJ5MxcZ",
     "name": "Надежда",
     "stream_urls": [
-      "https://live-tvhope.cdnvideo.ru/tvhope-pull/tvhope_1/playlist.m3u8"
+      "https://live-tvhope.cdnvideo.ru/tvhope-pull/tvhope_1/playlist.m3u8",
+      "https://tvhope.cdnvideo.ru/tvhope-pull/tvhope_1/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -1124,6 +1099,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "QbEJRZIewdL3Fc",
+    "name": "Осетия Ирыстон",
+    "stream_urls": [
+      "https://osir.mediacdn.ru/cdn/osetia/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "RwPXD8LwO5Q5WI",
     "name": "ОСН",
     "stream_urls": [
@@ -1245,19 +1233,6 @@
     "name": "Первый Ярославский",
     "stream_urls": [
       "https://yaroslavl.mediacdn.ru/cdn/pervyaroslavsk/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "VzlSomi4YyimMb",
-    "name": "Победа",
-    "stream_urls": [
-      "https://streaming.thestream.cyou/live/43.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -1401,19 +1376,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "ERsPAfBsDBEVBj",
-    "name": "Россия-РТР",
-    "stream_urls": [
-      "https://streaming.televizor-24-tochka.ru/live/211.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "AL13wnHi0qOCN5",
     "name": "С1 (Сургут)",
     "stream_urls": [
@@ -1483,84 +1445,6 @@
     "name": "Север (Нарьян-Мар)",
     "stream_urls": [
       "https://2vko9pchwon.a.trbcdn.net/livemaster/8ilgc_cw63ucn03p.smil/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "v5sPbs1KXBP4Nn",
-    "name": "Сити Эдем Meditation Music",
-    "stream_urls": [
-      "https://cityeden.catcast.tv/content/47410/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "FlqlJmUsw0JBUH",
-    "name": "Сити Эдем Play Христианский Музыкальный",
-    "stream_urls": [
-      "https://cityeden.catcast.tv/content/34100/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "GEed8MzCeFZpmL",
-    "name": "Сити Эдем АвтоГид",
-    "stream_urls": [
-      "https://cityeden.catcast.tv/content/47515/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "OtO4WFOzaNdFUD",
-    "name": "Сити Эдем КиноАзия",
-    "stream_urls": [
-      "https://cityeden.catcast.tv/content/34393/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "ujlkE2Qc3sujr0",
-    "name": "Сити Эдем КиноДетектив",
-    "stream_urls": [
-      "https://cityeden.catcast.tv/content/41327/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "Jqp4ZHvmJjGFio",
-    "name": "Сити Эдем КиноДрама",
-    "stream_urls": [
-      "https://cityeden.catcast.tv/content/45269/index.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -1714,10 +1598,24 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "g3UeglowU3FQpl",
+    "name": "Таврия",
+    "stream_urls": [
+      "https://streaming.televizor-24-tochka.ru/live/24.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "Ph3sAZycESjTXH",
     "name": "Тамыр (Уфа)",
     "stream_urls": [
-      "https://bsttv.bonus-tv.ru/cdn/tamyr/playlist.m3u8"
+      "https://bsttv.bonus-tv.ru/cdn/tamyr/playlist.m3u8",
+      "https://bstonline.mediacdn.ru/cdn/tamyr/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -1835,8 +1733,7 @@
     "nanoid": "E4ThnpTrd7cBEa",
     "name": "ТНТ (+4)",
     "stream_urls": [
-      "https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/variant.m3u8",
-      "https://streaming.televizor-24-tochka.ru/live/38.m3u8"
+      "https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/variant.m3u8"
     ],
     "youtube_urls": [],
     "languages": [

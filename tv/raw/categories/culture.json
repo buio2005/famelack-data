@@ -55,7 +55,21 @@
     "nanoid": "lk0uWzuq5z3huX",
     "name": "Afro Magic Channel",
     "stream_urls": [
-      "https://video1.getstreamhosting.com:1936/8306/8306/playlist.m3u8"
+      "https://video1.getstreamhosting.com:1936/8306/8306/playlist.m3u8",
+      "https://video1.getstreamhosting.com:1936/8490/8490/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "fra"
+    ],
+    "country": "ci",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "n4RrCqsrdFtghH",
+    "name": "Afroculture TV",
+    "stream_urls": [
+      "https://streamtv.cmediahosthosting.net:3836/live/myafroculturelive.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -513,7 +527,6 @@
     "nanoid": "2QHwYMt2XZKYvG",
     "name": "Fox Soul",
     "stream_urls": [
-      "https://foxsoul-vizio.amagi.tv/playlist.m3u8",
       "https://aegis-cloudfront-1.tubi.video/0c4bd880-76cc-4000-b9cb-8edabeb88daa/index.m3u8"
     ],
     "youtube_urls": [],
@@ -521,19 +534,6 @@
       "eng"
     ],
     "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "y9tmDdGOMUn9pB",
-    "name": "Garshom TV",
-    "stream_urls": [
-      "https://og2qd3aal7an-hls-live.5centscdn.com/garshomtv/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "mal"
-    ],
-    "country": "uk",
     "isGeoBlocked": false
   },
   {
@@ -705,6 +705,19 @@
       "kur"
     ],
     "country": "nl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Bvox2CnXHOsvHp",
+    "name": "JOS TV HD",
+    "stream_urls": [
+      "https://stream.berosat.live:19360/jos-tv-stream/jos-tv-stream.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "fra"
+    ],
+    "country": "cg",
     "isGeoBlocked": false
   },
   {
@@ -916,19 +929,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "RiifWdXjWLsqP4",
-    "name": "ORF III HD",
-    "stream_urls": [
-      "https://orf3.mdn.ors.at/orf/orf3/qxa/manifest.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "deu"
-    ],
-    "country": "at",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "T0s7Y4K2sYggX7",
     "name": "Orler TV",
     "stream_urls": [
@@ -1086,19 +1086,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "Am4Jb6RFmtHHBI",
-    "name": "Superscreen TV",
-    "stream_urls": [
-      "https://video1.getstreamhosting.com:1936/8398/8398/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "eng"
-    ],
-    "country": "ng",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "WSVwH48J9agVpk",
     "name": "TBN TV",
     "stream_urls": [
@@ -1252,30 +1239,6 @@
       "por"
     ],
     "country": "br",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "qAUF947AFuFdtH",
-    "name": "Vĩnh Long TV5",
-    "stream_urls": [
-      "https://live.fptplay53.net/epzsd1/vinhlong5_vhls.smil/chunklist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [],
-    "country": "vn",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "glNPCf2RbwoWmt",
-    "name": "zenith",
-    "stream_urls": [
-      "https://srv.zenith-tv.fr:8888/zenithwchl/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "fra"
-    ],
-    "country": "fr",
     "isGeoBlocked": false
   },
   {

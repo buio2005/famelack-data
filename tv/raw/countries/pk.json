@@ -43,7 +43,7 @@
     "name": "Aaj TV",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/WzB36LDF6uo"
+      "https://www.youtube-nocookie.com/embed/hdzrOU2GvmI"
     ],
     "languages": [
       "urd"
@@ -95,7 +95,7 @@
     "name": "Awaz Tv News",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/eg9OjcyfeLU"
+      "https://www.youtube-nocookie.com/embed/GoMr2zv1jsk"
     ],
     "languages": [
       "sd"
@@ -173,7 +173,7 @@
     "name": "Dawn News",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/3Mo88hzFewk"
+      "https://www.youtube-nocookie.com/embed/4C_dWCtpYdE"
     ],
     "languages": [
       "urd"
@@ -239,7 +239,7 @@
     "name": "Express News",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/4_elKyQ6S8c"
+      "https://www.youtube-nocookie.com/embed/6i2L8XcQE1o"
     ],
     "languages": [
       "urd"
@@ -278,10 +278,88 @@
     "name": "GNN",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/Pzv58lUgiVo"
+      "https://www.youtube-nocookie.com/embed/8mhPYTm3kEs"
     ],
     "languages": [
       "urd"
+    ],
+    "country": "pk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "TmKO7eJbzWWIRg",
+    "name": "God Stands TV Arabic",
+    "stream_urls": [
+      "https://online.godstands.tv:5443/WebRTCApp/streams/Arabic.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "ara"
+    ],
+    "country": "pk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "NcmIJl0QEk2Pmg",
+    "name": "God Stands TV Chinese",
+    "stream_urls": [
+      "https://online.godstands.tv:5443/WebRTCApp/streams/chineselive.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "zho"
+    ],
+    "country": "pk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "GzFin24wHyjwSS",
+    "name": "God Stands TV English",
+    "stream_urls": [
+      "https://online.godstands.tv:5443/WebRTCApp/streams/EnglishStreaming.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "eng"
+    ],
+    "country": "pk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "v05zRUt0wtjOm3",
+    "name": "God Stands TV Hindi",
+    "stream_urls": [
+      "https://online.godstands.tv:5443/WebRTCApp/streams/HindiStreaming.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "hin"
+    ],
+    "country": "pk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "gmAnyp0vi78tWo",
+    "name": "God Stands TV Punjabi",
+    "stream_urls": [
+      "https://online.godstands.tv:5443/WebRTCApp/streams/PunjabiStreaming.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "pan"
+    ],
+    "country": "pk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "udYM5OktKE92Dh",
+    "name": "God Stands TV Tagalog",
+    "stream_urls": [
+      "https://online.godstands.tv:5443/WebRTCApp/streams/Tagalog.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "tgl"
     ],
     "country": "pk",
     "isGeoBlocked": false
@@ -360,19 +438,6 @@
     "youtube_urls": [],
     "languages": [
       "eng"
-    ],
-    "country": "pk",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "yQPdPKGvAyjQ79",
-    "name": "Kids Land: Urdu",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/4tCZRZO84Yc"
-    ],
-    "languages": [
-      "urd"
     ],
     "country": "pk",
     "isGeoBlocked": false
@@ -462,7 +527,7 @@
       "https://streaming.madanichannel.tv/static/streaming-playlists/hls/b9790f10-cb0d-4e30-82bf-84a756234e58/master.m3u8"
     ],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/Iw26zsRxXLY"
+      "https://www.youtube-nocookie.com/embed/4YlLkIwGGWo"
     ],
     "languages": [
       "urd"
@@ -595,7 +660,7 @@
     "name": "Sindh TV News",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/IIhgcvF030E"
+      "https://www.youtube-nocookie.com/embed/e9AkGVTT8LE"
     ],
     "languages": [
       "sd"
@@ -634,8 +699,21 @@
     "name": "VSH NEWS",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/UnVVZqMCgWA"
+      "https://www.youtube-nocookie.com/embed/ymj5KIx9TBo"
     ],
+    "languages": [
+      "urd"
+    ],
+    "country": "pk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "LBVPGHScrFCXER",
+    "name": "Zindagi TV",
+    "stream_urls": [
+      "https://5ad386ff92705.streamlock.net/live_transcoder/ngrp:zindagitv.stream_all/chunklist.m3u8"
+    ],
+    "youtube_urls": [],
     "languages": [
       "urd"
     ],

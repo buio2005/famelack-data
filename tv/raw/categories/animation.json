@@ -154,32 +154,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "6huapTHn6MUgAQ",
-    "name": "Banijay Mr Bean Animé",
-    "stream_urls": [
-      "https://amg00627-amg00627c31-rakuten-fr-3991.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanfrcc-rakutenfr/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "fra"
-    ],
-    "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "fruS79xWb73ha2",
-    "name": "Barney the Dinosaur",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/p0Q5LwXmjUY"
-    ],
-    "languages": [
-      "eng"
-    ],
-    "country": "ca",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "3zs2UMlidApgeb",
     "name": "Blues TV",
     "stream_urls": [
@@ -379,12 +353,25 @@
     "name": "Fugget About It",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/4HD4A6b32ZU"
+      "https://www.youtube-nocookie.com/embed/EDb9_xfiZHQ"
     ],
     "languages": [
       "eng"
     ],
     "country": "ca",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "ntF6dI5Mg2NTKt",
+    "name": "Geekdot",
+    "stream_urls": [
+      "https://stream.ichibantv.com:3764/hybrid/play.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "por"
+    ],
+    "country": "br",
     "isGeoBlocked": false
   },
   {
@@ -509,7 +496,7 @@
     "name": "Kapitan Bomba",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/OfUHOCXXVxw"
+      "https://www.youtube-nocookie.com/embed/q7ctP7tnEBU"
     ],
     "languages": [
       "pol"
@@ -528,6 +515,28 @@
       "por"
     ],
     "country": "pt",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "manGa7XyZ2aB",
+    "name": "Man-ga",
+    "stream_urls": [
+      "https://c65b9e710bde44819015af98e72cd7ab.msvdn.net/live/S93572876/aILSQPYFY3pF/playlist.m3u"
+    ],
+    "youtube_urls": [],
+    "languages": ["ita"],
+    "country": "it",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "manGa8WvN4mC",
+    "name": "MAN-GA",
+    "stream_urls": [
+      "https://c65b9e710bde44819015af98e72cd7ab.msvdn.net/live/S93572876/aILSQPYFY3pF/playlist_video.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": ["ita"],
+    "country": "it",
     "isGeoBlocked": false
   },
   {
@@ -583,32 +592,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "suq6mp1ymDEDbo",
-    "name": "Mr. Bean Anime Italy",
-    "stream_urls": [
-      "https://amg00627-amg00627c29-rakuten-it-3989.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanitcc-rakutenit/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "ita"
-    ],
-    "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "kz39SbfxEaAf4G",
-    "name": "Mr. Bean Anime Spain",
-    "stream_urls": [
-      "https://amg00627-amg00627c30-rakuten-es-3990.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanescc-rakutenes/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
-    "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "nr7YB5evIv8hrR",
     "name": "Naruto",
     "stream_urls": [
@@ -622,10 +605,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "F7h50bZe1CVuSg",
-    "name": "NickOnline Feed 2",
+    "nanoid": "1JYYpqQgnjcE3u",
+    "name": "NickOnline",
     "stream_urls": [
-      "https://x1co.com.br:2083/hls/stream.m3u8"
+      "https://x1co.com.br:8443/hls/stream.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -688,19 +671,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "8LKXkhcjKmXHN8",
-    "name": "Rick and Morty",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/iiRNq1sxr0U"
-    ],
-    "languages": [
-      "eng"
-    ],
-    "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "P0LU27eSLAz1HY",
     "name": "Shout! Studios: Speed Racer",
     "stream_urls": [],
@@ -714,11 +684,24 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "e2QKMdwgfK4Vxo",
+    "name": "Simon Super Lapin",
+    "stream_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/0Nj__lUuYw8"
+    ],
+    "languages": [
+      "fra"
+    ],
+    "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "pApkFb67wcPTJl",
     "name": "Soviet Toons: Ну, погоди!",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/TfS3DD_ELc0"
+      "https://www.youtube-nocookie.com/embed/g-EfxLjV9WI"
     ],
     "languages": [
       "rus"
@@ -835,7 +818,7 @@
     "name": "Universal Jr: Team Mekbots",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/ilcJNw1SToA"
+      "https://www.youtube-nocookie.com/embed/UIau7ncawyc"
     ],
     "languages": [
       "eng"
