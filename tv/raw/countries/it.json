@@ -334,6 +334,19 @@
         "isGeoBlocked": false
     },
     {
+        "nanoid": "crcNewsQ1R2S",
+        "name": "CRC News",
+        "stream_urls": [
+            "https://flash2.xdevel.com/crctv/crctv/playlist.m3u8"
+        ],
+        "youtube_urls": [],
+        "languages": [
+            "ita"
+        ],
+        "country": "it",
+        "isGeoBlocked": false
+    },
+    {
         "nanoid": "xx78qyG0MBKpmg",
         "name": "Deejay TV",
         "stream_urls": [
@@ -1096,6 +1109,19 @@
         ],
         "youtube_urls": [],
         "languages": [],
+        "country": "it",
+        "isGeoBlocked": false
+    },
+    {
+        "nanoid": "radioMarteM9N0P",
+        "name": "Radio Marte Tv",
+        "stream_urls": [
+            "https://router.xdevel.com/video0s975753-750/stream/playlist.m3u8"
+        ],
+        "youtube_urls": [],
+        "languages": [
+            "ita"
+        ],
         "country": "it",
         "isGeoBlocked": false
     },
