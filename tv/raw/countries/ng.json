@@ -236,6 +236,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "HUxeirBEJ9XVlF",
+    "name": "News Central",
+    "stream_urls": [
+      "https://wf.newscentral.ng:8443/hls/stream.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "eng"
+    ],
+    "country": "ng",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "DGyLo10RdXeXNy",
     "name": "News Central TV",
     "stream_urls": [],
@@ -379,10 +392,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "xqNDe2nURDi4zM",
-    "name": "Wazobia Max TV Abuja",
+    "nanoid": "XBCn7LG1vDEDMn",
+    "name": "Wazobia Max TV Nigeria",
     "stream_urls": [
-      "https://wazobia.live:8333/channel/wmaxabuja.m3u8"
+      "https://wazobia.live:8333/channel/wmax.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -392,10 +405,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "XBCn7LG1vDEDMn",
-    "name": "Wazobia Max TV Nigeria",
+    "nanoid": "Uu8JpSpXEkB3Wk",
+    "name": "Wazobia Max TV Port Harcourt",
     "stream_urls": [
-      "https://wazobia.live:8333/channel/wmax.m3u8"
+      "https://wazobia.live:8333/channel/wmaxph.m3u8"
     ],
     "youtube_urls": [],
     "languages": [

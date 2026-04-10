@@ -1885,8 +1885,7 @@
     "name": "AWE Encore",
     "stream_urls": [
       "https://a-cdn.herringnetwork.com/affiliate/awee/playlist.m3u8",
-      "https://a-cdn.klowdtv.com/live1/awee/playlist.m3u8",
-      "https://aweencore-vizio.amagi.tv/playlist.m3u8"
+      "https://a-cdn.klowdtv.com/live1/awee/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -2566,6 +2565,19 @@
       "https://livestream.telvue.com/belmontmedia4/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8"
     ],
     "youtube_urls": [],
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "E04RKOUYWLxfud",
+    "name": "Bob Ross",
+    "stream_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/BvyJn8NRz1E"
+    ],
     "languages": [
       "eng"
     ],
@@ -3572,19 +3584,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "vae2fsqhQIbuJv",
-    "name": "Channel One",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/z-DF8MMO19Y"
-    ],
-    "languages": [
-      "fas"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "CZQIAk4EUWp6Ag",
     "name": "Charge!",
     "stream_urls": [
@@ -3753,7 +3752,6 @@
     "name": "Circle",
     "stream_urls": [
       "https://amg00432-circletvfast-amg00432c1-cineverse-us-1112.playouts.now.amagi.tv/playlist/amg00432-circletv-circletv-cineverseus/playlist.m3u8",
-      "https://circle-klowdtv.amagi.tv/playlist.m3u8",
       "https://circle-roku.amagi.tv/playlist.m3u8",
       "https://circle-samsung.amagi.tv/playlist.m3u8",
       "https://circle-vizio.amagi.tv/playlist.m3u8",
@@ -3924,7 +3922,6 @@
     "nanoid": "IKGLMXNjS6qTZj",
     "name": "CMC (California Music Channel)",
     "stream_urls": [
-      "https://cmc-cmctv-cineverse.amagi.tv/playlist.m3u8",
       "https://cmc-ono.amagi.tv/hls/amagi_hls_data_cmcAAAAAA-cmc-ono/CDN/playlist.m3u8",
       "https://hwlive.streamingmediahosting.com/14215-live/0_obd393sh/playlist.m3u8"
     ],
@@ -3941,6 +3938,19 @@
     "stream_urls": [],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/9NyxcX3rhQs"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "BMO0FRe0mBVXUu",
+    "name": "CoinVaultTV",
+    "stream_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/QLv1vrkXGhI"
     ],
     "languages": [
       "eng"
@@ -4206,6 +4216,7 @@
     "nanoid": "506BAi9ddP3YAU",
     "name": "CraftsyTV",
     "stream_urls": [
+      "https://d2lgb18e46c3by.cloudfront.net/playlist.m3u8",
       "https://linear-492.frequency.stream/dist/xumo/492/hls/master/playlist.m3u8"
     ],
     "youtube_urls": [],
@@ -4637,7 +4648,8 @@
     "nanoid": "4fRrTYUzIhzCTk",
     "name": "DC Council Channel",
     "stream_urls": [
-      "https://video.oct.dc.gov/out/u/15_12.m3u8"
+      "https://video.oct.dc.gov/out/u/15_12.m3u8",
+      "https://video.oct.dc.gov/out/u/DCC.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -5468,7 +5480,6 @@
     "stream_urls": [
       "https://amg00567-estrellamedia-estrellanews-distrotv-ddste.amagi.tv/playlist/amg00567-estrellamedia-estrellanews-distrotv/playlist.m3u8",
       "https://estrellanews-plex.amagi.tv/playlist.m3u8",
-      "https://estrellanews-roku.amagi.tv/playlist.m3u8",
       "https://estrellanews-samsung-us.amagi.tv/playlist.m3u8",
       "https://estrellanews-xumo.amagi.tv/playlist.m3u8",
       "https://estrellanews-glewed.amagi.tv/playlist.m3u8",
@@ -5488,7 +5499,6 @@
       "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00567-estrellamedia-estrellatv-distrotv/playlist.m3u8",
       "https://estrellatv-glewed.amagi.tv/playlist.m3u8",
       "https://estrellatv-plex.amagi.tv/playlist.m3u8",
-      "https://estrellatv-roku.amagi.tv/playlist.m3u8",
       "https://d1accqs1infy2u.cloudfront.net/EstrellaTV.m3u8",
       "https://estrellatv-xumo.amagi.tv/playlist.m3u8",
       "https://aegis-cloudfront-1.tubi.video/20bf77c0-dc60-46ae-8e87-c01cc7a836fc/playlist.m3u8"
@@ -6998,17 +7008,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "eJqdWh86h1CDSb",
-    "name": "Horror Machine",
-    "stream_urls": [
-      "https://naviofrequency-horrormachine-klowdtv.amagi.tv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [],
-    "country": "us",
-    "isGeoBlocked": true
-  },
-  {
     "nanoid": "1sfesoGa5PAdea",
     "name": "Hot Ones",
     "stream_urls": [
@@ -8172,7 +8171,7 @@
     "name": "Land Of The Lost",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/FGVYnV1NMis"
+      "https://www.youtube-nocookie.com/embed/JVkzANp8qyY"
     ],
     "languages": [
       "eng"
@@ -8631,6 +8630,19 @@
     ],
     "country": "us",
     "isGeoBlocked": true
+  },
+  {
+    "nanoid": "gXMXlgPuC7hEDD",
+    "name": "Living Faith TV",
+    "stream_urls": [
+      "https://cdn-unified-hls.streamspot.com/ingest1/0b5c0f18e9/playlist.m3u8?origin=1"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
   },
   {
     "nanoid": "zVgfO28kmeuXlu",
@@ -9218,6 +9230,19 @@
     "isGeoBlocked": true
   },
   {
+    "nanoid": "a5pCHJNR4Ar34s",
+    "name": "Mobile County Public Schools TV Network (MCPSS)",
+    "stream_urls": [
+      "https://5b200f5268ceb.streamlock.net/MCPSS/MCPSS247.smil/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "uDCTATBZA7YvEl",
     "name": "Modern Marvels Presented by History",
     "stream_urls": [
@@ -9487,8 +9512,7 @@
     "nanoid": "D0c4Jvigf5dKNp",
     "name": "Mystery Science Theater 3000",
     "stream_urls": [
-      "https://d1c73nj8qxp55a.cloudfront.net/Mystery_Science_Theater_3000.m3u8",
-      "https://mst3k-vizio.amagi.tv/playlist.m3u8"
+      "https://d1c73nj8qxp55a.cloudfront.net/Mystery_Science_Theater_3000.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -9509,19 +9533,6 @@
     ],
     "country": "us",
     "isGeoBlocked": false
-  },
-  {
-    "nanoid": "W4v87Ox2Tvkf65",
-    "name": "Mystery TV",
-    "stream_urls": [
-      "https://aenetworks-mysterytv-rakuten.amagi.tv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
-    "isGeoBlocked": true
   },
   {
     "nanoid": "mGAeSdzImL4bga",
@@ -9546,20 +9557,6 @@
     "languages": [],
     "country": "us",
     "isGeoBlocked": true
-  },
-  {
-    "nanoid": "OO4sfDrtpxEZzI",
-    "name": "MyTime Movie Network",
-    "stream_urls": [
-      "https://mytime-tcl.amagi.tv/playlist.m3u8",
-      "https://mytimeuk-rakuten-samsung.amagi.tv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
   },
   {
     "nanoid": "nr7YB5evIv8hrR",
@@ -10049,7 +10046,7 @@
       "https://xumo-drct-nbcnn-ir8ze.fast.nbcuni.com/live/master.m3u8"
     ],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/0N-UNhOKbNw"
+      "https://www.youtube-nocookie.com/embed/mXIplJsnwjU"
     ],
     "languages": [
       "eng"
@@ -10220,10 +10217,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "yJ6qb835TTUKh1",
-    "name": "News12 Bronx",
+    "nanoid": "EtiKHivASIxm20",
+    "name": "News12 Conneticut",
     "stream_urls": [
-      "https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12XH_A1/index_new.m3u8?omap=https"
+      "https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12CH_FFLD_MILF_A1/index_new.m3u8?omap=https"
     ],
     "youtube_urls": [],
     "languages": [
@@ -10233,10 +10230,10 @@
     "isGeoBlocked": true
   },
   {
-    "nanoid": "EmHOTWEORpvSsZ",
-    "name": "News12 Brooklyn",
+    "nanoid": "kStaIms86sY53l",
+    "name": "News12 Hudson Valley",
     "stream_urls": [
-      "https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12KH_A1/index_new.m3u8?omap=https"
+      "https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12HH_A1/index_new.m3u8?omap=https"
     ],
     "youtube_urls": [],
     "languages": [
@@ -10246,10 +10243,10 @@
     "isGeoBlocked": true
   },
   {
-    "nanoid": "dr5pYcUriuuOto",
-    "name": "News12 Long Island",
+    "nanoid": "q8agflF5shjdE5",
+    "name": "News12 Westchester",
     "stream_urls": [
-      "https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12LH_WEST_A1/index_new.m3u8?omap=https"
+      "https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12WH_A1/index_new.m3u8?omap=https"
     ],
     "youtube_urls": [],
     "languages": [
@@ -10333,7 +10330,6 @@
     "nanoid": "jfKOQiiLREewGY",
     "name": "NHL",
     "stream_urls": [
-      "https://nhl-firetv.amagi.tv/playlist.m3u8",
       "https://aegis-cloudfront-1.tubi.video/1f4cbb33-cb23-40ab-b54b-2965cc551b32/playlist.m3u8"
     ],
     "youtube_urls": [],
@@ -10541,7 +10537,6 @@
     "nanoid": "NiTjGp1PXehjKc",
     "name": "OAN",
     "stream_urls": [
-      "https://oneamericanews-vizio.amagi.tv/playlist.m3u8",
       "https://a-cdn.klowdtv.com/live1/oan_720p/playlist.m3u8"
     ],
     "youtube_urls": [],
@@ -11984,8 +11979,7 @@
     "nanoid": "picLEx37kLXuuG",
     "name": "Reuters TV",
     "stream_urls": [
-      "https://d5bxknkoxytmb.cloudfront.net/playlist/amg00453-reuters-reuters-samsunggb/playlist.m3u8",
-      "https://amg00453-reuters-amg00453c1-xumo-us-2073.playouts.now.amagi.tv/reuters-reuters-hls/playlist.m3u8"
+      "https://d5bxknkoxytmb.cloudfront.net/playlist/amg00453-reuters-reuters-samsunggb/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -12982,6 +12976,31 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "mdPTgHz6rRsNar",
+    "name": "Sound View Community Media Education",
+    "stream_urls": [
+      "https://livestream.telvue.com/soundviewcmt2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8",
+      "https://livestream.telvue.com/soundviewcmt1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "2wces4HGgWFjjC",
+    "name": "Sound View Community Media Government",
+    "stream_urls": [
+      "https://livestream.telvue.com/soundviewcmt3/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "gDodl4p4XtqZfW",
     "name": "Speed Sport 1",
     "stream_urls": [
@@ -13235,17 +13254,6 @@
     "isGeoBlocked": true
   },
   {
-    "nanoid": "8Bzu7mecu34r20",
-    "name": "SURFER TV",
-    "stream_urls": [
-      "https://dgwfm675921lp.cloudfront.net/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "Equ2Sdy5orU6N9",
     "name": "Surfing+",
     "stream_urls": [
@@ -13379,19 +13387,6 @@
     "name": "TBN",
     "stream_urls": [
       "https://livecdn.use1-0004.jwplive.com/live/sites/Yal8cmyO/media/fCGf6ROk/live.isml/.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "APbUyl1xqd0rB4",
-    "name": "TBN Armenia",
-    "stream_urls": [
-      "https://164475.gvideo.io/mpegts/164475_650646/master_mpegts.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -14164,7 +14159,7 @@
     "name": "Times Now World",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/RpG1fP8ryl4"
+      "https://www.youtube-nocookie.com/embed/_ywclOh92lA"
     ],
     "languages": [
       "eng"
@@ -15334,9 +15329,7 @@
       "https://amg00457-amg00457c1-stirr-us-8143.playouts.now.amagi.tv/playlist.m3u8",
       "https://usatodaynews-xumo.amagi.tv/playlist.m3u8"
     ],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/VBtg_vVhyQM"
-    ],
+    "youtube_urls": [],
     "languages": [
       "eng"
     ],
@@ -15560,6 +15553,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "Kz6VoRZeElNADR",
+    "name": "Vice News",
+    "stream_urls": [
+      "https://vicetv-vicefast2-firetv.amagi.tv/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "fOwZvfkhUzyVje",
     "name": "Vice TV",
     "stream_urls": [
@@ -15608,6 +15614,19 @@
     ],
     "country": "us",
     "isGeoBlocked": false
+  },
+  {
+    "nanoid": "5IdzmnTlAJcm8E",
+    "name": "Vision Global TV",
+    "stream_urls": [
+      "https://vdopanel.jlahozconsulting.com:3407/hybrid/play.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "us",
+    "isGeoBlocked": true
   },
   {
     "nanoid": "xPdlOCSfl9pFlc",
@@ -16618,6 +16637,19 @@
     "stream_urls": [
       "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-wnyw-lgus/playlist.m3u8",
       "https://aegis-cloudfront-1.tubi.video/36a435c5-f70a-411a-b237-e32738c486a8/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "F2xwfHx05Hn1Zy",
+    "name": "Wolcott Governmental TV (Wolcott CT)",
+    "stream_urls": [
+      "https://5a5c57d042315.streamlock.net/live11704001/ngrp:government_all/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [

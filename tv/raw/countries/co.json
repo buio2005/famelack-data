@@ -1,5 +1,18 @@
 [
   {
+    "nanoid": "WMJjDsAiyYAdS8",
+    "name": "ATN Televisión",
+    "stream_urls": [
+      "https://streaming5.globalhostla.com/rtplive/atntelevision/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "co",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "DhFWPxFh4aKhyC",
     "name": "Avivamiento TV",
     "stream_urls": [
@@ -359,19 +372,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "02mPmZWllvm8GE",
-    "name": "Kalu TV",
-    "stream_urls": [
-      "https://tv.kaludecolombia.com/memfs/d71c0104-4752-4690-bdbf-19aa849da6c4.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
-    "country": "co",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "nDbtRavjpP3dpF",
     "name": "La Cheverisima Radio TV",
     "stream_urls": [
@@ -424,10 +424,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "Ip9MDCdkimyNqv",
-    "name": "Luna Estéreo 106.4 FM",
+    "nanoid": "2RNOyGKRiGPXuw",
+    "name": "MasMusica FM",
     "stream_urls": [
-      "https://servervideo.intermediacolombia.com:19360/kychbbfhdz/kychbbfhdz.m3u8"
+      "https://movil.ejeserver.com/live/masmusica.m3u8",
+      "https://video.ejeserver.com/live/masmusica.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -793,19 +794,6 @@
     "name": "UMC TV",
     "stream_urls": [
       "https://streaming5.globalhostla.com/rtplive/unamirad/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
-    "country": "co",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "m6ndbgJiTqW3UU",
-    "name": "Zoom",
-    "stream_urls": [
-      "https://canalzoom.smoothcloud.co:3027/live/canalzoombr1live.m3u8"
     ],
     "youtube_urls": [],
     "languages": [

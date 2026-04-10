@@ -314,6 +314,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "WscC7Swxpk8hjp",
+    "name": "Congreso del Perú en Vivo",
+    "stream_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/asqCwtYnJwU"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "country": "pe",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "5ymwJKVoGafdCH",
     "name": "COStv",
     "stream_urls": [
@@ -408,7 +421,8 @@
     "nanoid": "4fRrTYUzIhzCTk",
     "name": "DC Council Channel",
     "stream_urls": [
-      "https://video.oct.dc.gov/out/u/15_12.m3u8"
+      "https://video.oct.dc.gov/out/u/15_12.m3u8",
+      "https://video.oct.dc.gov/out/u/DCC.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -1061,7 +1075,7 @@
     "name": "Rio TV Câmara",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/Ewo9_k_pWNw"
+      "https://www.youtube-nocookie.com/embed/S5NsS-6rqVI"
     ],
     "languages": [
       "por"
@@ -1229,11 +1243,24 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "ztNrNzCLndWIQ7",
+    "name": "The Parliamentary Channel",
+    "stream_urls": [
+      "https://zns-edge1.streamcomedia.cloud/abr_parliamentarychannel/abr-parliament_streams/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "eng"
+    ],
+    "country": "bs",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "qIar6axvqjptwG",
     "name": "TV Assembleia Minas Gerais",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/n6lYgB8HGoo"
+      "https://www.youtube-nocookie.com/embed/f5pZpGRRZJo"
     ],
     "languages": [
       "por"
@@ -1450,6 +1477,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "F2xwfHx05Hn1Zy",
+    "name": "Wolcott Governmental TV (Wolcott CT)",
+    "stream_urls": [
+      "https://5a5c57d042315.streamlock.net/live11704001/ngrp:government_all/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "mAWCWxuOurkpj4",
     "name": "YouDotGov",
     "stream_urls": [
@@ -1499,19 +1539,6 @@
       "ell"
     ],
     "country": "gr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "jdtDDFx09GQYAn",
-    "name": "Дума ТВ",
-    "stream_urls": [
-      "https://dumatv.iptv2022.com/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
     "isGeoBlocked": false
   }
 ]

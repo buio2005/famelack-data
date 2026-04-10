@@ -1,5 +1,18 @@
 [
   {
+    "nanoid": "jhyn7Gf0kasCsu",
+    "name": "Al-Iman TV",
+    "stream_urls": [
+      "https://tv.aliman.id/aliman/live.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "ind"
+    ],
+    "country": "id",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "nSDUTdlv9S20hO",
     "name": "Alwafa Tarim TV (Am Media)",
     "stream_urls": [
@@ -99,6 +112,19 @@
     "youtube_urls": [],
     "languages": [
       "ind"
+    ],
+    "country": "id",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "uJBF1tDsL0la1J",
+    "name": "BeritaSatu English",
+    "stream_urls": [
+      "https://beritasatu.secureswiftcontent.com/han/beritasatu/bsatu10008/srtoutput/manifest.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "eng"
     ],
     "country": "id",
     "isGeoBlocked": false
@@ -273,19 +299,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "Eg0R1qmDu85lEs",
-    "name": "Efarina TV",
-    "stream_urls": [
-      "https://live.efarinatv.com/hls/bgtaufikganteng.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "ind"
-    ],
-    "country": "id",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "XgBmwiqwEZak5t",
     "name": "Elshinta TV",
     "stream_urls": [
@@ -377,6 +390,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "0xr9dDKplwszmy",
+    "name": "Kids TV",
+    "stream_urls": [
+      "https://origin5.mediacdn.ru/live/kidstv/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "ind"
+    ],
+    "country": "id",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "1TkiIu9l9A50xr",
     "name": "KOMPASTV",
     "stream_urls": [],
@@ -442,12 +468,38 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "ImH0HN1MdNlCn0",
+    "name": "Madu TV",
+    "stream_urls": [
+      "https://re1.siar.us/madutv/hd720/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "ind"
+    ],
+    "country": "id",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "ayjkn7ZDTaMfjh",
     "name": "Magna Channel",
     "stream_urls": [
       "https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8"
     ],
     "youtube_urls": [],
+    "languages": [
+      "ind"
+    ],
+    "country": "id",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "zrn3dK1AY8AcF8",
+    "name": "Marhaban TV",
+    "stream_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/e4M8D8KzFkw"
+    ],
     "languages": [
       "ind"
     ],
@@ -746,7 +798,7 @@
     "name": "Serambinews",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/s3orBXnkQmo"
+      "https://www.youtube-nocookie.com/embed/Qtt4xxSBJ04"
     ],
     "languages": [
       "ind"
@@ -1158,19 +1210,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "UZtbdlM4AtLRh4",
-    "name": "TVRI Kalimantan Timur",
-    "stream_urls": [
-      "https://ott-balancer.tvri.go.id/live/eds/Kaltim/hls/Kaltim.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "ind"
-    ],
-    "country": "id",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "aKhPxO0qIJnOmB",
     "name": "TVRI Lampung",
     "stream_urls": [
@@ -1353,6 +1392,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "OiwSD38h5Rq2nc",
+    "name": "TVRI Sumatera Selatan",
+    "stream_urls": [
+      "https://ott-balancer.tvri.go.id/live/eds/Sumsel/hls/Sumsel.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "ind"
+    ],
+    "country": "id",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "m5b5e8rYhGOpbt",
     "name": "TVRI West Papua",
     "stream_urls": [
@@ -1383,6 +1435,19 @@
     "name": "TVRI Yogyakarta",
     "stream_urls": [
       "https://ott-balancer.tvri.go.id/live/eds/Jogjakarta/hls/Jogjakarta.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "ind"
+    ],
+    "country": "id",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "g5xZd9yme6tjFT",
+    "name": "U Channel",
+    "stream_urls": [
+      "https://ams.juraganstreaming.com:5443/LiveApp/streams/uchannel1.m3u8"
     ],
     "youtube_urls": [],
     "languages": [

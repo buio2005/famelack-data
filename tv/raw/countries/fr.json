@@ -436,23 +436,21 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "4TFbQdQIR6USV5",
-    "name": "DBM TV",
-    "stream_urls": [
-      "https://dbmtv.vedge.infomaniak.com/livecast/dbmtv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "fra"
-    ],
-    "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "WxYEpzQmBTG6Du",
     "name": "Drive TV",
     "stream_urls": [
       "https://amg01796-amg01796c2-rakuten-uk-3887.playouts.now.amagi.tv/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [],
+    "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "x74kBxlCSA3rr8",
+    "name": "Enquetes de Choc",
+    "stream_urls": [
+      "https://fastmedia-enquetesdechoc-rakuten.amagi.tv/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [],
@@ -1257,6 +1255,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "kVuXOdBXr2x3dW",
+    "name": "Rakuten TV Alerte Cobra",
+    "stream_urls": [
+      "https://alarm-for-cobra-rakuten-tv-fr.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6477/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [],
+    "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "9PtGiKgkdbGXR3",
     "name": "Rakuten TV Films Action",
     "stream_urls": [
@@ -1294,6 +1303,17 @@
     "name": "Rakuten TV Films Famille",
     "stream_urls": [
       "https://b3088e48baab418a9a95dc8110a1b736.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6206/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [],
+    "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "iLva87P8XGqzZK",
+    "name": "Rakuten TV Films Romance",
+    "stream_urls": [
+      "https://9affb6144c4c4cdca25d58908cb55a64.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6195/master.m3u8"
     ],
     "youtube_urls": [],
     "languages": [],
@@ -1372,23 +1392,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "e2QKMdwgfK4Vxo",
-    "name": "Simon Super Lapin",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/5AaJR6CSIbE"
-    ],
-    "languages": [
-      "fra"
-    ],
-    "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "f1Z2REVZIJr4vr",
     "name": "Sony One Blacklist",
     "stream_urls": [
-      "https://06cb85ad6ccb4a6b97f561e62d16ad3f.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-822-FR-SONYONETHEBLACKLIST-LG_FR/playlist.m3u8"
+      "https://06cb85ad6ccb4a6b97f561e62d16ad3f.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-822-FR-SONYONETHEBLACKLIST-LG_FR/playlist.m3u8",
+      "https://d1x87j1jmcypab.cloudfront.net/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -1559,6 +1567,7 @@
     "nanoid": "KqqtNJzLvYMM8F",
     "name": "Trace Sports Stars",
     "stream_urls": [
+      "https://tracesportstars-klowdtv.amagi.tv/playlist.m3u8",
       "https://amg01131-tracetv-amg01131c2-stirr-us-4392.playouts.now.amagi.tv/playlist.m3u8"
     ],
     "youtube_urls": [],

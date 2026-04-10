@@ -167,6 +167,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "fruS79xWb73ha2",
+    "name": "Barney the Dinosaur",
+    "stream_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/p0Q5LwXmjUY"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "country": "ca",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "3zs2UMlidApgeb",
     "name": "Blues TV",
     "stream_urls": [
@@ -375,19 +388,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "ntF6dI5Mg2NTKt",
-    "name": "Geekdot",
-    "stream_urls": [
-      "https://stream.ichibantv.com:3764/hybrid/play.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "por"
-    ],
-    "country": "br",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "BHktLaXb4NGD72",
     "name": "Gong",
     "stream_urls": [
@@ -476,6 +476,19 @@
       "eng"
     ],
     "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "1ov4rKCt7xdyVW",
+    "name": "Japanim TV",
+    "stream_urls": [
+      "https://foxkidstv.be:3369/stream/play.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "fra"
+    ],
+    "country": "be",
     "isGeoBlocked": false
   },
   {
@@ -609,6 +622,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "F7h50bZe1CVuSg",
+    "name": "NickOnline Feed 2",
+    "stream_urls": [
+      "https://x1co.com.br:2083/hls/stream.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "por"
+    ],
+    "country": "br",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "B7oUuXqbWsfBhP",
     "name": "OGGY",
     "stream_urls": [],
@@ -685,19 +711,6 @@
       "eng"
     ],
     "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "e2QKMdwgfK4Vxo",
-    "name": "Simon Super Lapin",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/5AaJR6CSIbE"
-    ],
-    "languages": [
-      "fra"
-    ],
-    "country": "fr",
     "isGeoBlocked": false
   },
   {
@@ -861,7 +874,8 @@
     "nanoid": "gJChs4RXWcqghm",
     "name": "Мультимания",
     "stream_urls": [
-      "https://sirius.greenhosting.ru/MultimaniaRu/tracks-v1a1/mono.m3u8"
+      "https://sirius.greenhosting.ru/MultimaniaRu/tracks-v1a1/mono.m3u8",
+      "https://sirius.greenhosting.ru/MultimaniaRu/video.m3u8"
     ],
     "youtube_urls": [],
     "languages": [

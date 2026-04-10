@@ -847,6 +847,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "1ov4rKCt7xdyVW",
+    "name": "Japanim TV",
+    "stream_urls": [
+      "https://foxkidstv.be:3369/stream/play.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "fra"
+    ],
+    "country": "be",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "EDJsRoJArkwgcL",
     "name": "Jetix",
     "stream_urls": [],
@@ -910,6 +923,19 @@
       "urd"
     ],
     "country": "pk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "0xr9dDKplwszmy",
+    "name": "Kids TV",
+    "stream_urls": [
+      "https://origin5.mediacdn.ru/live/kidstv/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "ind"
+    ],
+    "country": "id",
     "isGeoBlocked": false
   },
   {
@@ -1174,6 +1200,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "F7h50bZe1CVuSg",
+    "name": "NickOnline Feed 2",
+    "stream_urls": [
+      "https://x1co.com.br:2083/hls/stream.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "por"
+    ],
+    "country": "br",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "eyL4xvR1sE1phq",
     "name": "Nicktoons",
     "stream_urls": [],
@@ -1334,7 +1373,7 @@
     "name": "Peppa Pig Brasil",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/XgcsqwWtOmw"
+      "https://www.youtube-nocookie.com/embed/19SPVvIXYNE"
     ],
     "languages": [
       "por"
@@ -1399,7 +1438,7 @@
     "name": "Pororo 뽀로로",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/MCAD7wsu4NQ"
+      "https://www.youtube-nocookie.com/embed/-D4kUwBeZnY"
     ],
     "languages": [
       "kor"
@@ -1568,7 +1607,7 @@
     "name": "Super Simple: Bedtime Songs",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/JjVBBUL6hr4"
+      "https://www.youtube-nocookie.com/embed/EmiDnQH7ojI"
     ],
     "languages": [
       "eng"
@@ -1581,7 +1620,7 @@
     "name": "Super Simple: Noodle and Pals",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/4SUZEIrirqU"
+      "https://www.youtube-nocookie.com/embed/gbIL7YOgROE"
     ],
     "languages": [
       "eng"
@@ -1594,7 +1633,7 @@
     "name": "Super Simple: Simple Songs",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/532H4zx8t8E"
+      "https://www.youtube-nocookie.com/embed/-2-Pr7_YRQI"
     ],
     "languages": [
       "eng"
@@ -1832,7 +1871,7 @@
     "name": "WildBrain Çocuklar: Çilekli Kurabiye",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/EEAUx4Afff8"
+      "https://www.youtube-nocookie.com/embed/sTFtktqU_eY"
     ],
     "languages": [
       "tur"
@@ -1932,19 +1971,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "5tnyJyKLhuRZfm",
-    "name": "ZB Cartoon",
-    "stream_urls": [
-      "https://server.zillarbarta.com/zbcatun/video.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "ben"
-    ],
-    "country": "in",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "kz1QrxbntvR2ns",
     "name": "Zig & Sharko",
     "stream_urls": [],
@@ -1974,7 +2000,8 @@
     "nanoid": "gJChs4RXWcqghm",
     "name": "Мультимания",
     "stream_urls": [
-      "https://sirius.greenhosting.ru/MultimaniaRu/tracks-v1a1/mono.m3u8"
+      "https://sirius.greenhosting.ru/MultimaniaRu/tracks-v1a1/mono.m3u8",
+      "https://sirius.greenhosting.ru/MultimaniaRu/video.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -2001,6 +2028,19 @@
     "name": "Радость моя",
     "stream_urls": [
       "https://radm.mediacdn.ru/cdn/radost/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "XpAUv3L81CCuvw",
+    "name": "Смайл ТВ",
+    "stream_urls": [
+      "https://5f05e059699ae.streamlock.net/WEB_Smilik/ngrp:Smilik.stream-adaptive/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -2054,7 +2094,7 @@
     "name": "小猪佩奇 中文官方 - Peppa Pig",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/qGtRRd1kPgM"
+      "https://www.youtube-nocookie.com/embed/HE4uTPdygvo"
     ],
     "languages": [
       "zho"
