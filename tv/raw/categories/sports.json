@@ -215,8 +215,7 @@
     "name": "DD Sports SD",
     "stream_urls": [
       "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8",
-      "https://cdn-6.pishow.tv/live/13/master.m3u8",
-      "https://mumt02.tangotv.in/DDSPORTS/index.m3u8"
+      "https://cdn-6.pishow.tv/live/13/master.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -584,6 +583,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "1eV4O1qgcFehgA",
+    "name": "LaLiga Hypermotion",
+    "stream_urls": [
+      "https://latam-cache-sv2-cdn.latamlive.net/LA_LIGA_SMARTBANK_IP_ENC_LIVE/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "eng"
+    ],
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "H7YKUTmTDg1xzR",
     "name": "M-Net Sport",
     "stream_urls": [
@@ -650,6 +662,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "Da460ZcoL5SJKT",
+    "name": "Multivisión Sports",
+    "stream_urls": [
+      "https://stream.digitalgt.com:3605/live/multivisionsportslive.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "gt",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "RcmUVMpfqvK186",
     "name": "NBA TV",
     "stream_urls": [
@@ -703,6 +728,19 @@
       "eng"
     ],
     "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "g2M151IR177r4N",
+    "name": "Nudge Sports Channel",
+    "stream_urls": [
+      "https://streams.comclark.com/live_input/nudge_sports/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "eng"
+    ],
+    "country": "ph",
     "isGeoBlocked": false
   },
   {
@@ -976,6 +1014,7 @@
     "name": "SportsGrid",
     "stream_urls": [
       "https://amg00315-sportsgrid-firetv.amagi.tv/playlist.m3u8",
+      "https://sportsgrid-plex.amagi.tv/playlist.m3u8",
       "https://sportsgrid-samsungus.amagi.tv/playlist.m3u8",
       "https://sportsgrid-klowdtv.amagi.tv/playlist.m3u8"
     ],
@@ -1409,7 +1448,7 @@
     "name": "WWE Vault",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/yqYTyztFSw8"
+      "https://www.youtube-nocookie.com/embed/yRc2z0F_8uE"
     ],
     "languages": [
       "eng"

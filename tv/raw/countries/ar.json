@@ -195,19 +195,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "HiSqdLo7Vz02nV",
-    "name": "Canal 3 Las Heras",
-    "stream_urls": [
-      "https://stream.arcast.com.ar/canal3/canal3/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
-    "country": "ar",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "D3rtXC7Gev4etZ",
     "name": "Canal 4 Posadas",
     "stream_urls": [
@@ -260,11 +247,24 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "Lp6abhRcVXYInw",
+    "name": "Canal 5 TV Chepes",
+    "stream_urls": [
+      "https://videostream.shockmedia.com.ar:19360/canal5alfatvchepes/canal5alfatvchepes.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "ar",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "IMtD1PHBND4aSz",
     "name": "Canal 6 ERTV",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/mqJrMzow6_k"
+      "https://www.youtube-nocookie.com/embed/N4dZ2sAp_OA"
     ],
     "languages": [
       "spa"
@@ -315,7 +315,6 @@
     "nanoid": "WYgIM57T6cgvaF",
     "name": "Canal 7 Salta",
     "stream_urls": [
-      "https://vivo.solumedia.com:19360/cooperativa/cooperativa.m3u8",
       "https://vivo.solumedia.com:19360/canal7salta/canal7salta.m3u8"
     ],
     "youtube_urls": [],
@@ -343,7 +342,7 @@
     "name": "Canal 8 San Juan",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/q1VQ4q-ysRQ"
+      "https://www.youtube-nocookie.com/embed/VnV59f8Fzdk"
     ],
     "languages": [
       "spa"
@@ -443,14 +442,24 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "IKwTslDp6GIv1l",
-    "name": "Canal 26",
+    "nanoid": "O7iLCv0ja7EK6w",
+    "name": "Canal 22",
     "stream_urls": [
-      "https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8",
-      "https://stream-gtlc.telecentro.net.ar/hls/canal26hls/0/playlist.m3u8"
+      "https://5f700d5b2c46f.streamlock.net/canal22/canal22/playlist.m3u8"
     ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "ar",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "EBJnvOws8NXMUv",
+    "name": "Canal 26",
+    "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/2e-WbFXXbvQ"
+      "https://www.youtube-nocookie.com/embed/F0jLucQgsig"
     ],
     "languages": [
       "spa"
@@ -543,7 +552,7 @@
       "https://unlimited1-us.dps.live/perfiltv/perfiltv.smil/playlist.m3u8"
     ],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/tytTT629brE"
+      "https://www.youtube-nocookie.com/embed/EYsBtcmFz4s"
     ],
     "languages": [
       "spa"
@@ -604,36 +613,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "TyUx4dR3i3hPtN",
-    "name": "Celta TV",
-    "stream_urls": [
-      "https://vivo.solumedia.com:19360/celta/celta.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
-    "country": "ar",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "YK4jerPW8Ia03w",
     "name": "Chaco TV",
     "stream_urls": [
       "https://wowzasrv.chaco.gov.ar/Streamtv/chacotv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
-    "country": "ar",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "OpvFhpo06aVAeg",
-    "name": "Ciudad Magazine",
-    "stream_urls": [
-      "https://live-01-07-ciudad.vodgc.net/live-01-07-ciudad.vodgc.net/index.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -708,6 +691,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "uvdbgKYfuDPGUL",
+    "name": "El Observador 107.9",
+    "stream_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/kQ48d0o1OkI"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "country": "ar",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "GdDjRTp2cOF0FH",
     "name": "El Ocho",
     "stream_urls": [],
@@ -766,6 +762,19 @@
       "https://livetrx01.vodgc.net/eltrecetv/index.m3u8"
     ],
     "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "ar",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "rvSLmYJvnwZ691",
+    "name": "El Tres TV",
+    "stream_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/m3eeGySG7fI"
+    ],
     "languages": [
       "spa"
     ],
@@ -967,19 +976,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "YZNJQxNPpbe4vn",
-    "name": "Radio Realpolitik",
-    "stream_urls": [
-      "https://vivo.solumedia.com:19360/realpolitik/realpolitik.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
-    "country": "ar",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "DGW7X316G3HOtG",
     "name": "Radio Sublime Gracia TV",
     "stream_urls": [
@@ -993,10 +989,49 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "jl6Vf7sjeIr2pi",
+    "name": "Radio TV Neuquén",
+    "stream_urls": [
+      "https://media.neuquen.gov.ar/rtn/television/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "ar",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "m0PY7A5wSbXayY",
     "name": "Radio Yguazú TV",
     "stream_urls": [
       "https://live.enhdtv.com:8081/radioiguazutv/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "ar",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Wqadc2o7wMWvHG",
+    "name": "RTN (Neuquén)",
+    "stream_urls": [
+      "https://media.neuquen.gov.ar/rtn/television/media.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "ar",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "4D71cx5fvZCZ53",
+    "name": "San Pedro TV",
+    "stream_urls": [
+      "https://iptv.ixfo.com.ar:30443/live/sanpedrotv/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -1084,19 +1119,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "C4INN3f93tsfyG",
-    "name": "Televisión Pública",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/zpxyq7MTbMU"
-    ],
-    "languages": [
-      "spa"
-    ],
-    "country": "ar",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "xRJ5PYrL3SOh4P",
     "name": "TN Todo Noticias",
     "stream_urls": [],
@@ -1163,6 +1185,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "HowIZnmgVTXqy2",
+    "name": "Uniteve",
+    "stream_urls": [
+      "https://vivo.solumedia.com:19360/uniteve/uniteve.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "ar",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "BCglO22FLrAJM4",
     "name": "Urban Mix",
     "stream_urls": [
@@ -1180,7 +1215,7 @@
     "name": "Urbana Play 104.3 FM",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/fHr8ca2oGSw"
+      "https://www.youtube-nocookie.com/embed/q94_nYj3Wcs"
     ],
     "languages": [
       "spa"

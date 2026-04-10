@@ -17,7 +17,7 @@
     "name": "Asahi: Documentary",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/fsQlzxDm9mw"
+      "https://www.youtube-nocookie.com/embed/XsjNrHnoZow"
     ],
     "languages": [
       "jpn"
@@ -161,6 +161,19 @@
       "zho"
     ],
     "country": "cn",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "itmATVZa5Ggr1u",
+    "name": "Click TV (Coronel)",
+    "stream_urls": [
+      "https://v2.tustreaming.cl/clicktv/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "cl",
     "isGeoBlocked": false
   },
   {
@@ -353,6 +366,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "eHVFNwpYsplsa2",
+    "name": "History Hit",
+    "stream_urls": [
+      "https://lds-timeline-plex.amagi.tv/playlist.m3u8",
+      "https://amg00426-lds-amg00426c2-samsung-ph-4623.playouts.now.amagi.tv/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "eng"
+    ],
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "aLFPGwa8aYFwNo",
     "name": "History TV18 HD",
     "stream_urls": [
@@ -397,6 +424,7 @@
     "nanoid": "aQ7FlLoPCA66dw",
     "name": "INWILD",
     "stream_urls": [
+      "https://amg00861-amg00861c7-firetv-us-4725.playouts.now.amagi.tv/playlist.m3u8",
       "https://amg00861-amg00861c7-stirr-us-8227.playouts.now.amagi.tv/playlist.m3u8"
     ],
     "youtube_urls": [],
@@ -417,6 +445,19 @@
       "eng"
     ],
     "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "5uo7BGlCPn5nST",
+    "name": "Love Pets",
+    "stream_urls": [
+      "https://d31r8y66tn175.cloudfront.net/Love_Pets.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "eng"
+    ],
+    "country": "ca",
     "isGeoBlocked": false
   },
   {
@@ -472,13 +513,29 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "kc1rOesWp3ooeg",
-    "name": "NatureTime",
+    "nanoid": "lw6jSScbMN0yre",
+    "name": "Nature Time France",
     "stream_urls": [
-      "https://amg00090-blueantmedia-naturetime-samsungse-axgcn.amagi.tv/playlist/amg00090-blueantmedia-naturetime-samsungse/playlist.m3u8"
+      "https://bamusa-naturetime-emea-fra-rakuten.amagi.tv/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
+      "fra"
+    ],
+    "country": "ca",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "kc1rOesWp3ooeg",
+    "name": "NatureTime",
+    "stream_urls": [
+      "https://amg00090-blueantllc-lovenatureau-samsungnz-r3iaz.amagi.tv/playlist/amg00090-blueantllc-lovenatureau-samsungnz/playlist.m3u8",
+      "https://amg00090-blueantmedia-naturetime-samsungse-axgcn.amagi.tv/playlist/amg00090-blueantmedia-naturetime-samsungse/playlist.m3u8",
+      "https://amg00090-amgnaturetimeemea-rakuten.amagi.tv/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "eng",
       "spa"
     ],
     "country": "ca",

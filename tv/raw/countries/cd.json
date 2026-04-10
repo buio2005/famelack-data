@@ -1,9 +1,22 @@
 [
   {
-    "nanoid": "NpgNIT1Vg8Pkxb",
-    "name": "Baraka Television",
+    "nanoid": "XT7eoy2OYibIED",
+    "name": "CCPV TV",
     "stream_urls": [
-      "https://stream.berosat.live:19360/baraka-hd/baraka-hd.m3u8"
+      "https://tnt-television.com/CCPV-TV/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "fra"
+    ],
+    "country": "cd",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "QOfJ38EhuVvyDe",
+    "name": "Compassion TV",
+    "stream_urls": [
+      "https://tnt-television.com/COMPASSION_FM/index.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -54,19 +67,6 @@
     "name": "LBFD RTV",
     "stream_urls": [
       "https://tnt-television.com/LBFD_RTV/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "fra"
-    ],
-    "country": "cd",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "XTCS8hBcYSO2yi",
-    "name": "Numerica TV",
-    "stream_urls": [
-      "https://tnt-television.com/NUMERICA/index.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
