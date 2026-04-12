@@ -78,19 +78,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "AeG4E88wj1aN3z",
-    "name": "Afarin TV",
-    "stream_urls": [
-      "https://65f16f0fdfc51.streamlock.net/afarinTV/livestream/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "kur"
-    ],
-    "country": "iq",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "mtvxflwldN4QsH",
     "name": "Aghapy Kids",
     "stream_urls": [
@@ -315,7 +302,8 @@
     "nanoid": "eXRHxuSjLuhKid",
     "name": "Carousel",
     "stream_urls": [
-      "https://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/variant.m3u8"
+      "https://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/variant.m3u8",
+      "https://streaming.televizor-24-tochka.ru/live/232.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -491,32 +479,6 @@
       "spa"
     ],
     "country": "es",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "hboH9AkWIrBLT1",
-    "name": "Clifford the Big Red Dog: Classic",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/84F3sIM6ugY"
-    ],
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "DWHNlPkSNnnnSG",
-    "name": "Clifford the Big Red Dog: Clifford's Puppy Days",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/eqJUmvuhtLE"
-    ],
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
     "isGeoBlocked": false
   },
   {
@@ -925,19 +887,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "yQPdPKGvAyjQ79",
-    "name": "Kids Land: Urdu",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/m4aPnZm_8NU"
-    ],
-    "languages": [
-      "urd"
-    ],
-    "country": "pk",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "X98dZJpeNVSZmP",
     "name": "KidsFlix",
     "stream_urls": [
@@ -1199,19 +1148,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "F7h50bZe1CVuSg",
-    "name": "NickOnline Feed 2",
-    "stream_urls": [
-      "https://x1co.com.br:2083/hls/stream.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "por"
-    ],
-    "country": "br",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "eyL4xvR1sE1phq",
     "name": "Nicktoons",
     "stream_urls": [],
@@ -1359,7 +1295,7 @@
     "name": "Peppa Pig Brasil",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/ldsU4FJRSnA"
+      "https://www.youtube-nocookie.com/embed/lrNWS6vbSLg"
     ],
     "languages": [
       "por"
@@ -1593,7 +1529,7 @@
     "name": "Super Simple: Bedtime Songs",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/EmiDnQH7ojI"
+      "https://www.youtube-nocookie.com/embed/-uUx-oOJaH4"
     ],
     "languages": [
       "eng"
@@ -1606,7 +1542,7 @@
     "name": "Super Simple: Noodle and Pals",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/gbIL7YOgROE"
+      "https://www.youtube-nocookie.com/embed/6P0I4SRqmCE"
     ],
     "languages": [
       "eng"
@@ -1619,7 +1555,7 @@
     "name": "Super Simple: Simple Songs",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/-2-Pr7_YRQI"
+      "https://www.youtube-nocookie.com/embed/9W1fJ_l5MKw"
     ],
     "languages": [
       "eng"
@@ -2093,7 +2029,7 @@
     "name": "小猪佩奇 中文官方 - Peppa Pig",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/5eB8SvXfVjI"
+      "https://www.youtube-nocookie.com/embed/g8ReNpoz3SI"
     ],
     "languages": [
       "zho"

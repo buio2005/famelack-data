@@ -52,6 +52,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "1noDMwg9YAlG9Y",
+    "name": "Espreso TV",
+    "stream_urls": [
+      "https://dash4.antik.sk/live/test_espresso/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "ukr"
+    ],
+    "country": "ua",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "mIGSyXqUZvMvq1",
     "name": "EWTN Ukraine",
     "stream_urls": [
@@ -73,6 +86,19 @@
     ],
     "languages": [
       "rus"
+    ],
+    "country": "ua",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "2ijBxrnqlhILuI",
+    "name": "ITV",
+    "stream_urls": [
+      "https://cdn10.live-tv.cloud/itvrv/abr-lq/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "ukr"
     ],
     "country": "ua",
     "isGeoBlocked": false
@@ -121,19 +147,6 @@
     "name": "Telekanal RAI",
     "stream_urls": [
       "https://stream.rai.ua/rai/stream.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "ukr"
-    ],
-    "country": "ua",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "KNtnaXZuhjC6uj",
-    "name": "TIS TV",
-    "stream_urls": [
-      "https://cdn10.live-tv.cloud/riood/tisod-abr/riood/tisod720/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -254,7 +267,7 @@
     "name": "Телеканал Конкурент TV",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/ntgtGmQb69k"
+      "https://www.youtube-nocookie.com/embed/10fsIxg_bmM"
     ],
     "languages": [
       "ukr"

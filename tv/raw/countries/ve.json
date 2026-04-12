@@ -1,9 +1,9 @@
 [
   {
-    "nanoid": "t2xHdunHhK2Qqc",
-    "name": "Aguacate TV",
+    "nanoid": "L2ckl8qUgIXBH9",
+    "name": "Anzoátegui TV",
     "stream_urls": [
-      "https://streamtv.intervenhosting.net:3040/hybrid/play.m3u8"
+      "https://vcp2.myplaytv.com/anzoateguitv/anzoateguitv/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -17,19 +17,6 @@
     "name": "AS3 Sport TV",
     "stream_urls": [
       "https://streamtv.as3sport.online:3394/hybrid/play.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
-    "country": "ve",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "YWNPX9f8P0Trxq",
-    "name": "BTA TV",
-    "stream_urls": [
-      "https://cloud.fastchannel.es/manifiest/hls/prog9/btatv.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -65,10 +52,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "6SYW2B8xTfiTLL",
-    "name": "Catatumbo TV",
+    "nanoid": "EBZkwFw2avmA6X",
+    "name": "Fortuna TV",
     "stream_urls": [
-      "https://cloud.fastchannel.es/manifiest/hls/prog9/catatumbotv.m3u8"
+      "https://streamtv.intervenhosting.net:3355/live/fortunatvlive.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -78,10 +65,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "EBZkwFw2avmA6X",
-    "name": "Fortuna TV",
+    "nanoid": "gKZyGzv7VMGeI2",
+    "name": "Grande TV",
     "stream_urls": [
-      "https://streamtv.intervenhosting.net:3355/live/fortunatvlive.m3u8"
+      "https://live20.bozztv.com/akamaissh101/ssh101/grandetv2240/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -186,19 +173,6 @@
     "name": "Plous TV",
     "stream_urls": [
       "https://vcp.myplaytv.com/glowtv/glowtv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
-    "country": "ve",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "1b6pwDCZHXANgu",
-    "name": "PortuTV",
-    "stream_urls": [
-      "https://streamtv.intervenhosting.net:3789/live/portutvlive.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -378,6 +352,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "b3aSHeBRmQKpi4",
+    "name": "TV Oasis Monay",
+    "stream_urls": [
+      "https://live20.bozztv.com/akamaissh101/ssh101/oasistv123/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "ve",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "XdOMLij5yy08uC",
     "name": "TVM para ti",
     "stream_urls": [
@@ -445,19 +432,6 @@
     "name": "Venevisión Internacional",
     "stream_urls": [
       "https://vod2live.univtec.com/manifest/4c41c0d8-e2e4-43cc-bd43-79afe715e1b3.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
-    "country": "ve",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "baPvUzzfHutjpv",
-    "name": "Vepaco TV",
-    "stream_urls": [
-      "https://cloud.fastchannel.es/manifiest/hls/prog9/vepacotv.m3u8"
     ],
     "youtube_urls": [],
     "languages": [

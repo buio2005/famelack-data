@@ -315,8 +315,7 @@
     "nanoid": "WYgIM57T6cgvaF",
     "name": "Canal 7 Salta",
     "stream_urls": [
-      "https://vivo.solumedia.com:19360/cooperativa/cooperativa.m3u8",
-      "https://vivo.solumedia.com:19360/canal7salta/canal7salta.m3u8"
+      "https://vivo.solumedia.com:19360/cooperativa/cooperativa.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -343,7 +342,7 @@
     "name": "Canal 8 San Juan",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/VnV59f8Fzdk"
+      "https://www.youtube-nocookie.com/embed/PD7l_7cDeNc"
     ],
     "languages": [
       "spa"
@@ -356,19 +355,6 @@
     "name": "Canal 9 Litoral",
     "stream_urls": [
       "https://stream.arcast.live/ahora/ahora/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
-    "country": "ar",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "T7sSq0y5FUqebJ",
-    "name": "Canal 9 Televida",
-    "stream_urls": [
-      "https://unlimited1-saopaulo.dps.live/televidaar/televidaar.smil/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -446,7 +432,8 @@
     "nanoid": "IKwTslDp6GIv1l",
     "name": "Canal 26",
     "stream_urls": [
-      "https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8"
+      "https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8",
+      "https://stream-gtlc.telecentro.net.ar/hls/canal26hls/0/playlist.m3u8"
     ],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/F0jLucQgsig"
@@ -501,19 +488,6 @@
     "name": "Canal 79 Puan",
     "stream_urls": [
       "https://streamconex.com:19360/puan/puan.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
-    "country": "ar",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "MaonGrlqkdtlLv",
-    "name": "Canal 79 Santa Clara del Mar",
-    "stream_urls": [
-      "https://streamconex.com:19360/santaclara-1/santaclara-1.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -850,21 +824,23 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "nxOuJBvN9WDNwl",
-    "name": "Milennio TV",
-    "stream_urls": [
-      "https://videostream.shockmedia.com.ar:19360/milenniotv/milenniotv.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [],
-    "country": "ar",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "jhtVZGk1rHoaP8",
     "name": "Misiones Cuatro",
     "stream_urls": [
       "https://iptv.ixfo.com.ar:30443/live-HD/MISIONES4/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "ar",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "SJ2RasqPmCjz9X",
+    "name": "MusicTop",
+    "stream_urls": [
+      "https://stream-gtlc.telecentro.net.ar/hls/musictophls/0/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -979,36 +955,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "jl6Vf7sjeIr2pi",
-    "name": "Radio TV Neuquén",
-    "stream_urls": [
-      "https://media.neuquen.gov.ar/rtn/television/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
-    "country": "ar",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "m0PY7A5wSbXayY",
     "name": "Radio Yguazú TV",
     "stream_urls": [
       "https://live.enhdtv.com:8081/radioiguazutv/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
-    "country": "ar",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "Wqadc2o7wMWvHG",
-    "name": "RTN (Neuquén)",
-    "stream_urls": [
-      "https://media.neuquen.gov.ar/rtn/television/media.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -1044,24 +994,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "pOLw0wjFkchEX1",
-    "name": "TeleCinco Trelew",
-    "stream_urls": [
-      "https://videohd.live:19360/8016/8016.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
-    "country": "ar",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "Go5SKBRSJ9PYYw",
     "name": "Telediario Digital",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/5UpgeSGXTmc"
+      "https://www.youtube-nocookie.com/embed/mKwy_U8I3-8"
     ],
     "languages": [
       "spa"
@@ -1220,19 +1157,6 @@
       "https://cloud.tvomix.com/URBANMIX/index.m3u8"
     ],
     "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
-    "country": "ar",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "njbWsA8ODBjdM0",
-    "name": "Urbana Play 104.3 FM",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/8oxYXrN8A1M"
-    ],
     "languages": [
       "spa"
     ],

@@ -618,19 +618,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "fOOyYaVElxzIXz",
-    "name": "GEM 24B",
-    "stream_urls": [
-      "https://ca-rt.onetv.app/gem24b/index-0.m3u8?token=onetv202"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "fas"
-    ],
-    "country": "tr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "rJv1freH8fF0Qu",
     "name": "GEM Bollywood",
     "stream_urls": [
@@ -1083,7 +1070,7 @@
     "name": "Her An Kur'an Her An Zikir",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/1iY_0LM8vN0"
+      "https://www.youtube-nocookie.com/embed/RCwRKdzGG6s"
     ],
     "languages": [
       "tur"
@@ -1252,6 +1239,19 @@
     "name": "Kanal Z",
     "stream_urls": [
       "https://live.artidijitalmedya.com/artidijital_kanalz/kanalz/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "tur"
+    ],
+    "country": "tr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "zbs9DkUTcak0mx",
+    "name": "Kay TV",
+    "stream_urls": [
+      "https://live.artidijitalmedya.com/artidijital_kaytv/kaytv/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [

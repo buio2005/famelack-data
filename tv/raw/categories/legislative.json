@@ -706,19 +706,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "JNyo9F9UzYyge3",
-    "name": "LGTV",
-    "stream_urls": [
-      "https://livestream.telvue.com/lexmedia3/f7b44cfafd5c52223d5498196c8a2e7b.sdp/lexmedia3/stream1/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "8TYOGIS9hhXK0X",
     "name": "LHCAZTV",
     "stream_urls": [
@@ -1191,19 +1178,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "4LXxz87wiJdex1",
-    "name": "Stockton GovTV (Stockton CA)",
-    "stream_urls": [
-      "https://cdn3.wowza.com/5/dk84U1p2UUdoMGxT/stockton/G0044_008/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "RErWNfh4idOsdr",
     "name": "Thai Parliament TV",
     "stream_urls": [
@@ -1234,7 +1208,7 @@
     "name": "TV Assembleia Minas Gerais",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/PJgPlVDoA1s"
+      "https://www.youtube-nocookie.com/embed/nlOOjEbF74o"
     ],
     "languages": [
       "por"
@@ -1513,6 +1487,19 @@
       "ell"
     ],
     "country": "gr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "jdtDDFx09GQYAn",
+    "name": "Дума ТВ",
+    "stream_urls": [
+      "https://dumatv.iptv2022.com/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
     "isGeoBlocked": false
   }
 ]

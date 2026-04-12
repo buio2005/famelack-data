@@ -39,11 +39,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "1LD9fRGKwL67SK",
-    "name": "BestClasicosTV",
+    "nanoid": "X0fe1ozGC5qVsh",
+    "name": "Canal 1",
     "stream_urls": [
-      "https://acceso.mediosdecostarica.com:3873/multi_live/play.m3u8",
-      "https://acceso.mediosdecostarica.com:3873/live/bestclasicostvlive.m3u8"
+      "https://vid.canal1cr.com:3424/multi_live/play_720.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -53,10 +52,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "X0fe1ozGC5qVsh",
-    "name": "Canal 1",
+    "nanoid": "9cN6rSKGfOi3ha",
+    "name": "Canal 3 KMK TV",
     "stream_urls": [
-      "https://vid.canal1cr.com:3424/multi_live/play_720.m3u8"
+      "https://live20.bozztv.com/giatv/giatv-KMKTV/KMKTV/chunks.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -93,7 +92,7 @@
     "nanoid": "O4M3Z3Jo7F6qrX",
     "name": "Cartago Medios TV",
     "stream_urls": [
-      "https://acceso.mediosdecostarica.com:3511/stream/play.m3u8"
+      "https://acceso.mediosdecostarica.com:3511/live/cartagomediostvlive.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -211,19 +210,6 @@
     "name": "Gex TV",
     "stream_urls": [
       "https://live20.bozztv.com/akamaissh101/ssh101/gextvaccess/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
-    "country": "cr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "2TkyCEIMqFLsTQ",
-    "name": "IQ Channel",
-    "stream_urls": [
-      "https://rtmp.info/iqtv/envivo/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -419,19 +405,6 @@
     "name": "Vintage Music",
     "stream_urls": [
       "https://59ef525c24caa.streamlock.net/vmtv/tvvintage/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
-    "country": "cr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "KTfqjR2nJysy7l",
-    "name": "VM Latino",
-    "stream_urls": [
-      "https://59ef525c24caa.streamlock.net/vmtv/vmlatino/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
