@@ -264,6 +264,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "eDESw3Ox4wXwbn",
+    "name": "Chiloe Red 25",
+    "stream_urls": [
+      "https://v2.tustreaming.cl/chiloered/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "cl",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "OAc1RsWsrgVUky",
     "name": "China Travel",
     "stream_urls": [
@@ -454,33 +467,6 @@
       "tam"
     ],
     "country": "ca",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "h9xUZ9qtOT3ejC",
-    "name": "El 33 Originals",
-    "stream_urls": [
-      "https://directes-tv-int.3catdirectes.cat/live-content/c33-super3-hls/master.m3u8",
-      "https://directes-tv-int.3catdirectes.cat/live-origin/c33-super3-hls/master.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "cat"
-    ],
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "vEu4AbFWQq3rTn",
-    "name": "El Sonorense",
-    "stream_urls": [
-      "https://s5.mexside.net:1936/elsonorense/elsonorense/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
-    "country": "mx",
     "isGeoBlocked": false
   },
   {
@@ -1239,6 +1225,19 @@
       "por"
     ],
     "country": "br",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "glNPCf2RbwoWmt",
+    "name": "zenith",
+    "stream_urls": [
+      "https://srv.zenith-tv.fr:8888/zenithwchl/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "fra"
+    ],
+    "country": "fr",
     "isGeoBlocked": false
   },
   {

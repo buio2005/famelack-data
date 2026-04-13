@@ -54,19 +54,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "FsR4OMNuaQ7RDi",
-    "name": "Africa 24 Sport",
-    "stream_urls": [
-      "https://africa24.vedge.infomaniak.com/livecast/ik:africa24sport/manifest.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "fra"
-    ],
-    "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "xNO3EJp4mhTrDD",
     "name": "AS3 Sport TV",
     "stream_urls": [
@@ -505,19 +492,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "GV38pwWqigwkoF",
-    "name": "HTV Thể thao",
-    "stream_urls": [
-      "https://live.fptplay53.net/epzhd1/htvcthethao_vhls.smil/chunklist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "vie"
-    ],
-    "country": "vn",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "YJ0VLCpIyYcZ5V",
     "name": "InTrouble",
     "stream_urls": [
@@ -722,6 +696,7 @@
     "nanoid": "1s9iqdlMC7cMrp",
     "name": "Pac 12 Insider",
     "stream_urls": [
+      "https://pac12-firetv.amagi.tv/playlist.m3u8",
       "https://pac12-roku-us.amagi.tv/playlist.m3u8",
       "https://pac12-samsungus.amagi.tv/playlist.m3u8",
       "https://pac12-vizio.amagi.tv/playlist.m3u8"
@@ -976,8 +951,8 @@
     "name": "SportsGrid",
     "stream_urls": [
       "https://amg00315-sportsgrid-firetv.amagi.tv/playlist.m3u8",
-      "https://sportsgrid-samsungus.amagi.tv/playlist.m3u8",
-      "https://sportsgrid-klowdtv.amagi.tv/playlist.m3u8"
+      "https://sportsgrid-plex.amagi.tv/playlist.m3u8",
+      "https://sportsgrid-samsungus.amagi.tv/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -1068,6 +1043,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "nkMb1YDs0h8mzP",
+    "name": "Tigo Sports",
+    "stream_urls": [
+      "https://live.enhdtv.com:8081/8160/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "py",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "oiFEO2uBrrWk1f",
     "name": "Tigo Sports TV El Salvador",
     "stream_urls": [
@@ -1125,7 +1113,6 @@
     "nanoid": "KqqtNJzLvYMM8F",
     "name": "Trace Sports Stars",
     "stream_urls": [
-      "https://tracesportstars-klowdtv.amagi.tv/playlist.m3u8",
       "https://amg01131-tracetv-amg01131c2-stirr-us-4392.playouts.now.amagi.tv/playlist.m3u8"
     ],
     "youtube_urls": [],
@@ -1266,24 +1253,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "beAXn8CiW6Z5Te",
-    "name": "TVS Women Sports",
-    "stream_urls": [
-      "https://rpn.bozztv.com/gusa/gusa-tvswsn/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "7HA7nsSxvggwxL",
     "name": "Unbeaten Sports Channel",
     "stream_urls": [
-      "https://d1t5afz6qed3xk.cloudfront.net/Unbeaten.m3u8",
-      "https://unbeaten-tcl.amagi.tv/playlist.m3u8"
+      "https://d1t5afz6qed3xk.cloudfront.net/Unbeaten.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -1304,6 +1277,19 @@
       "rus"
     ],
     "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "HoPPiJ6zSU8JBV",
+    "name": "W14DK-D 14.5 All Sports Television Network",
+    "stream_urls": [
+      "https://2-fss-2.streamhoster.com/pl_118/204972-2205186-1/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
     "isGeoBlocked": false
   },
   {
@@ -1428,19 +1414,6 @@
       "rus"
     ],
     "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "yxXfCHd5uHQMJD",
-    "name": "Беларусь 5",
-    "stream_urls": [
-      "https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5.smil/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "rus"
-    ],
-    "country": "by",
     "isGeoBlocked": false
   }
 ]

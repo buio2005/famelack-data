@@ -895,6 +895,45 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "eYL7gjaPIYarUU",
+    "name": "Max Movies",
+    "stream_urls": [
+      "https://live.maxtn.in/maxmovies/maxmovies/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "tam"
+    ],
+    "country": "in",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "fG091FxoA2NCwZ",
+    "name": "MCI Televisión",
+    "stream_urls": [
+      "https://video.ejeserver.com/live/mcitelevision.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "co",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "CH0OBldtzqtjEK",
+    "name": "Mega Cine TV",
+    "stream_urls": [
+      "https://cnn.hostlagarto.com/megacinetv/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "do",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "DOhQjr6d6DYcGE",
     "name": "Memorias TV Film",
     "stream_urls": [
@@ -1309,19 +1348,6 @@
     "youtube_urls": [],
     "languages": [
       "eng"
-    ],
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "jLlxOKRQAsHJaj",
-    "name": "Rakuten TV Drama Movies Finland",
-    "stream_urls": [
-      "https://d7e8ee3c924d4305a0c1840fe94c5d36.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6102/master.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "fin"
     ],
     "country": "es",
     "isGeoBlocked": false
@@ -1875,10 +1901,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "55k6dnrqaWi7I9",
-    "name": "Новый Русский",
+    "nanoid": "E9FRjDI7eyLqOr",
+    "name": "Патриот (576i)",
     "stream_urls": [
-      "https://live.15plusmg.ru/memfs/f983b507-a170-41a9-85a9-d9afc6cba9c1.m3u8"
+      "https://catchup.videoline.ru/asvtv/index.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -1888,10 +1914,62 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "E9FRjDI7eyLqOr",
-    "name": "Патриот (576i)",
+    "nanoid": "3bwrLU3me5VJ37",
+    "name": "Сити Эдем КиноКлассика",
     "stream_urls": [
-      "https://catchup.videoline.ru/asvtv/index.m3u8"
+      "https://cityeden.catcast.tv/content/34185/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "LN1hGmRGEKcWz7",
+    "name": "Сити Эдем КиноКомедия",
+    "stream_urls": [
+      "https://cityeden.catcast.tv/content/41331/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "6NRgQX5F3uvhNk",
+    "name": "Сити Эдем КиноМистика",
+    "stream_urls": [
+      "https://cityeden.catcast.tv/content/40783/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "pqEgU0y3jnIV9h",
+    "name": "Сити Эдем КиноФантастика",
+    "stream_urls": [
+      "https://cityeden.catcast.tv/content/45268/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "ID6NJjfwQAnwkN",
+    "name": "Сити Эдем КиноЭкшен",
+    "stream_urls": [
+      "https://cityeden.catcast.tv/content/41333/index.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
