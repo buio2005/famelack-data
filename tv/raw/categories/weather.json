@@ -1,125 +1,216 @@
 [
-  {
-    "nanoid": "gnyX5KuxriCcKL",
-    "name": "3Cat Càmeres del temps",
-    "stream_urls": [
-      "https://directes-tv-int.3catdirectes.cat/live-content/beauties-hls/master.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "cat"
-    ],
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "J88e8bsmJwJAa9",
-    "name": "ABC 9 Manchester NH (WMUR-TV)",
-    "stream_urls": [
-      "https://aegis-cloudfront-1.tubi.video/b77ffe96-c5d1-43a7-8687-306ff244d725/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "AQflHxNei4CCgO",
-    "name": "AccuWeather Now",
-    "stream_urls": [
-      "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00684-accuweather-accuweather-plex/playlist.m3u8",
-      "https://amg00684-accuweather-accuweather-rokuus-0endj.amagi.tv/playlist.m3u8",
-      "https://d1gldweznovt26.cloudfront.net/Accuweather.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
-    "isGeoBlocked": true
-  },
-  {
-    "nanoid": "9a6LkOKsyhE8Y4",
-    "name": "FOX Weather",
-    "stream_urls": [
-      "https://pb-hum8cczphcrpf.akamaized.net/FOX_Weather.m3u8",
-      "https://247wlive.foxweather.com/stream/index.m3u8",
-      "https://aegis-cloudfront-1.tubi.video/d4d03a5e-dd3e-4b9a-8b11-b86c88d717fe/index.m3u8"
-    ],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/wt6SIE7BXS8"
-    ],
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
-    "isGeoBlocked": true
-  },
-  {
-    "nanoid": "dfvV9SkyUqJgjs",
-    "name": "MeteoTV",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/lqMWeBc6_Kg"
-    ],
-    "languages": [
-      "ron"
-    ],
-    "country": "ro",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "CkqK0vHvwZKLiX",
-    "name": "Sky News Weather",
-    "stream_urls": [
-      "https://distro001-gb-hls1-prd.delivery.skycdp.com/easel_cdn/ngrp:weather_loop.stream_all/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "eng"
-    ],
-    "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "rsgBN1CiczuZvL",
-    "name": "WeatherNation",
-    "stream_urls": [
-      "https://stream.weathernationtv.com/WNTVStirr_eokxldieulowixkdimn/ND1/playlistSCTE35.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "jJDH0xwjNSKT7T",
-    "name": "WeatherSpy",
-    "stream_urls": [
-      "https://d12gab6t5iutxf.cloudfront.net/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "EHhc90wawtgTuv",
-    "name": "Wetter-Panorama",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/NIuO6hrFTrg"
-    ],
-    "languages": [
-      "deu"
-    ],
-    "country": "at",
-    "isGeoBlocked": false
-  }
+    {
+        "nanoid": "gnyX5KuxriCcKL",
+        "name": "3Cat Càmeres del temps",
+        "stream_urls": [
+            "https://directes-tv-int.3catdirectes.cat/live-content/beauties-hls/master.m3u8"
+        ],
+        "youtube_urls": [],
+        "languages": [
+            "cat"
+        ],
+        "country": "es",
+        "isGeoBlocked": false
+    },
+    {
+        "nanoid": "J88e8bsmJwJAa9",
+        "name": "ABC 9 Manchester NH (WMUR-TV)",
+        "stream_urls": [
+            "https://aegis-cloudfront-1.tubi.video/b77ffe96-c5d1-43a7-8687-306ff244d725/playlist.m3u8"
+        ],
+        "youtube_urls": [],
+        "languages": [
+            "eng"
+        ],
+        "country": "us",
+        "isGeoBlocked": false
+    },
+    {
+        "nanoid": "AQflHxNei4CCgO",
+        "name": "AccuWeather Now",
+        "stream_urls": [
+            "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00684-accuweather-accuweather-plex/playlist.m3u8",
+            "https://amg00684-accuweather-accuweather-rokuus-0endj.amagi.tv/playlist.m3u8",
+            "https://d1gldweznovt26.cloudfront.net/Accuweather.m3u8"
+        ],
+        "youtube_urls": [],
+        "languages": [
+            "eng"
+        ],
+        "country": "us",
+        "isGeoBlocked": true
+    },
+    {
+        "nanoid": "9a6LkOKsyhE8Y4",
+        "name": "FOX Weather",
+        "stream_urls": [
+            "https://pb-hum8cczphcrpf.akamaized.net/FOX_Weather.m3u8",
+            "https://247wlive.foxweather.com/stream/index.m3u8",
+            "https://aegis-cloudfront-1.tubi.video/d4d03a5e-dd3e-4b9a-8b11-b86c88d717fe/index.m3u8"
+        ],
+        "youtube_urls": [
+            "https://www.youtube-nocookie.com/embed/wt6SIE7BXS8"
+        ],
+        "languages": [
+            "eng"
+        ],
+        "country": "us",
+        "isGeoBlocked": true
+    },
+    {
+        "nanoid": "dfvV9SkyUqJgjs",
+        "name": "MeteoTV",
+        "stream_urls": [],
+        "youtube_urls": [
+            "https://www.youtube-nocookie.com/embed/lqMWeBc6_Kg"
+        ],
+        "languages": [
+            "ron"
+        ],
+        "country": "ro",
+        "isGeoBlocked": false
+    },
+    {
+        "nanoid": "CkqK0vHvwZKLiX",
+        "name": "Sky News Weather",
+        "stream_urls": [
+            "https://distro001-gb-hls1-prd.delivery.skycdp.com/easel_cdn/ngrp:weather_loop.stream_all/playlist.m3u8"
+        ],
+        "youtube_urls": [],
+        "languages": [
+            "eng"
+        ],
+        "country": "uk",
+        "isGeoBlocked": false
+    },
+    {
+        "nanoid": "rsgBN1CiczuZvL",
+        "name": "WeatherNation",
+        "stream_urls": [
+            "https://stream.weathernationtv.com/WNTVStirr_eokxldieulowixkdimn/ND1/playlistSCTE35.m3u8"
+        ],
+        "youtube_urls": [],
+        "languages": [
+            "eng"
+        ],
+        "country": "us",
+        "isGeoBlocked": false
+    },
+    {
+        "nanoid": "jJDH0xwjNSKT7T",
+        "name": "WeatherSpy",
+        "stream_urls": [
+            "https://d12gab6t5iutxf.cloudfront.net/playlist.m3u8"
+        ],
+        "youtube_urls": [],
+        "languages": [
+            "eng"
+        ],
+        "country": "us",
+        "isGeoBlocked": false
+    },
+    {
+        "nanoid": "EHhc90wawtgTuv",
+        "name": "Wetter-Panorama",
+        "stream_urls": [],
+        "youtube_urls": [
+            "https://www.youtube-nocookie.com/embed/NIuO6hrFTrg"
+        ],
+        "languages": [
+            "deu"
+        ],
+        "country": "at",
+        "isGeoBlocked": false
+    },
+    {
+        "nanoid": "weatherSpyNew1",
+        "name": "WeatherSpy 🇺🇸",
+        "stream_urls": [
+            "https://d12gab6t5iutxf.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-5f9kx6t1zhw2i/playlist.m3u8?wowzasessionid=@iprtlk"
+        ],
+        "youtube_urls": [],
+        "languages": [
+            "eng"
+        ],
+        "country": "us",
+        "isGeoBlocked": false
+    },
+    {
+        "nanoid": "foxWeatherNew2",
+        "name": "Fox Weather 🇺🇸",
+        "stream_urls": [
+            "https://jmp2.uk/plu-640a68880e884c0009979cc2.m3u8"
+        ],
+        "youtube_urls": [],
+        "languages": [
+            "eng"
+        ],
+        "country": "us",
+        "isGeoBlocked": true
+    },
+    {
+        "nanoid": "accuWeatherNowNew3",
+        "name": "AccuWeather Now 🇺🇸",
+        "stream_urls": [
+            "https://dbrb49pjoymg4.cloudfront.net/10001/99991649/hls/playlist.m3u8?ads.xumo_channelId=99991649&ads._fw_ifa_type=&ads._fw_did=7d709ef4-0815-4d86-a866-637a5337801f&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads.asnw=&ads.caid=AccuWeather&ads.csid=xumo_web_AccuWeather_ssai&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads.genre=News,N,DN,Weather,Local,LocalNews,News-Local&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_genre=News,N,DN,Weather,Local,LocalNews,News-Local&ads._fw_content_rating=&ads.xumo_contentId=2729&ads.xumo_contentName=AccuWeather&ads.xumo_providerId=2729&ads.xumo_providerName=AccuWeather&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.channelId=99991649&ads.xumo_platform=web&ads.site_id=&ads.appName=xumo&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url="
+        ],
+        "youtube_urls": [],
+        "languages": [
+            "eng"
+        ],
+        "country": "us",
+        "isGeoBlocked": true
+    },
+    {
+        "nanoid": "weatherNationNew4",
+        "name": "WeatherNation TV 🇺🇸",
+        "stream_urls": [
+            "https://d2ferbiwcx1539.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-8zd06wicndthf-ssai-prd/WNNationalSamsung/WNNationalSamsung.m3u8?wowzasessionid=@iprtlk"
+        ],
+        "youtube_urls": [],
+        "languages": [
+            "eng"
+        ],
+        "country": "us",
+        "isGeoBlocked": false
+    },
+    {
+        "nanoid": "theWeatherChannelNew5",
+        "name": "The Weather Channel 🇺🇸🇨🇦",
+        "stream_urls": [
+            "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01442-pelmorexcorp-theweathernetwork-lgca/playlist.m3u8?wowzasessionid=@iprtlk"
+        ],
+        "youtube_urls": [],
+        "languages": [
+            "eng"
+        ],
+        "country": "us",
+        "isGeoBlocked": false
+    },
+    {
+        "nanoid": "meteoNewsNew6",
+        "name": "MeteoNews 🇦🇹",
+        "stream_urls": [
+            "https://streaming.meteonews.net/hls/stream.m3u8?wowzasessionid=@iprtlk"
+        ],
+        "youtube_urls": [],
+        "languages": [
+            "deu"
+        ],
+        "country": "ch",
+        "isGeoBlocked": false
+    },
+    {
+        "nanoid": "wbrzWeatherNew7",
+        "name": "WBRZ Weather Channel Baton Rouge LA 🇺🇸",
+        "stream_urls": [
+            "https://d2a6g6zgxepbwi.cloudfront.net/wbrz-edge/weather.stream_360p/playlist.m3u8"
+        ],
+        "youtube_urls": [],
+        "languages": [
+            "eng"
+        ],
+        "country": "us",
+        "isGeoBlocked": false
+    }
 ]

@@ -412,6 +412,32 @@
         "youtube_urls": []
     },
     {
+        "nanoid": "dR7jL9nP1rT3vX",
+        "name": "Discovery Channel",
+        "stream_urls": [
+            "https://d24aqelmrau4kx.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-l1oas691aj7p2/WBTV_IT.m3u8"
+        ],
+        "youtube_urls": [],
+        "languages": [
+            "ita"
+        ],
+        "country": "it",
+        "isGeoBlocked": false
+    },
+    {
+        "nanoid": "hV1nP3rT5vX7zB",
+        "name": "Donna TV",
+        "stream_urls": [
+            "https://streaming.softwarecreation.it/DonnaTv/DonnaTv/playlist.m3u8"
+        ],
+        "youtube_urls": [],
+        "languages": [
+            "ita"
+        ],
+        "country": "it",
+        "isGeoBlocked": false
+    },
+    {
         "country": "it",
         "isGeoBlocked": false,
         "languages": [
@@ -529,6 +555,19 @@
         "youtube_urls": []
     },
     {
+        "nanoid": "eS8kM0oQ2sU4wY",
+        "name": "Giallo",
+        "stream_urls": [
+            "https://d9fqo6nfqlv2h.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ulukbrgm1n3yb/Giallo_IT.m3u8"
+        ],
+        "youtube_urls": [],
+        "languages": [
+            "ita"
+        ],
+        "country": "it",
+        "isGeoBlocked": false
+    },
+    {
         "country": "it",
         "isGeoBlocked": false,
         "languages": [
@@ -624,7 +663,7 @@
             "ita"
         ],
         "name": "Iris",
-        "nanoid": "iris",
+        "nanoid": "iris58ejh47op",
         "stream_urls": [
             "https://live02-seg.msf.cdn.mediaset.net/live/ch-ki/ki-clr.isml/index.m3u8"
         ],
@@ -837,7 +876,7 @@
         "name": "La7",
         "nanoid": "la7",
         "stream_urls": [
-            "https://viamotionhsi.netplus.ch/live/eds/la7/browser-HLS8/la7.m3u8"
+            "https://ilglobotv-live.akamaized.net/channels/La7Italia/Live.m3u8"
         ],
         "youtube_urls": []
     },
@@ -850,7 +889,7 @@
         "name": "La7 Cinema",
         "nanoid": "la7Cinema",
         "stream_urls": [
-            "https://viamotionhsi.netplus.ch/live/eds/la7d/browser-HLS8/la7d.m3u8"
+            "https://d1chghleocc9sm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-evfku205gqrtf/Live.m3u8"
         ],
         "youtube_urls": []
     },
@@ -1059,6 +1098,19 @@
             "https://amg00627-amg00627c29-rakuten-it-3989.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanitcc-rakutenit/playlist.m3u8"
         ],
         "youtube_urls": []
+    },
+    {
+        "nanoid": "cF6iH8jK0mN2pQ",
+        "name": "Nove",
+        "stream_urls": [
+            "https://d31mw7o1gs0dap.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-y5pbi2sq9r609/NOVE_IT.m3u8"
+        ],
+        "youtube_urls": [],
+        "languages": [
+            "ita"
+        ],
+        "country": "it",
+        "isGeoBlocked": false
     },
     {
         "country": "it",
@@ -1694,20 +1746,7 @@
         "name": "RAI Movie",
         "nanoid": "raiMovie_1U8V9",
         "stream_urls": [
-            "https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747002&output=7&forceUserAgent=raiplayappletv"
-        ],
-        "youtube_urls": []
-    },
-    {
-        "country": "it",
-        "isGeoBlocked": false,
-        "languages": [
-            "ita"
-        ],
-        "name": "RAI Movie",
-        "nanoid": "raiMovie_2W0X1",
-        "stream_urls": [
-            "https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747002&output=7&forceUserAgent=raiplayappletv"
+            "https://raimovie3-live.akamaized.net/hls/live/2018010/raimovie3/raimovie3/playlist.m3u8"
         ],
         "youtube_urls": []
     },
@@ -1730,23 +1769,10 @@
         "languages": [
             "ita"
         ],
-        "name": "RAI News 24",
-        "nanoid": "raiNews24_2A4B5",
-        "stream_urls": [
-            "http://78.130.250.2:8023/play/a04l/index.m3u8"
-        ],
-        "youtube_urls": []
-    },
-    {
-        "country": "it",
-        "isGeoBlocked": false,
-        "languages": [
-            "ita"
-        ],
         "name": "Rai Premium",
         "nanoid": "raiPremium_1C6D7",
         "stream_urls": [
-            "https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746992&output=7&forceUserAgent=raiplayappletv"
+            "https://raipremium3-live.akamaized.net/hls/live/2018013/raipremium3/raipremium3/playlist.m3u8"
         ],
         "youtube_urls": []
     },
@@ -2902,6 +2928,19 @@
         "youtube_urls": []
     },
     {
+        "nanoid": "aB3dE5gH7jK9L1",
+        "name": "TV8",
+        "stream_urls": [
+            "https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11223/tv8web/master.m3u8?hdnts=st=1764666351~exp=1829466206~acl=/*~hmac=b0e9165b6c55027903ad103c8219f363d8765eb300c0d9a339e9767fc3509556"
+        ],
+        "youtube_urls": [],
+        "languages": [
+            "ita"
+        ],
+        "country": "it",
+        "isGeoBlocked": false
+    },
+    {
         "country": "it",
         "isGeoBlocked": false,
         "languages": [
@@ -3013,6 +3052,32 @@
             "https://5c389faa13be3.streamlock.net:9553/8006/8006/playlist.m3u8"
         ],
         "youtube_urls": []
+    },
+    {
+        "nanoid": "fT9lN1pR3tV5xZ",
+        "name": "Zerouno Tv Music",
+        "stream_urls": [
+            "https://5f22d76e220e1.streamlock.net/zerounotvmusic/zerounotvmusic/playlist.m3u8"
+        ],
+        "youtube_urls": [],
+        "languages": [
+            "ita"
+        ],
+        "country": "it",
+        "isGeoBlocked": false
+    },
+    {
+        "nanoid": "gU0mO2qS4uW6yA",
+        "name": "Zerouno Tv News",
+        "stream_urls": [
+            "https://5f22d76e220e1.streamlock.net/01news/01news/playlist.m3u8"
+        ],
+        "youtube_urls": [],
+        "languages": [
+            "ita"
+        ],
+        "country": "it",
+        "isGeoBlocked": false
     },
     {
         "country": "it",

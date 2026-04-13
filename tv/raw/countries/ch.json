@@ -273,5 +273,62 @@
         ],
         "country": "ch",
         "isGeoBlocked": false
+    },
+    {
+        "nanoid": "meteonewsSwissA1",
+        "name": "Meteonews",
+        "stream_urls": [
+            "https://streaming.meteonews.net/hls/stream.m3u8"
+        ],
+        "youtube_urls": [],
+        "languages": [],
+        "country": "ch",
+        "isGeoBlocked": false
+    },
+    {
+        "nanoid": "rts1SwissB2",
+        "name": "RTS 1",
+        "stream_urls": [
+            "https://viamotionhsi.netplus.ch/live/eds/rts1hd/browser-dash/rts1hd.mpd",
+            "https://viamotionhsi.netplus.ch/live/eds/rts1hd/browser-HLS8/rts1hd.m3u8"
+        ],
+        "youtube_urls": [],
+        "languages": [],
+        "country": "ch",
+        "isGeoBlocked": false
+    },
+    {
+        "nanoid": "rts2SwissC3",
+        "name": "RTS 2",
+        "stream_urls": [
+            "https://viamotionhsi.netplus.ch/live/eds/rts2hd/browser-dash/rts2hd.mpd",
+            "https://viamotionhsi.netplus.ch/live/eds/rts2hd/browser-HLS8/rts2hd.m3u8"
+        ],
+        "youtube_urls": [],
+        "languages": [],
+        "country": "ch",
+        "isGeoBlocked": false
+    },
+    {
+        "nanoid": "shivaLiveSwissD4",
+        "name": "Shiva Live TV",
+        "stream_urls": [
+            "https://streameurope.ch/live/shivalivetv.m3u8"
+        ],
+        "youtube_urls": [],
+        "languages": [],
+        "country": "ch",
+        "isGeoBlocked": false
+    },
+    {
+        "nanoid": "tvm3SwissE5",
+        "name": "TVM3",
+        "stream_urls": [
+            "https://livevideo.infomaniak.com/streaming/livecast/tvm3/playlist.m3u8"
+        ],
+        "youtube_urls": [],
+        "languages": [],
+        "country": "ch",
+        "isGeoBlocked": false
     }
 ]
