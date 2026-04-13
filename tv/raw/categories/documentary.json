@@ -17,7 +17,7 @@
     "name": "Asahi: Documentary",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/5kH1emOo_aM"
+      "https://www.youtube-nocookie.com/embed/DiLmwHPV4BU"
     ],
     "languages": [
       "jpn"
@@ -161,6 +161,19 @@
       "zho"
     ],
     "country": "cn",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "itmATVZa5Ggr1u",
+    "name": "Click TV (Coronel)",
+    "stream_urls": [
+      "https://v2.tustreaming.cl/clicktv/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "cl",
     "isGeoBlocked": false
   },
   {
@@ -311,19 +324,6 @@
       "fra"
     ],
     "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "5wM1NwxDDPeLH5",
-    "name": "GEM Nature",
-    "stream_urls": [
-      "https://ca-rt.onetv.app/gemnature/index-0.m3u8?token=onetv202"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "fas"
-    ],
-    "country": "tr",
     "isGeoBlocked": false
   },
   {

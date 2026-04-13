@@ -39,13 +39,41 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "MC6eofj34HPSlv",
-    "name": "Africanews",
+    "nanoid": "JzlPxfMfmeouYm",
+    "name": "Africa 24",
     "stream_urls": [
-      "https://c3c275b999764df8a2dd55ffe2996818.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6576/bitok/eyJzdGlkIjoiOTU0NDAyODQtOTU0My00Yzc2LThmZjQtNDRhY2YwYmQxYTYwIiwibWt0IjoicGwiLCJjaCI6NjYwNiwicHRmIjo1fQ==/26036/africanews-en.m3u8"
+      "https://africa24.vedge.infomaniak.com/livecast/ik:africa24/manifest.m3u8"
     ],
     "youtube_urls": [],
-    "languages": [],
+    "languages": [
+      "fra"
+    ],
+    "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "QzSkQCeFOqXwg8",
+    "name": "Africa 24 English",
+    "stream_urls": [
+      "https://edge20.vedge.infomaniak.com/livecast/ik:africa24english/manifest.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "eng"
+    ],
+    "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "FsR4OMNuaQ7RDi",
+    "name": "Africa 24 Sport",
+    "stream_urls": [
+      "https://africa24.vedge.infomaniak.com/livecast/ik:africa24sport/manifest.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "fra"
+    ],
     "country": "fr",
     "isGeoBlocked": false
   },
@@ -89,10 +117,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "3rtzOiHkAVu2UT",
-    "name": "Antenne Réunion",
+    "nanoid": "4rxDy7n64uQPGF",
+    "name": "Alpe d’Huez TV",
     "stream_urls": [
-      "https://live-antenne-reunion.zeop.tv/live/c3eds/antreunihd/hls_fta/antreunihd.m3u8?location=ZEOP01"
+      "https://edge13.vedge.infomaniak.com/livecast/ik:adhtv/manifest.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -102,12 +130,12 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "SFsrKozwjoLj8R",
-    "name": "B SMART",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/NWzNw2Rs-vk"
+    "nanoid": "3rtzOiHkAVu2UT",
+    "name": "Antenne Réunion",
+    "stream_urls": [
+      "https://live-antenne-reunion.zeop.tv/live/c3eds/antreunihd/hls_fta/antreunihd.m3u8?location=ZEOP01"
     ],
+    "youtube_urls": [],
     "languages": [
       "fra"
     ],
@@ -384,10 +412,34 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "4TFbQdQIR6USV5",
+    "name": "DBM TV",
+    "stream_urls": [
+      "https://dbmtv.vedge.infomaniak.com/livecast/dbmtv/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "fra"
+    ],
+    "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "WxYEpzQmBTG6Du",
     "name": "Drive TV",
     "stream_urls": [
       "https://amg01796-amg01796c2-rakuten-uk-3887.playouts.now.amagi.tv/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [],
+    "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "x74kBxlCSA3rr8",
+    "name": "Enquetes de Choc",
+    "stream_urls": [
+      "https://fastmedia-enquetesdechoc-rakuten.amagi.tv/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [],
@@ -408,12 +460,9 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "vyAlDaoF9WU1Q1",
+    "nanoid": "g4VnkSt3v2F081",
     "name": "Euronews English",
-    "stream_urls": [
-      "https://a-cdn.klowdtv.com/live3/euronews_720p/playlist.m3u8",
-      "https://aegis-cloudfront-1.tubi.video/b1c4d439-03a5-4c40-ae9d-90a183e010c9/euronews-en.m3u8"
-    ],
+    "stream_urls": [],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/pykpO5kQJ98"
     ],
@@ -1217,6 +1266,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "3UupDDnNXaxwcR",
+    "name": "Rakuten TV Films Comédie",
+    "stream_urls": [
+      "https://cc9f70371e7144e7acae4de8b5832d7a.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6183/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [],
+    "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "4OHJUKjDj7pE2U",
     "name": "Rakuten TV Films Drames",
     "stream_urls": [
@@ -1389,7 +1449,8 @@
     "nanoid": "WGDiUT1T62mE6W",
     "name": "Sony One Series Thriller",
     "stream_urls": [
-      "https://483a1e90c18641c9a6d27becd41ad892.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-821-FR-SONYONESRIESTHRILLER-LG_FR/playlist.m3u8"
+      "https://483a1e90c18641c9a6d27becd41ad892.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-821-FR-SONYONESRIESTHRILLER-LG_FR/playlist.m3u8",
+      "https://d1573iiyr4aa7c.cloudfront.net/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -1495,6 +1556,7 @@
     "nanoid": "KqqtNJzLvYMM8F",
     "name": "Trace Sports Stars",
     "stream_urls": [
+      "https://tracesportstars-klowdtv.amagi.tv/playlist.m3u8",
       "https://amg01131-tracetv-amg01131c2-stirr-us-4392.playouts.now.amagi.tv/playlist.m3u8"
     ],
     "youtube_urls": [],

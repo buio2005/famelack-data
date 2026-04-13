@@ -156,6 +156,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "KNtnaXZuhjC6uj",
+    "name": "TIS TV",
+    "stream_urls": [
+      "https://cdn10.live-tv.cloud/riood/tisod-abr/riood/tisod720/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "ukr"
+    ],
+    "country": "ua",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "t4HZl9R8oxsSaq",
     "name": "TV Rivne 1",
     "stream_urls": [
@@ -193,6 +206,19 @@
     "youtube_urls": [],
     "languages": [
       "ukr"
+    ],
+    "country": "ua",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "8guglX3waEEweH",
+    "name": "Луганск 24",
+    "stream_urls": [
+      "https://streaming.televizor-24-tochka.ru/live/29.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "rus"
     ],
     "country": "ua",
     "isGeoBlocked": false
@@ -267,7 +293,7 @@
     "name": "Телеканал Конкурент TV",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/10fsIxg_bmM"
+      "https://www.youtube-nocookie.com/embed/Cvi0JreBJZc"
     ],
     "languages": [
       "ukr"

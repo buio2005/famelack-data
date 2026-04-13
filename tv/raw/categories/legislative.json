@@ -601,6 +601,32 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "fA9TEJ4ZsGIi2e",
+    "name": "HTV 1 Houston Television",
+    "stream_urls": [
+      "https://stream.swagit.com/live-edge/houstontx/smil:hd-16x9-2-a/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "l0iAfvu6mSVdXN",
+    "name": "HTV 2 Houston Television",
+    "stream_urls": [
+      "https://stream.swagit.com/live-edge/houstontx/smil:hd-16x9-2-b/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "MdYnmsFTlP5Wem",
     "name": "Justicia TV",
     "stream_urls": [
@@ -697,6 +723,19 @@
     "name": "Lex TV",
     "stream_urls": [
       "https://cdn3.wowza.com/5/M0lyamVmM2JWcjhQ/lfucg/G0264_005/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "JNyo9F9UzYyge3",
+    "name": "LGTV",
+    "stream_urls": [
+      "https://livestream.telvue.com/lexmedia3/f7b44cfafd5c52223d5498196c8a2e7b.sdp/lexmedia3/stream1/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -906,19 +945,6 @@
     "name": "Orange Government Access TV (Orange CT)",
     "stream_urls": [
       "https://livestream.telvue.com/ogat1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "iPhkcC76kYpp0C",
-    "name": "Palm Beach County TV Channel 20 (Palm Beach County FL)",
-    "stream_urls": [
-      "https://pbcvideostreams1.pbc.gov/memfs/1af49f9a-6b90-4ec2-a640-7f65ceebed4a.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -1178,6 +1204,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "4LXxz87wiJdex1",
+    "name": "Stockton GovTV (Stockton CA)",
+    "stream_urls": [
+      "https://cdn3.wowza.com/5/dk84U1p2UUdoMGxT/stockton/G0044_008/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "RErWNfh4idOsdr",
     "name": "Thai Parliament TV",
     "stream_urls": [
@@ -1208,7 +1247,7 @@
     "name": "TV Assembleia Minas Gerais",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/nlOOjEbF74o"
+      "https://www.youtube-nocookie.com/embed/g2RdiBGyP74"
     ],
     "languages": [
       "por"
@@ -1234,7 +1273,7 @@
     "name": "TV Câmara Porto Alegre",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/td1FW2ftfz4"
+      "https://www.youtube-nocookie.com/embed/HCO2mVudipo"
     ],
     "languages": [
       "por"
@@ -1487,19 +1526,6 @@
       "ell"
     ],
     "country": "gr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "jdtDDFx09GQYAn",
-    "name": "Дума ТВ",
-    "stream_urls": [
-      "https://dumatv.iptv2022.com/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
     "isGeoBlocked": false
   }
 ]

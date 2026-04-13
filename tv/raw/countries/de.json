@@ -395,7 +395,6 @@
     "name": "DW English",
     "stream_urls": [
       "https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/master.m3u8",
-      "https://live.fptplay53.net/fnxhd2/dwenglish_hls.smil/chunklist.m3u8",
       "https://liveh12.vtvprime.vn/hls/DW/03.m3u8"
     ],
     "youtube_urls": [
@@ -414,6 +413,19 @@
       "https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/master.m3u8"
     ],
     "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "de",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "T1qgpA3LWRh4Lf",
+    "name": "DW Español",
+    "stream_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/jRnqxURJ120"
+    ],
     "languages": [
       "spa"
     ],
@@ -819,19 +831,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "Qm2znUA46MmZwc",
-    "name": "labor14",
-    "stream_urls": [
-      "https://5acade5fc0c29.streamlock.net/OKGera/tmbz_live_high.stream/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "deu"
-    ],
-    "country": "de",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "Ztcv27i6GrEiFD",
     "name": "Lausitzwelle",
     "stream_urls": [
@@ -930,6 +929,17 @@
     "languages": [
       "deu"
     ],
+    "country": "de",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "1vBPSqBW9LaA0Z",
+    "name": "MyTime Movie Network Germany",
+    "stream_urls": [
+      "https://appletree-mytimemoviegerman-rakuten.amagi.tv/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [],
     "country": "de",
     "isGeoBlocked": false
   },

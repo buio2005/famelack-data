@@ -92,7 +92,7 @@
     "nanoid": "O4M3Z3Jo7F6qrX",
     "name": "Cartago Medios TV",
     "stream_urls": [
-      "https://acceso.mediosdecostarica.com:3511/live/cartagomediostvlive.m3u8"
+      "https://acceso.mediosdecostarica.com:3511/stream/play.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -323,19 +323,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "GHvLc9YKjbjb4r",
-    "name": "Telefides",
-    "stream_urls": [
-      "https://s2.cwebtv.net:4433/telefides/telefides/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
-    "country": "cr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "0dNDSI0p6Xtcvm",
     "name": "TeleMas",
     "stream_urls": [
@@ -405,6 +392,19 @@
     "name": "Vintage Music",
     "stream_urls": [
       "https://59ef525c24caa.streamlock.net/vmtv/tvvintage/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "cr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "KTfqjR2nJysy7l",
+    "name": "VM Latino",
+    "stream_urls": [
+      "https://59ef525c24caa.streamlock.net/vmtv/vmlatino/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [

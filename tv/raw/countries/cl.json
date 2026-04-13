@@ -221,12 +221,12 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "eDESw3Ox4wXwbn",
-    "name": "Chiloe Red 25",
-    "stream_urls": [
-      "https://v2.tustreaming.cl/chiloered/index.m3u8"
+    "nanoid": "fJikHBvZcviret",
+    "name": "Chilevisión",
+    "stream_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/MdcXkInklto"
     ],
-    "youtube_urls": [],
     "languages": [
       "spa"
     ],
@@ -240,6 +240,19 @@
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/IvJY7dPoLRQ"
     ],
+    "languages": [
+      "spa"
+    ],
+    "country": "cl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "itmATVZa5Ggr1u",
+    "name": "Click TV (Coronel)",
+    "stream_urls": [
+      "https://v2.tustreaming.cl/clicktv/playlist.m3u8"
+    ],
+    "youtube_urls": [],
     "languages": [
       "spa"
     ],
@@ -390,19 +403,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "ubJBXevTlFFMsm",
-    "name": "Meganoticias",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/0wYEIxcrCGg"
-    ],
-    "languages": [
-      "spa"
-    ],
-    "country": "cl",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "rFCQYWbNPQlvWE",
     "name": "MTNA TV",
     "stream_urls": [
@@ -420,19 +420,6 @@
     "name": "NCTV",
     "stream_urls": [
       "https://pantera1-100gb-cl-movistar.dps.live/nctv/nctv.smil/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
-    "country": "cl",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "dmSkx9ZqRcdIYu",
-    "name": "Nublevision",
-    "stream_urls": [
-      "https://tv.arkeo.cl:1936/nublevision/nublevision/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -581,7 +568,7 @@
       "https://jireh-2-hls-video-us-isp.dps.live/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/t13/t13.smil/playlist.m3u8"
     ],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/7JCF_qvSkwo"
+      "https://www.youtube-nocookie.com/embed/ZZNFKiWIplI"
     ],
     "languages": [
       "spa"
@@ -760,10 +747,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "L90TWymzbjAtJm",
-    "name": "UCV TV",
+    "nanoid": "uiKxEXDS2qwujf",
+    "name": "U Los Lagos TV",
     "stream_urls": [
-      "https://unlimited2-cl-isp.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8"
+      "https://tv.ulagos.cl/web/live.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -773,11 +760,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "fsG9WCXeLX2m3u",
-    "name": "Universidad Autónoma Temuco (UATV)",
+    "nanoid": "L90TWymzbjAtJm",
+    "name": "UCV TV",
     "stream_urls": [
-      "https://unlimited1-us.dps.live/uatv/uatv.smil/playlist.m3u8",
-      "https://unlimited6-cl.dps.live/uatv/uatv.smil/playlist.m3u8"
+      "https://unlimited2-cl-isp.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
