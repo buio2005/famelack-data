@@ -612,20 +612,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "h9xUZ9qtOT3ejC",
-    "name": "El 33 Originals",
-    "stream_urls": [
-      "https://directes-tv-int.3catdirectes.cat/live-content/c33-super3-hls/master.m3u8",
-      "https://directes-tv-int.3catdirectes.cat/live-origin/c33-super3-hls/master.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "cat"
-    ],
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "IgIhtSlDnhWcsL",
     "name": "El Futuro En tu Mano",
     "stream_urls": [],
@@ -1162,19 +1148,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "T3G7Gzr0nlBJuF",
-    "name": "Popular TV Murcia",
-    "stream_urls": [
-      "https://cloud.fastchannel.es/mic/manifiest/populartvrm.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "i6pKqAEMfhkAww",
     "name": "Punt 3 Vall Uixó",
     "stream_urls": [
@@ -1362,19 +1335,6 @@
     ],
     "youtube_urls": [],
     "languages": [],
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "jLlxOKRQAsHJaj",
-    "name": "Rakuten TV Drama Movies Finland",
-    "stream_urls": [
-      "https://d7e8ee3c924d4305a0c1840fe94c5d36.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6102/master.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "fin"
-    ],
     "country": "es",
     "isGeoBlocked": false
   },
@@ -1748,10 +1708,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "b0UZUurK9dP9q2",
-    "name": "Teleganés",
+    "nanoid": "9WgfAeppTstCFn",
+    "name": "Tele Safor",
     "stream_urls": [
-      "https://nlb2-live.emitstream.com/hls/5z6oj7ziwxzfnj78vg2m/master.m3u8"
+      "https://video.telesafor.com/hls/video.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -1767,6 +1727,19 @@
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/7Vm6RmLBgVU"
     ],
+    "languages": [
+      "spa"
+    ],
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "1nQKxr4bzoAoiY",
+    "name": "Telemotril",
+    "stream_urls": [
+      "https://5940924978228.streamlock.net/8431/8431/playlist.m3u8"
+    ],
+    "youtube_urls": [],
     "languages": [
       "spa"
     ],

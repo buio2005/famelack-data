@@ -107,7 +107,33 @@
     "nanoid": "u5b2On0IzN64A2",
     "name": "E40",
     "stream_urls": [
+      "https://rds3.desdeparaguay.net/dismartv/dismartv/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "py",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "u5b2On0IzN64A2",
+    "name": "E40",
+    "stream_urls": [
       "https://copacotf.desdeparaguay.net/e40tv/e40tv_py_alta/playlist.m3u8?admin=tvaccion"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "py",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Qo704xbyXZJTCe",
+    "name": "En Lengua de Senas TV",
+    "stream_urls": [
+      "https://cloudtv.streaming.com.py/lenguasdesenas/lenguasdesenas/chunklist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -121,19 +147,6 @@
     "name": "Gen",
     "stream_urls": [
       "https://copacogen.desdeparaguay.net/gentv/gentv_py_alta/playlist.m3u8?admin=nacion"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
-    "country": "py",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "KorxP0jgE3cFyZ",
-    "name": "GO TV",
-    "stream_urls": [
-      "https://rds3.desdeparaguay.net/gotv/gotv/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -169,10 +182,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "blN8uMLBNq1v02",
-    "name": "LIM TV",
+    "nanoid": "vCORrvB9khbwBn",
+    "name": "Mega TV",
     "stream_urls": [
-      "https://tv.invasivamedia.com/hls/limtv.m3u8"
+      "https://www.desde-paraguay.com/mega.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -197,6 +210,19 @@
   {
     "nanoid": "QPORKefjqCpm3X",
     "name": "Monumental TV",
+    "stream_urls": [
+      "https://copacogen.desdeparaguay.net/monumentaltv/monumentaltv_med/playlist.m3u8?admin=tvaccion"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "py",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "wJRs4rnzQYYV7u",
+    "name": "Nandejara Ne'e TV",
     "stream_urls": [
       "https://copacogen.desdeparaguay.net/monumentaltv/monumentaltv_med/playlist.m3u8?admin=tvaccion"
     ],
@@ -273,10 +299,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "yjn0fCt96jnweK",
-    "name": "República TV",
+    "nanoid": "bcFsomEBowqYIB",
+    "name": "Productiva TV",
     "stream_urls": [
-      "https://rds3.desdeparaguay.net/republicatv/republicatv/playlist.m3u8"
+      "https://copacoradios.desdeparaguay.net/productivatv/productivatv_baja/playlist.m3u8?admin=nacion"
     ],
     "youtube_urls": [],
     "languages": [
@@ -286,10 +312,23 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "ZvkiWYEeuwp6wf",
-    "name": "Suceso TV",
+    "nanoid": "dLi3714dJiy1F0",
+    "name": "RCC TV",
     "stream_urls": [
-      "https://live.enhdtv.com:8081/8060/index.m3u8"
+      "https://copacoradios.desdeparaguay.net/rcctv/rcctv/playlist.m3u8?admin=nacion"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "py",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "ERBtwPcBChyLTj",
+    "name": "Red Digital",
+    "stream_urls": [
+      "https://video.hostingcaaguazu.com:19360/reddigitalsanpedro/reddigitalsanpedro.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -303,6 +342,32 @@
     "name": "Telefuturo",
     "stream_urls": [
       "https://copacogen.desdeparaguay.net/telefuturo/telefuturo_py_alta/media.m3u8?admin=tvaccion"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "py",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "nkMb1YDs0h8mzP",
+    "name": "Tigo Sports",
+    "stream_urls": [
+      "https://live.enhdtv.com:8081/8160/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "py",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "cwbcfkhV6RVquj",
+    "name": "TV Aire",
+    "stream_urls": [
+      "https://video.hostingcaaguazu.com:19360/tvairepy/tvairepy.m3u8"
     ],
     "youtube_urls": [],
     "languages": [

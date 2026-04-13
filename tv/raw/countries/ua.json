@@ -4,7 +4,7 @@
     "name": "5 канал",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/w-FIbz6fpJc"
+      "https://www.youtube-nocookie.com/embed/PDho7mi2Kq8"
     ],
     "languages": [
       "ukr"
@@ -58,6 +58,19 @@
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/ScdUZNkwcYc"
     ],
+    "languages": [
+      "ukr"
+    ],
+    "country": "ua",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "1noDMwg9YAlG9Y",
+    "name": "Espreso TV",
+    "stream_urls": [
+      "https://dash4.antik.sk/live/test_espresso/playlist.m3u8"
+    ],
+    "youtube_urls": [],
     "languages": [
       "ukr"
     ],
@@ -156,10 +169,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "KNtnaXZuhjC6uj",
-    "name": "TIS TV",
+    "nanoid": "t4HZl9R8oxsSaq",
+    "name": "TV Rivne 1",
     "stream_urls": [
-      "https://cdn10.live-tv.cloud/riood/tisod-abr/riood/tisod720/playlist.m3u8"
+      "https://cdn1.live-tv.cloud/rivne1/rivne1-abr/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -258,6 +271,19 @@
     ],
     "languages": [
       "rus"
+    ],
+    "country": "ua",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "tke53J9UPinmCQ",
+    "name": "Телеканал Конкурент TV",
+    "stream_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/10fsIxg_bmM"
+    ],
+    "languages": [
+      "ukr"
     ],
     "country": "ua",
     "isGeoBlocked": false

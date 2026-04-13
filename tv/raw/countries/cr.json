@@ -39,20 +39,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "1LD9fRGKwL67SK",
-    "name": "BestClasicosTV",
-    "stream_urls": [
-      "https://acceso.mediosdecostarica.com:3873/multi_live/play.m3u8",
-      "https://acceso.mediosdecostarica.com:3873/live/bestclasicostvlive.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
-    "country": "cr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "X0fe1ozGC5qVsh",
     "name": "Canal 1",
     "stream_urls": [
@@ -207,10 +193,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "2TkyCEIMqFLsTQ",
-    "name": "IQ Channel",
+    "nanoid": "vPLx0tYa5CbY79",
+    "name": "Gex TV",
     "stream_urls": [
-      "https://rtmp.info/iqtv/envivo/playlist.m3u8"
+      "https://live20.bozztv.com/akamaissh101/ssh101/gextvaccess/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -226,19 +212,6 @@
       "https://lstv.duckdns.org:449/hls/lstv.m3u8"
     ],
     "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
-    "country": "cr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "fNzNQyxrdQA2dG",
-    "name": "Multimedios Costa Rica",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/I6g7Bu357zw"
-    ],
     "languages": [
       "spa"
     ],
@@ -285,19 +258,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "KWtXBE79zVCsGO",
-    "name": "San José TV",
-    "stream_urls": [
-      "https://rtmp.info/sanjosetv/envivo/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
-    "country": "cr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "RYVkiPv8DNw6UC",
     "name": "Sarapiqui TV",
     "stream_urls": [
@@ -311,10 +271,36 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "2ogrHzPUOLVEgc",
+    "name": "SOY Plancha TV",
+    "stream_urls": [
+      "https://59ef525c24caa.streamlock.net/vmtv/soyplancha/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "cr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "TBkO2VeN8pxR9c",
     "name": "TDtv",
     "stream_urls": [
       "https://cloudvideo.servers10.com:8081/8230/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "cr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "GHvLc9YKjbjb4r",
+    "name": "Telefides",
+    "stream_urls": [
+      "https://s2.cwebtv.net:4433/telefides/telefides/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -363,19 +349,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "aeI6TVNDKNvZiP",
-    "name": "TeleSUR Costa Rica",
-    "stream_urls": [
-      "https://s1.tvdatta.com:3582/live/telesurlive.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
-    "country": "cr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "xLJatClo1nNRli",
     "name": "TicaVision",
     "stream_urls": [
@@ -406,6 +379,19 @@
     "name": "Urbano TV",
     "stream_urls": [
       "https://59ef525c24caa.streamlock.net/tvurbano/tvurbano/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "cr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "tTy2o9iN37Hvi8",
+    "name": "Vintage Music",
+    "stream_urls": [
+      "https://59ef525c24caa.streamlock.net/vmtv/tvvintage/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [

@@ -275,20 +275,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "lgqzeQFxqCN8jW",
-    "name": "NewTV",
-    "stream_urls": [
-      "https://1409502578.rsc.cdn77.org/live/stream-1/chunklist.m3u8",
-      "https://1409502578.rsc.cdn77.org/live/stream-1/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "pol"
-    ],
-    "country": "pl",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "HCuXiJRBY0QrpX",
     "name": "Puls 2",
     "stream_urls": [
@@ -310,6 +296,19 @@
     "youtube_urls": [],
     "languages": [
       "eng"
+    ],
+    "country": "pl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "yVHVo5RwmcKcvS",
+    "name": "Radio Czwórka",
+    "stream_urls": [
+      "https://stream14.polskieradio.pl/pr4_video/video_pr4.stream/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "pol"
     ],
     "country": "pl",
     "isGeoBlocked": false
@@ -549,19 +548,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "9s6DDTJkNu9V38",
-    "name": "Telewizja Zabrze",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/8u4h61vLDV8"
-    ],
-    "languages": [
-      "pol"
-    ],
-    "country": "pl",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "zfdmNYbszO1KPF",
     "name": "Telewizja Żary",
     "stream_urls": [],
@@ -653,6 +639,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "2SfhuUEazfjthW",
+    "name": "TV Relax",
+    "stream_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/glNLaM3c_fY"
+    ],
+    "languages": [
+      "pol"
+    ],
+    "country": "pl",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "aY6u7qwNMI1Wgm",
     "name": "TVK Stella",
     "stream_urls": [
@@ -731,10 +730,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "fhrLMM5myTlOwL",
-    "name": "TVT Zgorzelec",
+    "nanoid": "UJrA93oKFNB1K1",
+    "name": "Twoja.TV",
     "stream_urls": [
-      "https://liveovh010cdapl.github.io/zkr7GNESGht4_0Wk12c78A/17538736/2782059/enc013/tvtzgorzelechdraw/tvtzgorzelechdraw.m3u8"
+      "https://stream.twoja.tv/ttv_hls/live.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -748,7 +747,7 @@
     "name": "Uniwersytet im. Adama Mickiewicza w Poznaniu",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/4qha6UZb4NE"
+      "https://www.youtube-nocookie.com/embed/CziguKA4BNk"
     ],
     "languages": [
       "pol"
