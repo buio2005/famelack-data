@@ -821,7 +821,6 @@
     "nanoid": "NpKnYf6l8RCovL",
     "name": "Radio Farda",
     "stream_urls": [
-      "https://stream.radiojar.com/cp13r2cpn3quv",
       "https://n01.radiojar.com/cp13r2cpn3quv",
       "https://rfe21.akacast.akamaistream.net/7/751/437779/v1/ibb.akacast.akamaistream.net/rfe21"
     ],
@@ -1109,7 +1108,6 @@
     "nanoid": "5fvvYKgcfNQz7K",
     "name": "Rádio Beat",
     "stream_urls": [
-      "https://icecast2.play.cz/beat128aac",
       "https://icecast1.play.cz/beat64.mp3",
       "https://icecast2.play.cz/radiobeat128.mp3"
     ],
@@ -1334,6 +1332,7 @@
     "nanoid": "Y092PJAm8VTgON",
     "name": "Rádio Samson",
     "stream_urls": [
+      "https://icecast2.play.cz/samsonfm128aac",
       "https://icecast8.play.cz/samsonfm128.mp3"
     ],
     "country": "cz",
@@ -1445,8 +1444,7 @@
     "name": "We House Radio",
     "stream_urls": [
       "https://stream.wehouseradio.com/stream/2/",
-      "https://stream.wehouseradio.com/stream/1/",
-      "https://stream.wehouseradio.com/stream/3/"
+      "https://stream.wehouseradio.com/stream/1/"
     ],
     "country": "cz",
     "languages": [
@@ -1528,6 +1526,17 @@
     "name": "Óčko Expres",
     "stream_urls": [
       "https://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist/cze/live_lq.m3u8"
+    ],
+    "country": "cz",
+    "languages": [
+      "ces"
+    ]
+  },
+  {
+    "nanoid": "zMJZ3yV1TgHksm",
+    "name": "Óčko Star",
+    "stream_urls": [
+      "https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko_gold.stream.1.smil/playlist.m3u8"
     ],
     "country": "cz",
     "languages": [
@@ -1629,17 +1638,6 @@
     "name": "ČRo Karlovy Vary",
     "stream_urls": [
       "https://rozhlas.stream/karlovy_vary_high.aac"
-    ],
-    "country": "cz",
-    "languages": [
-      "ces"
-    ]
-  },
-  {
-    "nanoid": "a2RUKEqOb5hayV",
-    "name": "ČRo Liberec",
-    "stream_urls": [
-      "https://rozhlas.stream/liberec_high.aac"
     ],
     "country": "cz",
     "languages": [
@@ -1865,17 +1863,6 @@
     ]
   },
   {
-    "nanoid": "iQm4pXyPuaPZ3b",
-    "name": "Азаттык Үналгысы",
-    "stream_urls": [
-      "https://n0f.radiojar.com/q9z8fs3nn3quv"
-    ],
-    "country": "cz",
-    "languages": [
-      "kir"
-    ]
-  },
-  {
     "nanoid": "CmI89tldZWWa9h",
     "name": "Азаттық радиосы",
     "stream_urls": [
@@ -1910,6 +1897,17 @@
     "country": "cz",
     "languages": [
       "rus"
+    ]
+  },
+  {
+    "nanoid": "O8l3a5jJLGQ8wI",
+    "name": "Радио Слободна Европа",
+    "stream_urls": [
+      "https://n06.radiojar.com/hrvg3cbpn3quv"
+    ],
+    "country": "cz",
+    "languages": [
+      "mkd"
     ]
   },
   {

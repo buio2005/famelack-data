@@ -775,6 +775,7 @@
     "nanoid": "1l7aYu7nneZoSc",
     "name": "Klasszik Rádió 92.1",
     "stream_urls": [
+      "https://s04.diazol.hu:9600/live.mp3",
       "https://www.klasszikradio.hu/klasszik.mp3"
     ],
     "country": "hu",
@@ -1188,22 +1189,10 @@
     ]
   },
   {
-    "nanoid": "Z1pvIPtPO6AQHn",
-    "name": "Oxygen Xmas",
-    "stream_urls": [
-      "https://oxygenmusic.hu:8000/xmas_320"
-    ],
-    "country": "hu",
-    "languages": [
-      "hun"
-    ]
-  },
-  {
     "nanoid": "9c4XmzHs5KKZ0y",
     "name": "Ozone FM",
     "stream_urls": [
-      "https://oxygenmusic.hu:8443/ozonefm_320",
-      "https://oxygenmusic.hu:8000/ozonefm_128"
+      "https://oxygenmusic.hu:8443/ozonefm_320"
     ],
     "country": "hu",
     "languages": [
@@ -1307,6 +1296,17 @@
     "name": "Radio Smile",
     "stream_urls": [
       "https://smile.str.42net.hu/stream/;"
+    ],
+    "country": "hu",
+    "languages": [
+      "hun"
+    ]
+  },
+  {
+    "nanoid": "tTQXjurGXe7sQZ",
+    "name": "Radio Sunrise",
+    "stream_urls": [
+      "https://s03.diazol.hu:7172/stream"
     ],
     "country": "hu",
     "languages": [

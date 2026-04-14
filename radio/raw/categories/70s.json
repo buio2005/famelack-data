@@ -728,8 +728,7 @@
     "name": "Gold Web Radio",
     "stream_urls": [
       "https://centova.svdns.com.br:19418/stream1",
-      "https://centova.svdns.com.br:19418/stream2",
-      "https://centova.svdns.com.br:19418/stream"
+      "https://centova.svdns.com.br:19418/stream2"
     ],
     "country": "br",
     "languages": [
@@ -962,18 +961,6 @@
     ]
   },
   {
-    "nanoid": "3EcSYrPGKlCTZj",
-    "name": "KRR 98.7 FM",
-    "stream_urls": [
-      "https://playerservices.streamtheworld.com/api/livestream-redirect/2KRR.mp3",
-      "https://playerservices.streamtheworld.com/api/livestream-redirect/2KRRAAC.aac"
-    ],
-    "country": "au",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
     "nanoid": "pHZGpdYLPmtK4s",
     "name": "KX Classics",
     "stream_urls": [
@@ -1112,8 +1099,7 @@
     "nanoid": "6KXQNS6eYbJDrw",
     "name": "MDR Sachsen",
     "stream_urls": [
-      "https://mdr-284280-0.sslcast.mdr.de/mdr/284280/0/mp3/high/stream.mp3",
-      "https://mdr-radio-hls.akamaized.net/hls/live/2112890/mdr-284280-3-hls/index.m3u8"
+      "https://mdr-284280-0.sslcast.mdr.de/mdr/284280/0/mp3/high/stream.mp3"
     ],
     "country": "de",
     "languages": [
@@ -1232,18 +1218,6 @@
     "country": "fr",
     "languages": [
       "fra"
-    ]
-  },
-  {
-    "nanoid": "vFmy7iPW4MiGUa",
-    "name": "Nostalgie+",
-    "stream_urls": [
-      "https://stream.rcs.revma.com/s9mkgtsqtg0uv"
-    ],
-    "country": "be",
-    "languages": [
-      "fra",
-      "nld"
     ]
   },
   {
@@ -1397,7 +1371,7 @@
     "stream_urls": [
       "https://streams.rsa-sachsen.de/70er/mp3-192",
       "https://streams.rsa-sachsen.de/70er/mp3-192/streams.rsa-sachsen.de/",
-      "https://rsa.streamabc.net/regc-rsasachsen70erold9456468-mp3-128-2357955?sABC=69qp1p67%230%23nnp26506rp49pqn990964o9n4q25s823%23fgernzf.efn-fnpufra.qr&aw_0_1st.playerid=streams.rsa-sachsen.de&amsparams=playerid:streams.rsa-sachsen.de;skey:1776032871"
+      "https://rsa.streamabc.net/regc-rsasachsen70erold9456468-mp3-128-2357955?sABC=69qq3nr7%230%23nnp26506rp49pqn990964o9n4q25s823%23fgernzf.efn-fnpufra.qr&aw_0_1st.playerid=streams.rsa-sachsen.de&amsparams=playerid:streams.rsa-sachsen.de;skey:1776106215"
     ],
     "country": "de",
     "languages": [
@@ -1422,8 +1396,8 @@
     "name": "Radio 10 60s & 70s Hits",
     "stream_urls": [
       "https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR18.mp3",
-      "https://25273.live.streamtheworld.com:443/TLPSTR18_SC",
-      "https://25323.live.streamtheworld.com:443/TLPSTR18_SC"
+      "https://29033.live.streamtheworld.com:443/TLPSTR18_SC",
+      "https://28983.live.streamtheworld.com:443/TLPSTR18_SC"
     ],
     "country": "nl",
     "languages": [
@@ -1718,6 +1692,17 @@
       "https://stream.zeno.fm/07brb24epkhvv"
     ],
     "country": "ve",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "oMieDrPLtA1VJY",
+    "name": "Radio Románticas Inolvidables",
+    "stream_urls": [
+      "https://stream.zeno.fm/6m1ba7yt3vduv"
+    ],
+    "country": "pe",
     "languages": [
       "spa"
     ]
@@ -2409,6 +2394,17 @@
     "country": "de",
     "languages": [
       "deu"
+    ]
+  },
+  {
+    "nanoid": "uNhBrazSs8EMx2",
+    "name": "WKM Radio 91.5",
+    "stream_urls": [
+      "https://mdstrm.com/audio/5df7cf305396b836ef541c12/live.m3u8"
+    ],
+    "country": "bo",
+    "languages": [
+      "spa"
     ]
   },
   {

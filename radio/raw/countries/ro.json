@@ -1746,17 +1746,6 @@
     ]
   },
   {
-    "nanoid": "oyWsCDBBv5rbMA",
-    "name": "Radio Kibuț",
-    "stream_urls": [
-      "https://www.radioking.com/play/radiokibut"
-    ],
-    "country": "ro",
-    "languages": [
-      "ron"
-    ]
-  },
-  {
     "nanoid": "EA35IISeQdGV6K",
     "name": "Radio Killer",
     "stream_urls": [
@@ -2391,6 +2380,17 @@
     ]
   },
   {
+    "nanoid": "SVhzSThy7gyr9G",
+    "name": "Radio Tequila TV",
+    "stream_urls": [
+      "https://stream.radiotequila.ro/tmp_hls/stream/index.m3u8"
+    ],
+    "country": "ro",
+    "languages": [
+      "ron"
+    ]
+  },
+  {
     "nanoid": "Y3Jx79vSH5iCyf",
     "name": "Radio Terranova",
     "stream_urls": [
@@ -2784,7 +2784,8 @@
     "nanoid": "AduB5vkEXU7YG0",
     "name": "Radio Vocea Speranței",
     "stream_urls": [
-      "https://live.rvs.ro/play"
+      "https://live.rvs.ro/play",
+      "https://live.rvs.ro/playhq"
     ],
     "country": "ro",
     "languages": [
@@ -3391,17 +3392,6 @@
     ]
   },
   {
-    "nanoid": "Dd5yCczvj6UyYT",
-    "name": "Sweet Vibes Radio",
-    "stream_urls": [
-      "https://a8.asurahosting.com:7640/stream"
-    ],
-    "country": "ro",
-    "languages": [
-      "ron"
-    ]
-  },
-  {
     "nanoid": "owzD1xnGZVKWu0",
     "name": "Szépvíz FM",
     "stream_urls": [
@@ -3507,6 +3497,17 @@
     "stream_urls": [
       "https://radiotrucker.com/en/play/vibe-fm-romania",
       "https://live.radiovibefm.eu/8052/stream"
+    ],
+    "country": "ro",
+    "languages": [
+      "ron"
+    ]
+  },
+  {
+    "nanoid": "wtUu0jvddRPK7j",
+    "name": "Virgin Radio România",
+    "stream_urls": [
+      "https://astreaming.edi.ro:8443/VirginRadio_aac"
     ],
     "country": "ro",
     "languages": [

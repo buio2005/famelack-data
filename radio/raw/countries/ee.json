@@ -608,10 +608,33 @@
     ]
   },
   {
+    "nanoid": "hISwPTB6rsOPCm",
+    "name": "Star FM",
+    "stream_urls": [
+      "https://ice.leviracloud.eu/star96-aac",
+      "https://ice.leviracloud.eu/star320-mp3"
+    ],
+    "country": "ee",
+    "languages": [
+      "est"
+    ]
+  },
+  {
     "nanoid": "JNFAvywAaAjS6f",
     "name": "Star FM Eesti",
     "stream_urls": [
       "https://ice.leviracloud.eu/starFMEesti96-aac"
+    ],
+    "country": "ee",
+    "languages": [
+      "est"
+    ]
+  },
+  {
+    "nanoid": "pbUFvPX46XU0LX",
+    "name": "Tre Raadio Põhja-Eesti",
+    "stream_urls": [
+      "https://cdn.treraadio.ee/pohja-tre"
     ],
     "country": "ee",
     "languages": [

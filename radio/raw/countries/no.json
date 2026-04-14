@@ -181,6 +181,17 @@
     ]
   },
   {
+    "nanoid": "7t8S3c2xy2v9vG",
+    "name": "NRK P1",
+    "stream_urls": [
+      "https://lyd.nrk.no/nrk_radio_p1_ostlandssendingen_aac_h"
+    ],
+    "country": "no",
+    "languages": [
+      "nor"
+    ]
+  },
+  {
     "nanoid": "bJ4UqZXlLG8aI8",
     "name": "NRK P1 Buskerud",
     "stream_urls": [
@@ -437,6 +448,7 @@
     "name": "NRK Sport",
     "stream_urls": [
       "https://cdn0-47115-liveicecast0.dna.contentdelivery.net/sport_aac_h",
+      "https://lyd.nrk.no/nrk_radio_sport_aac_h",
       "https://lyd.nrk.no/nrk_radio_sport_mp3_m"
     ],
     "country": "no",

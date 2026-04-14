@@ -150,8 +150,8 @@
     "name": "AFN Rota",
     "stream_urls": [
       "https://playerservices.streamtheworld.com/api/livestream-redirect/AFNE_RTA_SC",
-      "https://29083.live.streamtheworld.com:443/AFNE_RTA_SC",
-      "https://27743.live.streamtheworld.com:443/AFNE_RTA_SC"
+      "https://22183.live.streamtheworld.com:443/AFNE_RTA_SC",
+      "https://27823.live.streamtheworld.com:443/AFNE_RTA_SC"
     ],
     "country": "es",
     "languages": [
@@ -209,17 +209,6 @@
     "name": "Alhaurín Radio",
     "stream_urls": [
       "https://server8.emitironline.com:18266/radio"
-    ],
-    "country": "es",
-    "languages": [
-      "spa"
-    ]
-  },
-  {
-    "nanoid": "3M8mle8G61WWfD",
-    "name": "Almodóvar en La Onda",
-    "stream_urls": [
-      "https://nrf1.newradio.it:9972/stream"
     ],
     "country": "es",
     "languages": [
@@ -341,6 +330,17 @@
     ]
   },
   {
+    "nanoid": "uJyzYd3GfzYSWT",
+    "name": "Azul FM",
+    "stream_urls": [
+      "https://azura5.emisiononline.es:8000/azulfm986"
+    ],
+    "country": "es",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
     "nanoid": "0hlLGtnslBobJV",
     "name": "Bakanos FM",
     "stream_urls": [
@@ -373,6 +373,17 @@
     "languages": [
       "spa",
       "eng"
+    ]
+  },
+  {
+    "nanoid": "sxBv1w1yFpVGQh",
+    "name": "Berea FM",
+    "stream_urls": [
+      "https://eu1.lhdserver.es:8039/stream"
+    ],
+    "country": "es",
+    "languages": [
+      "spa"
     ]
   },
   {
@@ -549,17 +560,6 @@
     ]
   },
   {
-    "nanoid": "15mEapCEDLplWW",
-    "name": "Cadena SER Málaga",
-    "stream_urls": [
-      "https://playerservices.streamtheworld.com/api/livestream-redirect/SER_MALAGA.mp3"
-    ],
-    "country": "es",
-    "languages": [
-      "spa"
-    ]
-  },
-  {
     "nanoid": "GrvWrI0Dg7c051",
     "name": "Cadena SER Pontevedra",
     "stream_urls": [
@@ -633,7 +633,7 @@
     "stream_urls": [
       "https://playerservices.streamtheworld.com/api/livestream-redirect/SER_GALICIA_SC",
       "https://19983.live.streamtheworld.com:443/SER_GALICIA_SC",
-      "https://27743.live.streamtheworld.com:443/SER_GALICIA_SC"
+      "https://27863.live.streamtheworld.com:443/SER_GALICIA_SC"
     ],
     "country": "es",
     "languages": [
@@ -676,6 +676,18 @@
     ]
   },
   {
+    "nanoid": "6VkosrFfF2ZtMy",
+    "name": "Cadena SER Radio Menorca",
+    "stream_urls": [
+      "https://server10.emitironline.com:8040/"
+    ],
+    "country": "es",
+    "languages": [
+      "spa",
+      "cat"
+    ]
+  },
+  {
     "nanoid": "Jp1AXPZzh3iSkZ",
     "name": "Cadena SER Radio Morón",
     "stream_urls": [
@@ -691,8 +703,8 @@
     "name": "Cadena SER Radio Murcia",
     "stream_urls": [
       "https://playerservices.streamtheworld.com/api/livestream-redirect/SER_MURCIA_SC",
-      "https://27833.live.streamtheworld.com:443/SER_MURCIA_SC",
-      "https://20043.live.streamtheworld.com:443/SER_MURCIA_SC"
+      "https://25543.live.streamtheworld.com:443/SER_MURCIA_SC",
+      "https://19993.live.streamtheworld.com:443/SER_MURCIA_SC"
     ],
     "country": "es",
     "languages": [
@@ -837,17 +849,6 @@
     ]
   },
   {
-    "nanoid": "gFRXSkHn6vabi9",
-    "name": "Cadena SER+ Castilla",
-    "stream_urls": [
-      "https://playerservices.streamtheworld.com/api/livestream-redirect/SER_MAS_BURGOS.mp3"
-    ],
-    "country": "es",
-    "languages": [
-      "spa"
-    ]
-  },
-  {
     "nanoid": "suDCefoAqd9fpw",
     "name": "Cadena SER+ Cádiz",
     "stream_urls": [
@@ -973,17 +974,6 @@
     "name": "Cadena SER+ Murcia",
     "stream_urls": [
       "https://playerservices.streamtheworld.com/api/livestream-redirect/SER_MAS_MURCIA.mp3"
-    ],
-    "country": "es",
-    "languages": [
-      "spa"
-    ]
-  },
-  {
-    "nanoid": "qKIggER5G6ybBB",
-    "name": "Cadena SER+ Málaga",
-    "stream_urls": [
-      "https://playerservices.streamtheworld.com/api/livestream-redirect/SER_MAS_MALAGA.mp3"
     ],
     "country": "es",
     "languages": [
@@ -1408,17 +1398,6 @@
     ]
   },
   {
-    "nanoid": "vdHcilKNSICHQR",
-    "name": "China FM",
-    "stream_urls": [
-      "https://radioserver12.profesionalhosting.com/proxy/pkg152387/stream"
-    ],
-    "country": "es",
-    "languages": [
-      "zho"
-    ]
-  },
-  {
     "nanoid": "IFTBsBE3d5m8id",
     "name": "Classic Old Time Radio",
     "stream_urls": [
@@ -1487,21 +1466,10 @@
     ]
   },
   {
-    "nanoid": "zz4nc5wKWNax4R",
-    "name": "COPE Albacete",
-    "stream_urls": [
-      "https://wecast12-h-cloud.flumotion.com/copesedes/albacete.mp3"
-    ],
-    "country": "es",
-    "languages": [
-      "spa"
-    ]
-  },
-  {
     "nanoid": "u8eY99A5RATZBe",
     "name": "COPE Cartagena",
     "stream_urls": [
-      "https://wecast-bl02.flumotion.com/copesedes/cartagena.mp3"
+      "https://wecast24-o-cloud.flumotion.com/copesedes/cartagena.mp3"
     ],
     "country": "es",
     "languages": [
@@ -1512,7 +1480,7 @@
     "nanoid": "Buoa3KSXxqnGgs",
     "name": "COPE Gijón",
     "stream_urls": [
-      "https://wecast-bl02.flumotion.com/copesedes/gijon.mp3"
+      "https://wecast01-h-cloud.flumotion.com/copesedes/gijon.mp3"
     ],
     "country": "es",
     "languages": [
@@ -1535,7 +1503,7 @@
     "nanoid": "bfRwdAvtsKqfb3",
     "name": "COPE Málaga",
     "stream_urls": [
-      "https://flucast05-h-cloud.flumotion.com/cope/net1.mp3"
+      "https://flucast21-h-cloud.flumotion.com/cope/net1.mp3"
     ],
     "country": "es",
     "languages": [
@@ -1557,7 +1525,7 @@
     "nanoid": "wRViwCjOifyMFR",
     "name": "COPE Santander",
     "stream_urls": [
-      "https://wecast27-o-cloud.flumotion.com/copesedes/santander.mp3"
+      "https://wecast22-o-cloud.flumotion.com/copesedes/santander.mp3"
     ],
     "country": "es",
     "languages": [
@@ -1568,7 +1536,7 @@
     "nanoid": "8OVU0hqMQwK9la",
     "name": "COPE Sevilla",
     "stream_urls": [
-      "https://wecast14-h-cloud.flumotion.com/copesedes/sevilla.mp3"
+      "https://wecast13-h-cloud.flumotion.com/copesedes/sevilla.mp3"
     ],
     "country": "es",
     "languages": [
@@ -1590,7 +1558,7 @@
     "nanoid": "BTBj0IFl4yVYAr",
     "name": "COPE Tenerife",
     "stream_urls": [
-      "https://wecast03-h-cloud.flumotion.com/copesedes/tenerife-mas.mp3"
+      "https://wecast-bl02.flumotion.com/copesedes/tenerife-mas.mp3"
     ],
     "country": "es",
     "languages": [
@@ -1671,7 +1639,6 @@
     "nanoid": "ptQGOCWdeMIW5X",
     "name": "CUAC FM",
     "stream_urls": [
-      "https://streaming.cuacfm.org/cuacfm.ogg",
       "https://streaming.cuacfm.org/cuacfm-128k.mp3"
     ],
     "country": "es",
@@ -1719,6 +1686,17 @@
     "name": "Decibelia FM",
     "stream_urls": [
       "https://streaming.shoutcast.com/decibelia"
+    ],
+    "country": "es",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "Sj7xc7DT8INHXR",
+    "name": "Deep Mix Radio",
+    "stream_urls": [
+      "https://deepmix.org/stream"
     ],
     "country": "es",
     "languages": [
@@ -3434,7 +3412,6 @@
     "nanoid": "SHVe5FKlFbH7co",
     "name": "LOS40 Dance",
     "stream_urls": [
-      "https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_DANCE_SC",
       "https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_DANCE.mp3"
     ],
     "country": "es",
@@ -3695,7 +3672,7 @@
     "name": "MegaStar FM",
     "stream_urls": [
       "https://megastar-cope.flumotion.com/playlist.m3u8",
-      "https://flucast33-h-cloud.flumotion.com/cope/megastar.mp3",
+      "https://flucast12-h-cloud.flumotion.com/cope/megastar.mp3",
       "https://megastar-cope.flumotion.com/chunks.m3u8"
     ],
     "country": "es",
@@ -3730,6 +3707,17 @@
     "name": "Misterium",
     "stream_urls": [
       "https://streamingv2.shoutcast.com/Misterium"
+    ],
+    "country": "es",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "iNtl6jjg57JZZb",
+    "name": "Misterium II",
+    "stream_urls": [
+      "https://streamingv2.shoutcast.com/misterium-ii"
     ],
     "country": "es",
     "languages": [
@@ -3914,6 +3902,17 @@
     "name": "Olímpica Stereo Burgos",
     "stream_urls": [
       "https://sonic2.sistemahost.es:7036/stream"
+    ],
+    "country": "es",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "f9ze1cpiAZGF7L",
+    "name": "Olímpica Stereo Valencia",
+    "stream_urls": [
+      "https://sonicpanel.zonaradio.net/8320/stream"
     ],
     "country": "es",
     "languages": [
@@ -4395,17 +4394,6 @@
     ]
   },
   {
-    "nanoid": "BuYc6lOh5ZolyU",
-    "name": "Onda Zamora",
-    "stream_urls": [
-      "https://eu1.lhdserver.es:8003/stream"
-    ],
-    "country": "es",
-    "languages": [
-      "spa"
-    ]
-  },
-  {
     "nanoid": "oZejZeDQn0lq5z",
     "name": "Ondamar80",
     "stream_urls": [
@@ -4461,6 +4449,17 @@
     "languages": [
       "spa",
       "eng"
+    ]
+  },
+  {
+    "nanoid": "9275QwWEZhEDOA",
+    "name": "PabloMix Music",
+    "stream_urls": [
+      "https://sonic2.sistemahost.es/8068/stream"
+    ],
+    "country": "es",
+    "languages": [
+      "spa"
     ]
   },
   {
@@ -4847,6 +4846,19 @@
     ]
   },
   {
+    "nanoid": "Iq5acjYkmKBfiZ",
+    "name": "Radio del Hogar de la Brisa",
+    "stream_urls": [
+      "https://stream.zeno.fm/4vwgvyq82k8uv"
+    ],
+    "country": "es",
+    "languages": [
+      "eng",
+      "spa",
+      "eus"
+    ]
+  },
+  {
     "nanoid": "7x9dLGstZ88nep",
     "name": "Radio Diana D",
     "stream_urls": [
@@ -4856,17 +4868,6 @@
     "languages": [
       "spa",
       "eng"
-    ]
-  },
-  {
-    "nanoid": "xXF3wfeAQIuapu",
-    "name": "Radio Disco Melodia FM",
-    "stream_urls": [
-      "https://sonic.mediatelekom.net/8020/stream"
-    ],
-    "country": "es",
-    "languages": [
-      "spa"
     ]
   },
   {
@@ -6598,6 +6599,18 @@
     ]
   },
   {
+    "nanoid": "cmStXq4qbTSvzg",
+    "name": "Ràdio Desvern",
+    "stream_urls": [
+      "https://enacast.com/radiodesvern/streams/HD"
+    ],
+    "country": "es",
+    "languages": [
+      "cat",
+      "spa"
+    ]
+  },
+  {
     "nanoid": "YT7N9eAzyupv5s",
     "name": "Ràdio el Vendrell",
     "stream_urls": [
@@ -7453,18 +7466,6 @@
     "country": "es",
     "languages": [
       "cat"
-    ]
-  },
-  {
-    "nanoid": "jE9WNX6e14rteC",
-    "name": "The Beatles Radio",
-    "stream_urls": [
-      "https://thebeatlesradio-rowrigos.radioca.st/live"
-    ],
-    "country": "es",
-    "languages": [
-      "spa",
-      "eng"
     ]
   },
   {

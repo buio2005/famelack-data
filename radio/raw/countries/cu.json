@@ -4,8 +4,8 @@
     "name": "AFN 360 Guantanamo Bay",
     "stream_urls": [
       "https://playerservices.streamtheworld.com/api/livestream-redirect/AFNE_GMO_SC",
-      "https://22653.live.streamtheworld.com:443/AFNE_GMO_SC",
-      "https://25633.live.streamtheworld.com:443/AFNE_GMO_SC"
+      "https://27783.live.streamtheworld.com:443/AFNE_GMO_SC",
+      "https://29053.live.streamtheworld.com:443/AFNE_GMO_SC"
     ],
     "country": "cu",
     "languages": [
@@ -35,6 +35,17 @@
     ]
   },
   {
+    "nanoid": "hdzA6jFpH910bE",
+    "name": "Cubanía Radio",
+    "stream_urls": [
+      "https://streamingv2.shoutcast.com/cubania"
+    ],
+    "country": "cu",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
     "nanoid": "gmicEbEyDkNGM9",
     "name": "Hostal Azul Radio",
     "stream_urls": [
@@ -50,17 +61,6 @@
     "name": "Neon Radio XL",
     "stream_urls": [
       "https://s12.myradiostream.com:16754/listen.m4a"
-    ],
-    "country": "cu",
-    "languages": [
-      "spa"
-    ]
-  },
-  {
-    "nanoid": "OsdEs4CxhmXKdL",
-    "name": "Radio 26",
-    "stream_urls": [
-      "https://icecast.teveo.cu/LsxKNz7b"
     ],
     "country": "cu",
     "languages": [
@@ -90,10 +90,10 @@
     ]
   },
   {
-    "nanoid": "otSbeEb0TxKdgw",
-    "name": "Radio Bayamo 98.6 FM",
+    "nanoid": "IjarSwMW9pjPhs",
+    "name": "Radio Banes",
     "stream_urls": [
-      "https://icecast.teveo.cu/7hdNcTbM"
+      "https://icecast.teveo.cu/9cMzdkK7"
     ],
     "country": "cu",
     "languages": [
@@ -171,17 +171,6 @@
     "name": "Radio Habana Cuba",
     "stream_urls": [
       "https://icecast.teveo.cu/McW3fLhs"
-    ],
-    "country": "cu",
-    "languages": [
-      "spa"
-    ]
-  },
-  {
-    "nanoid": "HYCLudGxg2DkFr",
-    "name": "Radio Jiganí",
-    "stream_urls": [
-      "https://icecast.teveo.cu/nkz3TCfR"
     ],
     "country": "cu",
     "languages": [
@@ -267,17 +256,6 @@
     ]
   },
   {
-    "nanoid": "WIsULeHzEIVsLH",
-    "name": "Radio Sagua",
-    "stream_urls": [
-      "https://icecast.teveo.cu/wHm3qrMx"
-    ],
-    "country": "cu",
-    "languages": [
-      "spa"
-    ]
-  },
-  {
     "nanoid": "xfRnvsrNjPWOjx",
     "name": "Radio Sancti Spíritus",
     "stream_urls": [
@@ -293,6 +271,18 @@
     "name": "Radio Taíno",
     "stream_urls": [
       "https://icecast.teveo.cu/3MCwWg3V"
+    ],
+    "country": "cu",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "msPAua9SG5v6dE",
+    "name": "Radio Victoria",
+    "stream_urls": [
+      "https://icecast.teveo.cu/P77NJX4X",
+      "https://icecast.teveo.cu/F9tgnJVT"
     ],
     "country": "cu",
     "languages": [

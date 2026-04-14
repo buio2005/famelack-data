@@ -39,8 +39,8 @@
     "name": "AFN Incirlik 107.1 FM",
     "stream_urls": [
       "https://playerservices.streamtheworld.com/api/livestream-redirect/AFNE_ICK_SC",
-      "https://25443.live.streamtheworld.com:443/AFNE_ICK_SC",
-      "https://29103.live.streamtheworld.com:443/AFNE_ICK_SC"
+      "https://29103.live.streamtheworld.com:443/AFNE_ICK_SC",
+      "https://25443.live.streamtheworld.com:443/AFNE_ICK_SC"
     ],
     "country": "tr",
     "languages": [
@@ -1643,6 +1643,17 @@
     ]
   },
   {
+    "nanoid": "7Ms6bh8yagV1XJ",
+    "name": "Radyo Bilkent",
+    "stream_urls": [
+      "https://stream.netradyom.com/listen/radyobilkent/radio.mp3"
+    ],
+    "country": "tr",
+    "languages": [
+      "tur"
+    ]
+  },
+  {
     "nanoid": "wGRqzou2HpSjGr",
     "name": "Radyo Cem 95.5",
     "stream_urls": [
@@ -1832,17 +1843,6 @@
     "name": "Radyo Fıtrat",
     "stream_urls": [
       "https://radyofitrat.radyotvonline.net/"
-    ],
-    "country": "tr",
-    "languages": [
-      "tur"
-    ]
-  },
-  {
-    "nanoid": "f6C7v3q8GAx4TU",
-    "name": "Radyo Gedik",
-    "stream_urls": [
-      "https://radyo-t.gedik.edu.tr/stream.mp3"
     ],
     "country": "tr",
     "languages": [
@@ -2526,17 +2526,6 @@
     "stream_urls": [
       "https://rd-trtnagme.medya.trt.com.tr/master.m3u8",
       "https://tv-trtmuzik.medya.trt.com.tr/master_720.m3u8"
-    ],
-    "country": "tr",
-    "languages": [
-      "tur"
-    ]
-  },
-  {
-    "nanoid": "Eo8ht9AcA3mKQr",
-    "name": "TRT Radyo 1",
-    "stream_urls": [
-      "https://trt.radyotvonline.net/trt1"
     ],
     "country": "tr",
     "languages": [

@@ -1252,7 +1252,7 @@
     "name": "BFBS Edge",
     "stream_urls": [
       "https://listen-ssvcbfbs.sharp-stream.com/ssvcbfbs22.aac",
-      "https://edge-audio-staging-gos2-02.sharp-stream.com:80/ssvcbfbs22.mp3"
+      "https://edge-audio-02-thn.sharp-stream.com:80/ssvcbfbs22.mp3"
     ],
     "country": "uk",
     "languages": [
@@ -1768,8 +1768,7 @@
     "nanoid": "6qGNbI25oiT3Rx",
     "name": "Brooklands Radio",
     "stream_urls": [
-      "https://stream4.hippynet.co.uk/stream/brooklandsradio",
-      "https://stream4.hippynet.co.uk:8008/mobile"
+      "https://stream4.hippynet.co.uk/stream/brooklandsradio"
     ],
     "country": "uk",
     "languages": [
@@ -1858,6 +1857,17 @@
     "name": "Canalside Radio 102.8 FM",
     "stream_urls": [
       "https://radio.canstream.co.uk:8035/canal.mp3"
+    ],
+    "country": "uk",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "rjZWJDfWPTHroq",
+    "name": "Cannock Chase Radio FM",
+    "stream_urls": [
+      "https://streaming.broadcast.radio/cannockchase"
     ],
     "country": "uk",
     "languages": [
@@ -2474,17 +2484,6 @@
     "name": "CROP Radio",
     "stream_urls": [
       "https://s3.radio.co/sb713b671e/listen"
-    ],
-    "country": "uk",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
-    "nanoid": "mt0ytSy8WGHPF8",
-    "name": "Cross Rhythms City Radio",
-    "stream_urls": [
-      "https://stream.crossrhythms.co.uk/city/hq.mp3"
     ],
     "country": "uk",
     "languages": [
@@ -3788,17 +3787,6 @@
     ]
   },
   {
-    "nanoid": "yUM9laFd2N5z1R",
-    "name": "HappyHardcore.com",
-    "stream_urls": [
-      "https://audio-edge-3mayu.fra.h.radiomast.io/73055724-1141-41e2-a69b-24a6ca96c8e7"
-    ],
-    "country": "uk",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
     "nanoid": "Olv8F7HowftdfP",
     "name": "Hard Rock Nation",
     "stream_urls": [
@@ -4250,6 +4238,17 @@
     "stream_urls": [
       "https://icecast.thisisdax.com/HeartPeterboroughMP3",
       "https://media-ice.musicradio.com/HeartPeterboroughMP3"
+    ],
+    "country": "uk",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "xpGBSG83KZyraG",
+    "name": "Heart Plymouth",
+    "stream_urls": [
+      "https://media-sov.musicradio.com/HeartPlymouth"
     ],
     "country": "uk",
     "languages": [
@@ -5292,6 +5291,17 @@
     ]
   },
   {
+    "nanoid": "ickHWj8BW12TVo",
+    "name": "Lightning Radio",
+    "stream_urls": [
+      "https://s4.citrus3.com:8168/live"
+    ],
+    "country": "uk",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
     "nanoid": "XLyujVG21W3rMN",
     "name": "Like Alt",
     "stream_urls": [
@@ -5810,6 +5820,17 @@
     ]
   },
   {
+    "nanoid": "JuQN9HZ00nGMBQ",
+    "name": "Mazoozie",
+    "stream_urls": [
+      "https://stream-mazoozie.creativedork.com/"
+    ],
+    "country": "uk",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
     "nanoid": "VqtNIKOMKotrVZ",
     "name": "Mdog Radio",
     "stream_urls": [
@@ -6114,8 +6135,7 @@
     "nanoid": "GHEueSwY8wiCOR",
     "name": "Naim Radio",
     "stream_urls": [
-      "https://mscp3.live-streams.nl:8362/flac.flac",
-      "https://mscp3.live-streams.nl:8362/high.aac"
+      "https://mscp3.live-streams.nl:8362/flac.flac"
     ],
     "country": "uk",
     "languages": [
@@ -6283,6 +6303,17 @@
     "name": "Nazareth Radio",
     "stream_urls": [
       "https://stream.pcradio.ru/Nazareth-hi"
+    ],
+    "country": "uk",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "3vl3vO1rp8oJl1",
+    "name": "NCB Radio",
+    "stream_urls": [
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/SAM04AAC90_SC"
     ],
     "country": "uk",
     "languages": [
@@ -6921,17 +6952,6 @@
     ]
   },
   {
-    "nanoid": "bKKuGnycVDiHLi",
-    "name": "Passion Radio",
-    "stream_urls": [
-      "https://stream.mybroadbandradio.com/passionradio"
-    ],
-    "country": "uk",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
     "nanoid": "CMuf2an1ESTO0T",
     "name": "Past Perfect Radio",
     "stream_urls": [
@@ -7092,18 +7112,6 @@
     "name": "Premier Christian Radio",
     "stream_urls": [
       "https://pcr.streamguys1.com/pcrnational-96k.aac"
-    ],
-    "country": "uk",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
-    "nanoid": "nlGB2GpH00mPRH",
-    "name": "Primordial Radio",
-    "stream_urls": [
-      "https://play.adtonos.com/thisisprimordial",
-      "https://fr1-play.adtonos.com/8108/thisisprimordial"
     ],
     "country": "uk",
     "languages": [
@@ -8148,6 +8156,17 @@
     ]
   },
   {
+    "nanoid": "S8wFE0MIh6vX8C",
+    "name": "Radioalfa 5 Latin Hits",
+    "stream_urls": [
+      "https://stream.zeno.fm/x9y4ytkavqzuv"
+    ],
+    "country": "uk",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
     "nanoid": "n0hxRZJm9XeZtl",
     "name": "Radioalfa 6 Latin Hits",
     "stream_urls": [
@@ -8239,7 +8258,6 @@
     "nanoid": "2EqtrWmC3GevjR",
     "name": "RadioSEGA",
     "stream_urls": [
-      "https://icecast.radiosega.net/rs-flac.ogg",
       "https://icecast.radiosega.net/live"
     ],
     "country": "uk",
@@ -8402,6 +8420,17 @@
     ]
   },
   {
+    "nanoid": "zdYIfBIQ60qeg4",
+    "name": "Retro Mix Radio",
+    "stream_urls": [
+      "https://stream.retromixradio.co.uk/radio48"
+    ],
+    "country": "uk",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
     "nanoid": "3OCTMLw8182SCg",
     "name": "Revolution Radio One",
     "stream_urls": [
@@ -8439,6 +8468,17 @@
     "name": "Ribble FM",
     "stream_urls": [
       "https://uksouth.streaming.broadcast.radio/ribblefm"
+    ],
+    "country": "uk",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "AhIcL7kdFCnovg",
+    "name": "Rinse FM",
+    "stream_urls": [
+      "https://admin.stream.rinse.fm/proxy/rinse_uk/stream"
     ],
     "country": "uk",
     "languages": [

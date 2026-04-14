@@ -16,7 +16,7 @@
     "stream_urls": [
       "https://playerservices.streamtheworld.com/api/livestream-redirect/FM702_SC",
       "https://playerservices.streamtheworld.com/api/livestream-redirect/FM702_192AAC.aac",
-      "https://27863.live.streamtheworld.com:443/FM702_SC"
+      "https://22673.live.streamtheworld.com:443/FM702_SC"
     ],
     "country": "za",
     "languages": [
@@ -41,7 +41,7 @@
     "stream_urls": [
       "https://playerservices.streamtheworld.com/api/livestream-redirect/FM947AAC_SC",
       "https://playerservices.streamtheworld.com/api/livestream-redirect/FM947_SC",
-      "https://22713.live.streamtheworld.com:443/FM947AAC_SC"
+      "https://27823.live.streamtheworld.com:443/FM947AAC_SC"
     ],
     "country": "za",
     "languages": [
@@ -139,7 +139,7 @@
     "stream_urls": [
       "https://playerservices.streamtheworld.com/api/livestream-redirect/CAPE_TALK_SC",
       "https://27863.live.streamtheworld.com/CAPE_TALKAAC_SC",
-      "https://25693.live.streamtheworld.com:443/CAPE_TALK_SC"
+      "https://28513.live.streamtheworld.com:443/CAPE_TALK_SC"
     ],
     "country": "za",
     "languages": [
@@ -290,15 +290,6 @@
     "languages": []
   },
   {
-    "nanoid": "op7EbH173gy4K4",
-    "name": "Fresh 87.6 FM",
-    "stream_urls": [
-      "https://stream-173.zeno.fm/ut4p7ak2uhhvv"
-    ],
-    "country": "za",
-    "languages": []
-  },
-  {
     "nanoid": "pG7eIXtDoKwuAB",
     "name": "Gay SA Radio",
     "stream_urls": [
@@ -444,6 +435,15 @@
       "zul",
       "ven"
     ]
+  },
+  {
+    "nanoid": "YZAsItMEJj7ACh",
+    "name": "K8TLEGO FM",
+    "stream_urls": [
+      "https://streamingv2.shoutcast.com/k8tlego-fm"
+    ],
+    "country": "za",
+    "languages": []
   },
   {
     "nanoid": "lNTwoI6n0L7nUt",

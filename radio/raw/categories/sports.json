@@ -508,17 +508,6 @@
     ]
   },
   {
-    "nanoid": "xoZ2Wjdy3fYOTH",
-    "name": "Acord Antioquia Radio",
-    "stream_urls": [
-      "https://radio25.virtualtronics.com:20061/;"
-    ],
-    "country": "co",
-    "languages": [
-      "spa"
-    ]
-  },
-  {
     "nanoid": "9BFyf45WhOQ65Y",
     "name": "ADN Radio",
     "stream_urls": [
@@ -578,7 +567,7 @@
     "nanoid": "4NAnHnoOPnmEpI",
     "name": "AM 570 LA Sports",
     "stream_urls": [
-      "https://n43a-e2.revma.ihrhls.com:443/zc189"
+      "https://n36a-e2.revma.ihrhls.com:443/zc189"
     ],
     "country": "us",
     "languages": [
@@ -913,6 +902,17 @@
     "name": "Ellada Sports 94.3",
     "stream_urls": [
       "https://tls-chrome.live24.gr/3297"
+    ],
+    "country": "gr",
+    "languages": [
+      "ell"
+    ]
+  },
+  {
+    "nanoid": "k8KjdxEWquM3YW",
+    "name": "EOK Web Radio",
+    "stream_urls": [
+      "https://netradio.live24.gr/elomkal"
     ],
     "country": "gr",
     "languages": [
@@ -1305,6 +1305,17 @@
     ]
   },
   {
+    "nanoid": "2yP1EdZkzS8MWN",
+    "name": "Fox Sports Pueblo (KDZA)",
+    "stream_urls": [
+      "https://stream.revma.ihrhls.com/zc4015"
+    ],
+    "country": "us",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
     "nanoid": "jEcKVsA1lFyQHr",
     "name": "Fox Sports Radio",
     "stream_urls": [
@@ -1673,6 +1684,7 @@
     "name": "La Radio Redonda",
     "stream_urls": [
       "https://laredondafm.makrodigital.com/stream/radiolaredondaquito",
+      "https://laredondafm.makrodigital.com:9550/stream",
       "https://laredondafm.makrodigital.com:9560/stream"
     ],
     "country": "ec",
@@ -1786,6 +1798,7 @@
     "name": "NRK Sport",
     "stream_urls": [
       "https://cdn0-47115-liveicecast0.dna.contentdelivery.net/sport_aac_h",
+      "https://lyd.nrk.no/nrk_radio_sport_aac_h",
       "https://lyd.nrk.no/nrk_radio_sport_mp3_m"
     ],
     "country": "no",
@@ -2194,6 +2207,17 @@
     ]
   },
   {
+    "nanoid": "RzEGfOLHD8ksqe",
+    "name": "Radio Monumental 93.5 FM",
+    "stream_urls": [
+      "https://d217zps3ol2v0s.cloudfront.net/index.m3u8"
+    ],
+    "country": "cr",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
     "nanoid": "1FvWeX7EFRA3Ag",
     "name": "Radio Panteion Sports",
     "stream_urls": [
@@ -2418,10 +2442,10 @@
     ]
   },
   {
-    "nanoid": "eBKsUab1jXizUQ",
-    "name": "Rádio Amigos do Futebol",
+    "nanoid": "GFF34Nbi9T8FoD",
+    "name": "Rádio ABC 103.3 FM",
     "stream_urls": [
-      "https://ssl.voxhd.com.br:7086/;"
+      "https://streamabc.gruposinos.com.br:8443/radio"
     ],
     "country": "br",
     "languages": [
@@ -2466,6 +2490,17 @@
     "name": "Rádio Bandeirantes Goiânia",
     "stream_urls": [
       "https://casthttps.suaradionanet.net/13633/stream"
+    ],
+    "country": "br",
+    "languages": [
+      "por"
+    ]
+  },
+  {
+    "nanoid": "Np3uYxPNA47S9F",
+    "name": "Rádio Clube do Pará",
+    "stream_urls": [
+      "https://carajas2.jmvstream.com/live"
     ],
     "country": "br",
     "languages": [
@@ -2556,6 +2591,17 @@
     "name": "Rádio Grenal",
     "stream_urls": [
       "https://grenal.audiostream.com.br:20000/aac"
+    ],
+    "country": "br",
+    "languages": [
+      "por"
+    ]
+  },
+  {
+    "nanoid": "lsHi8OSsAgMayz",
+    "name": "Rádio Grenal 95.9 FM",
+    "stream_urls": [
+      "https://grenal.audiostream.com.br:20000/mp3"
     ],
     "country": "br",
     "languages": [
@@ -2703,6 +2749,17 @@
     "country": "us",
     "languages": [
       "eng"
+    ]
+  },
+  {
+    "nanoid": "dkd5AU1vAcF6pP",
+    "name": "Sport 890",
+    "stream_urls": [
+      "https://alba-uy-sport890-sport890.stream.mediatiquestream.com/index.m3u8"
+    ],
+    "country": "uy",
+    "languages": [
+      "spa"
     ]
   },
   {
@@ -2911,6 +2968,17 @@
       "https://playerservices.streamtheworld.com/api/livestream-redirect/WLLFFMAAC_SC"
     ],
     "country": "us",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "VpbosmBJzf013S",
+    "name": "Sports Radio Brila FM",
+    "stream_urls": [
+      "https://atunwadigital.streamguys1.com/brilafm"
+    ],
+    "country": "ng",
     "languages": [
       "eng"
     ]
@@ -3572,7 +3640,7 @@
     "nanoid": "aYilviIVTCmjQx",
     "name": "WDAE Tampa Bay's Sports Radio",
     "stream_urls": [
-      "https://n42a-e2.revma.ihrhls.com:443/zc673"
+      "https://n35a-e2.revma.ihrhls.com:443/zc673"
     ],
     "country": "us",
     "languages": [

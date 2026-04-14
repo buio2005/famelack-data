@@ -413,7 +413,7 @@
     "stream_urls": [
       "https://cbcradiolive.akamaized.net/hls/live/2041055/ES_R2AHF/master.m3u8",
       "https://26733.live.streamtheworld.com:443/CBH_CBC_SC",
-      "https://26283.live.streamtheworld.com:443/CBH_CBC_SC"
+      "https://29243.live.streamtheworld.com:443/CBH_CBC_SC"
     ],
     "country": "ca",
     "languages": [
@@ -638,6 +638,17 @@
     "country": "de",
     "languages": [
       "deu"
+    ]
+  },
+  {
+    "nanoid": "HuTfJAwQ561RDd",
+    "name": "Friends of 'CSB",
+    "stream_urls": [
+      "https://s20.myradiostream.com:18792/listen.mp3"
+    ],
+    "country": "us",
+    "languages": [
+      "eng"
     ]
   },
   {
@@ -949,7 +960,7 @@
     "stream_urls": [
       "https://23023.live.streamtheworld.com/KAWCAM.mp3",
       "https://playerservices.streamtheworld.com/api/livestream-redirect/KAWCAM_SC",
-      "https://23023.live.streamtheworld.com:443/KAWCAM_SC"
+      "https://18443.live.streamtheworld.com:443/KAWCAM_SC"
     ],
     "country": "us",
     "languages": [
@@ -1164,6 +1175,17 @@
       "https://stream-mixtape-geo.ntslive.net/mixtape3"
     ],
     "country": "uk",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "vKtzLmh56tiv0K",
+    "name": "Nude Radio",
+    "stream_urls": [
+      "https://streaming.live365.com/a07325"
+    ],
+    "country": "us",
     "languages": [
       "eng"
     ]
