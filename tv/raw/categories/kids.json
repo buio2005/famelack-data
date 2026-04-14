@@ -315,8 +315,7 @@
     "nanoid": "eXRHxuSjLuhKid",
     "name": "Carousel",
     "stream_urls": [
-      "https://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/variant.m3u8",
-      "https://streaming.televizor-24-tochka.ru/live/232.m3u8"
+      "https://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/variant.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -804,6 +803,32 @@
       "spa"
     ],
     "country": "cr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "B8LyCtk6GOmYge",
+    "name": "GEM Junior",
+    "stream_urls": [
+      "https://ca-rt.onetv.app/gemjunior/index-0.m3u8?token=onetv202"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "fas"
+    ],
+    "country": "tr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "ieLnBcLC9nAYv4",
+    "name": "GEM Kids",
+    "stream_urls": [
+      "https://ca-rt.onetv.app/gemkids/index-0.m3u8?token=onetv202"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "fas"
+    ],
+    "country": "tr",
     "isGeoBlocked": false
   },
   {
@@ -1308,7 +1333,7 @@
     "name": "Peppa Pig Brasil",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/629nmpdYs_A"
+      "https://www.youtube-nocookie.com/embed/BxW5a8ZoyW4"
     ],
     "languages": [
       "por"
@@ -1373,7 +1398,7 @@
     "name": "Pororo 뽀로로",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/-D4kUwBeZnY"
+      "https://www.youtube-nocookie.com/embed/XbK54E8-_mU"
     ],
     "languages": [
       "kor"
@@ -1525,11 +1550,24 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "h9eDkCfbFxUPDf",
+    "name": "Sunny Bunnies",
+    "stream_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/SNe_XXOgt9Y"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "3C5tAme4Sy2gIV",
     "name": "Super Simple: Bedtime Songs",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/-uUx-oOJaH4"
+      "https://www.youtube-nocookie.com/embed/7skTEuC_aSI"
     ],
     "languages": [
       "eng"
@@ -1542,7 +1580,7 @@
     "name": "Super Simple: Noodle and Pals",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/6P0I4SRqmCE"
+      "https://www.youtube-nocookie.com/embed/jjwRnbON214"
     ],
     "languages": [
       "eng"
@@ -1555,7 +1593,7 @@
     "name": "Super Simple: Simple Songs",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/9W1fJ_l5MKw"
+      "https://www.youtube-nocookie.com/embed/VzpEowJNhEU"
     ],
     "languages": [
       "eng"
@@ -2029,7 +2067,7 @@
     "name": "小猪佩奇 中文官方 - Peppa Pig",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/bnwuAiKZ6KU"
+      "https://www.youtube-nocookie.com/embed/hsT95CdGkXE"
     ],
     "languages": [
       "zho"

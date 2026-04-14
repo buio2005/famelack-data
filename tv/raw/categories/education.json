@@ -549,6 +549,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "sJtHUQ2FEosClO",
+    "name": "Educa TV",
+    "stream_urls": [
+      "https://avm.ecuamedia.net/educatv/live/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "ec",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "DuJd4u0fDHyZVy",
     "name": "Eduvision",
     "stream_urls": [
@@ -559,6 +572,19 @@
       "spa"
     ],
     "country": "co",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Qo704xbyXZJTCe",
+    "name": "En Lengua de Senas TV",
+    "stream_urls": [
+      "https://cloudtv.streaming.com.py/lenguasdesenas/lenguasdesenas/chunklist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "py",
     "isGeoBlocked": false
   },
   {
@@ -735,19 +761,6 @@
     "name": "MCN6 Arts Channel",
     "stream_urls": [
       "https://d18fcxaqfnwjhj.cloudfront.net/CDN_Ingest/MCN6_COMEDY.smil/Playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "KGiWQ62o6Np82a",
-    "name": "Midpen Media Center Youth Education and Sports Channel 28",
-    "stream_urls": [
-      "https://5c2974786200d.streamlock.net/live-chan28/ngrp:ch28_all/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -1054,19 +1067,6 @@
       "eng"
     ],
     "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "TnpnbHf11tv1Pa",
-    "name": "Señal España (XHUNES-TDT)",
-    "stream_urls": [
-      "https://tv91.hostingnuclear.com:19360/xhunestv/xhunestv.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
-    "country": "mx",
     "isGeoBlocked": false
   },
   {

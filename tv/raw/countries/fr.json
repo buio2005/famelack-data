@@ -78,6 +78,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "MC6eofj34HPSlv",
+    "name": "Africanews",
+    "stream_urls": [
+      "https://c3c275b999764df8a2dd55ffe2996818.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6576/bitok/eyJzdGlkIjoiOTU0NDAyODQtOTU0My00Yzc2LThmZjQtNDRhY2YwYmQxYTYwIiwibWt0IjoicGwiLCJjaCI6NjYwNiwicHRmIjo1fQ==/26036/africanews-en.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [],
+    "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "2U4gd5rnY0obyR",
     "name": "AfricaNews English",
     "stream_urls": [],
@@ -136,6 +147,19 @@
       "https://live-antenne-reunion.zeop.tv/live/c3eds/antreunihd/hls_fta/antreunihd.m3u8?location=ZEOP01"
     ],
     "youtube_urls": [],
+    "languages": [
+      "fra"
+    ],
+    "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "SFsrKozwjoLj8R",
+    "name": "B SMART",
+    "stream_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/0rs-r5AbvFE"
+    ],
     "languages": [
       "fra"
     ],
@@ -988,6 +1012,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "aRYM4hJmBP444c",
+    "name": "My Gospel TV",
+    "stream_urls": [
+      "https://streamtv.cmediahosthosting.net:3046/live/mygospeltvlive.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "fra"
+    ],
+    "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "frxoUV6KIlJwd1",
     "name": "MyTime Movie Network France",
     "stream_urls": [
@@ -1449,8 +1486,7 @@
     "nanoid": "WGDiUT1T62mE6W",
     "name": "Sony One Series Thriller",
     "stream_urls": [
-      "https://483a1e90c18641c9a6d27becd41ad892.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-821-FR-SONYONESRIESTHRILLER-LG_FR/playlist.m3u8",
-      "https://d1573iiyr4aa7c.cloudfront.net/playlist.m3u8"
+      "https://483a1e90c18641c9a6d27becd41ad892.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-821-FR-SONYONESRIESTHRILLER-LG_FR/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -1623,6 +1659,19 @@
     "name": "ViàMatélé",
     "stream_urls": [
       "https://5dd226f8f01e8.streamlock.net/via-matele-live/matelelive_1080/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "fra"
+    ],
+    "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "FYoDPpWlyg9gMc",
+    "name": "viàTéléPaese",
+    "stream_urls": [
+      "https://srv.webtvmanager.fr:3970/live/viatelepaeselive.m3u8"
     ],
     "youtube_urls": [],
     "languages": [

@@ -1,18 +1,5 @@
 [
   {
-    "nanoid": "8Bv8hcX2tNuzZb",
-    "name": "Antena Uno RadioVideo",
-    "stream_urls": [
-      "https://tvdatta.com:3578/live/antenaunolive.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
-    "country": "ec",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "E9zUPixFiovro2",
     "name": "Asomavisión",
     "stream_urls": [
@@ -43,19 +30,6 @@
     "name": "Bacán Te Veo",
     "stream_urls": [
       "https://stmv6.voxtvhd.com.br/vacantveo2/vacantveo2/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
-    "country": "ec",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "z55XBR4UrpAo4V",
-    "name": "Canal Sur",
-    "stream_urls": [
-      "https://avm.ecuamedia.net/canalsur/live/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -134,6 +108,19 @@
     "name": "Ecuavisa Quito",
     "stream_urls": [
       "https://redirector.dps.live/hls-video/c54ac2799874375c81c1672abb700870537c5223/ecuavisa/ecuavisa.smil/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "ec",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "sJtHUQ2FEosClO",
+    "name": "Educa TV",
+    "stream_urls": [
+      "https://avm.ecuamedia.net/educatv/live/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -325,6 +312,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "uyqGhNahms3fZ0",
+    "name": "Multicanal Catamayo",
+    "stream_urls": [
+      "https://multicanal.streamseguro.com:5443/LiveApp/streams/streaming.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "ec",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "1rUb7jXosDq9U6",
     "name": "Ñuka TV",
     "stream_urls": [
@@ -342,19 +342,6 @@
     "name": "Ondas Quevedeñas TV",
     "stream_urls": [
       "https://stmv6.voxtvhd.com.br/radiosuprema/radiosuprema/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
-    "country": "ec",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "LRZplckRTbzRYe",
-    "name": "Oromar TV",
-    "stream_urls": [
-      "https://stream.oromar.tv/hls/oromartv_hi/index.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -563,6 +550,19 @@
     "name": "TV Cisne",
     "stream_urls": [
       "https://video2.lhdserver.es/tvcisne/live.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "ec",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "7rCpyg4PCpPsco",
+    "name": "TV Color Canal 36",
+    "stream_urls": [
+      "https://video.compuwebecuador.com:3067/live/tvcolorlive.m3u8"
     ],
     "youtube_urls": [],
     "languages": [

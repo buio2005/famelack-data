@@ -225,7 +225,7 @@
     "name": "Chilevisión",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/MdcXkInklto"
+      "https://www.youtube-nocookie.com/embed/38UOveVLW8k"
     ],
     "languages": [
       "spa"
@@ -240,19 +240,6 @@
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/IvJY7dPoLRQ"
     ],
-    "languages": [
-      "spa"
-    ],
-    "country": "cl",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "itmATVZa5Ggr1u",
-    "name": "Click TV (Coronel)",
-    "stream_urls": [
-      "https://v2.tustreaming.cl/clicktv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
     "languages": [
       "spa"
     ],
@@ -403,6 +390,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "ubJBXevTlFFMsm",
+    "name": "Meganoticias",
+    "stream_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/cain3VaMox4"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "country": "cl",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "rFCQYWbNPQlvWE",
     "name": "MTNA TV",
     "stream_urls": [
@@ -420,6 +420,19 @@
     "name": "NCTV",
     "stream_urls": [
       "https://pantera1-100gb-cl-movistar.dps.live/nctv/nctv.smil/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "cl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "dmSkx9ZqRcdIYu",
+    "name": "Nublevision",
+    "stream_urls": [
+      "https://tv.arkeo.cl:1936/nublevision/nublevision/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -487,19 +500,6 @@
     "name": "Radio Ritmo",
     "stream_urls": [
       "https://panel.tvstream.cl:1936/8046/8046/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
-    "country": "cl",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "EWWfUf457LGzph",
-    "name": "Retro Plus 2",
-    "stream_urls": [
-      "https://tls-cl.cdnz.cl/retroplustvuno/live/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -643,6 +643,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "k0nYFEHOKnqOiZ",
+    "name": "TNE",
+    "stream_urls": [
+      "https://v2.tustreaming.cl/tnetv/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "cl",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "aE41LbUT8Fnd7w",
     "name": "Turf Movil",
     "stream_urls": [
@@ -764,6 +777,19 @@
     "name": "UCV TV",
     "stream_urls": [
       "https://unlimited2-cl-isp.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "cl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "fsG9WCXeLX2m3u",
+    "name": "Universidad Autónoma Temuco (UATV)",
+    "stream_urls": [
+      "https://unlimited1-us.dps.live/uatv/uatv.smil/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [

@@ -148,6 +148,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "R8E994mqmmDshs",
+    "name": "Italian Fishing TV",
+    "stream_urls": [
+      "https://fms.premio.link/fishingtv/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "ita"
+    ],
+    "country": "it",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "5eNJBvozHJiGRG",
     "name": "Love Nature",
     "stream_urls": [
@@ -206,6 +219,7 @@
     "nanoid": "P1PoD5jjT64Mum",
     "name": "Outside TV",
     "stream_urls": [
+      "https://outsidetv-firetv.amagi.tv/playlist.m3u8",
       "https://outsidetv-outsidetv-mgsp6.amagi.tv/playlist/outsidetv-outsidetv/playlist.m3u8",
       "https://desdobebr2wri.cloudfront.net/Outside.m3u8"
     ],

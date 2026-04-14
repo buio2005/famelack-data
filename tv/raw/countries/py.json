@@ -130,6 +130,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "Qo704xbyXZJTCe",
+    "name": "En Lengua de Senas TV",
+    "stream_urls": [
+      "https://cloudtv.streaming.com.py/lenguasdesenas/lenguasdesenas/chunklist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "py",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "FuiSRD0mYmX331",
     "name": "Farra Play",
     "stream_urls": [
@@ -146,6 +159,7 @@
     "nanoid": "1SiTErM3CiKcqk",
     "name": "Gen",
     "stream_urls": [
+      "https://gentvpeer.desdeparaguay.net/gentvpeer/gentv_py_alta/master.m3u8",
       "https://copacogen.desdeparaguay.net/gentv/gentv_py_alta/playlist.m3u8?admin=nacion"
     ],
     "youtube_urls": [],
@@ -330,19 +344,6 @@
     "name": "RCC TV",
     "stream_urls": [
       "https://copacoradios.desdeparaguay.net/rcctv/rcctv/playlist.m3u8?admin=nacion"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
-    "country": "py",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "ERBtwPcBChyLTj",
-    "name": "Red Digital",
-    "stream_urls": [
-      "https://video.hostingcaaguazu.com:19360/reddigitalsanpedro/reddigitalsanpedro.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
