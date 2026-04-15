@@ -260,6 +260,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "bJvWnnQVU7Dde8",
+    "name": "Canal 1 Mar Menor-Torre Pacheco",
+    "stream_urls": [
+      "https://directo.tuwebtv.es/canal1.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "S8bsgo9w7Yzo3D",
     "name": "Canal 3 Biar",
     "stream_urls": [
@@ -695,7 +708,7 @@
     "name": "El Futuro En tu Mano",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/K4xi4RPSAIk"
+      "https://www.youtube-nocookie.com/embed/_Zg9_zHl6xY"
     ],
     "languages": [
       "spa"
@@ -1248,19 +1261,6 @@
     "name": "Radio 3",
     "stream_urls": [
       "https://rtvelivestream.rtve.es/rtvesec/rne/rne3_main.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "79RGODupZW3p8n",
-    "name": "Radio Carnaval TV",
-    "stream_urls": [
-      "https://eu1.servers10.com:8081/8116/index.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -1882,19 +1882,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "MYmpRnITzqWFJm",
-    "name": "Televisión Aranda",
-    "stream_urls": [
-      "https://cloud.streamingconnect.tv/hls/telearanda/telearanda.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "RlnmDgh5EEksVR",
     "name": "TELEVISIÓN Canaria",
     "stream_urls": [],
@@ -1912,6 +1899,19 @@
     "name": "Televisión Consciente",
     "stream_urls": [
       "https://cdn318.fractalmedia.es/318/live/hls/tvc/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "KtWdn3QueOpj9h",
+    "name": "Tito TV",
+    "stream_urls": [
+      "https://cloud.tvomix.com/TITOTV/index.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -2029,6 +2029,19 @@
     "name": "TVE Star HD",
     "stream_urls": [
       "https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_1080.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "ofMevJFkJJi256",
+    "name": "TVO Jesus",
+    "stream_urls": [
+      "https://cloud.tvomix.com/TVOJESUS/index.m3u8"
     ],
     "youtube_urls": [],
     "languages": [

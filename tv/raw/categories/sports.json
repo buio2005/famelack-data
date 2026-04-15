@@ -215,7 +215,8 @@
     "name": "DD Sports SD",
     "stream_urls": [
       "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8",
-      "https://cdn-6.pishow.tv/live/13/master.m3u8"
+      "https://cdn-6.pishow.tv/live/13/master.m3u8",
+      "https://mumt02.tangotv.in/DDSPORTS/index.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -504,6 +505,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "GV38pwWqigwkoF",
+    "name": "HTV Thể thao",
+    "stream_urls": [
+      "https://live.fptplay53.net/epzhd1/htvcthethao_vhls.smil/chunklist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "vie"
+    ],
+    "country": "vn",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "YJ0VLCpIyYcZ5V",
     "name": "InTrouble",
     "stream_urls": [
@@ -760,10 +774,7 @@
     "nanoid": "1s9iqdlMC7cMrp",
     "name": "Pac 12 Insider",
     "stream_urls": [
-      "https://pac12-firetv.amagi.tv/playlist.m3u8",
-      "https://pac12-roku-us.amagi.tv/playlist.m3u8",
-      "https://pac12-samsungus.amagi.tv/playlist.m3u8",
-      "https://pac12-vizio.amagi.tv/playlist.m3u8"
+      "https://pac12-samsungus.amagi.tv/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -1042,8 +1053,7 @@
     "stream_urls": [
       "https://amg00315-sportsgrid-firetv.amagi.tv/playlist.m3u8",
       "https://sportsgrid-plex.amagi.tv/playlist.m3u8",
-      "https://sportsgrid-samsungus.amagi.tv/playlist.m3u8",
-      "https://sportsgrid-klowdtv.amagi.tv/playlist.m3u8"
+      "https://sportsgrid-samsungus.amagi.tv/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -1092,19 +1102,6 @@
       "eng"
     ],
     "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "33I8L4BMFDa1WF",
-    "name": "TDM Sports Ch. 93",
-    "stream_urls": [
-      "https://live3.tdm.com.mo/ch4/sport_ch4.live/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "zho"
-    ],
-    "country": "mo",
     "isGeoBlocked": false
   },
   {
@@ -1251,6 +1248,19 @@
       "ron"
     ],
     "country": "ro",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "OS0pJpfqrL4sYH",
+    "name": "TVRI Sport",
+    "stream_urls": [
+      "https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "ind"
+    ],
+    "country": "id",
     "isGeoBlocked": false
   },
   {

@@ -66,10 +66,49 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "ZgdcsAoxUBnS3U",
+    "name": "BTB HD",
+    "stream_urls": [
+      "https://emisja.btb.j00r.us/iptv/session/1/hls.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "pol"
+    ],
+    "country": "pl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "vifXiIDfcyAksy",
+    "name": "BTB Info",
+    "stream_urls": [
+      "https://emisja2.btb.j00r.us/iptv/session/4/hls.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "pol"
+    ],
+    "country": "pl",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "Zgg5DBKwX2XCJo",
     "name": "BTB International",
     "stream_urls": [
       "https://emisja.btb.j00r.us/iptv/session/2/hls.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "pol"
+    ],
+    "country": "pl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "QpkwHa7GwFnKLp",
+    "name": "BTB Music",
+    "stream_urls": [
+      "https://panel.btb.j00r.us/memfs/ebaffae6-0086-49d7-843d-57f2c561de86.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -363,19 +402,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "1tR7VJn14clZ7t",
-    "name": "Szlagier TV",
-    "stream_urls": [
-      "https://vefgpbwcjjjbxfng.naszatv.pl/index.fmp4.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "pol"
-    ],
-    "country": "pl",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "EQEGSe3LlRCr52",
     "name": "Szlagierowo: Biesiadne Radio",
     "stream_urls": [],
@@ -428,19 +454,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "hjCXHjX41BNCM8",
-    "name": "Telewizja Gorzów",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/HpnqLnzV3oA"
-    ],
-    "languages": [
-      "pol"
-    ],
-    "country": "pl",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "hs9A8d0OBl1eij",
     "name": "Telewizja iTTV",
     "stream_urls": [
@@ -484,19 +497,6 @@
     "name": "Telewizja Regionalna Zary",
     "stream_urls": [
       "https://tvregfull.mailfull.pl/tvregfull/memfs/e64b3e05-649c-4939-9ff6-584e79285ccd_output_0.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "pol"
-    ],
-    "country": "pl",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "ZQRxQD0cfkbApQ",
-    "name": "Telewizja Relax",
-    "stream_urls": [
-      "https://srv1.streamingo.pl/memfs/be50f17e-6579-4bdf-86b1-31207aec85b8.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -666,7 +666,7 @@
     "name": "TV Relax",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/AleULD48tAg"
+      "https://www.youtube-nocookie.com/embed/KqdZgN8AnR4"
     ],
     "languages": [
       "pol"

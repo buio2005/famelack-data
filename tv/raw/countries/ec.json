@@ -1,5 +1,18 @@
 [
   {
+    "nanoid": "8Bv8hcX2tNuzZb",
+    "name": "Antena Uno RadioVideo",
+    "stream_urls": [
+      "https://tvdatta.com:3578/live/antenaunolive.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "ec",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "E9zUPixFiovro2",
     "name": "Asomavisión",
     "stream_urls": [
@@ -351,6 +364,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "LRZplckRTbzRYe",
+    "name": "Oromar TV",
+    "stream_urls": [
+      "https://stream.oromar.tv/hls/oromartv_hi/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "ec",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "if95kHJ4URww0a",
     "name": "PJ Digital Radio TV",
     "stream_urls": [
@@ -407,19 +433,6 @@
     "name": "Radio Cuenca Estéreo",
     "stream_urls": [
       "https://eu1.servers10.com:8081/8074/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
-    "country": "ec",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "PZkl1QNtloGB1B",
-    "name": "Radio Impacto 2",
-    "stream_urls": [
-      "https://panel.streamingtv-mediacp.online:1936/jawepvrvyz/jawepvrvyz/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [

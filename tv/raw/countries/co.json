@@ -66,19 +66,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "z6j8GoKR6XeFrc",
-    "name": "Cali TV",
-    "stream_urls": [
-      "https://5ab772334c39c.streamlock.net/live-calitv/calitv1/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
-    "country": "co",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "BHoTvgxAWuPUYQ",
     "name": "Canal 2 Alpavisión Neiva",
     "stream_urls": [
@@ -110,6 +97,32 @@
     "name": "Canal 14 Codazzi",
     "stream_urls": [
       "https://eu1.servers10.com:8081/8056/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "co",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "dIQhSN2tH9x7qG",
+    "name": "Canal 55 Telemorisco TV",
+    "stream_urls": [
+      "https://canal.mediaserver.com.co/live/telemorisco.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "co",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "4tOQsHNAnrUk50",
+    "name": "Canal Calima TV",
+    "stream_urls": [
+      "https://movil.ejeserver.com/live/calimatv.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -213,11 +226,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "e29jn80x7K7M0D",
-    "name": "CityTv",
+    "nanoid": "y6DIrrNamySBRa",
+    "name": "Caracol Televisión",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/dcEUFdmypwA"
+      "https://www.youtube-nocookie.com/embed/j458i5GspGo"
     ],
     "languages": [
       "spa"
@@ -226,13 +239,12 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "DJujsKbajr1MwV",
-    "name": "CMB Television",
-    "stream_urls": [
-      "https://cdn1.cmbcolombia.tv/bethesda/video.m3u8",
-      "https://hls-m9hrfayq-livepush.akamaized.net/live_cdn/nsxlDfnVmUyEy/eme2QCj5oX02cY/index.m3u8"
+    "nanoid": "e29jn80x7K7M0D",
+    "name": "CityTv",
+    "stream_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/w0h00fhtkCo"
     ],
-    "youtube_urls": [],
     "languages": [
       "spa"
     ],
@@ -245,6 +257,19 @@
     "stream_urls": [
       "https://movil.ejeserver.com/live/cncbuga.m3u8",
       "https://video.ejeserver.com/live/cncbuga.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "co",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "vlNh6cGmLuP4h1",
+    "name": "CNC Pereira",
+    "stream_urls": [
+      "https://cloudvideo.servers10.com:8081/latinchaneltv/index.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -402,19 +427,6 @@
     "name": "La Morada Radio TV",
     "stream_urls": [
       "https://movil.ejeserver.com/live/lamoradatv.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
-    "country": "co",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "Ip9MDCdkimyNqv",
-    "name": "Luna Estéreo 106.4 FM",
-    "stream_urls": [
-      "https://servervideo.intermediacolombia.com:19360/kychbbfhdz/kychbbfhdz.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -699,19 +711,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "OQFI4DY0MMP8is",
-    "name": "Telebolívar",
-    "stream_urls": [
-      "https://live20.bozztv.com/akamaissh101/ssh101/telebolivar/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
-    "country": "co",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "NNAoypPSm0OCzN",
     "name": "Teleislas",
     "stream_urls": [
@@ -729,19 +728,6 @@
     "name": "Telepacífico",
     "stream_urls": [
       "https://play.cdn.enetres.net/6E5C615AA5FF4123ACAF0DAB57B7B8DC021/022/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
-    "country": "co",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "Clv7XzV3Q51izu",
-    "name": "Telesangil",
-    "stream_urls": [
-      "https://live20.bozztv.com/akamaissh101/ssh101/telesangil/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [

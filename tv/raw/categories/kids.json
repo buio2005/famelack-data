@@ -315,7 +315,8 @@
     "nanoid": "eXRHxuSjLuhKid",
     "name": "Carousel",
     "stream_urls": [
-      "https://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/variant.m3u8"
+      "https://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/variant.m3u8",
+      "https://streaming.televizor-24-tochka.ru/live/232.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -859,19 +860,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "1ov4rKCt7xdyVW",
-    "name": "Japanim TV",
-    "stream_urls": [
-      "https://foxkidstv.be:3369/stream/play.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "fra"
-    ],
-    "country": "be",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "EDJsRoJArkwgcL",
     "name": "Jetix",
     "stream_urls": [],
@@ -1186,6 +1174,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "1JYYpqQgnjcE3u",
+    "name": "NickOnline",
+    "stream_urls": [
+      "https://x1co.com.br/hls/stream.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "por"
+    ],
+    "country": "br",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "eyL4xvR1sE1phq",
     "name": "Nicktoons",
     "stream_urls": [],
@@ -1333,7 +1334,7 @@
     "name": "Peppa Pig Brasil",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/BxW5a8ZoyW4"
+      "https://www.youtube-nocookie.com/embed/R3oJDlrl6WQ"
     ],
     "languages": [
       "por"
@@ -1554,7 +1555,7 @@
     "name": "Sunny Bunnies",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/SNe_XXOgt9Y"
+      "https://www.youtube-nocookie.com/embed/IVN-qMi0SVc"
     ],
     "languages": [
       "eng"
@@ -1801,19 +1802,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "fg8Ci5rWERRdEL",
-    "name": "Unicorn Academy",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/lLA1vLKyJWA"
-    ],
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "ZAvkusD7l4cZyu",
     "name": "VTV",
     "stream_urls": [
@@ -1857,7 +1845,7 @@
     "name": "WildBrain Kids",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/vHQIQkwLCXg"
+      "https://www.youtube-nocookie.com/embed/0W_sxb1zj5U"
     ],
     "languages": [
       "eng"
@@ -1909,7 +1897,7 @@
     "name": "WildBrain: Teletubbies",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/WADOmGEOpxA"
+      "https://www.youtube-nocookie.com/embed/aIHdFfg0nZ0"
     ],
     "languages": [
       "eng"
@@ -2067,7 +2055,7 @@
     "name": "小猪佩奇 中文官方 - Peppa Pig",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/hsT95CdGkXE"
+      "https://www.youtube-nocookie.com/embed/ZkRAVAkzVQE"
     ],
     "languages": [
       "zho"

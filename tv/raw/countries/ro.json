@@ -365,19 +365,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "HXUJ0Y6Fs5W3Ui",
-    "name": "Mooz Hits",
-    "stream_urls": [
-      "https://rtmp.digitalbroadcast.ro/moozhits/moozhits.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "ron"
-    ],
-    "country": "ro",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "2U91fowazsObgI",
     "name": "Mooz Ro!",
     "stream_urls": [
@@ -395,6 +382,19 @@
     "name": "Muscel TV",
     "stream_urls": [
       "https://cdn.streamnet.pro/musceltv/live/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "ron"
+    ],
+    "country": "ro",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "GJqoGQwicVaUST",
+    "name": "Nasul TV",
+    "stream_urls": [
+      "https://live.nasul.tv/live/stream.m3u8"
     ],
     "youtube_urls": [],
     "languages": [

@@ -39,10 +39,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "9cN6rSKGfOi3ha",
-    "name": "Canal 3 KMK TV",
+    "nanoid": "1LD9fRGKwL67SK",
+    "name": "BestClasicosTV",
     "stream_urls": [
-      "https://live20.bozztv.com/giatv/giatv-KMKTV/KMKTV/chunks.m3u8"
+      "https://acceso.mediosdecostarica.com:3873/multi_live/play.m3u8",
+      "https://acceso.mediosdecostarica.com:3873/live/bestclasicostvlive.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -52,10 +53,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "lhFBUBQYMx1tnO",
-    "name": "Canal 10",
+    "nanoid": "X0fe1ozGC5qVsh",
+    "name": "Canal 1",
     "stream_urls": [
-      "https://acceso.mediosdecostarica.com:3606/live/canal10costaricalive.m3u8"
+      "https://vid.canal1cr.com:3424/multi_live/play_720.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -206,6 +207,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "2TkyCEIMqFLsTQ",
+    "name": "IQ Channel",
+    "stream_urls": [
+      "https://rtmp.info/iqtv/envivo/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "cr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "L0Xj3EMr6sq9Oz",
     "name": "Los Santos TV",
     "stream_urls": [
@@ -271,6 +285,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "KWtXBE79zVCsGO",
+    "name": "San José TV",
+    "stream_urls": [
+      "https://rtmp.info/sanjosetv/envivo/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "cr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "RYVkiPv8DNw6UC",
     "name": "Sarapiqui TV",
     "stream_urls": [
@@ -301,6 +328,19 @@
     "name": "TDtv",
     "stream_urls": [
       "https://cloudvideo.servers10.com:8081/8230/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "cr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "FY9JMfvI9sWSMw",
+    "name": "TeleBrunca",
+    "stream_urls": [
+      "https://59ef525c24caa.streamlock.net/telebrunca/telebrunca/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -349,10 +389,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "aeI6TVNDKNvZiP",
-    "name": "TeleSUR Costa Rica",
+    "nanoid": "xLJatClo1nNRli",
+    "name": "TicaVision",
     "stream_urls": [
-      "https://s1.tvdatta.com:3582/live/telesurlive.m3u8"
+      "https://5eac7b031d945.streamlock.net/TICAVISION/TICAVISION/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [

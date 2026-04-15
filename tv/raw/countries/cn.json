@@ -52,6 +52,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "8qbHNd2Zc2MjWY",
+    "name": "CCTV-9",
+    "stream_urls": [
+      "https://xykt-fix.github.io/Y77.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "zho"
+    ],
+    "country": "cn",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "Re5Rs60C2x03XD",
     "name": "CCTV+ 1",
     "stream_urls": [
@@ -234,19 +247,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "9nSOZBFhMDXFTD",
-    "name": "QTV-1",
-    "stream_urls": [
-      "https://video10.qtv.com.cn/drm/qtv1at/manifest.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "zho"
-    ],
-    "country": "cn",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "ozrwv5yOFSMLm3",
     "name": "QTV-2",
     "stream_urls": [
@@ -264,19 +264,6 @@
     "name": "QTV-3",
     "stream_urls": [
       "https://video10.qtv.com.cn/drm/qtv3at/manifest.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "zho"
-    ],
-    "country": "cn",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "v5Etfhhhhl9Em5",
-    "name": "QTV-4",
-    "stream_urls": [
-      "https://video10.qtv.com.cn/drm/qtv4at/manifest.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -537,7 +524,7 @@
     "name": "小猪佩奇 中文官方 - Peppa Pig",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/hsT95CdGkXE"
+      "https://www.youtube-nocookie.com/embed/ZkRAVAkzVQE"
     ],
     "languages": [
       "zho"
@@ -623,6 +610,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "2D80wABwXq6SL0",
+    "name": "浙江 Ⅰ 绍兴影视",
+    "stream_urls": [
+      "https://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [],
+    "country": "cn",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "tWjSdo4t72dhtd",
     "name": "浙江 Ⅰ 绍兴综合",
     "stream_urls": [
@@ -649,17 +647,6 @@
     "name": "浙江教科",
     "stream_urls": [
       "https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [],
-    "country": "cn",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "TT80T0Uhd4YSQT",
-    "name": "浙江新闻",
-    "stream_urls": [
-      "https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8"
     ],
     "youtube_urls": [],
     "languages": [],

@@ -91,19 +91,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "bJRjHgTM43iRML",
-    "name": "Fehérvár TV",
-    "stream_urls": [
-      "https://cloudfront44.lexanetwork.com:1344/freerelay/fehervartv.sdp/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "hun"
-    ],
-    "country": "hu",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "Sf3IhYO23ElUmb",
     "name": "Gyöngyösi TV",
     "stream_urls": [
@@ -208,6 +195,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "huuc6XjhSdQQbt",
+    "name": "M1 - Híradó",
+    "stream_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/NTwyipJrdPM"
+    ],
+    "languages": [
+      "hun"
+    ],
+    "country": "hu",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "GWUIEsGBHfkkOm",
     "name": "Móra-Net TV",
     "stream_urls": [
@@ -243,6 +243,17 @@
     "languages": [
       "hun"
     ],
+    "country": "hu",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "vyv7aN2DLRtAEV",
+    "name": "Oxygen Music",
+    "stream_urls": [
+      "https://oxygenmusic.hu:2443/hls/oxygenmusic.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [],
     "country": "hu",
     "isGeoBlocked": false
   },
@@ -394,6 +405,19 @@
     "name": "Zalaegerszegi TV",
     "stream_urls": [
       "https://cloudfront44.lexanetwork.com:1344/freerelay/zegtv.sdp/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "hun"
+    ],
+    "country": "hu",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "VR6QfXQAolyoFB",
+    "name": "Zuglo TV",
+    "stream_urls": [
+      "https://cloudfront44.lexanetwork.com:1344/freerelay/zuglotv.sdp/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [

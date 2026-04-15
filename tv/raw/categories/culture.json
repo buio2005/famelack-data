@@ -251,6 +251,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "h25WUyBe4528fW",
+    "name": "Channel S",
+    "stream_urls": [
+      "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/chsukoff.stream/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "ben"
+    ],
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "OAc1RsWsrgVUky",
     "name": "China Travel",
     "stream_urls": [
@@ -433,6 +446,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "nuCkj2isILRO5a",
+    "name": "EET TV",
+    "stream_urls": [
+      "https://eu.streamjo.com/eetlive/eettv.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "tam"
+    ],
+    "country": "ca",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "h9xUZ9qtOT3ejC",
     "name": "El 33 Originals",
     "stream_urls": [
@@ -490,7 +516,6 @@
     "nanoid": "2QHwYMt2XZKYvG",
     "name": "Fox Soul",
     "stream_urls": [
-      "https://foxsoul-vizio.amagi.tv/playlist.m3u8",
       "https://aegis-cloudfront-1.tubi.video/0c4bd880-76cc-4000-b9cb-8edabeb88daa/index.m3u8"
     ],
     "youtube_urls": [],
@@ -685,19 +710,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "Bvox2CnXHOsvHp",
-    "name": "JOS TV HD",
-    "stream_urls": [
-      "https://stream.berosat.live:19360/jos-tv-stream/jos-tv-stream.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "fra"
-    ],
-    "country": "cg",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "iHcwCYBoO04vaV",
     "name": "Kajou TV",
     "stream_urls": [
@@ -780,6 +792,32 @@
     "name": "MCN6 Arts Channel",
     "stream_urls": [
       "https://d18fcxaqfnwjhj.cloudfront.net/CDN_Ingest/MCN6_COMEDY.smil/Playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "q666a4s6CEkDLb",
+    "name": "Midpen Media Center Arts Issues and Lifestyles Channel 30",
+    "stream_urls": [
+      "https://5c2974786200d.streamlock.net/live-chan30/ngrp:ch30_all/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "2CPdO0yBLh4XGP",
+    "name": "Midpen Media Center Diversity and Culture Channel 75",
+    "stream_urls": [
+      "https://5c2974786200d.streamlock.net/live-chan75/ngrp:ch75_all/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -956,19 +994,6 @@
       "spa"
     ],
     "country": "es",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "y8ufu4YXUzuRSK",
-    "name": "RTB 3",
-    "stream_urls": [
-      "https://edge13.vedge.infomaniak.com/livecast/ik:rtb3-1/manifest.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "mos"
-    ],
-    "country": "bf",
     "isGeoBlocked": false
   },
   {
@@ -1241,19 +1266,6 @@
       "fra"
     ],
     "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "7IG6c8BLRlAZXA",
-    "name": "Беларусь 3",
-    "stream_urls": [
-      "https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus3.smil/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "rus"
-    ],
-    "country": "by",
     "isGeoBlocked": false
   },
   {

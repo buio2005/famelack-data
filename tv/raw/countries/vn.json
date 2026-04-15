@@ -1,21 +1,9 @@
 [
   {
-    "nanoid": "BqR3EbjIIGHUh7",
-    "name": "360 Entertainment - Bolero & Nhạc Vàng",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/KxzuTOzHjyo"
-    ],
-    "languages": [
-      "vie"
-    ],
-    "country": "vn",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "QA1BHMxRwKgdpS",
     "name": "ANTV",
     "stream_urls": [
+      "https://live.fptplay53.net/fnxhd2/anninhtv_vhls.smil/chunklist.m3u8",
       "https://liveh12.vtvprime.vn/hls/ANNINHTV/index.m3u8"
     ],
     "youtube_urls": [],
@@ -80,7 +68,7 @@
     "name": "DGV",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/G8BERb3_oCE"
+      "https://www.youtube-nocookie.com/embed/AYINO5BcCrA"
     ],
     "languages": [
       "vie"
@@ -119,6 +107,19 @@
     "name": "Đồng Tháp TV2",
     "stream_urls": [
       "https://618b88f69e53b.streamlock.net/THDT2/thdttv2/chunklist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "vie"
+    ],
+    "country": "vn",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "m1QsIBJ2exlkmq",
+    "name": "Hà Tĩnh TV",
+    "stream_urls": [
+      "https://wse.hatinhtv.net/live/httv1/chunklist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -169,6 +170,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "GV38pwWqigwkoF",
+    "name": "HTV Thể thao",
+    "stream_urls": [
+      "https://live.fptplay53.net/epzhd1/htvcthethao_vhls.smil/chunklist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "vie"
+    ],
+    "country": "vn",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "wqpn5BkjeaQlSh",
     "name": "HTV7 HD",
     "stream_urls": [
@@ -176,6 +190,30 @@
     ],
     "youtube_urls": [],
     "languages": [],
+    "country": "vn",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "HhEtp833yJrL6d",
+    "name": "HTV9 HD",
+    "stream_urls": [
+      "https://live.fptplay53.net/epzhd1/htv9hd_vhls.smil/chunklist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [],
+    "country": "vn",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "txSXswRPQcmTpz",
+    "name": "Huế TV",
+    "stream_urls": [
+      "https://live.fptplay53.net/epzsd1/hue_hls.smil/chunklist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "vie"
+    ],
     "country": "vn",
     "isGeoBlocked": false
   },
