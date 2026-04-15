@@ -2431,10 +2431,61 @@
         "name": "Sport Italia",
         "nanoid": "SIki0bxRn3r6qL",
         "stream_urls": [
-            "https://amg01370-italiansportcom-sportitalia-rakuten-3hmdb.amagi.tv/hls/amagi_hls_data_rakutenAA-sportitalia-rakuten/CDN/master.m3u8",
-            "https://sportsitalia-samsungitaly.amagi.tv/playlist.m3u8"
+            "https://amg01370-italiansportcom-sportitalia-rakuten-3hmdb.amagi.tv/hls/amagi_hls_data_rakutenAA-sportitalia-rakuten/CDN/master.m3u8"
         ],
         "youtube_urls": []
+    },
+    {
+        "nanoid": "S1p2o3r4t5I6t7",
+        "name": "SportItalia HD",
+        "stream_urls": [
+            "https://sportsitalia-samsungitaly.amagi.tv/playlist.m3u8"
+        ],
+        "youtube_urls": [],
+        "languages": [
+            "ita"
+        ],
+        "country": "it",
+        "isGeoBlocked": false
+    },
+    {
+        "nanoid": "sportItaliaHd1A",
+        "name": "SportItalia HD Plus",
+        "stream_urls": [
+            "https://edge-001.streamup.eu/sportitalia/sihd_abr2/playlist.m3u8"
+        ],
+        "youtube_urls": [],
+        "languages": [
+            "ita"
+        ],
+        "country": "it",
+        "isGeoBlocked": false
+    },
+    {
+        "nanoid": "sportItaliaPri2B",
+        "name": "SportItalia Primavera Tv",
+        "stream_urls": [
+            "https://edge-001.streamup.eu/sportitalia/silive24_abr/playlist.m3u8"
+        ],
+        "youtube_urls": [],
+        "languages": [
+            "ita"
+        ],
+        "country": "it",
+        "isGeoBlocked": false
+    },
+    {
+        "nanoid": "sportItaliaSolo3C",
+        "name": "SportItalia Solocalcio",
+        "stream_urls": [
+            "https://edge-001.streamup.eu/sportitalia/sisolocalcio_abr/playlist.m3u8"
+        ],
+        "youtube_urls": [],
+        "languages": [
+            "ita"
+        ],
+        "country": "it",
+        "isGeoBlocked": false
     },
     {
         "country": "it",
@@ -3091,5 +3142,4 @@
         ],
         "youtube_urls": []
     }
-
 ]
