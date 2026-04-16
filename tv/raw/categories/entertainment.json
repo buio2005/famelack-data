@@ -381,19 +381,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "cYXM1U8SiVQdBO",
-    "name": "Asia TV",
-    "stream_urls": [
-      "https://stream.asiatvnet.com/1/live/master.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "sin"
-    ],
-    "country": "lk",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "C3mGhUJUZGhZ3e",
     "name": "AsianCrush",
     "stream_urls": [
@@ -461,19 +448,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "hS6UHUBQ4QoIRq",
-    "name": "Bacán Te Veo",
-    "stream_urls": [
-      "https://stmv6.voxtvhd.com.br/vacantveo2/vacantveo2/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
-    "country": "ec",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "yqAqfz8NLIipuY",
     "name": "Banijay Bluelight: Real Life Hospital Documentaries",
     "stream_urls": [],
@@ -536,19 +510,6 @@
       "eng"
     ],
     "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "lQR58FY8hPI1Yk",
-    "name": "BE@TTV",
-    "stream_urls": [
-      "https://tv.beatfm.nl/live.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "nld"
-    ],
-    "country": "nl",
     "isGeoBlocked": false
   },
   {
@@ -658,19 +619,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "BAl5rYC3FH50BY",
-    "name": "BTV",
-    "stream_urls": [
-      "https://streamfi-alphadgtl1.zettawiseroutes.com:8181/hls/stream.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "eng"
-    ],
-    "country": "ug",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "rHDMB2I74rwAns",
     "name": "Buena TV",
     "stream_urls": [
@@ -687,7 +635,6 @@
     "nanoid": "hPzjEie30NGtzn",
     "name": "Buzzr",
     "stream_urls": [
-      "https://buzzrota-ono.amagi.tv/playlist.m3u8",
       "https://aegis-cloudfront-1.tubi.video/d4038326-a3e3-4aba-b1f1-f0526c912c74/playlist.m3u8"
     ],
     "youtube_urls": [],
@@ -939,9 +886,8 @@
     "name": "Circle",
     "stream_urls": [
       "https://amg00432-circletvfast-amg00432c1-cineverse-us-1112.playouts.now.amagi.tv/playlist/amg00432-circletv-circletv-cineverseus/playlist.m3u8",
+      "https://circle-klowdtv.amagi.tv/playlist.m3u8",
       "https://circle-roku.amagi.tv/playlist.m3u8",
-      "https://circle-samsung.amagi.tv/playlist.m3u8",
-      "https://circle-vizio.amagi.tv/playlist.m3u8",
       "https://circle-xumo.amagi.tv/playlist.m3u8"
     ],
     "youtube_urls": [],
@@ -962,19 +908,6 @@
       "spa"
     ],
     "country": "es",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "0AEsKgV75wE5J1",
-    "name": "Claro Visión TV",
-    "stream_urls": [
-      "https://streamunoapp.com:3057/live/clarovisiontvlive.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
-    "country": "do",
     "isGeoBlocked": false
   },
   {
@@ -1713,16 +1646,16 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "xceNg3zrNinnuh",
-    "name": "Glück Auf TV - Mittel Erzgebirgs Fernsehen",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/CDLv3dx_pi8"
+    "nanoid": "KorxP0jgE3cFyZ",
+    "name": "GO TV",
+    "stream_urls": [
+      "https://rds3.desdeparaguay.net/gotv/gotv/playlist.m3u8"
     ],
+    "youtube_urls": [],
     "languages": [
-      "deu"
+      "spa"
     ],
-    "country": "de",
+    "country": "py",
     "isGeoBlocked": false
   },
   {
@@ -2050,7 +1983,8 @@
     "nanoid": "2iCqUFHHLWJhjx",
     "name": "Jaihind TV",
     "stream_urls": [
-      "https://mumt03.tangotv.in/JAIHIND/index.m3u8"
+      "https://mumt03.tangotv.in/JAIHIND/index.m3u8",
+      "https://yuppnimrestreammum.akamaized.net/260723/smil:jaihind1.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b"
     ],
     "youtube_urls": [],
     "languages": [
@@ -2126,19 +2060,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "6uP6CNEGYjRRQY",
-    "name": "Kanade",
-    "stream_urls": [
-      "https://backend.energeek.cl/webtv/kanadeweb/index.m3u8?token=ZZDemoIPTVGH"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
-    "country": "cl",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "2Cw7nBUx9FOzBJ",
     "name": "Kanal 7 Avrupa",
     "stream_urls": [
@@ -2149,19 +2070,6 @@
       "tur"
     ],
     "country": "tr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "BwAEx0LmqBTmqp",
-    "name": "Kanal 9 Erzgebirge",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/cfgKCNFuq9E"
-    ],
-    "languages": [
-      "deu"
-    ],
-    "country": "de",
     "isGeoBlocked": false
   },
   {
@@ -2188,19 +2096,6 @@
       "eng"
     ],
     "country": "rw",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "T4bE3Y8IkS0Upm",
-    "name": "KCL TV",
-    "stream_urls": [
-      "https://kcltv.livebox.co.in/kclhls/live.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "mal"
-    ],
-    "country": "in",
     "isGeoBlocked": false
   },
   {
@@ -3137,19 +3032,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "3FPl5RIfISFiTh",
-    "name": "PRIDEtv LATAM",
-    "stream_urls": [
-      "https://backend.energeek.cl/webtv/pridetvweb/index.m3u8?token=ZZDemoIPTVGH"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
-    "country": "cl",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "oubeKLPS2AIZdf",
     "name": "Pro100TV",
     "stream_urls": [
@@ -3299,7 +3181,7 @@
     "name": "Raquel Daruech TV",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/JE0044jFCH4"
+      "https://www.youtube-nocookie.com/embed/2r0QpPL0kI8"
     ],
     "languages": [
       "spa"
@@ -3569,19 +3451,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "mmZjHuy87LmO4O",
-    "name": "Sooriyan TV",
-    "stream_urls": [
-      "https://live20.bozztv.com/giatv/giatv-Infinittyott/Infinittyott/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "tam"
-    ],
-    "country": "ca",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "oLnLTQ4nnHeCAZ",
     "name": "Soweto TV",
     "stream_urls": [
@@ -3686,6 +3555,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "63wWdxaoQWzfVD",
+    "name": "TDM Entertainment Ch. 95",
+    "stream_urls": [
+      "https://live3.tdm.com.mo/ch6/hd_ch6.live/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "zho"
+    ],
+    "country": "mo",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "ZzjAbSJ99PhCGg",
     "name": "Tele Boston",
     "stream_urls": [
@@ -3748,6 +3630,19 @@
       "spa"
     ],
     "country": "do",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "1E8L6wvxfbR06G",
+    "name": "TeleMIX",
+    "stream_urls": [
+      "https://haititivi.com/haiti/telemix1/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "fra"
+    ],
+    "country": "us",
     "isGeoBlocked": false
   },
   {
@@ -4198,6 +4093,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "igJmo5J6YhgXmV",
+    "name": "Unifranz",
+    "stream_urls": [
+      "https://live.enhdtv.com:8081/8192/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "bo",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "2uGXU96QMW7Acl",
     "name": "Univers TV",
     "stream_urls": [
@@ -4260,19 +4168,6 @@
       "lao"
     ],
     "country": "la",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "2EyL9brYPFxMTy",
-    "name": "VB Media TV",
-    "stream_urls": [
-      "https://capomo01-enitv.eninetworks.com/locales_vbmedia_publico/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
-    "country": "mx",
     "isGeoBlocked": false
   },
   {
@@ -4465,6 +4360,7 @@
     "stream_urls": [
       "https://amg00143-younghollywoodfast-amg00143c1-cineverse-us-946.playouts.now.amagi.tv/playlist/amg00143-younghollywoodfast-younghollywood-cineverseus/playlist.m3u8",
       "https://younghollywood-rakuten-samsung.amagi.tv/playlist.m3u8",
+      "https://younghollywood-tcl.amagi.tv/playlist.m3u8",
       "https://younghollywood-vizio.amagi.tv/playlist.m3u8"
     ],
     "youtube_urls": [],
@@ -4511,19 +4407,6 @@
       "uzb"
     ],
     "country": "uz",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "VR6QfXQAolyoFB",
-    "name": "Zuglo TV",
-    "stream_urls": [
-      "https://cloudfront44.lexanetwork.com:1344/freerelay/zuglotv.sdp/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "hun"
-    ],
-    "country": "hu",
     "isGeoBlocked": false
   },
   {

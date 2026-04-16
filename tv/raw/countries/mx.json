@@ -117,6 +117,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "GYpj19hD6m2qFh",
+    "name": "California Medios TV",
+    "stream_urls": [
+      "https://s5.mexside.net:1936/medios/medios/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "mx",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "qhvLdupfMqmZsq",
     "name": "Canal 5 TV Cozumel",
     "stream_urls": [
@@ -379,11 +392,24 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "yk5LuaS8jCla7l",
+    "name": "Imagen Multicast",
+    "stream_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/mphpEqxXZbk"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "country": "mx",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "5lhODGYtGp6nxK",
     "name": "ImagenTV",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/P3V6_AvI9kk"
+      "https://www.youtube-nocookie.com/embed/2gI8CehERd0"
     ],
     "languages": [
       "spa"
@@ -489,19 +515,6 @@
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/weLXdwVjSxs"
     ],
-    "languages": [
-      "spa"
-    ],
-    "country": "mx",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "4i2dbm12cF2ARa",
-    "name": "Nayarit Comunica",
-    "stream_urls": [
-      "https://live.iplanay.gob.mx/hls/nayarittv.m3u8"
-    ],
-    "youtube_urls": [],
     "languages": [
       "spa"
     ],
@@ -705,19 +718,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "zMvnkO0BSIigRy",
-    "name": "Sistema Michoacano de TV",
-    "stream_urls": [
-      "https://s5.mexside.net:1936/enlinea/enlinea/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
-    "country": "mx",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "xRMBdM0z9ZQY8t",
     "name": "SIZART Canal 24 (XHZHZ-TDT)",
     "stream_urls": [
@@ -827,7 +827,7 @@
     "name": "Televisa Ciudad Juarez",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/-DTgxOKIGZI"
+      "https://www.youtube-nocookie.com/embed/-MTeDiZoSMI"
     ],
     "languages": [
       "spa"
@@ -875,6 +875,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "V9bf7FdY5Rbg5t",
+    "name": "Televisa Guerrero",
+    "stream_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/5S5eSRbcl2M"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "country": "mx",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "pTFEVIhFVG7hq3",
     "name": "Televisa Laguna",
     "stream_urls": [],
@@ -905,7 +918,7 @@
     "name": "Televisa Monterrey",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/YQcb3O9n2yM"
+      "https://www.youtube-nocookie.com/embed/Uq6l1Qu4IZw"
     ],
     "languages": [
       "spa"
@@ -918,7 +931,7 @@
     "name": "Televisa Piedras Negras",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/jLa0yIWn2Xc"
+      "https://www.youtube-nocookie.com/embed/G-B4IzyGmbk"
     ],
     "languages": [
       "spa"
@@ -1174,19 +1187,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "DCzhAOMfIMF2kt",
-    "name": "TV Nuevo León Canal 28 (XHMNL-TDT)",
-    "stream_urls": [
-      "https://s5.mexside.net:1936/canal28/canal28/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
-    "country": "mx",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "g7YtvRUN199O67",
     "name": "TV UG",
     "stream_urls": [
@@ -1308,19 +1308,6 @@
     "name": "Unison TV",
     "stream_urls": [
       "https://stream.unison.mx/hls/unisontvatem.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
-    "country": "mx",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "2EyL9brYPFxMTy",
-    "name": "VB Media TV",
-    "stream_urls": [
-      "https://capomo01-enitv.eninetworks.com/locales_vbmedia_publico/index.m3u8"
     ],
     "youtube_urls": [],
     "languages": [

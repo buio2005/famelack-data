@@ -130,19 +130,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "LmdGto7bYNlvCY",
-    "name": "BN Channel",
-    "stream_urls": [
-      "https://flv.intechmedia.net/live/ch112.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "ind"
-    ],
-    "country": "id",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "lV8zHLVhKEPFpW",
     "name": "BRTV",
     "stream_urls": [
@@ -312,10 +299,36 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "Hae4Rh59QFhZLW",
+    "name": "I Am Channel",
+    "stream_urls": [
+      "https://61146e7ab7a66.streamlock.net:8089/tes/1/chunklist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "ind"
+    ],
+    "country": "id",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "4XTEtIon4adh6d",
     "name": "Indonesiana.TV",
     "stream_urls": [
       "https://tvstreamcast.com/indonesiana.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "ind"
+    ],
+    "country": "id",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "T3RkIVyDffmjkr",
+    "name": "Izzah TV",
+    "stream_urls": [
+      "https://streaming.radiosalamjambi.com/izzahtv.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -377,51 +390,12 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "VJx2F12AWU3Qh7",
-    "name": "KompasTV Jember",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/b0S3pB1YcJs"
-    ],
-    "languages": [
-      "ind"
-    ],
-    "country": "id",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "ZouIbMyvdSBDkH",
-    "name": "KTV",
-    "stream_urls": [
-      "https://flv.intechmedia.net/live/ch118.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "ind"
-    ],
-    "country": "id",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "0KL7HXYYAtsJlk",
     "name": "Lingkar TV",
     "stream_urls": [
       "https://lingkartv.my.id/hls/lingkartv.m3u8"
     ],
     "youtube_urls": [],
-    "languages": [
-      "ind"
-    ],
-    "country": "id",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "mSpavAreqc56SW",
-    "name": "Liputan6",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/4SsypmtwIlk"
-    ],
     "languages": [
       "ind"
     ],
@@ -472,7 +446,7 @@
     "name": "Marhaban TV",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/e4M8D8KzFkw"
+      "https://www.youtube-nocookie.com/embed/UHlDnLUIaR4"
     ],
     "languages": [
       "ind"
@@ -591,21 +565,8 @@
     "name": "Official iNews",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/5zdptPd1D_c"
+      "https://www.youtube-nocookie.com/embed/izmiM3jvYbc"
     ],
-    "languages": [
-      "ind"
-    ],
-    "country": "id",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "XGBAnBTWgFul1d",
-    "name": "PJTV",
-    "stream_urls": [
-      "https://pjtv28uhf.siar.us/live/pjtv28uhf.m3u8"
-    ],
-    "youtube_urls": [],
     "languages": [
       "ind"
     ],
@@ -617,19 +578,6 @@
     "name": "Rajawali TV",
     "stream_urls": [
       "https://rtvstream.rtv.co.id:4555/hls/rtv.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "ind"
-    ],
-    "country": "id",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "KTI8mZR4uaTaLf",
-    "name": "Rakyat Bengkulu TV",
-    "stream_urls": [
-      "https://flv.intechmedia.net/live/ch59.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -656,19 +604,6 @@
     "name": "Rinjani TV",
     "stream_urls": [
       "https://rinjanitv.cloud/hls/tvkabel.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "ind"
-    ],
-    "country": "id",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "FbrCzMwlpQjYEF",
-    "name": "Rodja TV",
-    "stream_urls": [
-      "https://rodjatv.com/rodjatv/live.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -761,7 +696,7 @@
     "name": "Serambinews",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/8rgILd0qDwg"
+      "https://www.youtube-nocookie.com/embed/owAIYMuem7s"
     ],
     "languages": [
       "ind"
@@ -1108,6 +1043,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "Hch4jnCIdQX0Fi",
+    "name": "TVRI Jawa Timur",
+    "stream_urls": [
+      "https://ott-balancer.tvri.go.id/live/eds/Jatim/hls/Jatim.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "ind"
+    ],
+    "country": "id",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "mdPE8daQzbZFSj",
     "name": "TVRI Kalimantan Barat",
     "stream_urls": [
@@ -1411,19 +1359,6 @@
     "name": "UGTV",
     "stream_urls": [
       "https://cdn.gunadarma.ac.id/streams/ugtv/ingestugtv.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "ind"
-    ],
-    "country": "id",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "ZAvkusD7l4cZyu",
-    "name": "VTV",
-    "stream_urls": [
-      "https://flv.intechmedia.net/live/ch107.m3u8"
     ],
     "youtube_urls": [],
     "languages": [

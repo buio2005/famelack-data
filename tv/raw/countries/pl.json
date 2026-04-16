@@ -40,19 +40,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "FHHW8HxY4wkWHY",
-    "name": "Arche TV",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/xhkLaSkLEwg"
-    ],
-    "languages": [
-      "pol"
-    ],
-    "country": "pl",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "5fsuYuCG8ydAtN",
     "name": "Bigtime",
     "stream_urls": [
@@ -69,6 +56,7 @@
     "nanoid": "ZgdcsAoxUBnS3U",
     "name": "BTB HD",
     "stream_urls": [
+      "https://fa723fc1b171.us-west-2.playback.live-video.net/api/video/v1/us-west-2.196233775518.channel.tm5ELzwtPY6t.m3u8",
       "https://emisja.btb.j00r.us/iptv/session/1/hls.m3u8"
     ],
     "youtube_urls": [],
@@ -150,19 +138,6 @@
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/G9hx5Al3vxM"
     ],
-    "languages": [
-      "pol"
-    ],
-    "country": "pl",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "YVXMNDK2rpUCOO",
-    "name": "dlaCiebie.tv",
-    "stream_urls": [
-      "https://6034e09794f07.streamlock.net/tv/dlaCiebieTv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
     "languages": [
       "pol"
     ],
@@ -402,6 +377,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "1tR7VJn14clZ7t",
+    "name": "Szlagier TV",
+    "stream_urls": [
+      "https://vefgpbwcjjjbxfng.naszatv.pl/index.fmp4.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "pol"
+    ],
+    "country": "pl",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "EQEGSe3LlRCr52",
     "name": "Szlagierowo: Biesiadne Radio",
     "stream_urls": [],
@@ -497,6 +485,19 @@
     "name": "Telewizja Regionalna Zary",
     "stream_urls": [
       "https://tvregfull.mailfull.pl/tvregfull/memfs/e64b3e05-649c-4939-9ff6-584e79285ccd_output_0.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "pol"
+    ],
+    "country": "pl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "ZQRxQD0cfkbApQ",
+    "name": "Telewizja Relax",
+    "stream_urls": [
+      "https://srv1.streamingo.pl/memfs/be50f17e-6579-4bdf-86b1-31207aec85b8.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -782,7 +783,8 @@
     "nanoid": "fZI48V3oPHwUhn",
     "name": "W Polsce PL",
     "stream_urls": [
-      "https://str.onnetwork.tv/hls/onnet-358726_hi/index.m3u8"
+      "https://str.onnetwork.tv/hls/onnet-358726_hi/index.m3u8",
+      "https://lowa8026-cmyk.github.io/WPolscePL.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -822,7 +824,7 @@
     "name": "ZTV live",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/Ag1PLqWx23I"
+      "https://www.youtube-nocookie.com/embed/C1YmV92fcc4"
     ],
     "languages": [
       "pol"

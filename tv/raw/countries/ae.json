@@ -1,5 +1,18 @@
 [
   {
+    "nanoid": "o7f2wdALXEzHZs",
+    "name": "Ajman TV",
+    "stream_urls": [
+      "https://cdn1.logichost.in/ajmantv/live/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "ara"
+    ],
+    "country": "ae",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "izm1ENwmj0AflI",
     "name": "Al Arabiya",
     "stream_urls": [],
@@ -264,6 +277,19 @@
     "name": "Nour TV",
     "stream_urls": [
       "https://cdn.bestream.io:19360/elfaro4/elfaro4.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "fas"
+    ],
+    "country": "ae",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "9BNETtZqVeBnGA",
+    "name": "PMC",
+    "stream_urls": [
+      "https://pmchls.wns.live/hls/stream.m3u8"
     ],
     "youtube_urls": [],
     "languages": [

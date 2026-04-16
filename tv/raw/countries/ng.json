@@ -29,6 +29,7 @@
     "nanoid": "gZ1nRlS0xe1gmU",
     "name": "AMusic Channel",
     "stream_urls": [
+      "https://mn-nl.mncdn.com/amusictv/amusicsrt.stream/playlist.m3u8",
       "https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_021/Stream/playlist.m3u8"
     ],
     "youtube_urls": [],
@@ -43,7 +44,7 @@
     "name": "Arise News",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/E8PRZmDUiPw"
+      "https://www.youtube-nocookie.com/embed/TJ5V8KRSu9Y"
     ],
     "languages": [
       "eng"
@@ -169,19 +170,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "8pEfgic6D8bCYA",
-    "name": "LoveWorld Persia",
-    "stream_urls": [
-      "https://cdn3.wowza.com/5/aVJETlF0UFdmYTFu/LWPP/ngrp:persia.stream_all/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "fas"
-    ],
-    "country": "ng",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "TBxSPvQ6n0EnHc",
     "name": "Loveworld UK",
     "stream_urls": [
@@ -239,7 +227,7 @@
     "name": "News Central TV",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/peQ8R-8HTyI"
+      "https://www.youtube-nocookie.com/embed/aiW_gYdlNGY"
     ],
     "languages": [
       "eng"
@@ -339,19 +327,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "mQsEQa26uw8XEM",
-    "name": "TrustTV News",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/WCOITHjWFOc"
-    ],
-    "languages": [
-      "eng"
-    ],
-    "country": "ng",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "Iz3l4KLYDLXwEs",
     "name": "TVC News",
     "stream_urls": [],
@@ -371,45 +346,6 @@
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/b-Yzp0l8cAM"
     ],
-    "languages": [
-      "eng"
-    ],
-    "country": "ng",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "xqNDe2nURDi4zM",
-    "name": "Wazobia Max TV Abuja",
-    "stream_urls": [
-      "https://wazobia.live:8333/channel/wmaxabuja.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "eng"
-    ],
-    "country": "ng",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "XBCn7LG1vDEDMn",
-    "name": "Wazobia Max TV Nigeria",
-    "stream_urls": [
-      "https://wazobia.live:8333/channel/wmax.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "eng"
-    ],
-    "country": "ng",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "Uu8JpSpXEkB3Wk",
-    "name": "Wazobia Max TV Port Harcourt",
-    "stream_urls": [
-      "https://wazobia.live:8333/channel/wmaxph.m3u8"
-    ],
-    "youtube_urls": [],
     "languages": [
       "eng"
     ],

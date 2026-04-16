@@ -53,19 +53,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "lQR58FY8hPI1Yk",
-    "name": "BE@TTV",
-    "stream_urls": [
-      "https://tv.beatfm.nl/live.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "nld"
-    ],
-    "country": "nl",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "U2Aiz8KrVs5iFm",
     "name": "BNR Nieuwsradio",
     "stream_urls": [
@@ -97,19 +84,6 @@
     "stream_urls": [
       "https://ms2.mx-cd.net/tv/228-1864150/Omroep_Helmond.smil/playlist.m3u8",
       "https://ms2.mx-cd.net/tv/Omroep_Helmond.smil/chunklist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "nld"
-    ],
-    "country": "nl",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "qCNy2ojifNspg9",
-    "name": "FomixTV",
-    "stream_urls": [
-      "https://stream.fomixmedia.nl/FomixTV/video.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -968,19 +942,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "Ua4a0OdjOruHxv",
-    "name": "RTV Rijnstreek TV",
-    "stream_urls": [
-      "https://ms7.mx-cd.net/tv/290-3222276/RTV_Rijnstreek.smil/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "nld"
-    ],
-    "country": "nl",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "Y3tRl2FeGVTyQz",
     "name": "RTV SLOS",
     "stream_urls": [
@@ -1011,19 +972,6 @@
     "name": "RTV Veluwezoom",
     "stream_urls": [
       "https://dt4pogjgi3q8s.cloudfront.net/nlpo/clr-nlpo/rtvveluwezoom/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "nld"
-    ],
-    "country": "nl",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "UyWYSAuGPQ1FRF",
-    "name": "RTV Westerwolde",
-    "stream_urls": [
-      "https://media.rtvwesterwolde.nl/hls/live/index.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -1167,6 +1115,19 @@
     "name": "SOL 2",
     "stream_urls": [
       "https://live.streamteam.eu:8443/sol2playout/sol2/live/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "nld"
+    ],
+    "country": "nl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "O0kpowmkTJLDCA",
+    "name": "SRC TV",
+    "stream_urls": [
+      "https://highvolume155.streampartner.nl/adminsrc/adminsrc/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [

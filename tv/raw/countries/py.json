@@ -170,10 +170,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "8vX1XPEH9jNBSM",
-    "name": "HEi Now",
+    "nanoid": "KorxP0jgE3cFyZ",
+    "name": "GO TV",
     "stream_urls": [
-      "https://copacogen.desdeparaguay.net/heitv/heitv_py_alta/playlist.m3u8?admin=nacion"
+      "https://rds3.desdeparaguay.net/gotv/gotv/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -327,6 +327,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "ERBtwPcBChyLTj",
+    "name": "Red Digital",
+    "stream_urls": [
+      "https://video.hostingcaaguazu.com:19360/reddigitalsanpedro/reddigitalsanpedro.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "py",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "yjn0fCt96jnweK",
     "name": "República TV",
     "stream_urls": [
@@ -383,6 +396,19 @@
     "name": "UnionTV",
     "stream_urls": [
       "https://tigocloud.desdeparaguay.net/800tv/800tv/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "py",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "9Ihh2szFUbQs2q",
+    "name": "Villa Elisa Radio TV",
+    "stream_urls": [
+      "https://copacogen.desdeparaguay.net/villaelisatv/villaelisatv/playlist.m3u8?admin=nacion"
     ],
     "youtube_urls": [],
     "languages": [

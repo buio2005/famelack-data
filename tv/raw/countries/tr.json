@@ -252,38 +252,25 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "WjndAfYgzOKuol",
-    "name": "BRTV",
-    "stream_urls": [
-      "https://live.artidijitalmedya.com/artidijital_brtv/brtv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "tur"
-    ],
-    "country": "tr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "CEq81a8k48ENyx",
-    "name": "Bursa AS TV",
-    "stream_urls": [
-      "https://live.artidijitalmedya.com/artidijital_astv/astv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "tur"
-    ],
-    "country": "tr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "GQqfKimeo58YbK",
     "name": "CAH Medya",
     "stream_urls": [],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/dh0NmNqfLhc"
     ],
+    "languages": [
+      "tur"
+    ],
+    "country": "tr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "pwwbm1gJHFpZMn",
+    "name": "Can TV",
+    "stream_urls": [
+      "https://livetv.canbroadcast.com:7443/canlican/tv.m3u8"
+    ],
+    "youtube_urls": [],
     "languages": [
       "tur"
     ],
@@ -531,6 +518,19 @@
     "name": "ES TV",
     "stream_urls": [
       "https://live.artidijitalmedya.com/artidijital_estv/estv/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "tur"
+    ],
+    "country": "tr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "XeroOQjH9IhpiE",
+    "name": "ETV Kayseri",
+    "stream_urls": [
+      "https://live.artidijitalmedya.com/artidijital_etv/etv/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -985,6 +985,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "HhjGNBJx3fTyee",
+    "name": "Haber61 TV",
+    "stream_urls": [
+      "https://cdn-haber61tv.yayin.com.tr/haber61tv/smil:haber61tv.smil/index.m3u8",
+      "https://win8.yayin.com.tr/haber61tv/smil:haber61tv.smil/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "tur"
+    ],
+    "country": "tr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "sdWptNGaPnKBBW",
     "name": "Habertürk TV",
     "stream_urls": [
@@ -1017,7 +1031,7 @@
     "name": "Her An Kur'an Her An Zikir",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/pp0ccFyhPi8"
+      "https://www.youtube-nocookie.com/embed/SFdi1QksL0I"
     ],
     "languages": [
       "tur"
@@ -1342,19 +1356,6 @@
     "name": "Meltem TV",
     "stream_urls": [
       "https://vhxyrsly.rocketcdn.com/meltemtv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "tur"
-    ],
-    "country": "tr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "oLXvhYRIcgw3Zr",
-    "name": "Mercan TV",
-    "stream_urls": [
-      "https://live.artidijitalmedya.com/artidijital_mercantv/mercantv/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -1978,7 +1979,7 @@
       "https://mn-nl.mncdn.com/tvnet/tvnet/playlist.m3u8"
     ],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/0GVtv6xQGZE"
+      "https://www.youtube-nocookie.com/embed/Z5bqy4gwEmc"
     ],
     "languages": [
       "tur"

@@ -91,19 +91,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "o15OiPkM4jxoZp",
-    "name": "Bayres TV",
-    "stream_urls": [
-      "https://streaming01.mikrolive.tv/bayrestv/live/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
-    "country": "ar",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "SHCgFbO79Hh4Z8",
     "name": "Beats Radio",
     "stream_urls": [
@@ -260,19 +247,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "Lp6abhRcVXYInw",
-    "name": "Canal 5 TV Chepes",
-    "stream_urls": [
-      "https://videostream.shockmedia.com.ar:19360/canal5alfatvchepes/canal5alfatvchepes.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
-    "country": "ar",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "IMtD1PHBND4aSz",
     "name": "Canal 6 ERTV",
     "stream_urls": [],
@@ -286,10 +260,36 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "RjGzeK99LgjrbF",
+    "name": "Canal 6 Posadas",
+    "stream_urls": [
+      "https://iptv.ixfo.com.ar:30443/live/c6digital/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "ar",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "1Lh8QNqMEer0yM",
     "name": "Canal 7 Jujuy",
     "stream_urls": [
       "https://stream.arcast.live/canal7jujuy/ngrp:canal7jujuy_all/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "ar",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "UFI1aabxRmg31y",
+    "name": "Canal 7 Neuquén",
+    "stream_urls": [
+      "https://stream.arcast.com.ar/c7nq/ngrp:c7nq_all/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -564,6 +564,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "Rexjgi9hzCbRd0",
+    "name": "Canal Provincial",
+    "stream_urls": [
+      "https://streaming.telered.com.ar/provincial/streaming/mystream.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "ar",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "tZLaG8MHkNY9P0",
     "name": "Canal Santa María",
     "stream_urls": [
@@ -594,6 +607,19 @@
     "name": "Celta TV",
     "stream_urls": [
       "https://vivo.solumedia.com:19360/celta/celta.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "ar",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "YK4jerPW8Ia03w",
+    "name": "Chaco TV",
+    "stream_urls": [
+      "https://wowzasrv.chaco.gov.ar/Streamtv/chacotv/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -672,7 +698,7 @@
     "name": "El Observador 107.9",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/oNasT03uAcI"
+      "https://www.youtube-nocookie.com/embed/vLFQu4CP0Oo"
     ],
     "languages": [
       "spa"
@@ -750,7 +776,7 @@
     "name": "El Tres TV",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/n03oZxiDDUY"
+      "https://www.youtube-nocookie.com/embed/kWdbXIyg5hI"
     ],
     "languages": [
       "spa"
@@ -1109,6 +1135,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "5dobEuPzzWq3sH",
+    "name": "Telenord Corrientes",
+    "stream_urls": [
+      "https://617c5175c970b.streamlock.net:4444/previsoratv/live/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "ar",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "C4INN3f93tsfyG",
     "name": "Televisión Pública",
     "stream_urls": [],
@@ -1218,7 +1257,7 @@
     "name": "Urbana Play 104.3 FM",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/SKdnojm3Av4"
+      "https://www.youtube-nocookie.com/embed/0YjvJIsfonE"
     ],
     "languages": [
       "spa"
