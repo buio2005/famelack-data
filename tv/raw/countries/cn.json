@@ -52,19 +52,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "8qbHNd2Zc2MjWY",
-    "name": "CCTV-9",
-    "stream_urls": [
-      "https://xykt-fix.github.io/Y77.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "zho"
-    ],
-    "country": "cn",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "Re5Rs60C2x03XD",
     "name": "CCTV+ 1",
     "stream_urls": [
@@ -550,7 +537,7 @@
     "name": "小猪佩奇 中文官方 - Peppa Pig",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/TEpN3QZHVR8"
+      "https://www.youtube-nocookie.com/embed/kna1Chk19VA"
     ],
     "languages": [
       "zho"
@@ -574,6 +561,17 @@
     "name": "延边新闻综合",
     "stream_urls": [
       "https://stream2.jlntv.cn/jlyb/sd/live.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [],
+    "country": "cn",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "4rBoFSFcNpIZxe",
+    "name": "新昌新聞綜合",
+    "stream_urls": [
+      "https://l.cztvcloud.com/channels/lantian/SXxinchang1/720p.m3u8"
     ],
     "youtube_urls": [],
     "languages": [],

@@ -1,18 +1,5 @@
 [
   {
-    "nanoid": "wvLjkMxbINYOUZ",
-    "name": "1-2-3 TV",
-    "stream_urls": [
-      "https://123tv-mx1.flex-cdn.net/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "deu"
-    ],
-    "country": "de",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "LAPj7zIAvtxGKM",
     "name": "Alex Berlin",
     "stream_urls": [
@@ -572,6 +559,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "xceNg3zrNinnuh",
+    "name": "Glück Auf TV - Mittel Erzgebirgs Fernsehen",
+    "stream_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/LQ_068HZsP8"
+    ],
+    "languages": [
+      "deu"
+    ],
+    "country": "de",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "NYCRxxM21wcIxY",
     "name": "Graham Norton Germany",
     "stream_urls": [
@@ -745,6 +745,19 @@
       "https://dash4.antik.sk/live/test_kabel_eins_tizen/playlist.m3u8"
     ],
     "youtube_urls": [],
+    "languages": [
+      "deu"
+    ],
+    "country": "de",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "BwAEx0LmqBTmqp",
+    "name": "Kanal 9 Erzgebirge",
+    "stream_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/Xjsdgar6xks"
+    ],
     "languages": [
       "deu"
     ],
@@ -1060,6 +1073,32 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "ixhyYhnKxhDZBe",
+    "name": "OK Flensburg",
+    "stream_urls": [
+      "https://live-cdn.oksh.de/play/hls/flensburgtv/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "deu"
+    ],
+    "country": "de",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "TAd1Ubg7TEmAUU",
+    "name": "OK Kiel",
+    "stream_urls": [
+      "https://live-cdn.oksh.de/play/hls/kieltv/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "deu"
+    ],
+    "country": "de",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "hKXziqHmvJRVZi",
     "name": "Parlamentsfernsehen 1",
     "stream_urls": [
@@ -1178,17 +1217,6 @@
     "name": "Rakuten TV Romance Movies Germany",
     "stream_urls": [
       "https://romance-rakuten-tv-de.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6475/master.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [],
-    "country": "de",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "SE1h1zk5kvUylr",
-    "name": "Rakuten TV Thrillers Germany",
-    "stream_urls": [
-      "https://thriller-rakuten-tv-de.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6481/master.m3u8"
     ],
     "youtube_urls": [],
     "languages": [],

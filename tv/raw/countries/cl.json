@@ -39,19 +39,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "bl19xd6Od9LNtI",
-    "name": "13 Realities",
-    "stream_urls": [
-      "https://origin.dpsgo.com/ssai/event/g7_JOM0ORki9SR5RKHe-Kw/master.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
-    "country": "cl",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "sFxGybHHfJgVTf",
     "name": "13 Teleseries",
     "stream_urls": [
@@ -225,8 +212,21 @@
     "name": "Chilevisión",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/yc79Z1N-LBA"
+      "https://www.youtube-nocookie.com/embed/ey0JuU_8Zwc"
     ],
+    "languages": [
+      "spa"
+    ],
+    "country": "cl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "eDESw3Ox4wXwbn",
+    "name": "Chiloe Red 25",
+    "stream_urls": [
+      "https://v2.tustreaming.cl/chiloered/index.m3u8"
+    ],
+    "youtube_urls": [],
     "languages": [
       "spa"
     ],
@@ -299,6 +299,45 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "LRgPxcQZ9T6wh6",
+    "name": "EnerGeek",
+    "stream_urls": [
+      "https://backend.energeek.cl/webtv/egretroweb/index.m3u8?token=ZZDemoIPTVGH"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "cl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Fho666tDNHtuPI",
+    "name": "EnerGeek Fan",
+    "stream_urls": [
+      "https://backend.energeek.cl/webtv/egfanweb/index.m3u8?token=ZZDemoIPTVGH"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "cl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "ratiMYbPjlz1Pp",
+    "name": "EnerGeek Radio",
+    "stream_urls": [
+      "https://backend.energeek.cl/webtv/egradioweb/index.m3u8?token=ZZDemoIPTVGH"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "cl",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "mboCNwiMaOzg2v",
     "name": "Girovisual",
     "stream_urls": [
@@ -338,6 +377,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "6uP6CNEGYjRRQY",
+    "name": "Kanade",
+    "stream_urls": [
+      "https://backend.energeek.cl/webtv/kanadeweb/index.m3u8?token=ZZDemoIPTVGH"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "cl",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "LtuGw8CUEvQRPo",
     "name": "La Popular TV",
     "stream_urls": [
@@ -355,7 +407,7 @@
     "name": "Meganoticias",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/dy0xG-bABq4"
+      "https://www.youtube-nocookie.com/embed/K7tyG4hHvCI"
     ],
     "languages": [
       "spa"
@@ -407,6 +459,19 @@
     "name": "Pichilemu TV",
     "stream_urls": [
       "https://5ff3d9babae13.streamlock.net/8028/8028/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "cl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "3FPl5RIfISFiTh",
+    "name": "PRIDEtv LATAM",
+    "stream_urls": [
+      "https://backend.energeek.cl/webtv/pridetvweb/index.m3u8?token=ZZDemoIPTVGH"
     ],
     "youtube_urls": [],
     "languages": [
@@ -486,6 +551,7 @@
     "nanoid": "0C2d9cgVcqnI9d",
     "name": "SoloBáilalo",
     "stream_urls": [
+      "https://5ff3d9babae13.streamlock.net/8000/8000/playlist.m3u8",
       "https://5ff3d9babae13.streamlock.net/8016/8016/playlist.m3u8"
     ],
     "youtube_urls": [],
@@ -509,13 +575,26 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "Ap4jlb2z9FPcau",
+    "name": "T-Vinet",
+    "stream_urls": [
+      "https://unlimited1-us.dps.live/inet2/inet2.smil/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "cl",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "c5GR1pLsbPd5BR",
     "name": "T13",
     "stream_urls": [
       "https://jireh-2-hls-video-us-isp.dps.live/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/t13/t13.smil/playlist.m3u8"
     ],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/ZZNFKiWIplI"
+      "https://www.youtube-nocookie.com/embed/M_k0RotHK2o"
     ],
     "languages": [
       "spa"
@@ -777,19 +856,6 @@
     "name": "VC Online",
     "stream_urls": [
       "https://panel.tvstream.cl:1936/8024/8024/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
-    "country": "cl",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "osBw1hYyNiagCw",
-    "name": "Vision Plus TV (1080i)",
-    "stream_urls": [
-      "https://5ff3d9babae13.streamlock.net/jwagpqxehu/jwagpqxehu/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [

@@ -53,6 +53,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "lQR58FY8hPI1Yk",
+    "name": "BE@TTV",
+    "stream_urls": [
+      "https://tv.beatfm.nl/live.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "nld"
+    ],
+    "country": "nl",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "U2Aiz8KrVs5iFm",
     "name": "BNR Nieuwsradio",
     "stream_urls": [
@@ -864,19 +877,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "C71GWjbjSGWJXa",
-    "name": "RTV Nunspeet",
-    "stream_urls": [
-      "https://ms7.mx-cd.net/tv/262-2600774/RTV_Nunspeet.smil/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "nld"
-    ],
-    "country": "nl",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "LpQFuIp1jHcUHG",
     "name": "RTV Oost",
     "stream_urls": [
@@ -1024,19 +1024,6 @@
     "name": "Salto Brasa Music",
     "stream_urls": [
       "https://salto-streams.nl/hls/sotv1.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "nld"
-    ],
-    "country": "nl",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "Arhd6FvJ684mYa",
-    "name": "Salto MaLive",
-    "stream_urls": [
-      "https://live.salto.nl/hls/malive_high.m3u8"
     ],
     "youtube_urls": [],
     "languages": [

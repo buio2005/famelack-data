@@ -159,45 +159,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "u8cltocMOhETQs",
-    "name": "DTR Music 1",
-    "stream_urls": [
-      "https://kino-stream.online/hls/DTRMUSIC1.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "XGJucXkt2xCVzL",
-    "name": "DTR Zona 1",
-    "stream_urls": [
-      "https://kino-stream.online/hls/DTRZONA1.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "gQCvDwyw2kfEF9",
-    "name": "DTR Zona 2",
-    "stream_urls": [
-      "https://kino-stream.online/hls/DTRZONA2.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "fAUqob7LIqewI8",
     "name": "FON Music",
     "stream_urls": [
@@ -417,6 +378,7 @@
     "nanoid": "qoUkakDtbgDtaT",
     "name": "VITAL Drive",
     "stream_urls": [
+      "https://autopilot.catcast.tv/content/37909/index.m3u8",
       "https://tv.a21network.ru/stream/37909/index.m3u8"
     ],
     "youtube_urls": [],
@@ -557,10 +519,36 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "wKn9dFNFLNZoQX",
+    "name": "Вера 24",
+    "stream_urls": [
+      "https://5f05e059699ae.streamlock.net/WEB_Vera24/ngrp:Vera24.stream-adaptive/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "tRjB1srD2Y47HO",
     "name": "Вместе РФ",
     "stream_urls": [
       "https://qcpdqumitwf.a.trbcdn.net/livemastersrt/pr4mw_lvie-vmesterf-srt.smil/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "uwiOfsLMvkb1ym",
+    "name": "Волга (HD)",
+    "stream_urls": [
+      "https://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Volga/hls/1920x1080@4504/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -613,19 +601,6 @@
     "name": "Детское кино International",
     "stream_urls": [
       "https://autopilot.catcast.tv/content/38720/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "GXyfpkGN0MGlca",
-    "name": "Дом Кино",
-    "stream_urls": [
-      "https://streaming.thestream.cyou/live/44.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -742,20 +717,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "lQnAhlrKiieUTC",
-    "name": "Кино 1 International",
-    "stream_urls": [
-      "https://autopilot.catcast.tv/content/38617/index.m3u8",
-      "https://kino-1.catcast.tv/content/38617/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "J3EJNMTTTwoCfX",
     "name": "Кино Добряк: Сваты и Байки Митяя",
     "stream_urls": [],
@@ -809,6 +770,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "cYDuHiobRRgBu3",
+    "name": "Крым 24",
+    "stream_urls": [
+      "https://streaming.televizor-24-tochka.ru/live/28.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "gfChDHyfiWZR2Q",
     "name": "Кубань 24",
     "stream_urls": [
@@ -826,6 +800,19 @@
     "name": "Курай (Уфа)",
     "stream_urls": [
       "https://bsttv.bonus-tv.ru/cdn/kurai/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "ODMzEFguijtAQv",
+    "name": "Лен ТВ 24",
+    "stream_urls": [
+      "https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R02_LENTVSD/variant.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -914,33 +901,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "0T5ExxCBLutEAO",
-    "name": "Музыка 1 International",
-    "stream_urls": [
-      "https://kino-1.catcast.tv/content/37745/index.m3u8",
-      "https://kino-1.catcast.tv/content/37742/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "P4d9EwOGhyWfO5",
-    "name": "Музыка Кино International",
-    "stream_urls": [
-      "https://kino-1.catcast.tv/content/37739/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "gJChs4RXWcqghm",
     "name": "Мультимания",
     "stream_urls": [
@@ -958,7 +918,8 @@
     "nanoid": "lCl8WMVdJ5MxcZ",
     "name": "Надежда",
     "stream_urls": [
-      "https://live-tvhope.cdnvideo.ru/tvhope-pull/tvhope_1/playlist.m3u8"
+      "https://live-tvhope.cdnvideo.ru/tvhope-pull/tvhope_1/playlist.m3u8",
+      "https://tvhope.cdnvideo.ru/tvhope-pull/tvhope_1/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -1007,19 +968,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "fPNHa2Iphxep7n",
-    "name": "Нижний Новгород 24",
-    "stream_urls": [
-      "https://live-vestinn.cdnvideo.ru/vestinn/nn24-khl/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "vS6J0kXBLE78kR",
     "name": "Ника ТВ",
     "stream_urls": [
@@ -1037,19 +985,6 @@
     "name": "Новгородское областное телевидение",
     "stream_urls": [
       "https://rt-nw-novg-htlive.cdn.ngenix.net/hls/CH_R02_NOVGORODTV/variant.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "D1kxUcXu5YSsG7",
-    "name": "Новый Век",
-    "stream_urls": [
-      "https://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Tambov/hls/index.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -1085,6 +1020,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "SouHlOn23CzTQS",
+    "name": "НТВ Мир",
+    "stream_urls": [
+      "https://streaming.thestream.cyou/live/213.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "v6hADKFPM0Ioy0",
     "name": "НТК 21 (Биробиджан)",
     "stream_urls": [
@@ -1102,19 +1050,6 @@
     "name": "НТМ (Народное телевидение Мордовии)",
     "stream_urls": [
       "https://live-ntm13.cdnvideo.ru/ntm13/smil:ntm13.smil/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "gVmlRCijprTFu3",
-    "name": "НТС (Севастополь)",
-    "stream_urls": [
-      "https://peqk71plnjy.a.trbcdn.net/livemaster/w4kz7pki62_nts_tv/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -1219,6 +1154,19 @@
     "name": "Первый Крымский",
     "stream_urls": [
       "https://live1.1tvcrimea.ru/1tvcrimea.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "n388u8bCUj6J6k",
+    "name": "Первый Республиканский",
+    "stream_urls": [
+      "https://streaming.televizor-24-tochka.ru/live/27.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -1350,8 +1298,7 @@
     "nanoid": "kR6HdQw1H7YJ4o",
     "name": "Россия 24 (Хабаровск)",
     "stream_urls": [
-      "https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA24/variant.m3u8",
-      "https://streaming.televizor-24-tochka.ru/live/30.m3u8"
+      "https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA24/variant.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -1365,19 +1312,6 @@
     "name": "Россия К",
     "stream_urls": [
       "https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK/variant.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "ERsPAfBsDBEVBj",
-    "name": "Россия-РТР",
-    "stream_urls": [
-      "https://streaming.televizor-24-tochka.ru/live/211.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -1478,10 +1412,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "OtO4WFOzaNdFUD",
-    "name": "Сити Эдем КиноАзия",
+    "nanoid": "FlqlJmUsw0JBUH",
+    "name": "Сити Эдем Play Христианский Музыкальный",
     "stream_urls": [
-      "https://cityeden.catcast.tv/content/34393/index.m3u8"
+      "https://cityeden.catcast.tv/content/34100/index.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -1491,10 +1425,23 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "UGkFnAuONipW2e",
-    "name": "Сити Эдем КиноАрт",
+    "nanoid": "GEed8MzCeFZpmL",
+    "name": "Сити Эдем АвтоГид",
     "stream_urls": [
-      "https://cityeden.catcast.tv/content/38398/index.m3u8"
+      "https://cityeden.catcast.tv/content/47515/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "EphM4GTVAEHRzh",
+    "name": "Сити Эдем Бирма Play",
+    "stream_urls": [
+      "https://cityeden.catcast.tv/content/34364/index.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -1517,36 +1464,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "3bwrLU3me5VJ37",
-    "name": "Сити Эдем КиноКлассика",
+    "nanoid": "pqEgU0y3jnIV9h",
+    "name": "Сити Эдем КиноФантастика",
     "stream_urls": [
-      "https://cityeden.catcast.tv/content/34185/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "LN1hGmRGEKcWz7",
-    "name": "Сити Эдем КиноКомедия",
-    "stream_urls": [
-      "https://cityeden.catcast.tv/content/41331/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "ID6NJjfwQAnwkN",
-    "name": "Сити Эдем КиноЭкшен",
-    "stream_urls": [
-      "https://cityeden.catcast.tv/content/41333/index.m3u8"
+      "https://cityeden.catcast.tv/content/45268/index.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -1778,6 +1699,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "g3UeglowU3FQpl",
+    "name": "Таврия",
+    "stream_urls": [
+      "https://streaming.televizor-24-tochka.ru/live/24.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "Ph3sAZycESjTXH",
     "name": "Тамыр (Уфа)",
     "stream_urls": [
@@ -1899,8 +1833,7 @@
     "nanoid": "E4ThnpTrd7cBEa",
     "name": "ТНТ (+4)",
     "stream_urls": [
-      "https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/variant.m3u8",
-      "https://streaming.televizor-24-tochka.ru/live/38.m3u8"
+      "https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/variant.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -1914,19 +1847,6 @@
     "name": "ТНТ4",
     "stream_urls": [
       "https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4/variant.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "AIHRA4w3vdxLfI",
-    "name": "Толк HD",
-    "stream_urls": [
-      "https://live-tolknews.cdnvideo.ru/tolknews/stream/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [

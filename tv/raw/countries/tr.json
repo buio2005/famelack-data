@@ -185,11 +185,9 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "UBjqGDOceqJLt2",
+    "nanoid": "CpNNMuCGpglDQA",
     "name": "ATV",
-    "stream_urls": [
-      "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_360p.m3u8"
-    ],
+    "stream_urls": [],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/56g7DPSZjow"
     ],
@@ -243,6 +241,32 @@
     "name": "Bloomberg HT",
     "stream_urls": [
       "https://tv.ensonhaber.com/bloomberght/bloomberght.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "tur"
+    ],
+    "country": "tr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "WjndAfYgzOKuol",
+    "name": "BRTV",
+    "stream_urls": [
+      "https://live.artidijitalmedya.com/artidijital_brtv/brtv/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "tur"
+    ],
+    "country": "tr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "CEq81a8k48ENyx",
+    "name": "Bursa AS TV",
+    "stream_urls": [
+      "https://live.artidijitalmedya.com/artidijital_astv/astv/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -349,19 +373,6 @@
       "https://hnpsechtsc.turknet.ercdn.net/xpnvudnlsv/cnbc-e/cnbc-e.m3u8"
     ],
     "youtube_urls": [],
-    "languages": [
-      "tur"
-    ],
-    "country": "tr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "5ZXjzA9WC4UY7k",
-    "name": "Çocuklar Duymasın",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/EwVrvPwus6I"
-    ],
     "languages": [
       "tur"
     ],
@@ -631,19 +642,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "Z3Q6N01sHoYLWs",
-    "name": "GEM Drama Plus",
-    "stream_urls": [
-      "https://ca-rt.onetv.app/gemdramaplus/index-0.m3u8?token=onetv202"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "fas"
-    ],
-    "country": "tr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "xHMJzcAUANirBq",
     "name": "GEM Entertainment",
     "stream_urls": [
@@ -687,19 +685,6 @@
     "name": "GEM Food",
     "stream_urls": [
       "https://ca-rt.onetv.app/gemfood/index-0.m3u8?token=onetv202"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "fas"
-    ],
-    "country": "tr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "B8LyCtk6GOmYge",
-    "name": "GEM Junior",
-    "stream_urls": [
-      "https://ca-rt.onetv.app/gemjunior/index-0.m3u8?token=onetv202"
     ],
     "youtube_urls": [],
     "languages": [
@@ -1031,7 +1016,7 @@
     "name": "Her An Kur'an Her An Zikir",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/SFdi1QksL0I"
+      "https://www.youtube-nocookie.com/embed/4WzJ2YQ1hZA"
     ],
     "languages": [
       "tur"
@@ -1356,6 +1341,19 @@
     "name": "Meltem TV",
     "stream_urls": [
       "https://vhxyrsly.rocketcdn.com/meltemtv/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "tur"
+    ],
+    "country": "tr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "oLXvhYRIcgw3Zr",
+    "name": "Mercan TV",
+    "stream_urls": [
+      "https://live.artidijitalmedya.com/artidijital_mercantv/mercantv/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -1752,19 +1750,6 @@
     "name": "TRT Avaz",
     "stream_urls": [
       "https://tv-trtavaz.medya.trt.com.tr/master.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "tur"
-    ],
-    "country": "tr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "KUTGOu9eHmEeCI",
-    "name": "TRT Çocuk",
-    "stream_urls": [
-      "https://tv-trtcocuk.medya.trt.com.tr/master.m3u8"
     ],
     "youtube_urls": [],
     "languages": [

@@ -26,19 +26,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "xNO3EJp4mhTrDD",
-    "name": "AS3 Sport TV",
-    "stream_urls": [
-      "https://streamtv.as3sport.online:3394/hybrid/play.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
-    "country": "ve",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "YWNPX9f8P0Trxq",
     "name": "BTA TV",
     "stream_urls": [
@@ -56,6 +43,19 @@
     "name": "Canal 21 Táchira",
     "stream_urls": [
       "https://stmv2.voxtvhd.com.br/canal21/canal21/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "ve",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "fUuKAKoxR67afP",
+    "name": "Canal Once",
+    "stream_urls": [
+      "https://tv.streamcasthd.com:3676/live/canal11delzulialive.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -107,7 +107,7 @@
     "nanoid": "c9vagOs8X6vg6Q",
     "name": "Guaro TV",
     "stream_urls": [
-      "https://streamtv.intervenhosting.net:3592/stream/play.m3u8"
+      "https://streamtv.intervenhosting.net:3592/hybrid/play.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -134,6 +134,19 @@
     "name": "Isla TV",
     "stream_urls": [
       "https://59d39900ebfb8.streamlock.net/islatv/islatv/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "ve",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "MIcJy2C1jnLtEJ",
+    "name": "KandelaTV",
+    "stream_urls": [
+      "https://streamtv.intervenhosting.net:3718/live/kandelamedioslive.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -173,6 +186,19 @@
     "name": "Más Talk",
     "stream_urls": [
       "https://vod2live.univtec.com/manifest/89290956-94ab-4950-accb-a54bbd7e176f.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "ve",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "dJh7EB1lQFwOCd",
+    "name": "Plous TV",
+    "stream_urls": [
+      "https://vcp.myplaytv.com/glowtv/glowtv/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -326,6 +352,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "sB2nccFi22vLUq",
+    "name": "TNO Radio",
+    "stream_urls": [
+      "https://stmv1.srvstm.com/tnovideo1/tnovideo1/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "ve",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "iQsTa6Z2cWc5Ch",
     "name": "Torococo TV",
     "stream_urls": [
@@ -339,10 +378,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "rO6eV79GxNqt7n",
-    "name": "TRT",
+    "nanoid": "b3aSHeBRmQKpi4",
+    "name": "TV Oasis Monay",
     "stream_urls": [
-      "https://vcp12.myplaytv.com/trt/trt/playlist.m3u8"
+      "https://live20.bozztv.com/akamaissh101/ssh101/oasistv123/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [

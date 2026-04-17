@@ -176,7 +176,7 @@
     "name": "El Futuro En tu Mano",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/_Zg9_zHl6xY"
+      "https://www.youtube-nocookie.com/embed/eBfbrwuVvPo"
     ],
     "languages": [
       "spa"
@@ -456,6 +456,32 @@
       "eng"
     ],
     "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "dJh7EB1lQFwOCd",
+    "name": "Plous TV",
+    "stream_urls": [
+      "https://vcp.myplaytv.com/glowtv/glowtv/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "ve",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "3FPl5RIfISFiTh",
+    "name": "PRIDEtv LATAM",
+    "stream_urls": [
+      "https://backend.energeek.cl/webtv/pridetvweb/index.m3u8?token=ZZDemoIPTVGH"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "cl",
     "isGeoBlocked": false
   },
   {

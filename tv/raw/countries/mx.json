@@ -104,19 +104,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "z9NmlAa4TNcIbD",
-    "name": "BAMOS TV",
-    "stream_urls": [
-      "https://video2.getstreamhosting.com:19360/8092/8092.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
-    "country": "mx",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "GYpj19hD6m2qFh",
     "name": "California Medios TV",
     "stream_urls": [
@@ -147,6 +134,19 @@
     "name": "Canal 10 Chiapas",
     "stream_urls": [
       "https://5ca9af4645e15.streamlock.net/chiapas/videochiapas/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "mx",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "om7GIuOIZrQShy",
+    "name": "Canal 10 Durango",
+    "stream_urls": [
+      "https://5e50264bd6766.streamlock.net/canal10durango/videocanal10durango/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -409,7 +409,7 @@
     "name": "ImagenTV",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/2gI8CehERd0"
+      "https://www.youtube-nocookie.com/embed/4FnI2nIPyDw"
     ],
     "languages": [
       "spa"
@@ -666,19 +666,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "KrGaqe34vp98Wi",
-    "name": "SET Televisión Canal 26.1",
-    "stream_urls": [
-      "https://5d0d1d7a6be9e.streamlock.net/sicom/canal1/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
-    "country": "mx",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "zx4QUgECtSYJoe",
     "name": "SET Televisión Canal 26.2",
     "stream_urls": [
@@ -709,6 +696,19 @@
     "name": "SIPSE TVCUN 8.1",
     "stream_urls": [
       "https://webprod.sipse.com.mx:8080/show/tvcun.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "mx",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "zMvnkO0BSIigRy",
+    "name": "Sistema Michoacano de TV",
+    "stream_urls": [
+      "https://s5.mexside.net:1936/enlinea/enlinea/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -918,20 +918,7 @@
     "name": "Televisa Monterrey",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/Uq6l1Qu4IZw"
-    ],
-    "languages": [
-      "spa"
-    ],
-    "country": "mx",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "Jiv0dDh9RrbAvZ",
-    "name": "Televisa Piedras Negras",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/G-B4IzyGmbk"
+      "https://www.youtube-nocookie.com/embed/EENmxRmEXZU"
     ],
     "languages": [
       "spa"
@@ -1022,7 +1009,7 @@
     "name": "Televisa Veracruz",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/h3pOq838uXY"
+      "https://www.youtube-nocookie.com/embed/RwuYDOIZCrk"
     ],
     "languages": [
       "spa"
@@ -1187,6 +1174,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "DCzhAOMfIMF2kt",
+    "name": "TV Nuevo León Canal 28 (XHMNL-TDT)",
+    "stream_urls": [
+      "https://s5.mexside.net:1936/canal28/canal28/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "mx",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "g7YtvRUN199O67",
     "name": "TV UG",
     "stream_urls": [
@@ -1304,10 +1304,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "JvGEcuMecAcih8",
-    "name": "Unison TV",
+    "nanoid": "2EyL9brYPFxMTy",
+    "name": "VB Media TV",
     "stream_urls": [
-      "https://stream.unison.mx/hls/unisontvatem.m3u8"
+      "https://capomo01-enitv.eninetworks.com/locales_vbmedia_publico/index.m3u8"
     ],
     "youtube_urls": [],
     "languages": [

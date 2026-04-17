@@ -466,7 +466,7 @@
     "name": "Crafter's TV",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/Gju9YW2Gcnk"
+      "https://www.youtube-nocookie.com/embed/5HfH1JZgdD8"
     ],
     "languages": [
       "eng"
@@ -520,6 +520,19 @@
     "youtube_urls": [],
     "languages": [
       "eng"
+    ],
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "u6dHm89DYJkcoL",
+    "name": "Dunya News (UK Feed)",
+    "stream_urls": [
+      "https://ukintl.dunyanews.tv/liveuk/ngrp:dunyalive_all/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "urd"
     ],
     "country": "uk",
     "isGeoBlocked": false
@@ -616,6 +629,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "y9tmDdGOMUn9pB",
+    "name": "Garshom TV",
+    "stream_urls": [
+      "https://og2qd3aal7an-hls-live.5centscdn.com/garshomtv/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "mal"
+    ],
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "xAwIJiuvV7pfvX",
     "name": "GB News",
     "stream_urls": [
@@ -690,19 +716,6 @@
     ],
     "youtube_urls": [],
     "languages": [],
-    "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "JabrObnW5dkkDn",
-    "name": "Hellenic TV",
-    "stream_urls": [
-      "https://l5.cloudskep.com/hellenictv/htv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "ell"
-    ],
     "country": "uk",
     "isGeoBlocked": false
   },
@@ -1373,6 +1386,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "KdzGfTStEzNt7p",
+    "name": "Real Wild",
+    "stream_urls": [
+      "https://lds-realwild-rakuten.amagi.tv/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "eng"
+    ],
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "8LKXkhcjKmXHN8",
     "name": "Rick and Morty",
     "stream_urls": [],
@@ -1720,7 +1746,7 @@
     "name": "WildBrain Kids",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/0W_sxb1zj5U"
+      "https://www.youtube-nocookie.com/embed/CBdNN4tkLs4"
     ],
     "languages": [
       "eng"
@@ -1733,7 +1759,7 @@
     "name": "WildBrain Max: LEGO",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/_VXEAzGV3VM"
+      "https://www.youtube-nocookie.com/embed/b4dZN0nEPf8"
     ],
     "languages": [
       "eng"
@@ -1746,8 +1772,21 @@
     "name": "WildBrain: Teletubbies",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/aIHdFfg0nZ0"
+      "https://www.youtube-nocookie.com/embed/b-Uzrf_sygM"
     ],
+    "languages": [
+      "eng"
+    ],
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "M9HwvmHmrMZElD",
+    "name": "Wonder",
+    "stream_urls": [
+      "https://lds-wonder-plex.amagi.tv/playlist.m3u8"
+    ],
+    "youtube_urls": [],
     "languages": [
       "eng"
     ],

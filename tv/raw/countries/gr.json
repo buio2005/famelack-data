@@ -117,10 +117,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "0iu8NXGmAws9mO",
-    "name": "Corfu Channel",
+    "nanoid": "9nOkMHgBurW2UW",
+    "name": "Blue Sky TV",
     "stream_urls": [
-      "https://itv.streams.ovh:1936/corfuchannel/corfuchannel/playlist.m3u8"
+      "https://cdn5.smart-tv-data.com/bluesky/bluesky-live/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -130,12 +130,12 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "c5sRTm8qGDYdgm",
-    "name": "ecclesiaTV.gr",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/c5fOoplbrA8"
+    "nanoid": "0iu8NXGmAws9mO",
+    "name": "Corfu Channel",
+    "stream_urls": [
+      "https://itv.streams.ovh:1936/corfuchannel/corfuchannel/playlist.m3u8"
     ],
+    "youtube_urls": [],
     "languages": [
       "ell"
     ],
@@ -370,19 +370,6 @@
     "name": "Telekriti",
     "stream_urls": [
       "https://neon.streams.gr:8081/telekriti/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "ell"
-    ],
-    "country": "gr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "Nhov9FRmWvJ4cy",
-    "name": "Thraki Net TV",
-    "stream_urls": [
-      "https://cdn.onestreaming.com/thrakinettv/thrakinettv/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
