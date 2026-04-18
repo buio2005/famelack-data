@@ -130,19 +130,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "u5b2On0IzN64A2",
-    "name": "E40",
-    "stream_urls": [
-      "https://copacotf.desdeparaguay.net/e40tv/e40tv_py_alta/playlist.m3u8?admin=tvaccion"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
-    "country": "py",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "Qo704xbyXZJTCe",
     "name": "En Lengua de Senas TV",
     "stream_urls": [
@@ -213,6 +200,19 @@
     "name": "Latele",
     "stream_urls": [
       "https://copacotf.desdeparaguay.net/latele/latele_py_alta/playlist.m3u8?admin=tvaccion"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "py",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "blN8uMLBNq1v02",
+    "name": "LIM TV",
+    "stream_urls": [
+      "https://tv.invasivamedia.com/hls/limtv.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -301,6 +301,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "DTGn1oGPUrbYoj",
+    "name": "Paraguay TV",
+    "stream_urls": [
+      "https://stream.paraguaytv.gov.py/memfs/bbe36fed-9b49-4d1d-adaa-4bd6d1b2e386.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "py",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "2BUOGme9iVm1bq",
     "name": "Popu TV",
     "stream_urls": [
@@ -353,6 +366,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "yjn0fCt96jnweK",
+    "name": "República TV",
+    "stream_urls": [
+      "https://rds3.desdeparaguay.net/republicatv/republicatv/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "py",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "ZvkiWYEeuwp6wf",
     "name": "Suceso TV",
     "stream_urls": [
@@ -383,19 +409,6 @@
     "name": "Tigo Sports",
     "stream_urls": [
       "https://live.enhdtv.com:8081/8160/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
-    "country": "py",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "cwbcfkhV6RVquj",
-    "name": "TV Aire",
-    "stream_urls": [
-      "https://video.hostingcaaguazu.com:19360/tvairepy/tvairepy.m3u8"
     ],
     "youtube_urls": [],
     "languages": [

@@ -26,32 +26,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "FcrizhjFuogVcE",
-    "name": "Action 24",
-    "stream_urls": [
-      "https://actionlive.siliconweb.com/actionabr/actiontv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "ell"
-    ],
-    "country": "gr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "KbaV0qyfK90k60",
-    "name": "Aeolos TV",
-    "stream_urls": [
-      "https://cdn.istoikona.com/aeolostv/live/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "ell"
-    ],
-    "country": "gr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "eCehtdFo2W9HPb",
     "name": "Alert",
     "stream_urls": [
@@ -136,6 +110,19 @@
       "https://itv.streams.ovh:1936/corfuchannel/corfuchannel/playlist.m3u8"
     ],
     "youtube_urls": [],
+    "languages": [
+      "ell"
+    ],
+    "country": "gr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "c5sRTm8qGDYdgm",
+    "name": "ecclesiaTV.gr",
+    "stream_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/Zsr84RwF1lk"
+    ],
     "languages": [
       "ell"
     ],

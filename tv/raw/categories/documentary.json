@@ -17,7 +17,7 @@
     "name": "Asahi: Documentary",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/zODeeGnW1oo"
+      "https://www.youtube-nocookie.com/embed/EmOVfsLN6V0"
     ],
     "languages": [
       "jpn"
@@ -148,6 +148,19 @@
       "pol"
     ],
     "country": "pl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "8qbHNd2Zc2MjWY",
+    "name": "CCTV-9",
+    "stream_urls": [
+      "https://xykt-fix.github.io/Y77.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "zho"
+    ],
+    "country": "cn",
     "isGeoBlocked": false
   },
   {
@@ -612,7 +625,6 @@
     "nanoid": "x77twNOeEoFaIl",
     "name": "Safari TV",
     "stream_urls": [
-      "https://j78dp346yq5r-hls-live.5centscdn.com/safari/live.stream/playlist.m3u8",
       "https://cdn-6.pishow.tv/live/1513/master.m3u8"
     ],
     "youtube_urls": [],
@@ -722,19 +734,6 @@
     "name": "НАУКА",
     "stream_urls": [
       "https://vod.tuva.ru/nauka2/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "ZSSUpQyh6iE64U",
-    "name": "Сити Эдем КиноДок",
-    "stream_urls": [
-      "https://cityeden.catcast.tv/content/38354/index.m3u8"
     ],
     "youtube_urls": [],
     "languages": [

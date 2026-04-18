@@ -185,9 +185,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "CpNNMuCGpglDQA",
+    "nanoid": "UBjqGDOceqJLt2",
     "name": "ATV",
-    "stream_urls": [],
+    "stream_urls": [
+      "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_360p.m3u8"
+    ],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/56g7DPSZjow"
     ],
@@ -642,6 +644,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "Z3Q6N01sHoYLWs",
+    "name": "GEM Drama Plus",
+    "stream_urls": [
+      "https://ca-rt.onetv.app/gemdramaplus/index-0.m3u8?token=onetv202"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "fas"
+    ],
+    "country": "tr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "xHMJzcAUANirBq",
     "name": "GEM Entertainment",
     "stream_urls": [
@@ -685,6 +700,19 @@
     "name": "GEM Food",
     "stream_urls": [
       "https://ca-rt.onetv.app/gemfood/index-0.m3u8?token=onetv202"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "fas"
+    ],
+    "country": "tr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "B8LyCtk6GOmYge",
+    "name": "GEM Junior",
+    "stream_urls": [
+      "https://ca-rt.onetv.app/gemjunior/index-0.m3u8?token=onetv202"
     ],
     "youtube_urls": [],
     "languages": [
@@ -1016,7 +1044,7 @@
     "name": "Her An Kur'an Her An Zikir",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/4WzJ2YQ1hZA"
+      "https://www.youtube-nocookie.com/embed/X_stpcBKO_w"
     ],
     "languages": [
       "tur"
@@ -1759,6 +1787,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "KUTGOu9eHmEeCI",
+    "name": "TRT Çocuk",
+    "stream_urls": [
+      "https://tv-trtcocuk.medya.trt.com.tr/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "tur"
+    ],
+    "country": "tr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "A3RiBctXfom21P",
     "name": "TRT Diyanet Çocuk",
     "stream_urls": [
@@ -1906,19 +1947,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "ZdxrMEOa28PZnq",
-    "name": "TV 264",
-    "stream_urls": [
-      "https://b01c02nl.mediatriple.net/videoonlylive/mtdxkkitgbrckilive/broadcast_5ee244263fd6d.smil/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "tur"
-    ],
-    "country": "tr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "8UTFNpq46IxrH2",
     "name": "TV Den",
     "stream_urls": [
@@ -2044,7 +2072,7 @@
     "name": "WildBrain Çocuklar: Twirlywoos",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/khcyIQEkgEA"
+      "https://www.youtube-nocookie.com/embed/mk6UuhsBm38"
     ],
     "languages": [
       "tur"

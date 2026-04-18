@@ -156,10 +156,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "t4HZl9R8oxsSaq",
-    "name": "TV Rivne 1",
+    "nanoid": "KNtnaXZuhjC6uj",
+    "name": "TIS TV",
     "stream_urls": [
-      "https://cdn1.live-tv.cloud/rivne1/rivne1-abr/playlist.m3u8"
+      "https://cdn10.live-tv.cloud/riood/tisod-abr/riood/tisod720/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -224,12 +224,12 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "NXqKfcXbbK35QY",
-    "name": "НТК ТВ",
-    "stream_urls": [
-      "https://stream.ntktv.ua/s/ntk/ntk.m3u8"
+    "nanoid": "LFw2IVZK55i3Eh",
+    "name": "Суспільне Новини",
+    "stream_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/G_-e1L724OU"
     ],
-    "youtube_urls": [],
     "languages": [
       "ukr"
     ],
@@ -237,12 +237,12 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "LFw2IVZK55i3Eh",
-    "name": "Суспільне Новини",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/G_-e1L724OU"
+    "nanoid": "aWkEDmohDUdyQY",
+    "name": "Сфера-ТВ",
+    "stream_urls": [
+      "https://cdn10.live-tv.cloud/sferarv/sferarv-abr/playlist.m3u8"
     ],
+    "youtube_urls": [],
     "languages": [
       "ukr"
     ],
@@ -308,19 +308,6 @@
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/WY8sDvZdWEA"
     ],
-    "languages": [
-      "ukr"
-    ],
-    "country": "ua",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "mzTgarqEQGEgoJ",
-    "name": "Тюсо",
-    "stream_urls": [
-      "https://tuso.cdn-01.cosmonova.net.ua/hls/tuso_ua.m3u8"
-    ],
-    "youtube_urls": [],
     "languages": [
       "ukr"
     ],

@@ -43,8 +43,21 @@
     "name": "CCTV-4中文国际",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/f6Kq93wnaZ8"
+      "https://www.youtube-nocookie.com/embed/TsccmbyNk6g"
     ],
+    "languages": [
+      "zho"
+    ],
+    "country": "cn",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "8qbHNd2Zc2MjWY",
+    "name": "CCTV-9",
+    "stream_urls": [
+      "https://xykt-fix.github.io/Y77.m3u8"
+    ],
+    "youtube_urls": [],
     "languages": [
       "zho"
     ],
@@ -325,19 +338,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "IoBPBg5ALFnRHd",
-    "name": "Tonghua TV",
-    "stream_urls": [
-      "https://lsfb.avap.jilintv.cn/zqvk7vpj/channel/43ea5771aa44421591f9dfd2b71f1b9b/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "zho"
-    ],
-    "country": "cn",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "dNTHGcZALSkHIT",
     "name": "TV BRICS Chinese",
     "stream_urls": [
@@ -537,11 +537,22 @@
     "name": "小猪佩奇 中文官方 - Peppa Pig",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/kna1Chk19VA"
+      "https://www.youtube-nocookie.com/embed/WQZWVkTtE7M"
     ],
     "languages": [
       "zho"
     ],
+    "country": "cn",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "9wRBNHe95BnBON",
+    "name": "嵊州综合",
+    "stream_urls": [
+      "https://l.cztvcloud.com/channels/lantian/SXshengzhou1/720p.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [],
     "country": "cn",
     "isGeoBlocked": false
   },
@@ -568,6 +579,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "LWZapZpACANZ13",
+    "name": "新昌休闲影视",
+    "stream_urls": [
+      "https://l.cztvcloud.com/channels/lantian/SXxinchang2/720p.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [],
+    "country": "cn",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "4rBoFSFcNpIZxe",
     "name": "新昌新聞綜合",
     "stream_urls": [
@@ -583,17 +605,6 @@
     "name": "松原新闻综合",
     "stream_urls": [
       "https://stream2.jlntv.cn/sytv/sd/live.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [],
-    "country": "cn",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "THg2ymDAp3wTLF",
-    "name": "河源综合",
-    "stream_urls": [
-      "https://tmpstream.hyrtv.cn/xwzh/sd/live.m3u8"
     ],
     "youtube_urls": [],
     "languages": [],

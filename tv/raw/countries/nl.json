@@ -501,19 +501,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "hk7PXKEYotjuny",
-    "name": "Omroep Hoeksche Waard",
-    "stream_urls": [
-      "https://ms2.mx-cd.net/tv/272-2641704/Hoeksche_Waard_TV.smil/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "nld"
-    ],
-    "country": "nl",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "Es6l1ExFTcGD0U",
     "name": "Omroep Land van Cuijk",
     "stream_urls": [
@@ -544,20 +531,6 @@
     "name": "Omroep Súdwest",
     "stream_urls": [
       "https://d2ecwd3cgy6wo0.cloudfront.net/nlpo/clr-nlpo/omroepsudwest/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "nld"
-    ],
-    "country": "nl",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "aoSCyrpFifrtBu",
-    "name": "Omroep Tilburg",
-    "stream_urls": [
-      "https://ms2.mx-cd.net/tv/184-782326/Omroep_Tilburg_TV.smil/playlist.m3u8",
-      "https://ms7.mx-cd.net/tv/184-782326/Omroep_Tilburg_TV.smil/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -636,19 +609,6 @@
     "name": "OOG TV",
     "stream_urls": [
       "https://d1xcc1603wntzx.cloudfront.net/nlpo/clr-nlpo/oogtv/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "nld"
-    ],
-    "country": "nl",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "v4lxsFawlDWyOD",
-    "name": "Open Rotterdam",
-    "stream_urls": [
-      "https://ms2.mx-cd.net/tv/141-573555/OPEN_Rotterdam.smil/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -942,6 +902,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "Ua4a0OdjOruHxv",
+    "name": "RTV Rijnstreek TV",
+    "stream_urls": [
+      "https://ms7.mx-cd.net/tv/290-3222276/RTV_Rijnstreek.smil/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "nld"
+    ],
+    "country": "nl",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "Y3tRl2FeGVTyQz",
     "name": "RTV SLOS",
     "stream_urls": [
@@ -972,6 +945,19 @@
     "name": "RTV Veluwezoom",
     "stream_urls": [
       "https://dt4pogjgi3q8s.cloudfront.net/nlpo/clr-nlpo/rtvveluwezoom/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "nld"
+    ],
+    "country": "nl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "UyWYSAuGPQ1FRF",
+    "name": "RTV Westerwolde",
+    "stream_urls": [
+      "https://media.rtvwesterwolde.nl/hls/live/index.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -1024,6 +1010,19 @@
     "name": "Salto Brasa Music",
     "stream_urls": [
       "https://salto-streams.nl/hls/sotv1.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "nld"
+    ],
+    "country": "nl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Arhd6FvJ684mYa",
+    "name": "Salto MaLive",
+    "stream_urls": [
+      "https://live.salto.nl/hls/malive_high.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -1357,19 +1356,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "zl0ukpBnhgDrtz",
-    "name": "WeertFM TV",
-    "stream_urls": [
-      "https://ms2.mx-cd.net/tv/151-573495/WeertFM_TV.smil/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "nld"
-    ],
-    "country": "nl",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "0cyk1CCNCuzPwL",
     "name": "Wicked Tuna",
     "stream_urls": [
@@ -1482,19 +1468,6 @@
     "youtube_urls": [],
     "languages": [
       "eng"
-    ],
-    "country": "nl",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "lVcADaz4AhkZNS",
-    "name": "ZFM Zoetermeer",
-    "stream_urls": [
-      "https://zfmzoetermeer.nl/live/master.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "nld"
     ],
     "country": "nl",
     "isGeoBlocked": false

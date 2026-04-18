@@ -1,18 +1,5 @@
 [
   {
-    "nanoid": "2TeFmbSu18GnAQ",
-    "name": "Cadena A",
-    "stream_urls": [
-      "https://5fe2654d6127d.streamlock.net/cadenaa/videocadenaa/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
-    "country": "bo",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "qAN5sBGpkuc0D2",
     "name": "CEACOM TV",
     "stream_urls": [
@@ -52,10 +39,23 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "4r0QKfGoGD09Z7",
-    "name": "FTV",
+    "nanoid": "YIKke4PY7wnkdl",
+    "name": "Palenque TV",
     "stream_urls": [
-      "https://master.tucableip.com/ftvhd/index.m3u8"
+      "https://tv.bitstreaming.net:3234/live/palenquetvlive.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "bo",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "yLB43ge13jrHoP",
+    "name": "Red TV Shop",
+    "stream_urls": [
+      "https://master.tucableip.com/redtvshop/index.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -126,6 +126,17 @@
     "languages": [
       "spa"
     ],
+    "country": "bo",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "T3D6a3NyVvl2H9",
+    "name": "UniversidadMayordeSanAndres",
+    "stream_urls": [
+      "https://live.enhdtv.com:8081/8190/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [],
     "country": "bo",
     "isGeoBlocked": false
   },

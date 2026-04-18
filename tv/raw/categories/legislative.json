@@ -392,10 +392,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "s4rmwbOJvp7dJM",
-    "name": "Cupertino City Channel",
+    "nanoid": "UNZk7CUnok8L3a",
+    "name": "Cypress Public Access Channel 36 (Cypress CA)",
     "stream_urls": [
-      "https://cdn3.wowza.com/5/dk84U1p2UUdoMGxT/cupertino/G0067_003/playlist.m3u8"
+      "https://livestream-us-east-edge-2.granicusops.com/live/cypressca/live-1-a/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -405,10 +405,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "UNZk7CUnok8L3a",
-    "name": "Cypress Public Access Channel 36 (Cypress CA)",
+    "nanoid": "4fRrTYUzIhzCTk",
+    "name": "DC Council Channel",
     "stream_urls": [
-      "https://livestream-us-east-edge-2.granicusops.com/live/cypressca/live-1-a/playlist.m3u8"
+      "https://video.oct.dc.gov/out/u/15_12.m3u8",
+      "https://video.oct.dc.gov/out/u/DCC.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -744,19 +745,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "nM9QbGyGixB92t",
-    "name": "Long Beach Television",
-    "stream_urls": [
-      "https://edge-f.swagit.com/live/longbeachca/live-3-a/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "1YbhdzonsHfQ5t",
     "name": "Martin County MCTV (Martin County FL)",
     "stream_urls": [
@@ -937,19 +925,6 @@
       "eng"
     ],
     "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "hKXziqHmvJRVZi",
-    "name": "Parlamentsfernsehen 1",
-    "stream_urls": [
-      "https://cldf-hlsgw.r53.cdn.tv1.eu/1000153copo/hk1.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "deu"
-    ],
-    "country": "de",
     "isGeoBlocked": false
   },
   {
@@ -1234,7 +1209,7 @@
     "name": "TV Assembleia Minas Gerais",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/tF8F8XrC3pI"
+      "https://www.youtube-nocookie.com/embed/7JS8HfuwpT8"
     ],
     "languages": [
       "por"

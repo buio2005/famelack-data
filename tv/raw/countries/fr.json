@@ -410,6 +410,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "LKw5dooNM64sYJ",
+    "name": "Canal 32",
+    "stream_urls": [
+      "https://event.vedge.infomaniak.com/livecast/ik:canal32_4/manifest.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "fra"
+    ],
+    "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "RMbGSeJmY7CCNa",
     "name": "Cannes Lérins TV",
     "stream_urls": [
@@ -460,6 +473,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "x74kBxlCSA3rr8",
+    "name": "Enquetes de Choc",
+    "stream_urls": [
+      "https://fastmedia-enquetesdechoc-rakuten.amagi.tv/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [],
+    "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "DmuSIeE8brywZA",
     "name": "Euronews en Español",
     "stream_urls": [],
@@ -473,9 +497,12 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "g4VnkSt3v2F081",
+    "nanoid": "vyAlDaoF9WU1Q1",
     "name": "Euronews English",
-    "stream_urls": [],
+    "stream_urls": [
+      "https://a-cdn.klowdtv.com/live3/euronews_720p/playlist.m3u8",
+      "https://aegis-cloudfront-1.tubi.video/b1c4d439-03a5-4c40-ae9d-90a183e010c9/euronews-en.m3u8"
+    ],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/pykpO5kQJ98"
     ],
@@ -799,6 +826,19 @@
     "name": "Francophonie24",
     "stream_urls": [
       "https://5421175365ea3.streamlock.net/live/smil:switch.smil/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "fra"
+    ],
+    "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "NXr5JJCUZWuMub",
+    "name": "Generations TV",
+    "stream_urls": [
+      "https://event.vedge.infomaniak.com/livecast/ik:generation-tv/manifest.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -1233,6 +1273,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "6yK7rD2LKikhPv",
+    "name": "Puissance TV",
+    "stream_urls": [
+      "https://event.vedge.infomaniak.com/livecast/ik:puissancetelevision/manifest.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "fra"
+    ],
+    "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "GBee4ruMbEkHYx",
     "name": "Qui Veut Gagner Des Millions La Chaîne",
     "stream_urls": [
@@ -1274,6 +1327,17 @@
     "name": "Rakuten TV Alerte Cobra",
     "stream_urls": [
       "https://alarm-for-cobra-rakuten-tv-fr.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6477/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [],
+    "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "9PtGiKgkdbGXR3",
+    "name": "Rakuten TV Films Action",
+    "stream_urls": [
+      "https://01ac9352fbfa4204998783d41f9b1a2e.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6068/master.m3u8"
     ],
     "youtube_urls": [],
     "languages": [],
@@ -1329,6 +1393,17 @@
     "name": "Rakuten TV Films Thriller",
     "stream_urls": [
       "https://thriller-rakuten-tv-fr.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6479/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [],
+    "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "phice2bsfFKDLs",
+    "name": "Rakuten TV Séries Crime",
+    "stream_urls": [
+      "https://1ffd245e4d30495e9b006502a155479e.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6214/master.m3u8"
     ],
     "youtube_urls": [],
     "languages": [],
@@ -1401,8 +1476,7 @@
     "nanoid": "NZ0M4Z47C2ZcVG",
     "name": "Sony One Favoris",
     "stream_urls": [
-      "https://49d735318d6b4c30a24a7997ea594e1b.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-820-FR-SONYONEFAVORIS-LG_FR/playlist.m3u8",
-      "https://d21fkiqbljd83t.cloudfront.net/playlist.m3u8"
+      "https://49d735318d6b4c30a24a7997ea594e1b.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-820-FR-SONYONEFAVORIS-LG_FR/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [

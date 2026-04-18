@@ -1,5 +1,18 @@
 [
   {
+    "nanoid": "pgiVm4B2WU0ANk",
+    "name": "16tv Budapest",
+    "stream_urls": [
+      "https://cloudfront44.lexanetwork.com:1344/freerelay/16tv.sdp/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "hun"
+    ],
+    "country": "hu",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "0uB4t0EMpuoVjV",
     "name": "Alföld TV",
     "stream_urls": [
@@ -69,6 +82,19 @@
     "name": "ESTV",
     "stream_urls": [
       "https://cloudfront44.lexanetwork.com:1344/relay01/HDE032.sdp/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "hun"
+    ],
+    "country": "hu",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "bJRjHgTM43iRML",
+    "name": "Fehérvár TV",
+    "stream_urls": [
+      "https://cloudfront44.lexanetwork.com:1344/freerelay/fehervartv.sdp/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -188,19 +214,6 @@
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/NTwyipJrdPM"
     ],
-    "languages": [
-      "hun"
-    ],
-    "country": "hu",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "6QswkA5Qyz19SH",
-    "name": "Mezőkövesdi Televízió",
-    "stream_urls": [
-      "https://cloudfront44.lexanetwork.com:1344/freerelay/mezokovesdvtv.sdp/playlist.m3u8"
-    ],
-    "youtube_urls": [],
     "languages": [
       "hun"
     ],
