@@ -117,6 +117,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "yfJDyMbbgk58p7",
+    "name": "Bollywood HD Russia",
+    "stream_urls": [
+      "https://xykt-fix.github.io/cinerama_edge01/hls/BOLLYWOOD_RU/Movie009.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "hin"
+    ],
+    "country": "ro",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "RIYeoEqG7KpyCd",
     "name": "Bucovina TV (576i)",
     "stream_urls": [
@@ -339,10 +352,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "HXUJ0Y6Fs5W3Ui",
-    "name": "Mooz Hits",
+    "nanoid": "wAAXdhWFrvqJmH",
+    "name": "Mooz Dance",
     "stream_urls": [
-      "https://rtmp.digitalbroadcast.ro/moozhits/moozhits.m3u8"
+      "https://rtmp.digitalbroadcast.ro/moozdance/moozdance.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -434,6 +447,19 @@
     "name": "Rock TV",
     "stream_urls": [
       "https://tv.broadcasting.ro/rocktv/85c83a80-4f71-4f2d-a8d6-43f676896bcb.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "ron"
+    ],
+    "country": "ro",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "ANjmcabwkJ7U8K",
+    "name": "Super TV",
+    "stream_urls": [
+      "https://live.supertv.ro/live/supertv/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [

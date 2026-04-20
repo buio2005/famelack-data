@@ -17,7 +17,7 @@
     "name": "Asahi: Documentary",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/EmOVfsLN6V0"
+      "https://www.youtube-nocookie.com/embed/2YCEevO4aKQ"
     ],
     "languages": [
       "jpn"
@@ -340,10 +340,24 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "J5HDeVjO016Oz1",
+    "name": "EPlanet TV",
+    "stream_urls": [
+      "https://eplhls.wns.live/hls/stream.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "fas"
+    ],
+    "country": "ir",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "ok1XbdadbIAXgd",
     "name": "Francophonie24",
     "stream_urls": [
-      "https://5421175365ea3.streamlock.net/live/smil:switch.smil/playlist.m3u8"
+      "https://5421175365ea3.streamlock.net/live/smil:switch.smil/playlist.m3u8",
+      "https://mv2.tvfrancophonie.org/live/Stream1/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -594,6 +608,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "5msM6foGDOq3Uf",
+    "name": "Persiana Travel",
+    "stream_urls": [
+      "https://mardomhls.wns.live/hls/stream.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "fas"
+    ],
+    "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "VMF9bz9jysLZtk",
     "name": "RT Documentary English",
     "stream_urls": [
@@ -625,6 +652,7 @@
     "nanoid": "x77twNOeEoFaIl",
     "name": "Safari TV",
     "stream_urls": [
+      "https://j78dp346yq5r-hls-live.5centscdn.com/safari/live.stream/playlist.m3u8",
       "https://cdn-6.pishow.tv/live/1513/master.m3u8"
     ],
     "youtube_urls": [],

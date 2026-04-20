@@ -65,19 +65,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "2JuIWNzpBvexFE",
-    "name": "Canal 26 TV IAP",
-    "stream_urls": [
-      "https://vdo.tecnoservix.stream:3899/live/canal26tvlive.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
-    "country": "sv",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "lZCJ28tnHKpEgP",
     "name": "El Camino TV",
     "stream_urls": [
@@ -195,19 +182,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "Blt46frCkDVO7v",
-    "name": "TV CRET",
-    "stream_urls": [
-      "https://radiocret.net:8082/hls/tvcret.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
-    "country": "sv",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "Jx6LDrmycTsFql",
     "name": "TV Getsemaní",
     "stream_urls": [
@@ -238,6 +212,19 @@
     "name": "TVCa Televisión Católica Arquidiocesana",
     "stream_urls": [
       "https://live20.bozztv.com/akamaissh101/ssh101/tvcaelsalvador/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "sv",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "1jzCwLIvYDfCXS",
+    "name": "WOW TV",
+    "stream_urls": [
+      "https://cdn-edge1.cef-technology.com/wow/wow_tv/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [

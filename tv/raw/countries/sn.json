@@ -1,18 +1,5 @@
 [
   {
-    "nanoid": "d5k9RHTOOkIzsq",
-    "name": "A2i Music",
-    "stream_urls": [
-      "https://stream.sen-gt.com/A2iMusic/myStream/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "wol"
-    ],
-    "country": "sn",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "qnZnUMjCzgKR22",
     "name": "A2i Religion",
     "stream_urls": [
@@ -82,6 +69,32 @@
     "name": "SenJeunes TV",
     "stream_urls": [
       "https://stream.sen-gt.com/senjeunestv/myStream/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "fra"
+    ],
+    "country": "sn",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "ox86PswpaoGHYF",
+    "name": "TeleMusik Senegal",
+    "stream_urls": [
+      "https://58c04fb1d143f.streamlock.net/rezopropartner_1_live/rezopropartner_1_live/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "fra"
+    ],
+    "country": "sn",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "2dRnxxtZOm8ac0",
+    "name": "TFM",
+    "stream_urls": [
+      "https://trn03.bozztv.com/gin-tfmtv/index.m3u8"
     ],
     "youtube_urls": [],
     "languages": [

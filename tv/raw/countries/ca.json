@@ -43,6 +43,7 @@
     "nanoid": "qza0cF55H7P2sc",
     "name": "Az Star TV",
     "stream_urls": [
+      "https://live.azstartv.com/azstar/smil:azstar.smil/playlist.m3u8",
       "https://live.livestreamtv.ca/azstar/ngrp:azstar/playlist.m3u8"
     ],
     "youtube_urls": [],
@@ -70,6 +71,19 @@
     "name": "Cable 14 Hamilton",
     "stream_urls": [
       "https://flowcaster1-ch.cdn.clearcable.net/C14/smil:C14.smil/playlist.m3u8?iimae0UC2aendtime=1665196120&iimae0UC2ahash=NzcDbuotaJAVf1DsNxuGHBlfCXSvHDIt5sqMUMgrRMU=&iimae0UC2astarttime=1665181720"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "eng"
+    ],
+    "country": "ca",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "gouSrPs3KYyRhk",
+    "name": "Canada One",
+    "stream_urls": [
+      "https://cdn8.live247stream.com/canadaone/tv/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -115,6 +129,19 @@
     ],
     "languages": [
       "eng"
+    ],
+    "country": "ca",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "MmmREMvWn5mM26",
+    "name": "Channel Y",
+    "stream_urls": [
+      "https://cdn19.live247stream.com/channely/tv/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "hin"
     ],
     "country": "ca",
     "isGeoBlocked": false
@@ -277,6 +304,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "oj7vX3xxxcxlj0",
+    "name": "Fugget About It",
+    "stream_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/EzbSfeEfbqA"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "country": "ca",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "3PWIwG9FFIlO5Y",
     "name": "Game+",
     "stream_urls": [
@@ -285,6 +325,19 @@
     "youtube_urls": [],
     "languages": [
       "eng"
+    ],
+    "country": "ca",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "jA3Wlh1PpHv23F",
+    "name": "Gaunda Punjab TV",
+    "stream_urls": [
+      "https://cdn6.live247stream.com/gaundapunjab/tv/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "pan"
     ],
     "country": "ca",
     "isGeoBlocked": false
@@ -641,19 +694,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "PcZvzmtUOxudPS",
-    "name": "NACTV",
-    "stream_urls": [
-      "https://stream2.pivotalelements.com/memfs/2d2e1038-9eb2-44df-a9b9-109de5752f3b_output_0.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "eng"
-    ],
-    "country": "ca",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "lw6jSScbMN0yre",
     "name": "Nature Time France",
     "stream_urls": [
@@ -814,19 +854,6 @@
     "youtube_urls": [],
     "languages": [
       "pan"
-    ],
-    "country": "ca",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "mmZjHuy87LmO4O",
-    "name": "Sooriyan TV",
-    "stream_urls": [
-      "https://live20.bozztv.com/giatv/giatv-Infinittyott/Infinittyott/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "tam"
     ],
     "country": "ca",
     "isGeoBlocked": false

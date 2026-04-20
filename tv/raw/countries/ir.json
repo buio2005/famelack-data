@@ -94,7 +94,8 @@
     "nanoid": "Fr9iAxQAFp5S9O",
     "name": "Arvan TV",
     "stream_urls": [
-      "https://arvhls.wns.live/hls/stream.m3u8"
+      "https://arvhls.wns.live/hls/stream.m3u8",
+      "https://me2hls.wns.live/hls/stream.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -125,6 +126,19 @@
     "youtube_urls": [],
     "languages": [
       "ara"
+    ],
+    "country": "ir",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "7IAAjOwAYELwdi",
+    "name": "Atrina TV",
+    "stream_urls": [
+      "https://atrihls.wns.live/hls/stream.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "fas"
     ],
     "country": "ir",
     "isGeoBlocked": false
@@ -198,7 +212,8 @@
     "nanoid": "44xxX5UC9CRU0p",
     "name": "Datis TV",
     "stream_urls": [
-      "https://dathls.wns.live/hls/stream.m3u8"
+      "https://dathls.wns.live/hls/stream.m3u8",
+      "https://ronhls.wns.live/hls/stream.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -223,6 +238,19 @@
     "name": "Ekran Movies",
     "stream_urls": [
       "https://ca-rt.onetv.app/EkranMovies/index-0.m3u8?token=onetv202"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "fas"
+    ],
+    "country": "ir",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "J5HDeVjO016Oz1",
+    "name": "EPlanet TV",
+    "stream_urls": [
+      "https://eplhls.wns.live/hls/stream.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -410,6 +438,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "RYW8cokw1YUAPH",
+    "name": "Newflix",
+    "stream_urls": [
+      "https://newfhls.wns.live/hls/stream.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "fas"
+    ],
+    "country": "ir",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "Hq5kvgoL2uBOds",
     "name": "OXIR TV",
     "stream_urls": [
@@ -531,6 +572,19 @@
     "name": "TV ITN",
     "stream_urls": [
       "https://itnhls.wns.live/hls/stream.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "fas"
+    ],
+    "country": "ir",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "gNhOgT2v5bREO2",
+    "name": "VOX1",
+    "stream_urls": [
+      "https://hls.vox1.live/hls/stream.m3u8"
     ],
     "youtube_urls": [],
     "languages": [

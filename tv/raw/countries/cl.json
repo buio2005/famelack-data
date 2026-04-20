@@ -221,6 +221,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "fJikHBvZcviret",
+    "name": "Chilevisión",
+    "stream_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/XnONnXIg30E"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "country": "cl",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "eDESw3Ox4wXwbn",
     "name": "Chiloe Red 25",
     "stream_urls": [
@@ -407,7 +420,7 @@
     "name": "Meganoticias",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/V5mbFsb74bk"
+      "https://www.youtube-nocookie.com/embed/5U4XDlaikrg"
     ],
     "languages": [
       "spa"
@@ -494,9 +507,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "N1HhiJL2fVAXjE",
+    "nanoid": "zjUM7zUUhBPTQU",
     "name": "Puranoticia TV",
-    "stream_urls": [],
+    "stream_urls": [
+      "https://pnt.janusmedia.tv/hls/pnt.m3u8"
+    ],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/-ZRFnT3pN4U"
     ],
@@ -592,7 +607,7 @@
       "https://jireh-2-hls-video-us-isp.dps.live/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/t13/t13.smil/playlist.m3u8"
     ],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/M_k0RotHK2o"
+      "https://www.youtube-nocookie.com/embed/RQf9gqbMs1M"
     ],
     "languages": [
       "spa"
@@ -710,19 +725,6 @@
     "name": "TV Senado",
     "stream_urls": [
       "https://janus-tv-ply.senado.cl/playlist/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
-    "country": "cl",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "hOfMwcYwkqMasz",
-    "name": "TV UCT",
-    "stream_urls": [
-      "https://unlimited1-us.dps.live/uct/uct.smil/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [

@@ -1,5 +1,18 @@
 [
   {
+    "nanoid": "NiV08xfOfwMHaS",
+    "name": "Antares Televisión",
+    "stream_urls": [
+      "https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "pe",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "FEKfCiEsgtQUuf",
     "name": "Antena SUR",
     "stream_urls": [
@@ -297,10 +310,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "EXY3gFnP4pv3FX",
-    "name": "ONDA DIGITAL",
+    "nanoid": "GS1iJoWQ7ta8Q1",
+    "name": "Ovación TV",
     "stream_urls": [
-      "https://tv.ondadigital.pe/ondadigital/index.m3u8"
+      "https://5c3fb01839654.streamlock.net:1963/iptvovacion1/liveovacion1tv/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -340,6 +353,19 @@
     "name": "RadioTV Oriente",
     "stream_urls": [
       "https://live.obslivestream.com/tvoriente/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "pe",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "fFOp14kqquOvOI",
+    "name": "Red de Comunicación Regional (RCR)",
+    "stream_urls": [
+      "https://5c3fb01839654.streamlock.net:1963/iptvrcrperu/livercrperutv/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -392,19 +418,6 @@
     "name": "Señal Perú TV",
     "stream_urls": [
       "https://livestream.perucast.com/hls/stream.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
-    "country": "pe",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "NWQzBG1ASDZW7k",
-    "name": "Sol Televisión",
-    "stream_urls": [
-      "https://video03.logicahost.com.br/soltv/soltv/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -479,10 +492,36 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "XOM9Q1cGWigMXK",
+    "name": "TVLibertad ",
+    "stream_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/0bnva7j2-fI"
+    ],
+    "languages": [
+      "spa"
+    ],
+    "country": "pe",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "ghJvcjvVzHFJJM",
     "name": "TVUNO",
     "stream_urls": [
       "https://streamtv.onliv3.online:1936/karibtv/karibtv/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "pe",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "CXQzBhDcjLd9xW",
+    "name": "Unife TV",
+    "stream_urls": [
+      "https://cdn.mycloudstream.io/hls/live/broadcast/ic1frrzz/index.m3u8"
     ],
     "youtube_urls": [],
     "languages": [

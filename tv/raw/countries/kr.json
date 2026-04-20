@@ -55,7 +55,11 @@
     "nanoid": "Tbc3pRPpRtjmFA",
     "name": "Arirang Radio",
     "stream_urls": [
-      "https://amdlive-ch02-ctnd-com.akamaized.net/arirang_3ch/smil:arirang_3ch.smil/playlist.m3u8"
+      "https://amdlive-ch02-ctnd-com.akamaized.net/arirang_3ch/smil:arirang_3ch.smil/playlist.m3u8",
+      "https://amdlive-ch01.ctnd.com.edgesuite.net/arirang_3ch/smil:arirang_3ch.smil/playlist.m3u8",
+      "https://amdlive-ch02.ctnd.com.edgesuite.net/arirang_3ch/smil:arirang_3ch.smil/playlist.m3u8",
+      "https://amdlive-ch03.ctnd.com.edgesuite.net/arirang_3ch/smil:arirang_3ch.smil/playlist.m3u8",
+      "https://amdlive.ctnd.com.edgesuite.net/arirang_3ch/smil:arirang_3ch.smil/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -395,7 +399,7 @@
     "name": "JTBC News",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/SdzVCV0BHpI"
+      "https://www.youtube-nocookie.com/embed/7-Zgd_V4PPc"
     ],
     "languages": [
       "kor"
@@ -408,7 +412,7 @@
     "name": "KBS News",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/bXgc7da3BkI"
+      "https://www.youtube-nocookie.com/embed/xU5jPWoDlnU"
     ],
     "languages": [
       "kor"
@@ -521,6 +525,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "I27keaXmXV9AK5",
+    "name": "MBC Jeju (제주 MBC)",
+    "stream_urls": [
+      "https://wowza.jejumbc.com/live/tv_jejumbc/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "kor"
+    ],
+    "country": "kr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "jvEnH2enN4Ahyj",
     "name": "MBC News",
     "stream_urls": [],
@@ -551,6 +568,19 @@
     "name": "NBS Korea Agricultural Broadcasting",
     "stream_urls": [
       "https://media.joycorp.co.kr:4443/live/ngrp:live_all/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "kor"
+    ],
+    "country": "kr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "e5F89xwHW6PISK",
+    "name": "NHTV",
+    "stream_urls": [
+      "https://nonghyup.flive.skcdn.com/nonghyup/_definst_/nhlive/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -642,8 +672,21 @@
     "name": "SBS",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/6ZfzsMYXeT4"
+      "https://www.youtube-nocookie.com/embed/ci8pjLH_VoU"
     ],
+    "languages": [
+      "kor"
+    ],
+    "country": "kr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "hzRty45Ba6bXh8",
+    "name": "SBS JIBS",
+    "stream_urls": [
+      "https://123.140.197.22/stream/1/play.m3u8"
+    ],
+    "youtube_urls": [],
     "languages": [
       "kor"
     ],

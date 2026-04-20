@@ -874,6 +874,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "VFD90UpkQ7f9Ss",
+    "name": "Payam Javan TV",
+    "stream_urls": [
+      "https://uni01rtmp.tulix.tv/kensecure/pjtv.stream/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "fas"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "tCMMSwaVSeASoi",
     "name": "PBS KET Louisville KY (WKMJ-TV)",
     "stream_urls": [
@@ -992,6 +1005,19 @@
     "isGeoBlocked": true
   },
   {
+    "nanoid": "vRZkwBTMbPAvOm",
+    "name": "Persiana Medical",
+    "stream_urls": [
+      "https://tfnhls.wns.live/hls/stream.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "fas"
+    ],
+    "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "I0DVGAmN7OWX0l",
     "name": "Platzi TV",
     "stream_urls": [
@@ -1015,6 +1041,19 @@
       "eng"
     ],
     "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "GyYMyUUtPptNeI",
+    "name": "Rinjani TV",
+    "stream_urls": [
+      "https://rinjanitv.cloud/hls/tvkabel.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "ind"
+    ],
+    "country": "id",
     "isGeoBlocked": false
   },
   {
@@ -1054,19 +1093,6 @@
       "spa"
     ],
     "country": "mx",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "PNF9zodERQr3Zm",
-    "name": "SQOOL TV",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/PL8Aol-Sxmc"
-    ],
-    "languages": [
-      "fra"
-    ],
-    "country": "fr",
     "isGeoBlocked": false
   },
   {
@@ -1265,16 +1291,16 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "moehtnlcI4ChMQ",
-    "name": "Uniwersytet im. Adama Mickiewicza w Poznaniu",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/CziguKA4BNk"
+    "nanoid": "7UeLUueVRqvHR1",
+    "name": "UNISUL TV",
+    "stream_urls": [
+      "https://sitetv.brasilstream.com.br/hls/sitetv/index.m3u8?token="
     ],
+    "youtube_urls": [],
     "languages": [
-      "pol"
+      "por"
     ],
-    "country": "pl",
+    "country": "br",
     "isGeoBlocked": false
   },
   {

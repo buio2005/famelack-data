@@ -79,6 +79,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "hxElXQEHI6wIHq",
+    "name": "BR6 TV",
+    "stream_urls": [
+      "https://58c04fb1d143f.streamlock.net/slob/slob/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "nld"
+    ],
+    "country": "nl",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "77E2xhr3RrP82t",
     "name": "Cartoon Network Nederland",
     "stream_urls": [],
@@ -97,6 +110,19 @@
     "stream_urls": [
       "https://ms2.mx-cd.net/tv/228-1864150/Omroep_Helmond.smil/playlist.m3u8",
       "https://ms2.mx-cd.net/tv/Omroep_Helmond.smil/chunklist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "nld"
+    ],
+    "country": "nl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "0eoKVJV2pq7Jz8",
+    "name": "Feel Good TV",
+    "stream_urls": [
+      "https://58c04fb1d143f.streamlock.net/feel_good_radio_1/feel_good_radio_1/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -360,6 +386,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "YgwesPOmCiZn25",
+    "name": "LOE TV",
+    "stream_urls": [
+      "https://58c04fb1d143f.streamlock.net/loemedia/loemedia/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "nld"
+    ],
+    "country": "nl",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "qUy0NOK2hQdQ38",
     "name": "LON TV",
     "stream_urls": [
@@ -501,6 +540,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "hk7PXKEYotjuny",
+    "name": "Omroep Hoeksche Waard",
+    "stream_urls": [
+      "https://ms2.mx-cd.net/tv/272-2641704/Hoeksche_Waard_TV.smil/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "nld"
+    ],
+    "country": "nl",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "Es6l1ExFTcGD0U",
     "name": "Omroep Land van Cuijk",
     "stream_urls": [
@@ -531,6 +583,20 @@
     "name": "Omroep Súdwest",
     "stream_urls": [
       "https://d2ecwd3cgy6wo0.cloudfront.net/nlpo/clr-nlpo/omroepsudwest/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "nld"
+    ],
+    "country": "nl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "aoSCyrpFifrtBu",
+    "name": "Omroep Tilburg",
+    "stream_urls": [
+      "https://ms2.mx-cd.net/tv/184-782326/Omroep_Tilburg_TV.smil/playlist.m3u8",
+      "https://ms7.mx-cd.net/tv/184-782326/Omroep_Tilburg_TV.smil/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -609,6 +675,19 @@
     "name": "OOG TV",
     "stream_urls": [
       "https://d1xcc1603wntzx.cloudfront.net/nlpo/clr-nlpo/oogtv/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "nld"
+    ],
+    "country": "nl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "v4lxsFawlDWyOD",
+    "name": "Open Rotterdam",
+    "stream_urls": [
+      "https://ms2.mx-cd.net/tv/141-573555/OPEN_Rotterdam.smil/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -709,6 +788,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "W9VS8SRmkQmeJR",
+    "name": "Rararadio",
+    "stream_urls": [
+      "https://58c04fb1d143f.streamlock.net/rararadio/rararadio/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "nld"
+    ],
+    "country": "nl",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "dSnoUTHQ6dYQnL",
     "name": "Regio TV De Bilt",
     "stream_urls": [
@@ -731,17 +823,6 @@
     "languages": [
       "nld"
     ],
-    "country": "nl",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "bzhuoIIHDSQpOH",
-    "name": "Rotterdam Podium TV",
-    "stream_urls": [
-      "https://ms10.mx-cd.net/tv/141-573565/Podium_Rotterdam.smil/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [],
     "country": "nl",
     "isGeoBlocked": false
   },
@@ -828,6 +909,33 @@
     "name": "RTV Noord Extra",
     "stream_urls": [
       "https://media.rtvnoord.nl/live/rtvnoord/extra/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "nld"
+    ],
+    "country": "nl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "bdBmeA8W9ieof9",
+    "name": "RTV Noordoost Friesland",
+    "stream_urls": [
+      "https://593aed234297b.streamlock.net/rtvnof2/live/playlist.m3u8",
+      "https://5ebd833552d56.streamlock.net/rtvnof3/rtvnof3/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "nld"
+    ],
+    "country": "nl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "C71GWjbjSGWJXa",
+    "name": "RTV Nunspeet",
+    "stream_urls": [
+      "https://ms7.mx-cd.net/tv/262-2600774/RTV_Nunspeet.smil/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -1126,6 +1234,7 @@
     "nanoid": "3yqUEutbjyfIc5",
     "name": "Streek TV",
     "stream_urls": [
+      "https://61ae39677a1ab.streamlock.net/streektv/streektv/playlist.m3u8",
       "https://cdn22.streampartner.nl/streektv/streektv/playlist.m3u8"
     ],
     "youtube_urls": [],
@@ -1165,7 +1274,8 @@
     "nanoid": "80Bzo5gghASeEz",
     "name": "TV Ellef",
     "stream_urls": [
-      "https://cdn22.streampartner.nl/tvellef/livestream/playlist.m3u8"
+      "https://cdn22.streampartner.nl/tvellef/livestream/playlist.m3u8",
+      "https://61ae39677a1ab.streamlock.net/tvellef/tvellef/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -1356,6 +1466,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "zl0ukpBnhgDrtz",
+    "name": "WeertFM TV",
+    "stream_urls": [
+      "https://ms2.mx-cd.net/tv/151-573495/WeertFM_TV.smil/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "nld"
+    ],
+    "country": "nl",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "0cyk1CCNCuzPwL",
     "name": "Wicked Tuna",
     "stream_urls": [
@@ -1468,6 +1591,19 @@
     "youtube_urls": [],
     "languages": [
       "eng"
+    ],
+    "country": "nl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "lVcADaz4AhkZNS",
+    "name": "ZFM Zoetermeer",
+    "stream_urls": [
+      "https://zfmzoetermeer.nl/live/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "nld"
     ],
     "country": "nl",
     "isGeoBlocked": false

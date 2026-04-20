@@ -104,19 +104,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "gPHlL3FuCScLzN",
-    "name": "interTV",
-    "stream_urls": [
-      "https://streamtv.intervenhosting.net:3439/hybrid/play.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
-    "country": "ve",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "uShK1SgZwLoTJ4",
     "name": "Isla TV",
     "stream_urls": [
@@ -182,10 +169,36 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "1b6pwDCZHXANgu",
+    "name": "PortuTV",
+    "stream_urls": [
+      "https://streamtv.intervenhosting.net:3789/live/portutvlive.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "ve",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "YQGNpYUE3gQTO4",
     "name": "PromarTV",
     "stream_urls": [
       "https://vcp.myplaytv.com/promar/promar/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "ve",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "tJa1zHfUu6eux2",
+    "name": "Reforma TV",
+    "stream_urls": [
+      "https://5bf8041cb3fed.streamlock.net/ReformaTV/ReformaTV/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [

@@ -146,6 +146,7 @@
     "nanoid": "FuiSRD0mYmX331",
     "name": "Farra Play",
     "stream_urls": [
+      "https://159.203.148.226/live/farra.m3u8",
       "https://stream.farra.com.py/live/farra_low.m3u8"
     ],
     "youtube_urls": [],
@@ -183,36 +184,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "8vX1XPEH9jNBSM",
-    "name": "HEi Now",
-    "stream_urls": [
-      "https://copacogen.desdeparaguay.net/heitv/heitv_py_alta/playlist.m3u8?admin=nacion"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
-    "country": "py",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "GscXL8j6OKttHk",
     "name": "Latele",
     "stream_urls": [
       "https://copacotf.desdeparaguay.net/latele/latele_py_alta/playlist.m3u8?admin=tvaccion"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
-    "country": "py",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "blN8uMLBNq1v02",
-    "name": "LIM TV",
-    "stream_urls": [
-      "https://tv.invasivamedia.com/hls/limtv.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -353,19 +328,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "ERBtwPcBChyLTj",
-    "name": "Red Digital",
-    "stream_urls": [
-      "https://video.hostingcaaguazu.com:19360/reddigitalsanpedro/reddigitalsanpedro.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
-    "country": "py",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "yjn0fCt96jnweK",
     "name": "República TV",
     "stream_urls": [
@@ -405,10 +367,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "nkMb1YDs0h8mzP",
-    "name": "Tigo Sports",
+    "nanoid": "cwbcfkhV6RVquj",
+    "name": "TV Aire",
     "stream_urls": [
-      "https://live.enhdtv.com:8081/8160/index.m3u8"
+      "https://video.hostingcaaguazu.com:19360/tvairepy/tvairepy.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
