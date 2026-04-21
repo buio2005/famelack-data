@@ -576,7 +576,8 @@
     "nanoid": "1ZOIVdANdR6Z37",
     "name": "Air Connect Radio",
     "stream_urls": [
-      "https://stream.airconnectradio.com/ac192.mp3"
+      "https://stream.airconnectradio.com/ac192.mp3",
+      "https://stream.airconnectradio.com/ac64.aac"
     ],
     "country": "fr",
     "languages": [
@@ -1473,6 +1474,17 @@
     "country": "fr",
     "languages": [
       "fra"
+    ]
+  },
+  {
+    "nanoid": "oAjvOQfgMtgImi",
+    "name": "Antxeta Irratia",
+    "stream_urls": [
+      "https://streaming.antxetamedia.eus:8443/antxeta1"
+    ],
+    "country": "fr",
+    "languages": [
+      "eus"
     ]
   },
   {
@@ -2459,17 +2471,6 @@
     ]
   },
   {
-    "nanoid": "tVUMNtUXWhXfd5",
-    "name": "Cool Radio",
-    "stream_urls": [
-      "https://listen.radioking.com/radio/530131/stream/588580"
-    ],
-    "country": "fr",
-    "languages": [
-      "fra"
-    ]
-  },
-  {
     "nanoid": "8nkfiDDYPUrFEp",
     "name": "Couleurs Jazz Radio",
     "stream_urls": [
@@ -2521,6 +2522,18 @@
     "name": "Crooner Radio American",
     "stream_urls": [
       "https://croonerradio_american.ice.infomaniak.ch/croonerradio-american-midfi.mp3"
+    ],
+    "country": "fr",
+    "languages": [
+      "eng",
+      "fra"
+    ]
+  },
+  {
+    "nanoid": "jRWQNmPAspiGBm",
+    "name": "Crooner Radio Barbra Streisand",
+    "stream_urls": [
+      "https://croonerradio_barbrastreisand.ice.infomaniak.ch/croonerradio-barbrastreisand-midfi.mp3"
     ],
     "country": "fr",
     "languages": [
@@ -2711,7 +2724,6 @@
     "nanoid": "cHyTkghDfrMV4u",
     "name": "Crooner Radio Premium",
     "stream_urls": [
-      "https://direct.croonerradio.fr/croonerradio-inprivate-midfi.mp3",
       "https://croonerradio_inprivate.ice.infomaniak.ch/croonerradio-inprivate-midfi.mp3"
     ],
     "country": "fr",
@@ -2915,18 +2927,6 @@
     "name": "Egregore Radio",
     "stream_urls": [
       "https://radio.egrego.re/radio/8000/radio.mp3"
-    ],
-    "country": "fr",
-    "languages": [
-      "eng",
-      "fra"
-    ]
-  },
-  {
-    "nanoid": "xagLqu889Abf9M",
-    "name": "EklectyWaves",
-    "stream_urls": [
-      "https://play.radioking.io/eklectywaves-the-sharing-radio"
     ],
     "country": "fr",
     "languages": [
@@ -4497,6 +4497,17 @@
     ]
   },
   {
+    "nanoid": "sKBJUXtcrCbBtD",
+    "name": "Friendly Radio",
+    "stream_urls": [
+      "https://listen.radioking.com/radio/6014/stream/14771"
+    ],
+    "country": "fr",
+    "languages": [
+      "fra"
+    ]
+  },
+  {
     "nanoid": "QTDl14SNa3VHbJ",
     "name": "Fréquence 3",
     "stream_urls": [
@@ -4834,28 +4845,6 @@
     ]
   },
   {
-    "nanoid": "BXPSaJTQE4y48g",
-    "name": "Gay Radio",
-    "stream_urls": [
-      "https://srv.webradiomanager.fr:1285/stream"
-    ],
-    "country": "fr",
-    "languages": [
-      "fra"
-    ]
-  },
-  {
-    "nanoid": "Ol7l97ZBqnnabi",
-    "name": "Generation Soul Disco Funk",
-    "stream_urls": [
-      "https://gestream.fr/g-radio-sd.aac"
-    ],
-    "country": "fr",
-    "languages": [
-      "fra"
-    ]
-  },
-  {
     "nanoid": "D9yfjiQOrnjVF3",
     "name": "Generations Lyon",
     "stream_urls": [
@@ -4882,6 +4871,17 @@
     "name": "Gospel Urbain Radio",
     "stream_urls": [
       "https://listen.radioking.com/radio/371/stream/1583"
+    ],
+    "country": "fr",
+    "languages": [
+      "fra"
+    ]
+  },
+  {
+    "nanoid": "2xqahrpoZAT2fc",
+    "name": "Graffiti Urban Radio",
+    "stream_urls": [
+      "https://diffusion.lafrap.fr/graffiti"
     ],
     "country": "fr",
     "languages": [
@@ -5552,6 +5552,17 @@
     "name": "Hélène FM",
     "stream_urls": [
       "https://helenefm.ice.infomaniak.ch/helenefm-high.mp3"
+    ],
+    "country": "fr",
+    "languages": [
+      "fra"
+    ]
+  },
+  {
+    "nanoid": "xz42g3eIwEPxLV",
+    "name": "i2 Radio",
+    "stream_urls": [
+      "https://www.radioking.com/play/i2-radio"
     ],
     "country": "fr",
     "languages": [
@@ -6553,6 +6564,17 @@
     "stream_urls": [
       "https://laradioplus.ice.infomaniak.ch/laradioplus-high.aac",
       "https://lalaradio.ice.infomaniak.ch/lalaradio-high.mp3"
+    ],
+    "country": "fr",
+    "languages": [
+      "fra"
+    ]
+  },
+  {
+    "nanoid": "6EptUV1tRaxLxf",
+    "name": "LARS'N",
+    "stream_urls": [
+      "https://radio.larsn.fr:8443/main"
     ],
     "country": "fr",
     "languages": [
@@ -7601,6 +7623,17 @@
     "stream_urls": [
       "https://mbs.ice.infomaniak.ch/mbs-128.mp3",
       "https://mbs.ice.infomaniak.ch/mbs-96.aac"
+    ],
+    "country": "fr",
+    "languages": [
+      "fra"
+    ]
+  },
+  {
+    "nanoid": "fcXE6qa0pQeAg1",
+    "name": "Mega FM",
+    "stream_urls": [
+      "https://megafm.ice.infomaniak.ch/megafm-high.mp3"
     ],
     "country": "fr",
     "languages": [
@@ -8674,6 +8707,17 @@
     ]
   },
   {
+    "nanoid": "rBj6vTkWXL7LUF",
+    "name": "NRJ Best Hits Ever",
+    "stream_urls": [
+      "https://streaming.nrjaudio.fm/oumrai8fnozc"
+    ],
+    "country": "fr",
+    "languages": [
+      "fra"
+    ]
+  },
+  {
     "nanoid": "NsMG89Fsz9HAnU",
     "name": "NRJ Bruno Mars",
     "stream_urls": [
@@ -9168,6 +9212,17 @@
     "name": "NRJ Hits 90s",
     "stream_urls": [
       "https://streaming.nrjaudio.fm/ou627gxp336f"
+    ],
+    "country": "fr",
+    "languages": [
+      "fra"
+    ]
+  },
+  {
+    "nanoid": "jicQ4812a2L4oP",
+    "name": "NRJ Hits de l'Été 2025",
+    "stream_urls": [
+      "https://streaming.nrjaudio.fm/oua8h7w2dqao"
     ],
     "country": "fr",
     "languages": [
@@ -10626,6 +10681,17 @@
     ]
   },
   {
+    "nanoid": "RtnmQyaLzs28y6",
+    "name": "Radio Agape",
+    "stream_urls": [
+      "https://agape.jireh.ovh/;"
+    ],
+    "country": "fr",
+    "languages": [
+      "fra"
+    ]
+  },
+  {
     "nanoid": "R0V8Vu6tRjUzpZ",
     "name": "Radio Albigès",
     "stream_urls": [
@@ -11977,6 +12043,17 @@
     ]
   },
   {
+    "nanoid": "ySXcRE94pDMntC",
+    "name": "Radio La Tribu",
+    "stream_urls": [
+      "https://radio10.pro-fhi.net/radio/9003/live.mp3"
+    ],
+    "country": "fr",
+    "languages": [
+      "fra"
+    ]
+  },
+  {
     "nanoid": "vdABOt93KpACav",
     "name": "Radio Lapurdi Irratia",
     "stream_urls": [
@@ -12362,17 +12439,6 @@
     ]
   },
   {
-    "nanoid": "GFOkgjRdzKDCS3",
-    "name": "Radio Pays de Guéret",
-    "stream_urls": [
-      "https://radiopaysdegueret.ice.infomaniak.ch/radiopaysdegueret.mp3"
-    ],
-    "country": "fr",
-    "languages": [
-      "fra"
-    ]
-  },
-  {
     "nanoid": "UiofP13MoOKEo7",
     "name": "Radio PFM",
     "stream_urls": [
@@ -12444,6 +12510,17 @@
     "name": "Radio Primitive",
     "stream_urls": [
       "https://streaming.radioprimitive.fr:8443/live.mp3"
+    ],
+    "country": "fr",
+    "languages": [
+      "fra"
+    ]
+  },
+  {
+    "nanoid": "LPxx1t9A6cYB7X",
+    "name": "Radio Proxlab",
+    "stream_urls": [
+      "https://radio.proxlab.fr/radio/8000/radio.mp3"
     ],
     "country": "fr",
     "languages": [
@@ -13165,17 +13242,6 @@
     ]
   },
   {
-    "nanoid": "QrpN0eePwHQwXS",
-    "name": "Radio U",
-    "stream_urls": [
-      "https://icecast.infini.fr:8443/radiou.mp3"
-    ],
-    "country": "fr",
-    "languages": [
-      "fra"
-    ]
-  },
-  {
     "nanoid": "VU75gsY7q2anxL",
     "name": "Radio Univers",
     "stream_urls": [
@@ -13485,17 +13551,6 @@
     ]
   },
   {
-    "nanoid": "BsWCuj1FxTTYIC",
-    "name": "RBR 103.4 FM",
-    "stream_urls": [
-      "https://stream.vestaradio.com/RBR"
-    ],
-    "country": "fr",
-    "languages": [
-      "fra"
-    ]
-  },
-  {
     "nanoid": "UzkjA9maGGrWnb",
     "name": "RCA Nantes",
     "stream_urls": [
@@ -13775,17 +13830,6 @@
     "name": "RCF Loiret",
     "stream_urls": [
       "https://rcf.streamakaci.com/rcf45.mp3"
-    ],
-    "country": "fr",
-    "languages": [
-      "fra"
-    ]
-  },
-  {
-    "nanoid": "8DQ2GVcxApnv6R",
-    "name": "RCF Lyon",
-    "stream_urls": [
-      "https://rcf.streamakaci.com/rcf69.mp3"
     ],
     "country": "fr",
     "languages": [
@@ -15076,6 +15120,17 @@
     ]
   },
   {
+    "nanoid": "qR6zth15HdYoWo",
+    "name": "Sanef 107.7 Est",
+    "stream_urls": [
+      "https://sanef.ice.infomaniak.ch/sanef1077-est.mp3"
+    ],
+    "country": "fr",
+    "languages": [
+      "fra"
+    ]
+  },
+  {
     "nanoid": "kCTWnuj337BxfH",
     "name": "Sanef 107.7 Île-de-France",
     "stream_urls": [
@@ -15608,6 +15663,18 @@
     ]
   },
   {
+    "nanoid": "zxbDqqudSKtVuq",
+    "name": "Tikka Radio",
+    "stream_urls": [
+      "https://libretimetikka-8b513026764d.herokuapp.com/stream"
+    ],
+    "country": "fr",
+    "languages": [
+      "eng",
+      "fra"
+    ]
+  },
+  {
     "nanoid": "qHbtwJnElpardC",
     "name": "Timbre FM",
     "stream_urls": [
@@ -15935,17 +16002,6 @@
     "name": "Urban Hit à l'ancienne",
     "stream_urls": [
       "https://urbanhitalancienne.ice.infomaniak.ch/urbanhitalancienne.mp3"
-    ],
-    "country": "fr",
-    "languages": [
-      "fra"
-    ]
-  },
-  {
-    "nanoid": "Ap3gLdpoPPlqkj",
-    "name": "Vaucluse FM",
-    "stream_urls": [
-      "https://azuracast-scrs-2.foxoud.synology.me/listen/vauclusefm/radio.mp3"
     ],
     "country": "fr",
     "languages": [
@@ -16504,17 +16560,6 @@
       "eng",
       "fra",
       "jpn"
-    ]
-  },
-  {
-    "nanoid": "Kczidnbst5wbZx",
-    "name": "Yvelines Radio",
-    "stream_urls": [
-      "https://yvelinesradio884fm.ice.infomaniak.ch/yvelinesradio884fm-96.aac"
-    ],
-    "country": "fr",
-    "languages": [
-      "fra"
     ]
   },
   {

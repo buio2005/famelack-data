@@ -127,8 +127,8 @@
     "name": "AFN Aviano",
     "stream_urls": [
       "https://playerservices.streamtheworld.com/api/livestream-redirect/AFNE_AVN_SC",
-      "https://25603.live.streamtheworld.com:443/AFNE_AVN_SC",
-      "https://25453.live.streamtheworld.com:443/AFNE_AVN_SC"
+      "https://27913.live.streamtheworld.com:443/AFNE_AVN_SC",
+      "https://25603.live.streamtheworld.com:443/AFNE_AVN_SC"
     ],
     "country": "it",
     "languages": [
@@ -140,8 +140,8 @@
     "name": "AFN Naples",
     "stream_urls": [
       "https://playerservices.streamtheworld.com/api/livestream-redirect/AFNE_NAP_SC",
-      "https://25443.live.streamtheworld.com:443/AFNE_NAP_SC",
-      "https://25503.live.streamtheworld.com:443/AFNE_NAP_SC"
+      "https://28503.live.streamtheworld.com:443/AFNE_NAP_SC",
+      "https://29103.live.streamtheworld.com:443/AFNE_NAP_SC"
     ],
     "country": "it",
     "languages": [
@@ -154,7 +154,7 @@
     "stream_urls": [
       "https://playerservices.streamtheworld.com/api/livestream-redirect/AFNE_SIG_SC",
       "https://28513.live.streamtheworld.com:443/AFNE_SIG_SC",
-      "https://23543.live.streamtheworld.com:443/AFNE_SIG_SC"
+      "https://25633.live.streamtheworld.com:443/AFNE_SIG_SC"
     ],
     "country": "it",
     "languages": [
@@ -1207,6 +1207,17 @@
     ]
   },
   {
+    "nanoid": "EgzM7C3G2mXdpM",
+    "name": "Milano XR",
+    "stream_urls": [
+      "https://milanoxr.gatesweb.info:8443/live"
+    ],
+    "country": "it",
+    "languages": [
+      "ita"
+    ]
+  },
+  {
     "nanoid": "vprMRqgq5sywH3",
     "name": "Mindpositivo Radio",
     "stream_urls": [
@@ -1345,17 +1356,6 @@
     "name": "New Hits Radio Italia",
     "stream_urls": [
       "https://newhitsradio.streamingmedia.it/play"
-    ],
-    "country": "it",
-    "languages": [
-      "ita"
-    ]
-  },
-  {
-    "nanoid": "WZ7GMHXXE2rfDE",
-    "name": "New Radio Serina",
-    "stream_urls": [
-      "https://nrf1.newradio.it:9790/stream"
     ],
     "country": "it",
     "languages": [
@@ -1995,17 +1995,6 @@
     "name": "Radio 90-4 You",
     "stream_urls": [
       "https://streamsrv2.nets-sr.com:8004/stream"
-    ],
-    "country": "it",
-    "languages": [
-      "ita"
-    ]
-  },
-  {
-    "nanoid": "Rp8iztEWVKQ8VG",
-    "name": "Radio 92100",
-    "stream_urls": [
-      "https://sr10.inmystream.it:18039/stream;.mp3"
     ],
     "country": "it",
     "languages": [
@@ -3218,6 +3207,17 @@
     ]
   },
   {
+    "nanoid": "tl4uekj1IeE3nu",
+    "name": "Radio Esercito",
+    "stream_urls": [
+      "https://radio.esercito.difesa.it:8000/stream"
+    ],
+    "country": "it",
+    "languages": [
+      "ita"
+    ]
+  },
+  {
     "nanoid": "Gqa9xAW0v4I68k",
     "name": "Radio Eustachio",
     "stream_urls": [
@@ -3536,6 +3536,17 @@
     ]
   },
   {
+    "nanoid": "eUUXQScSLnWCV3",
+    "name": "Radio Icaro",
+    "stream_urls": [
+      "https://azuracast.dns-lab.it/listen/radio_icaro/stream"
+    ],
+    "country": "it",
+    "languages": [
+      "ita"
+    ]
+  },
+  {
     "nanoid": "GM49liEg67F7Z9",
     "name": "Radio International",
     "stream_urls": [
@@ -3735,6 +3746,18 @@
     ],
     "country": "it",
     "languages": [
+      "ita"
+    ]
+  },
+  {
+    "nanoid": "VzvPl9jbmxIGiC",
+    "name": "Radio Jolly",
+    "stream_urls": [
+      "https://radio.garden/api/ara/content/listen/Zrs6jv66/channel.mp3"
+    ],
+    "country": "it",
+    "languages": [
+      "eng",
       "ita"
     ]
   },
@@ -4820,6 +4843,17 @@
     ]
   },
   {
+    "nanoid": "0sWNtsmepAnpFj",
+    "name": "Radio Parole di Vita",
+    "stream_urls": [
+      "https://video2.azotosolutions.com:2020/stream/radioparoledivita2"
+    ],
+    "country": "it",
+    "languages": [
+      "ita"
+    ]
+  },
+  {
     "nanoid": "0E3f5HvOmg8AKX",
     "name": "Radio Parsec",
     "stream_urls": [
@@ -5021,17 +5055,6 @@
     ]
   },
   {
-    "nanoid": "yi3JdlWDeqPI8P",
-    "name": "Radio Radio",
-    "stream_urls": [
-      "https://sr6.inmystream.it:18102/stream"
-    ],
-    "country": "it",
-    "languages": [
-      "ita"
-    ]
-  },
-  {
     "nanoid": "KPYhAsKIn3Yc5S",
     "name": "Radio Raheem",
     "stream_urls": [
@@ -5215,17 +5238,6 @@
     "name": "Radio Saba Sound",
     "stream_urls": [
       "https://stream3.xdevel.com/audio0s975496-187/stream/icecast.audio"
-    ],
-    "country": "it",
-    "languages": [
-      "ita"
-    ]
-  },
-  {
-    "nanoid": "uAVkGujN0AaY5F",
-    "name": "Radio Sanremo",
-    "stream_urls": [
-      "https://nr14.newradio.it:8639/stream"
     ],
     "country": "it",
     "languages": [
@@ -6397,6 +6409,17 @@
     ]
   },
   {
+    "nanoid": "i2FHyBmnx3k1ID",
+    "name": "RFT Movida",
+    "stream_urls": [
+      "https://streaming.smartradio.ch:8505/stream"
+    ],
+    "country": "it",
+    "languages": [
+      "ita"
+    ]
+  },
+  {
     "nanoid": "f4Wa2XrHo0Ddv0",
     "name": "RIN Italia Network",
     "stream_urls": [
@@ -7118,6 +7141,17 @@
     "name": "United Music Hits Italia",
     "stream_urls": [
       "https://icy.unitedradio.it/um011.mp3"
+    ],
+    "country": "it",
+    "languages": [
+      "ita"
+    ]
+  },
+  {
+    "nanoid": "xPGw7CtXSJOsrO",
+    "name": "Urban Radio",
+    "stream_urls": [
+      "https://nr3.newradio.it:18100/stream"
     ],
     "country": "it",
     "languages": [

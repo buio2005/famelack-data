@@ -462,7 +462,7 @@
     "nanoid": "dwKxaxiVjMeKl0",
     "name": "HITRADIO RTL - Schlager",
     "stream_urls": [
-      "https://edge03.radio.hitradio-rtl.de/hrrtl-schlager/stream/mp3?aggregator=smk-m3u-mp3"
+      "https://edge59.radio.hitradio-rtl.de/hrrtl-schlager/stream/mp3?aggregator=smk-m3u-mp3"
     ],
     "country": "de",
     "languages": [
@@ -729,8 +729,7 @@
     "nanoid": "kWfg13d2YPp2Ad",
     "name": "MDR SCHLAGERWELT",
     "stream_urls": [
-      "https://mdr-990801-0.sslcast.mdr.de/mdr/990801/0/mp3/high/stream.mp3",
-      "https://mdr-radio-hls.akamaized.net/hls/live/2112911/mdr-990701-0-hls/index.m3u8"
+      "https://mdr-990801-0.sslcast.mdr.de/mdr/990801/0/mp3/high/stream.mp3"
     ],
     "country": "de",
     "languages": [
@@ -741,7 +740,8 @@
     "nanoid": "hl27zGiRxyIbXb",
     "name": "MDR SCHLAGERWELT (Sachsen)",
     "stream_urls": [
-      "https://mdr-990801-0.sslcast.mdr.de/mdr/990801/0/mp3/high/stream.mp3"
+      "https://mdr-990801-0.sslcast.mdr.de/mdr/990801/0/mp3/high/stream.mp3",
+      "https://radio-hls.mdr.de/hls/live/2112912/mdr-990801-0-hls/index.m3u8"
     ],
     "country": "de",
     "languages": [
@@ -811,17 +811,6 @@
     "name": "oe24 Radio - Best of Hüttengaudi",
     "stream_urls": [
       "https://edge83.streamonkey.net/oe24-huettengaudi"
-    ],
-    "country": "at",
-    "languages": [
-      "deu"
-    ]
-  },
-  {
-    "nanoid": "Kqk1ev74u3Blc5",
-    "name": "oe24 Radio - Best of Schlager",
-    "stream_urls": [
-      "https://edge82.streamonkey.net/oe24-schlager"
     ],
     "country": "at",
     "languages": [
@@ -978,7 +967,7 @@
     "nanoid": "ifryPUPpilqQqv",
     "name": "R.SA - Schlager",
     "stream_urls": [
-      "https://rsa.streamabc.net/regc-rsasachsenschlager9140327-mp3-192-4293083?sABC=69qq7076%230%23nnp26506rp49pqn990964o9n4q25s823%23fgernzf.efn-fnpufra.qr&aw_0_1st.playerid=streams.rsa-sachsen.de&amsparams=playerid:streams.rsa-sachsen.de;skey:1776119926"
+      "https://rsa.streamabc.net/regc-rsasachsenschlager9140327-mp3-192-4293083?sABC=69r6sr4s%230%23nnp26506rp49pqn990964o9n4q25s823%23fgernzf.efn-fnpufra.qr&aw_0_1st.playerid=streams.rsa-sachsen.de&amsparams=playerid:streams.rsa-sachsen.de;skey:1776746063"
     ],
     "country": "de",
     "languages": [

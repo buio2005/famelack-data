@@ -365,10 +365,10 @@
     ]
   },
   {
-    "nanoid": "mrrjwwI6ysYjYq",
-    "name": "好事聯播網 山海屯電台",
+    "nanoid": "TSSZ7Ymcel8Xyi",
+    "name": "好事聯播網 人人電台",
     "stream_urls": [
-      "https://n02.rcs.revma.com/zr7xzec59duvv"
+      "https://n01.rcs.revma.com/fkdywbc59duvv"
     ],
     "country": "tw",
     "languages": [
@@ -447,6 +447,28 @@
     "stream_urls": [
       "https://flv.ccdntech.com/live/_definst_/mp4:vod117_Live/live1/playlist.m3u8",
       "https://flv.ccdntech.com/live/_definst_/mp4:vod117_Live/live2/playlist.m3u8"
+    ],
+    "country": "tw",
+    "languages": [
+      "zho"
+    ]
+  },
+  {
+    "nanoid": "4mEER1lUt73uhL",
+    "name": "民本廣播電台 AM 1296",
+    "stream_urls": [
+      "https://streamak0134.akamaized.net/live0134lh-5gst/_definst_/am1296/chunklist.m3u8"
+    ],
+    "country": "tw",
+    "languages": [
+      "zho"
+    ]
+  },
+  {
+    "nanoid": "jKOFc97i7tVzff",
+    "name": "民本廣播電台 AM 855",
+    "stream_urls": [
+      "https://streamak0134.akamaized.net/live0134lh-5gst/_definst_/am855/chunklist.m3u8"
     ],
     "country": "tw",
     "languages": [
@@ -635,17 +657,6 @@
     "name": "警察廣播電臺 高雄分臺 FM 93.1",
     "stream_urls": [
       "https://stream.pbs.gov.tw/live/KSS/playlist.m3u8"
-    ],
-    "country": "tw",
-    "languages": [
-      "zho"
-    ]
-  },
-  {
-    "nanoid": "r0fCgTxoAODqV7",
-    "name": "輕鬆電台 Chillax Radio",
-    "stream_urls": [
-      "https://n03.rcs.revma.com/k41z6wadu5hvv"
     ],
     "country": "tw",
     "languages": [

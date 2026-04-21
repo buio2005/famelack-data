@@ -1,5 +1,28 @@
 [
   {
+    "nanoid": "y1xebru7jddjfR",
+    "name": "Alfa Radio 107.9 FM",
+    "stream_urls": [
+      "https://stream.sb.by/alpha"
+    ],
+    "country": "by",
+    "languages": [
+      "rus"
+    ]
+  },
+  {
+    "nanoid": "GNAcsjmajHVMWC",
+    "name": "Aplus.FM Relax",
+    "stream_urls": [
+      "https://s.aplus.fm/aplus_relax_64",
+      "https://s.aplus.fm/aplus_relax_128"
+    ],
+    "country": "by",
+    "languages": [
+      "rus"
+    ]
+  },
+  {
     "nanoid": "83rlNyj2FCdYqC",
     "name": "Capital XTRA National",
     "stream_urls": [
@@ -64,17 +87,6 @@
     "country": "by",
     "languages": [
       "eng"
-    ]
-  },
-  {
-    "nanoid": "gOuqXpdOWzAP1I",
-    "name": "Radio Plato",
-    "stream_urls": [
-      "https://azura.radioplato.by/radio/8000/radio.mp3"
-    ],
-    "country": "by",
-    "languages": [
-      "bel"
     ]
   },
   {
@@ -404,17 +416,6 @@
     "name": "Супер ФМ",
     "stream_urls": [
       "https://stream2.datacenter.by/sfm"
-    ],
-    "country": "by",
-    "languages": [
-      "rus"
-    ]
-  },
-  {
-    "nanoid": "e8WllBVxUX2GD3",
-    "name": "Центр FM",
-    "stream_urls": [
-      "https://stream2.datacenter.by/stream"
     ],
     "country": "by",
     "languages": [

@@ -331,17 +331,6 @@
     ]
   },
   {
-    "nanoid": "oH3zjzsLMFYaOI",
-    "name": "Antenne Vorarlberg 70er Hits",
-    "stream_urls": [
-      "https://web.radio.antennevorarlberg.at/av-70er"
-    ],
-    "country": "at",
-    "languages": [
-      "deu"
-    ]
-  },
-  {
     "nanoid": "jKuBthLREVpJJV",
     "name": "Arabella Bayern",
     "stream_urls": [
@@ -728,7 +717,8 @@
     "name": "Gold Web Radio",
     "stream_urls": [
       "https://centova.svdns.com.br:19418/stream1",
-      "https://centova.svdns.com.br:19418/stream2"
+      "https://centova.svdns.com.br:19418/stream2",
+      "https://centova.svdns.com.br:19418/stream"
     ],
     "country": "br",
     "languages": [
@@ -956,6 +946,18 @@
       "https://jenny.torontocast.com:9002/stereo"
     ],
     "country": "ca",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "3EcSYrPGKlCTZj",
+    "name": "KRR 98.7 FM",
+    "stream_urls": [
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/2KRR.mp3",
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/2KRRAAC.aac"
+    ],
+    "country": "au",
     "languages": [
       "eng"
     ]
@@ -1221,6 +1223,18 @@
     ]
   },
   {
+    "nanoid": "vFmy7iPW4MiGUa",
+    "name": "Nostalgie+",
+    "stream_urls": [
+      "https://stream.rcs.revma.com/s9mkgtsqtg0uv"
+    ],
+    "country": "be",
+    "languages": [
+      "fra",
+      "nld"
+    ]
+  },
+  {
     "nanoid": "cPLuJRV2AJl2c2",
     "name": "Now 70s",
     "stream_urls": [
@@ -1371,7 +1385,7 @@
     "stream_urls": [
       "https://streams.rsa-sachsen.de/70er/mp3-192",
       "https://streams.rsa-sachsen.de/70er/mp3-192/streams.rsa-sachsen.de/",
-      "https://rsa.streamabc.net/regc-rsasachsen70erold9456468-mp3-128-2357955?sABC=69qq3nr7%230%23nnp26506rp49pqn990964o9n4q25s823%23fgernzf.efn-fnpufra.qr&aw_0_1st.playerid=streams.rsa-sachsen.de&amsparams=playerid:streams.rsa-sachsen.de;skey:1776106215"
+      "https://rsa.streamabc.net/regc-rsasachsen70erold9456468-mp3-128-2357955?sABC=69r72366%230%23nnp26506rp49pqn990964o9n4q25s823%23fgernzf.efn-fnpufra.qr&aw_0_1st.playerid=streams.rsa-sachsen.de&amsparams=playerid:streams.rsa-sachsen.de;skey:1776755558"
     ],
     "country": "de",
     "languages": [
@@ -1396,8 +1410,8 @@
     "name": "Radio 10 60s & 70s Hits",
     "stream_urls": [
       "https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR18.mp3",
-      "https://29033.live.streamtheworld.com:443/TLPSTR18_SC",
-      "https://28983.live.streamtheworld.com:443/TLPSTR18_SC"
+      "https://29043.live.streamtheworld.com:443/TLPSTR18_SC",
+      "https://25233.live.streamtheworld.com:443/TLPSTR18_SC"
     ],
     "country": "nl",
     "languages": [

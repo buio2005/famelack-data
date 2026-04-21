@@ -22,17 +22,6 @@
     ]
   },
   {
-    "nanoid": "lLrn8IrrgGsuXP",
-    "name": "Azatlyk Radiosy (RFE/RL)",
-    "stream_urls": [
-      "https://n0f.radiojar.com/gdmva69nn3quv"
-    ],
-    "country": "cz",
-    "languages": [
-      "tuk"
-    ]
-  },
-  {
     "nanoid": "fQ7rq1Qw08bxTa",
     "name": "Bikers Radio Doupě",
     "stream_urls": [
@@ -272,8 +261,7 @@
     "nanoid": "IJAGOUeFV1RXaB",
     "name": "Frekvence 1",
     "stream_urls": [
-      "https://playerservices.streamtheworld.com/api/livestream-redirect/FREKVENCE1.mp3",
-      "https://ice.actve.net/fm-frekvence1-aac"
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/FREKVENCE1.mp3"
     ],
     "country": "cz",
     "languages": [
@@ -397,17 +385,6 @@
     "name": "Hitrádio FM Crystal",
     "stream_urls": [
       "https://ice.abradio.cz/crystal128.mp3"
-    ],
-    "country": "cz",
-    "languages": [
-      "ces"
-    ]
-  },
-  {
-    "nanoid": "XVeP1VVpDvAPsG",
-    "name": "Hitrádio FM Plus",
-    "stream_urls": [
-      "https://playerservices.streamtheworld.com/api/livestream-redirect/HITRADIO_FMPLUS_128.mp3"
     ],
     "country": "cz",
     "languages": [
@@ -774,17 +751,6 @@
     ]
   },
   {
-    "nanoid": "IZNsjmVXvxsFh9",
-    "name": "Radio Dechovka",
-    "stream_urls": [
-      "https://icecast5.play.cz/dechovka128.mp3"
-    ],
-    "country": "cz",
-    "languages": [
-      "ces"
-    ]
-  },
-  {
     "nanoid": "F7y7dgKaWAHvYQ",
     "name": "Radio Energic",
     "stream_urls": [
@@ -821,6 +787,7 @@
     "nanoid": "NpKnYf6l8RCovL",
     "name": "Radio Farda",
     "stream_urls": [
+      "https://stream.radiojar.com/cp13r2cpn3quv",
       "https://n01.radiojar.com/cp13r2cpn3quv",
       "https://rfe21.akacast.akamaistream.net/7/751/437779/v1/ibb.akacast.akamaistream.net/rfe21"
     ],
@@ -1015,29 +982,6 @@
     ]
   },
   {
-    "nanoid": "UbScgshvD0nmRS",
-    "name": "Retro Music Television",
-    "stream_urls": [
-      "https://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8"
-    ],
-    "country": "cz",
-    "languages": [
-      "ces",
-      "eng"
-    ]
-  },
-  {
-    "nanoid": "Ll6Ty9VWDvdUr8",
-    "name": "Retro Music TV",
-    "stream_urls": [
-      "https://stream.mediawork.cz/retrotv/retrotvHQ1/chunklist_w627639048.m3u8"
-    ],
-    "country": "cz",
-    "languages": [
-      "ces"
-    ]
-  },
-  {
     "nanoid": "ZAphbP5tq8OzXw",
     "name": "Rock Max",
     "stream_urls": [
@@ -1108,6 +1052,7 @@
     "nanoid": "5fvvYKgcfNQz7K",
     "name": "Rádio Beat",
     "stream_urls": [
+      "https://icecast2.play.cz/beat128aac",
       "https://icecast1.play.cz/beat64.mp3",
       "https://icecast2.play.cz/radiobeat128.mp3"
     ],
@@ -1444,7 +1389,8 @@
     "name": "We House Radio",
     "stream_urls": [
       "https://stream.wehouseradio.com/stream/2/",
-      "https://stream.wehouseradio.com/stream/1/"
+      "https://stream.wehouseradio.com/stream/1/",
+      "https://stream.wehouseradio.com/stream/3/"
     ],
     "country": "cz",
     "languages": [
@@ -1526,17 +1472,6 @@
     "name": "Óčko Expres",
     "stream_urls": [
       "https://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist/cze/live_lq.m3u8"
-    ],
-    "country": "cz",
-    "languages": [
-      "ces"
-    ]
-  },
-  {
-    "nanoid": "zMJZ3yV1TgHksm",
-    "name": "Óčko Star",
-    "stream_urls": [
-      "https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko_gold.stream.1.smil/playlist.m3u8"
     ],
     "country": "cz",
     "languages": [
@@ -1645,6 +1580,17 @@
     ]
   },
   {
+    "nanoid": "a2RUKEqOb5hayV",
+    "name": "ČRo Liberec",
+    "stream_urls": [
+      "https://rozhlas.stream/liberec_high.aac"
+    ],
+    "country": "cz",
+    "languages": [
+      "ces"
+    ]
+  },
+  {
     "nanoid": "IMx6be6LKldi9m",
     "name": "ČRo Olomouc",
     "stream_urls": [
@@ -1660,28 +1606,6 @@
     "name": "ČRo Ostrava",
     "stream_urls": [
       "https://rozhlas.stream/ostrava_high.aac"
-    ],
-    "country": "cz",
-    "languages": [
-      "ces"
-    ]
-  },
-  {
-    "nanoid": "7lzBZt745ev5at",
-    "name": "ČRo Pardubice",
-    "stream_urls": [
-      "https://rozhlas.stream/pardubice_high.aac"
-    ],
-    "country": "cz",
-    "languages": [
-      "ces"
-    ]
-  },
-  {
-    "nanoid": "TGCDQZOWi5a0m2",
-    "name": "ČRo Plus",
-    "stream_urls": [
-      "https://rozhlas.stream/plus_high.aac"
     ],
     "country": "cz",
     "languages": [
@@ -1860,6 +1784,17 @@
     "country": "cz",
     "languages": [
       "ces"
+    ]
+  },
+  {
+    "nanoid": "iQm4pXyPuaPZ3b",
+    "name": "Азаттык Үналгысы",
+    "stream_urls": [
+      "https://n0f.radiojar.com/q9z8fs3nn3quv"
+    ],
+    "country": "cz",
+    "languages": [
+      "kir"
     ]
   },
   {

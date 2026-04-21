@@ -410,8 +410,6 @@
     "nanoid": "JZ1s8Qh2C70aHy",
     "name": "NRK P2",
     "stream_urls": [
-      "https://cdn0-47115-liveicecast0.dna.contentdelivery.net/p2_aac_h",
-      "https://lyd.nrk.no/nrk_radio_p2_aac_h",
       "https://lyd.nrk.no/nrk_radio_p2_mp3_l"
     ],
     "country": "no",
@@ -479,6 +477,17 @@
     "languages": [
       "nor",
       "sme"
+    ]
+  },
+  {
+    "nanoid": "NJKaj6frA7k4jl",
+    "name": "Nærkanalen",
+    "stream_urls": [
+      "https://stream.radiomeloy.no:8003/radiomeloy"
+    ],
+    "country": "no",
+    "languages": [
+      "nor"
     ]
   },
   {

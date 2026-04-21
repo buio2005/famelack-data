@@ -178,7 +178,7 @@
     "stream_urls": [
       "https://25323.live.streamtheworld.com:443/TLPSTR21_SC",
       "https://22333.live.streamtheworld.com:443/TLPSTR21_SC",
-      "https://28973.live.streamtheworld.com:443/TLPSTR21_SC"
+      "https://22713.live.streamtheworld.com:443/TLPSTR21_SC"
     ],
     "country": "nl",
     "languages": [
@@ -201,7 +201,7 @@
     "name": "538 Ibiza",
     "stream_urls": [
       "https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR19_SC",
-      "https://22343.live.streamtheworld.com:443/TLPSTR19_SC",
+      "https://25293.live.streamtheworld.com:443/TLPSTR19_SC",
       "https://25343.live.streamtheworld.com:443/TLPSTR19_SC"
     ],
     "country": "nl",
@@ -213,9 +213,9 @@
     "nanoid": "7SHH1JvflI6gD8",
     "name": "538 Non-Stop",
     "stream_urls": [
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR09_SC",
       "https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR09.mp3",
-      "https://29043.live.streamtheworld.com:443/TLPSTR09_SC",
-      "https://25333.live.streamtheworld.com:443/TLPSTR09_SC"
+      "https://25253.live.streamtheworld.com:443/TLPSTR09_SC"
     ],
     "country": "nl",
     "languages": [
@@ -590,17 +590,6 @@
     ]
   },
   {
-    "nanoid": "h4Tl0QMpu9NqTU",
-    "name": "BPRFM",
-    "stream_urls": [
-      "https://www.wizdevservices.nl/listen/bprfm/STREAM.mp3"
-    ],
-    "country": "nl",
-    "languages": [
-      "nld"
-    ]
-  },
-  {
     "nanoid": "4VDK3VRa0ryObU",
     "name": "BR6 Radio",
     "stream_urls": [
@@ -651,9 +640,9 @@
     "nanoid": "RtIZO9MEzrCTIm",
     "name": "Candlelight",
     "stream_urls": [
-      "https://25243.live.streamtheworld.com:443/CANDLELIGHT_SC",
       "https://22673.live.streamtheworld.com:443/CANDLELIGHT_SC",
-      "https://22343.live.streamtheworld.com:443/CANDLELIGHT_SC"
+      "https://22613.live.streamtheworld.com:443/CANDLELIGHT_SC",
+      "https://25303.live.streamtheworld.com:443/CANDLELIGHT_SC"
     ],
     "country": "nl",
     "languages": [
@@ -812,18 +801,6 @@
     ]
   },
   {
-    "nanoid": "27UdFB4sJVswgi",
-    "name": "Clubstitute Radio",
-    "stream_urls": [
-      "https://stream01.eliveld-ict.nl/listen/clubstitute_radio/radio.mp3"
-    ],
-    "country": "nl",
-    "languages": [
-      "eng",
-      "nld"
-    ]
-  },
-  {
     "nanoid": "ZPG6pxeZRZ9Xza",
     "name": "Cobra Team",
     "stream_urls": [
@@ -906,18 +883,6 @@
     ]
   },
   {
-    "nanoid": "RxlBLIJ8Mxs6Gn",
-    "name": "DANCEableRADIO",
-    "stream_urls": [
-      "https://s14.myradiostream.com:19580/;"
-    ],
-    "country": "nl",
-    "languages": [
-      "eng",
-      "nld"
-    ]
-  },
-  {
     "nanoid": "9omZdzRRomBZTH",
     "name": "Danceclassic.eu",
     "stream_urls": [
@@ -992,7 +957,8 @@
     "nanoid": "m2pLDB2kPQcevw",
     "name": "Deventer Radio",
     "stream_urls": [
-      "https://stream.deventerrtv.nl:8443/mp3"
+      "https://stream.deventerrtv.nl:8443/mp3",
+      "https://stream.deventerrtv.nl:8443/stream"
     ],
     "country": "nl",
     "languages": [
@@ -1106,8 +1072,8 @@
     "name": "Efteling Kids Radio",
     "stream_urls": [
       "https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR07_SC",
-      "https://25333.live.streamtheworld.com:443/TLPSTR07_SC",
-      "https://22723.live.streamtheworld.com:443/TLPSTR07_SC"
+      "https://28983.live.streamtheworld.com:443/TLPSTR07_SC",
+      "https://29033.live.streamtheworld.com:443/TLPSTR07_SC"
     ],
     "country": "nl",
     "languages": [
@@ -1636,6 +1602,18 @@
     ]
   },
   {
+    "nanoid": "Hq7Rbi7GwjYMJL",
+    "name": "Hardcore Radio",
+    "stream_urls": [
+      "https://stream.hardcoreradio.nl:9000/hcr.ogg"
+    ],
+    "country": "nl",
+    "languages": [
+      "eng",
+      "nld"
+    ]
+  },
+  {
     "nanoid": "ehrnvxfoJc43vl",
     "name": "Hardstyle FM",
     "stream_urls": [
@@ -1843,8 +1821,7 @@
     "name": "i-turn Radio",
     "stream_urls": [
       "https://live.i-turnradio.nl:8035/;",
-      "https://live.i-turnradio.nl/live",
-      "https://live2.i-turnradio.nl/stream4"
+      "https://live.i-turnradio.nl/live"
     ],
     "country": "nl",
     "languages": [
@@ -1918,18 +1895,6 @@
     ],
     "country": "nl",
     "languages": [
-      "nld"
-    ]
-  },
-  {
-    "nanoid": "wcXD4TbnIGvapV",
-    "name": "Intergalactic FM",
-    "stream_urls": [
-      "https://intergalactic.tv/live/smil:tv.smil/playlist.m3u8"
-    ],
-    "country": "nl",
-    "languages": [
-      "eng",
       "nld"
     ]
   },
@@ -2212,9 +2177,9 @@
     "nanoid": "Igmgs5bEnxe94Y",
     "name": "KINK 90's",
     "stream_urls": [
-      "https://22723.live.streamtheworld.com:443/KINK_90S_SC",
-      "https://25293.live.streamtheworld.com:443/KINK_90S_SC",
-      "https://29093.live.streamtheworld.com:443/KINK_90S_SC"
+      "https://29043.live.streamtheworld.com:443/KINK_90S_SC",
+      "https://25323.live.streamtheworld.com:443/KINK_90S_SC",
+      "https://25333.live.streamtheworld.com:443/KINK_90S_SC"
     ],
     "country": "nl",
     "languages": [
@@ -2237,8 +2202,8 @@
     "name": "KINK Classics",
     "stream_urls": [
       "https://playerservices.streamtheworld.com/api/livestream-redirect/KINK_DNA_SC",
-      "https://28973.live.streamtheworld.com:443/KINK_DNA_SC",
-      "https://29033.live.streamtheworld.com:443/KINK_DNA_SC"
+      "https://29093.live.streamtheworld.com:443/KINK_DNA_SC",
+      "https://22713.live.streamtheworld.com:443/KINK_DNA_SC"
     ],
     "country": "nl",
     "languages": [
@@ -2250,8 +2215,8 @@
     "name": "KINK Distortion",
     "stream_urls": [
       "https://playerservices.streamtheworld.com/api/livestream-redirect/KINK_DISTORTIONAAC_SC",
-      "https://25303.live.streamtheworld.com:443/KINK_DISTORTIONAAC_SC",
-      "https://25283.live.streamtheworld.com:443/KINK_DISTORTIONAAC_SC"
+      "https://22663.live.streamtheworld.com:443/KINK_DISTORTIONAAC_SC",
+      "https://29093.live.streamtheworld.com:443/KINK_DISTORTIONAAC_SC"
     ],
     "country": "nl",
     "languages": [
@@ -2263,8 +2228,8 @@
     "name": "KINK DNA",
     "stream_urls": [
       "https://playerservices.streamtheworld.com/api/livestream-redirect/KINK_DNAAAC_SC",
-      "https://29023.live.streamtheworld.com:443/KINK_DNAAAC_SC",
-      "https://25343.live.streamtheworld.com:443/KINK_DNAAAC_SC"
+      "https://25283.live.streamtheworld.com:443/KINK_DNAAAC_SC",
+      "https://28973.live.streamtheworld.com:443/KINK_DNAAAC_SC"
     ],
     "country": "nl",
     "languages": [
@@ -3673,6 +3638,28 @@
     ]
   },
   {
+    "nanoid": "PsXNntGSXooJEK",
+    "name": "Platinum Hardstyle",
+    "stream_urls": [
+      "https://live.platinumradio.nl:8030/radio.mp3"
+    ],
+    "country": "nl",
+    "languages": [
+      "nld"
+    ]
+  },
+  {
+    "nanoid": "n33IJH6i27jOXX",
+    "name": "Platinum Radio",
+    "stream_urls": [
+      "https://live.platinumradio.nl:8000/radio.mp3"
+    ],
+    "country": "nl",
+    "languages": [
+      "nld"
+    ]
+  },
+  {
     "nanoid": "lz9dL2AzofR498",
     "name": "Polder Radio",
     "stream_urls": [
@@ -4011,19 +3998,8 @@
     "name": "Radio 10 60s & 70s Hits",
     "stream_urls": [
       "https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR18.mp3",
-      "https://29033.live.streamtheworld.com:443/TLPSTR18_SC",
-      "https://28983.live.streamtheworld.com:443/TLPSTR18_SC"
-    ],
-    "country": "nl",
-    "languages": [
-      "nld"
-    ]
-  },
-  {
-    "nanoid": "c4ltyJc93lW0d2",
-    "name": "Radio 10 80s Hits",
-    "stream_urls": [
-      "https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR20.mp3"
+      "https://29043.live.streamtheworld.com:443/TLPSTR18_SC",
+      "https://25233.live.streamtheworld.com:443/TLPSTR18_SC"
     ],
     "country": "nl",
     "languages": [
@@ -4332,18 +4308,6 @@
     ]
   },
   {
-    "nanoid": "nX7AG0Iq8EdytK",
-    "name": "Radio De Twentse Boys",
-    "stream_urls": [
-      "https://rcp.ultaserver.com/8016/stream"
-    ],
-    "country": "nl",
-    "languages": [
-      "eng",
-      "nld"
-    ]
-  },
-  {
     "nanoid": "rXk48h1vgg3uoN",
     "name": "Radio Decibel",
     "stream_urls": [
@@ -4496,8 +4460,7 @@
     "name": "Radio Holland Online",
     "stream_urls": [
       "https://stream.radiohollandonline.nl",
-      "https://stream2.radiohollandonline.nl",
-      "https://stream3.radiohollandonline.nl"
+      "https://stream2.radiohollandonline.nl"
     ],
     "country": "nl",
     "languages": [
@@ -5399,6 +5362,17 @@
     ]
   },
   {
+    "nanoid": "YQuxGjofmlWfEM",
+    "name": "RTV80",
+    "stream_urls": [
+      "https://nlpo.stream.vip/rtv80/mp3-192/nlpo"
+    ],
+    "country": "nl",
+    "languages": [
+      "nld"
+    ]
+  },
+  {
     "nanoid": "QPCcyoGQfwoeib",
     "name": "RTW FM",
     "stream_urls": [
@@ -6243,17 +6217,6 @@
     "country": "nl",
     "languages": [
       "eng"
-    ]
-  },
-  {
-    "nanoid": "srtMzBs5NrAFFa",
-    "name": "XD Radio",
-    "stream_urls": [
-      "https://streams.xdradio.nl/stream/xdradio"
-    ],
-    "country": "nl",
-    "languages": [
-      "nld"
     ]
   },
   {

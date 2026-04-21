@@ -16,7 +16,7 @@
     "stream_urls": [
       "https://playerservices.streamtheworld.com/api/livestream-redirect/FM702_SC",
       "https://playerservices.streamtheworld.com/api/livestream-redirect/FM702_192AAC.aac",
-      "https://22673.live.streamtheworld.com:443/FM702_SC"
+      "https://28993.live.streamtheworld.com:443/FM702_SC"
     ],
     "country": "za",
     "languages": [
@@ -41,7 +41,7 @@
     "stream_urls": [
       "https://playerservices.streamtheworld.com/api/livestream-redirect/FM947AAC_SC",
       "https://playerservices.streamtheworld.com/api/livestream-redirect/FM947_SC",
-      "https://27823.live.streamtheworld.com:443/FM947AAC_SC"
+      "https://28933.live.streamtheworld.com:443/FM947AAC_SC"
     ],
     "country": "za",
     "languages": [
@@ -139,7 +139,7 @@
     "stream_urls": [
       "https://playerservices.streamtheworld.com/api/livestream-redirect/CAPE_TALK_SC",
       "https://27863.live.streamtheworld.com/CAPE_TALKAAC_SC",
-      "https://28513.live.streamtheworld.com:443/CAPE_TALK_SC"
+      "https://25683.live.streamtheworld.com:443/CAPE_TALK_SC"
     ],
     "country": "za",
     "languages": [
@@ -379,15 +379,6 @@
     ]
   },
   {
-    "nanoid": "ympNITteOkkeX6",
-    "name": "Ikwekwezi FM",
-    "stream_urls": [
-      "https://27873.live.streamtheworld.com/IKWEKWEZIAAC.aac"
-    ],
-    "country": "za",
-    "languages": []
-  },
-  {
     "nanoid": "3Xyl1a4hWGAGqv",
     "name": "Impala Radio",
     "stream_urls": [
@@ -496,6 +487,15 @@
     "languages": [
       "afr"
     ]
+  },
+  {
+    "nanoid": "Nvmx2viLwovtZQ",
+    "name": "Lekoa FM",
+    "stream_urls": [
+      "https://zas1-2-3-6.ndx.co.za/stream/lekoafm"
+    ],
+    "country": "za",
+    "languages": []
   },
   {
     "nanoid": "g1gpIsb2GxwVr2",
@@ -738,15 +738,6 @@
     "languages": []
   },
   {
-    "nanoid": "S17jSyy1DJhhGS",
-    "name": "PERRONFM 95.1",
-    "stream_urls": [
-      "https://zas7.ndx.co.za:8044/stream"
-    ],
-    "country": "za",
-    "languages": []
-  },
-  {
     "nanoid": "4DphEQY0d0NPvu",
     "name": "Phalaphala FM",
     "stream_urls": [
@@ -973,15 +964,6 @@
     "name": "RISE fm",
     "stream_urls": [
       "https://edge.iono.fm/xice/73_medium.aac"
-    ],
-    "country": "za",
-    "languages": []
-  },
-  {
-    "nanoid": "8CsxJhk8qZsZnl",
-    "name": "RockaFM",
-    "stream_urls": [
-      "https://live.urbanza.co.za/listen/roccafm/rockafm"
     ],
     "country": "za",
     "languages": []

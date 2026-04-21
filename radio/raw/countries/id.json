@@ -122,6 +122,17 @@
     ]
   },
   {
+    "nanoid": "iC1Est2ruhZIHl",
+    "name": "Bharata Radio",
+    "stream_urls": [
+      "https://c1.siar.us:8800/live"
+    ],
+    "country": "id",
+    "languages": [
+      "ind"
+    ]
+  },
+  {
     "nanoid": "DZHLqVHS0WHCZc",
     "name": "Bravo FM 96.1",
     "stream_urls": [
@@ -224,28 +235,6 @@
     ]
   },
   {
-    "nanoid": "U2lijSoBXFMuH2",
-    "name": "Delta FM",
-    "stream_urls": [
-      "https://s1.cloudmu.id/listen/delta_fm/radio.mp3"
-    ],
-    "country": "id",
-    "languages": [
-      "ind"
-    ]
-  },
-  {
-    "nanoid": "a5lhDacS0BtR8f",
-    "name": "Delta FM Jakarta",
-    "stream_urls": [
-      "https://s1.cloudmu.id:8030/radio.mp3"
-    ],
-    "country": "id",
-    "languages": [
-      "ind"
-    ]
-  },
-  {
     "nanoid": "XNGsthqoZwVJT4",
     "name": "DJ Baru",
     "stream_urls": [
@@ -294,17 +283,6 @@
     "name": "Elgangga 100.3 FM",
     "stream_urls": [
       "https://b.alhastream.com:5140/radio"
-    ],
-    "country": "id",
-    "languages": [
-      "ind"
-    ]
-  },
-  {
-    "nanoid": "22bdNxjTHYXdyc",
-    "name": "Female Radio",
-    "stream_urls": [
-      "https://onlineradiobox.com/json/id/female/play"
     ],
     "country": "id",
     "languages": [
@@ -381,7 +359,8 @@
     "nanoid": "ja1dAtwLqKRGyx",
     "name": "Hard Rock FM Jakarta",
     "stream_urls": [
-      "https://n13.radiojar.com/7csmg90fuqruv"
+      "https://n13.radiojar.com/7csmg90fuqruv",
+      "https://stream.radiojar.com/7csmg90fuqruv"
     ],
     "country": "id",
     "languages": [
@@ -404,6 +383,17 @@
     "name": "Harley Radio Show",
     "stream_urls": [
       "https://live.harleyradioshow.com/listen/harleyradio/harleyradio"
+    ],
+    "country": "id",
+    "languages": [
+      "ind"
+    ]
+  },
+  {
+    "nanoid": "kfBOwQF8vlMCXr",
+    "name": "Heartline FM Tangerang",
+    "stream_urls": [
+      "https://stream.heartline.co.id:8443/heartline_tangerang"
     ],
     "country": "id",
     "languages": [
@@ -929,6 +919,17 @@
     ]
   },
   {
+    "nanoid": "zUzp07LyHnaX17",
+    "name": "Radio AR Bali",
+    "stream_urls": [
+      "https://live.radioarbali.com:8450/radioar"
+    ],
+    "country": "id",
+    "languages": [
+      "ind"
+    ]
+  },
+  {
     "nanoid": "n8h7txwnTk0eMV",
     "name": "Radio Campursari 89.2 FM",
     "stream_urls": [
@@ -1068,6 +1069,17 @@
     "name": "Radio Gobers",
     "stream_urls": [
       "https://sx.alhasmedia.com/radio/8140/radio"
+    ],
+    "country": "id",
+    "languages": [
+      "ind"
+    ]
+  },
+  {
+    "nanoid": "vCTXoxzyRx3vIu",
+    "name": "Radio Hidayah 103.4 FM",
+    "stream_urls": [
+      "https://radioislamindonesia.com/radiohidayah.mp3"
     ],
     "country": "id",
     "languages": [
@@ -1357,10 +1369,10 @@
     ]
   },
   {
-    "nanoid": "pKYFCW63huAPtc",
-    "name": "Rasika FM Ungaran",
+    "nanoid": "ejNQKvJHAPodbz",
+    "name": "RadioQu Bogor",
     "stream_urls": [
-      "https://svara-stream.radioddns.net/rasikafm_stereo"
+      "https://ssg.streamingmurah.com:8398/stream"
     ],
     "country": "id",
     "languages": [
@@ -1394,6 +1406,17 @@
     "name": "Retjo Buntung FM",
     "stream_urls": [
       "https://ssg.streamingmurah.com:9940/stream"
+    ],
+    "country": "id",
+    "languages": [
+      "ind"
+    ]
+  },
+  {
+    "nanoid": "PVk4a53a7HuGLU",
+    "name": "RRI Channel 5",
+    "stream_urls": [
+      "https://stream-node1.rri.co.id/streaming/41/8941/chlima.mp3"
     ],
     "country": "id",
     "languages": [
@@ -1511,6 +1534,17 @@
     ]
   },
   {
+    "nanoid": "SrwioqTOGD6xnp",
+    "name": "RRI Pro 1 Nias Selatan",
+    "stream_urls": [
+      "https://stream-node1.rri.co.id/streaming/20/9220/rriniasselatanpro1.mp3"
+    ],
+    "country": "id",
+    "languages": [
+      "ind"
+    ]
+  },
+  {
     "nanoid": "EZz7EqzUouOCFd",
     "name": "RRI Pro 1 Palembang",
     "stream_urls": [
@@ -1621,6 +1655,17 @@
     ]
   },
   {
+    "nanoid": "dvw7FEITmGMxkQ",
+    "name": "RRI Pro 2 Sungailiat",
+    "stream_urls": [
+      "https://stream-node2.rri.co.id/streaming/14/9314/rrisngliatpro2.mp3"
+    ],
+    "country": "id",
+    "languages": [
+      "ind"
+    ]
+  },
+  {
     "nanoid": "7EApaEM4P9wR9K",
     "name": "RRI Pro 2 Surabaya",
     "stream_urls": [
@@ -1691,17 +1736,6 @@
     "name": "RRI Pro 4 Palembang",
     "stream_urls": [
       "https://stream-node0.rri.co.id/streaming/13/9013/rripalembangpro4.mp3"
-    ],
-    "country": "id",
-    "languages": [
-      "ind"
-    ]
-  },
-  {
-    "nanoid": "vbZiarldH3dpUr",
-    "name": "RRI Pro 4 Tanjungpinang",
-    "stream_urls": [
-      "https://stream-node2.rri.co.id/streaming/21/9221/rritjpinangpro4.mp3"
     ],
     "country": "id",
     "languages": [
@@ -1853,17 +1887,6 @@
     ]
   },
   {
-    "nanoid": "XaQKIY2JgwhwLB",
-    "name": "Suara Inspirasi 99.4 FM",
-    "stream_urls": [
-      "https://audiostreamserver.indonesiastreaming.com/suarainspirasi"
-    ],
-    "country": "id",
-    "languages": [
-      "ind"
-    ]
-  },
-  {
     "nanoid": "EGERYty0ReErXM",
     "name": "Suara Salira",
     "stream_urls": [
@@ -1982,18 +2005,6 @@
     "country": "id",
     "languages": [
       "ind"
-    ]
-  },
-  {
-    "nanoid": "WmlvphWat7qF0D",
-    "name": "Trax FM Semarang",
-    "stream_urls": [
-      "https://n0f.radiojar.com/fr9zqhv80k8uv"
-    ],
-    "country": "id",
-    "languages": [
-      "ind",
-      "jav"
     ]
   },
   {

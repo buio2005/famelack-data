@@ -1201,7 +1201,7 @@
     "stream_urls": [
       "https://fr1.streamhosting.ch/lounge128.mp3",
       "https://player.streamhosting.ch/lounge128.ogg",
-      "https://player.streamhosting.ch/lounge64.aac"
+      "https://de1.streamhosting.ch/"
     ],
     "country": "ch",
     "languages": [
@@ -1861,6 +1861,17 @@
     ]
   },
   {
+    "nanoid": "Y3SpmRSr7SzIXx",
+    "name": "Radio Henri Dès",
+    "stream_urls": [
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/SP_R2329710.mp3"
+    ],
+    "country": "ch",
+    "languages": [
+      "fra"
+    ]
+  },
+  {
     "nanoid": "YLB0SfOSetnQTa",
     "name": "Radio Lac",
     "stream_urls": [
@@ -1946,8 +1957,7 @@
     "nanoid": "di2ybgecD8nqQv",
     "name": "Radio Pilatus",
     "stream_urls": [
-      "https://stream.streambase.ch/radiopilatus/mp3-192/direct/",
-      "https://stream.streambase.ch/radiopilatus/mp3-192/chmedia/"
+      "https://stream.streambase.ch/radiopilatus/mp3-192/direct/"
     ],
     "country": "ch",
     "languages": [
@@ -2765,6 +2775,17 @@
     "languages": [
       "eng",
       "deu"
+    ]
+  },
+  {
+    "nanoid": "lWxPhJxiJd9VkP",
+    "name": "Ta Radio",
+    "stream_urls": [
+      "https://stream.taradio.ch/dab"
+    ],
+    "country": "ch",
+    "languages": [
+      "fra"
     ]
   },
   {

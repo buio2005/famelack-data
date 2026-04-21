@@ -171,7 +171,7 @@
     "stream_urls": [
       "https://playerservices.streamtheworld.com/api/livestream-redirect/VOICEOFCROATIAAAC_SC",
       "https://playerservices.streamtheworld.com/api/livestream-redirect/VOICEOFCROATIA.mp3",
-      "https://22733.live.streamtheworld.com:443/VOICEOFCROATIAAAC_SC"
+      "https://25633.live.streamtheworld.com:443/VOICEOFCROATIAAAC_SC"
     ],
     "country": "hr",
     "languages": [
@@ -197,7 +197,7 @@
     "stream_urls": [
       "https://playerservices.streamtheworld.com/api/livestream-redirect/PROGRAM2AAC_SC",
       "https://playerservices.streamtheworld.com/api/livestream-redirect/PROGRAM2.mp3",
-      "https://23613.live.streamtheworld.com:443/PROGRAM2AAC_SC"
+      "https://27873.live.streamtheworld.com:443/PROGRAM2AAC_SC"
     ],
     "country": "hr",
     "languages": [
@@ -210,7 +210,7 @@
     "stream_urls": [
       "https://playerservices.streamtheworld.com/api/livestream-redirect/PROGRAM3AAC_SC",
       "https://playerservices.streamtheworld.com/api/livestream-redirect/PROGRAM3.mp3",
-      "https://25643.live.streamtheworld.com:443/PROGRAM3AAC_SC"
+      "https://27743.live.streamtheworld.com:443/PROGRAM3AAC_SC"
     ],
     "country": "hr",
     "languages": [
@@ -223,7 +223,7 @@
     "stream_urls": [
       "https://playerservices.streamtheworld.com/api/livestream-redirect/DUBROVNIKAAC_SC",
       "https://playerservices.streamtheworld.com/api/livestream-redirect/DUBROVNIK.mp3",
-      "https://25503.live.streamtheworld.com:443/DUBROVNIKAAC_SC"
+      "https://27743.live.streamtheworld.com:443/DUBROVNIKAAC_SC"
     ],
     "country": "hr",
     "languages": [
@@ -236,7 +236,7 @@
     "stream_urls": [
       "https://playerservices.streamtheworld.com/api/livestream-redirect/KNINAAC_SC",
       "https://playerservices.streamtheworld.com/api/livestream-redirect/KNIN.mp3",
-      "https://22183.live.streamtheworld.com:443/KNINAAC_SC"
+      "https://25443.live.streamtheworld.com:443/KNINAAC_SC"
     ],
     "country": "hr",
     "languages": [
@@ -248,8 +248,8 @@
     "name": "HRT Radio Osijek",
     "stream_urls": [
       "https://playerservices.streamtheworld.com/api/livestream-redirect/OSIJEKAAC_SC",
-      "https://25503.live.streamtheworld.com:443/OSIJEKAAC_SC",
-      "https://28563.live.streamtheworld.com:443/OSIJEKAAC_SC"
+      "https://21633.live.streamtheworld.com:443/OSIJEKAAC_SC",
+      "https://29083.live.streamtheworld.com:443/OSIJEKAAC_SC"
     ],
     "country": "hr",
     "languages": [
@@ -261,8 +261,8 @@
     "name": "HRT Radio Pula",
     "stream_urls": [
       "https://playerservices.streamtheworld.com/api/livestream-redirect/PULAAAC_SC",
-      "https://25703.live.streamtheworld.com:443/PULAAAC_SC",
-      "https://23613.live.streamtheworld.com:443/PULAAAC_SC"
+      "https://22733.live.streamtheworld.com:443/PULAAAC_SC",
+      "https://27743.live.streamtheworld.com:443/PULAAAC_SC"
     ],
     "country": "hr",
     "languages": [
@@ -274,8 +274,8 @@
     "name": "HRT Radio Rijeka",
     "stream_urls": [
       "https://playerservices.streamtheworld.com/api/livestream-redirect/RIJEKAAAC_SC",
-      "https://27753.live.streamtheworld.com:443/RIJEKAAAC_SC",
-      "https://28513.live.streamtheworld.com:443/RIJEKAAAC_SC"
+      "https://25443.live.streamtheworld.com:443/RIJEKAAAC_SC",
+      "https://29083.live.streamtheworld.com:443/RIJEKAAAC_SC"
     ],
     "country": "hr",
     "languages": [
@@ -288,7 +288,7 @@
     "stream_urls": [
       "https://playerservices.streamtheworld.com/api/livestream-redirect/SLJEME.mp3",
       "https://playerservices.streamtheworld.com/api/livestream-redirect/SLJEMEAAC_SC",
-      "https://25633.live.streamtheworld.com:443/SLJEMEAAC_SC"
+      "https://28513.live.streamtheworld.com:443/SLJEMEAAC_SC"
     ],
     "country": "hr",
     "languages": [
@@ -301,7 +301,7 @@
     "stream_urls": [
       "https://playerservices.streamtheworld.com/api/livestream-redirect/SPLITAAC_SC",
       "https://playerservices.streamtheworld.com/api/livestream-redirect/SPLIT.mp3",
-      "https://25533.live.streamtheworld.com:443/SPLITAAC_SC"
+      "https://22193.live.streamtheworld.com:443/SPLITAAC_SC"
     ],
     "country": "hr",
     "languages": [
@@ -313,8 +313,8 @@
     "name": "HRT Radio Zadar",
     "stream_urls": [
       "https://playerservices.streamtheworld.com/api/livestream-redirect/ZADARAAC_SC",
-      "https://27863.live.streamtheworld.com:443/ZADARAAC_SC",
-      "https://22183.live.streamtheworld.com:443/ZADARAAC_SC"
+      "https://28563.live.streamtheworld.com:443/ZADARAAC_SC",
+      "https://25603.live.streamtheworld.com:443/ZADARAAC_SC"
     ],
     "country": "hr",
     "languages": [
@@ -373,6 +373,17 @@
     "name": "Online Radio Kneginec",
     "stream_urls": [
       "https://stream.zeno.fm/yetzdv442k8uv"
+    ],
+    "country": "hr",
+    "languages": [
+      "hrv"
+    ]
+  },
+  {
+    "nanoid": "dnYJwBeQwlHGDe",
+    "name": "Otvoreni Chill",
+    "stream_urls": [
+      "https://stream.otvoreni.hr/chill"
     ],
     "country": "hr",
     "languages": [

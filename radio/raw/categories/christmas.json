@@ -280,10 +280,10 @@
     ]
   },
   {
-    "nanoid": "efbkYLtQ9meW4h",
-    "name": "181.FM Christmas Kids",
+    "nanoid": "T3UM7apr0V8zP2",
+    "name": "181.FM Christmas Highway",
     "stream_urls": [
-      "https://listen.181fm.com/181-xkids_128k.mp3"
+      "https://listen.181fm.com/181-xhighway_128k.mp3"
     ],
     "country": "us",
     "languages": [
@@ -291,10 +291,10 @@
     ]
   },
   {
-    "nanoid": "8JluyQss0oUUDl",
-    "name": "181.FM Christmas Kountry",
+    "nanoid": "efbkYLtQ9meW4h",
+    "name": "181.FM Christmas Kids",
     "stream_urls": [
-      "https://listen.181fm.com/181-xkkountry_128k.mp3"
+      "https://listen.181fm.com/181-xkids_128k.mp3"
     ],
     "country": "us",
     "languages": [
@@ -934,8 +934,8 @@
     "nanoid": "BmJ4qCNwd5qIUD",
     "name": "Christmas Vinyl",
     "stream_urls": [
-      "https://icecast.walmradio.com:8443/christmas",
-      "https://icecast.walmradio.com:8443/christmas_opus"
+      "https://walmradio.com:8443/christmas",
+      "https://icecast.walmradio.com:8443/christmas"
     ],
     "country": "us",
     "languages": [
@@ -1472,8 +1472,8 @@
     "nanoid": "Lib4vAzNwtk3Cu",
     "name": "KDFC Classical Christmas",
     "stream_urls": [
+      "https://16643.live.streamtheworld.com:443/CC2_S01AAC_96_SC",
       "https://19273.live.streamtheworld.com:443/CC2_S01AAC_96_SC",
-      "https://29309.live.streamtheworld.com:443/CC2_S01AAC_96_SC",
       "https://17843.live.streamtheworld.com:443/CC2_S01AAC_96_SC"
     ],
     "country": "us",
@@ -1823,7 +1823,7 @@
     "name": "R.SA - Weihnachtsradio",
     "stream_urls": [
       "https://streams.rsa-sachsen.de/rsa-event01/mp3-192/streams.rsa-sachsen.de/",
-      "https://rsa.streamabc.net/regc-rsasachsenevent017364573-mp3-192-8804524?sABC=69qq6poq%230%23nnp26506rp49pqn990964o9n4q25s823%23fgernzf.efn-fnpufra.qr&aw_0_1st.playerid=streams.rsa-sachsen.de&amsparams=playerid:streams.rsa-sachsen.de;skey:1776118973"
+      "https://rsa.streamabc.net/regc-rsasachsenevent017364573-mp3-192-8804524?sABC=69r71231%230%23nnp26506rp49pqn990964o9n4q25s823%23fgernzf.efn-fnpufra.qr&aw_0_1st.playerid=streams.rsa-sachsen.de&amsparams=playerid:streams.rsa-sachsen.de;skey:1776751153"
     ],
     "country": "de",
     "languages": [
@@ -2050,7 +2050,7 @@
     "nanoid": "vZnKHegZh9r7g1",
     "name": "Radio PSR Weihnachts-Superhits",
     "stream_urls": [
-      "https://regiocast.streamabc.net/regc-psrevent013140163-mp3-192-9512835?sABC=69qq8s90%230%23nnp26506rp49pqn990964o9n4q25s823%23fgernzf.enqvbcfe.qr&aw_0_1st.playerid=streams.radiopsr.de&amsparams=playerid:streams.radiopsr.de;skey:1776127888"
+      "https://regiocast.streamabc.net/regc-psrevent013140163-mp3-192-9512835?sABC=69r6q554%230%23nnp26506rp49pqn990964o9n4q25s823%23fgernzf.enqvbcfe.qr&aw_0_1st.playerid=streams.radiopsr.de&amsparams=playerid:streams.radiopsr.de;skey:1776735572"
     ],
     "country": "de",
     "languages": [
@@ -2210,7 +2210,7 @@
     "name": "RauteMusik Christmas",
     "stream_urls": [
       "https://rautemusik-de-hz-fal-stream15.radiohost.de/christmas",
-      "https://christmas-high.rautemusik.fm/?upd-meta&upd-scheme=https&_art=dD0xNzc2MTI0MDYzJmQ9M2UwYjVjNmUyZGMyNzFkYWQzODA"
+      "https://christmas-high.rautemusik.fm/?upd-meta&upd-scheme=https&_art=dD0xNzc2NzM4ODgxJmQ9ZmUxOWU5N2IwYzhmY2MyOTQ5MGE"
     ],
     "country": "de",
     "languages": [
@@ -2414,7 +2414,7 @@
     "stream_urls": [
       "https://ice1.somafm.com/christmas-256-mp3",
       "https://ice4.somafm.com/christmas-64-aac",
-      "https://ice6.somafm.com/christmas-256-mp3"
+      "https://ice2.somafm.com/christmas-256-mp3"
     ],
     "country": "us",
     "languages": [
@@ -2426,7 +2426,6 @@
     "name": "SomaFM: Christmas Rocks!",
     "stream_urls": [
       "https://ice2.somafm.com/xmasrocks-128-mp3",
-      "https://ice6.somafm.com/xmasrocks-128-mp3",
       "https://ice4.somafm.com/xmasrocks-128-mp3"
     ],
     "country": "us",
@@ -2451,8 +2450,8 @@
     "nanoid": "yVYChEUMD0o4Kw",
     "name": "SomaFM: Jolly Old Soul",
     "stream_urls": [
-      "https://ice4.somafm.com/jollysoul-128-mp3",
       "https://ice2.somafm.com/jollysoul-128-mp3",
+      "https://ice4.somafm.com/jollysoul-128-mp3",
       "https://ice6.somafm.com/jollysoul-128-mp3"
     ],
     "country": "us",

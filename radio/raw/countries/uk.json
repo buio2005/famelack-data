@@ -1252,7 +1252,7 @@
     "name": "BFBS Edge",
     "stream_urls": [
       "https://listen-ssvcbfbs.sharp-stream.com/ssvcbfbs22.aac",
-      "https://edge-audio-02-thn.sharp-stream.com:80/ssvcbfbs22.mp3"
+      "https://edge-audio-04-thn.sharp-stream.com:80/ssvcbfbs22.mp3"
     ],
     "country": "uk",
     "languages": [
@@ -1768,7 +1768,8 @@
     "nanoid": "6qGNbI25oiT3Rx",
     "name": "Brooklands Radio",
     "stream_urls": [
-      "https://stream4.hippynet.co.uk/stream/brooklandsradio"
+      "https://stream4.hippynet.co.uk/stream/brooklandsradio",
+      "https://stream4.hippynet.co.uk:8008/mobile"
     ],
     "country": "uk",
     "languages": [
@@ -2337,6 +2338,17 @@
     ]
   },
   {
+    "nanoid": "wY7fBkWIBM1avb",
+    "name": "Classic Hits Radio",
+    "stream_urls": [
+      "https://stream.aiir.com/he5hocuryqbvv"
+    ],
+    "country": "uk",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
     "nanoid": "6bSvbtwLxQG2ck",
     "name": "Classical Radio International",
     "stream_urls": [
@@ -2484,6 +2496,17 @@
     "name": "CROP Radio",
     "stream_urls": [
       "https://s3.radio.co/sb713b671e/listen"
+    ],
+    "country": "uk",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "mt0ytSy8WGHPF8",
+    "name": "Cross Rhythms City Radio",
+    "stream_urls": [
+      "https://stream.crossrhythms.co.uk/city/hq.mp3"
     ],
     "country": "uk",
     "languages": [
@@ -2794,17 +2817,6 @@
     "name": "Digital Soul Radio",
     "stream_urls": [
       "https://play.radioking.io/digitalsoulradio"
-    ],
-    "country": "uk",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
-    "nanoid": "QOJxH3K6vY3k2G",
-    "name": "Dire Straits",
-    "stream_urls": [
-      "https://stream.pcradio.ru/dire_straits-hi"
     ],
     "country": "uk",
     "languages": [
@@ -3363,17 +3375,6 @@
     ]
   },
   {
-    "nanoid": "wg4t0tAFPO7wKV",
-    "name": "Frisky Radio",
-    "stream_urls": [
-      "https://stream.frisky.friskyradio.com/"
-    ],
-    "country": "uk",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
     "nanoid": "2NPhXBBfrQF3ne",
     "name": "Frisky Radio Chill",
     "stream_urls": [
@@ -3787,6 +3788,17 @@
     ]
   },
   {
+    "nanoid": "yUM9laFd2N5z1R",
+    "name": "HappyHardcore.com",
+    "stream_urls": [
+      "https://audio-edge-3mayu.fra.h.radiomast.io/73055724-1141-41e2-a69b-24a6ca96c8e7"
+    ],
+    "country": "uk",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
     "nanoid": "Olv8F7HowftdfP",
     "name": "Hard Rock Nation",
     "stream_urls": [
@@ -3813,17 +3825,6 @@
     "name": "Healthcare NOW Radio",
     "stream_urls": [
       "https://healthcarenowradio.out.airtime.pro/healthcarenowradio_a"
-    ],
-    "country": "uk",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
-    "nanoid": "8EgMQtcoX64JdE",
-    "name": "HearMe - 00s Pop",
-    "stream_urls": [
-      "https://radio.hearme.fm:8040/stream"
     ],
     "country": "uk",
     "languages": [
@@ -4954,17 +4955,6 @@
     ]
   },
   {
-    "nanoid": "v6SGaaCpsf9OSX",
-    "name": "Juice Liverpool",
-    "stream_urls": [
-      "https://uksouth1.juiceboxradio.com/JuiceLiverpool"
-    ],
-    "country": "uk",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
     "nanoid": "cwNeFOSvl6cJZm",
     "name": "Just House Music",
     "stream_urls": [
@@ -5273,17 +5263,6 @@
     "name": "LifeFM.tv",
     "stream_urls": [
       "https://streamer.radio.co/s1ed160262/listen"
-    ],
-    "country": "uk",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
-    "nanoid": "9rNoGOqZhySF40",
-    "name": "Lifestyle Radio UK",
-    "stream_urls": [
-      "https://a4.asurahosting.com:6560/radio.mp3"
     ],
     "country": "uk",
     "languages": [
@@ -6135,7 +6114,8 @@
     "nanoid": "GHEueSwY8wiCOR",
     "name": "Naim Radio",
     "stream_urls": [
-      "https://mscp3.live-streams.nl:8362/flac.flac"
+      "https://mscp3.live-streams.nl:8362/flac.flac",
+      "https://mscp3.live-streams.nl:8362/high.aac"
     ],
     "country": "uk",
     "languages": [
@@ -8189,17 +8169,6 @@
     ]
   },
   {
-    "nanoid": "a5l2gxIoECOB0j",
-    "name": "Radioalfa 8 Latin Hits",
-    "stream_urls": [
-      "https://stream.zeno.fm/51z3n54r1qzuv"
-    ],
-    "country": "uk",
-    "languages": [
-      "spa"
-    ]
-  },
-  {
     "nanoid": "Z1Nv8Nj0ufMnx5",
     "name": "Radioalfa 9 Latin Hits",
     "stream_urls": [
@@ -8258,6 +8227,7 @@
     "nanoid": "2EqtrWmC3GevjR",
     "name": "RadioSEGA",
     "stream_urls": [
+      "https://icecast.radiosega.net/rs-flac.ogg",
       "https://icecast.radiosega.net/live"
     ],
     "country": "uk",
@@ -8413,17 +8383,6 @@
     "name": "Resonance Extra",
     "stream_urls": [
       "https://stream.resonance.fm/resonance-extra"
-    ],
-    "country": "uk",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
-    "nanoid": "zdYIfBIQ60qeg4",
-    "name": "Retro Mix Radio",
-    "stream_urls": [
-      "https://stream.retromixradio.co.uk/radio48"
     ],
     "country": "uk",
     "languages": [
@@ -8771,17 +8730,6 @@
     "country": "uk",
     "languages": [
       "eng"
-    ]
-  },
-  {
-    "nanoid": "UyBHfDJauO2VzG",
-    "name": "Sanskar Radio",
-    "stream_urls": [
-      "https://radio.canstream.co.uk:8024/live.mp3"
-    ],
-    "country": "uk",
-    "languages": [
-      "hin"
     ]
   },
   {
@@ -9745,10 +9693,10 @@
     ]
   },
   {
-    "nanoid": "GMdnSocV1iIzoD",
-    "name": "The Beatles Radio",
+    "nanoid": "FhL1NCzANH1TLd",
+    "name": "The Beat London 103.6 FM",
     "stream_urls": [
-      "https://stream.pcradio.ru/The_Beatles-hi"
+      "https://stream.zeno.fm/x59sz6hkev8uv"
     ],
     "country": "uk",
     "languages": [
@@ -9872,6 +9820,17 @@
     "name": "The Prodigy Radio",
     "stream_urls": [
       "https://stream.pcradio.ru/The_Prodigy-hi"
+    ],
+    "country": "uk",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "GollL1dBP2Qnkd",
+    "name": "The Richie Allen Show",
+    "stream_urls": [
+      "https://ukwesta.streaming.broadcast.radio/therichieallenshow"
     ],
     "country": "uk",
     "languages": [

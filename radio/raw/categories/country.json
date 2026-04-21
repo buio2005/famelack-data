@@ -537,28 +537,6 @@
     ]
   },
   {
-    "nanoid": "8JluyQss0oUUDl",
-    "name": "181.FM Christmas Kountry",
-    "stream_urls": [
-      "https://listen.181fm.com/181-xkkountry_128k.mp3"
-    ],
-    "country": "us",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
-    "nanoid": "FlLNOSJubbypjT",
-    "name": "181.FM Front Porch",
-    "stream_urls": [
-      "https://listen.181fm.com/181-frontporch_128k.mp3"
-    ],
-    "country": "us",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
     "nanoid": "8ecGuEVhrOQZQf",
     "name": "181.FM Highway 181",
     "stream_urls": [
@@ -653,7 +631,6 @@
     "nanoid": "wswgt8N8G4vI13",
     "name": "88.9 FM Tamworth",
     "stream_urls": [
-      "https://stream.889fmtamworth.com.au:8443/stream",
       "https://stream.889fmtamworth.com.au/stream"
     ],
     "country": "au",
@@ -1125,7 +1102,8 @@
     "nanoid": "vc0uCH9Hyx7GSa",
     "name": "97.7 The Wolf",
     "stream_urls": [
-      "https://ice9.securenetsystems.net/KWUT"
+      "https://ice9.securenetsystems.net/KWUT",
+      "https://ice10.securenetsystems.net/WOLV"
     ],
     "country": "us",
     "languages": [
@@ -1259,8 +1237,8 @@
     "name": "99.5 The Wolf",
     "stream_urls": [
       "https://playerservices.streamtheworld.com/api/livestream-redirect/KPLXFM_SC",
-      "https://17793.live.streamtheworld.com:443/KPLXFM_SC",
-      "https://18503.live.streamtheworld.com:443/KPLXFM_SC"
+      "https://14933.live.streamtheworld.com:443/KPLXFM_SC",
+      "https://14983.live.streamtheworld.com:443/KPLXFM_SC"
     ],
     "country": "us",
     "languages": [
@@ -1388,6 +1366,17 @@
     "country": "us",
     "languages": [
       "eng"
+    ]
+  },
+  {
+    "nanoid": "2zOk8mtXKkBxND",
+    "name": "AIR Kadapa",
+    "stream_urls": [
+      "https://air.pc.cdn.bitgravity.com/air/live/pbaudio052/playlist.m3u8"
+    ],
+    "country": "in",
+    "languages": [
+      "tel"
     ]
   },
   {
@@ -2122,17 +2111,6 @@
     ]
   },
   {
-    "nanoid": "lJ4KIpXSt9UU5o",
-    "name": "Circle TV",
-    "stream_urls": [
-      "https://circle-vizio.amagi.tv/playlist.m3u8"
-    ],
-    "country": "us",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
     "nanoid": "MQTXK3DaayNCbD",
     "name": "CJ 1150",
     "stream_urls": [
@@ -2404,17 +2382,6 @@
     "name": "Cleansing Country",
     "stream_urls": [
       "https://hemnos.cdnstream.com/1489_128"
-    ],
-    "country": "us",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
-    "nanoid": "FLq1ZRVOw0Qp6m",
-    "name": "Coast Country 106.3",
-    "stream_urls": [
-      "https://stream-04.aiir.com/4m432c2kfq9uv"
     ],
     "country": "us",
     "languages": [
@@ -3632,17 +3599,6 @@
     ]
   },
   {
-    "nanoid": "DvHNcdBxFJw37s",
-    "name": "FM Vale Verde 96.7",
-    "stream_urls": [
-      "https://ice.fabricahost.com.br/fmvaleverde"
-    ],
-    "country": "br",
-    "languages": [
-      "por"
-    ]
-  },
-  {
     "nanoid": "pazXyDQR4SXI7g",
     "name": "FM106.1",
     "stream_urls": [
@@ -3891,9 +3847,9 @@
     "nanoid": "KFXtnHnxVztWIa",
     "name": "Hit Country 105.3 Beauce",
     "stream_urls": [
-      "https://19003.live.streamtheworld.com:443/CHCT_FM_SC",
+      "https://18213.live.streamtheworld.com:443/CHCT_FM_SC",
       "https://14223.live.streamtheworld.com:443/CHCT_FM_SC",
-      "https://18213.live.streamtheworld.com:443/CHCT_FM_SC"
+      "https://19003.live.streamtheworld.com:443/CHCT_FM_SC"
     ],
     "country": "ca",
     "languages": [
@@ -3904,9 +3860,9 @@
     "nanoid": "jnlzoZwOrRIJIB",
     "name": "Hit Country 95.7",
     "stream_urls": [
-      "https://18213.live.streamtheworld.com:443/CKYQ_FM_SC",
+      "https://19003.live.streamtheworld.com:443/CKYQ_FM_SC",
       "https://14223.live.streamtheworld.com:443/CKYQ_FM_SC",
-      "https://19003.live.streamtheworld.com:443/CKYQ_FM_SC"
+      "https://18213.live.streamtheworld.com:443/CKYQ_FM_SC"
     ],
     "country": "ca",
     "languages": [
@@ -3922,6 +3878,17 @@
     "country": "de",
     "languages": [
       "deu"
+    ]
+  },
+  {
+    "nanoid": "XNt0WIDEYISiwZ",
+    "name": "HitsRadio - Country",
+    "stream_urls": [
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/977_COUNTRY.mp3"
+    ],
+    "country": "us",
+    "languages": [
+      "eng"
     ]
   },
   {
@@ -4253,8 +4220,8 @@
     "name": "K-Bull 93",
     "stream_urls": [
       "https://playerservices.streamtheworld.com/api/livestream-redirect/KUBLFM_SC",
-      "https://13743.live.streamtheworld.com:443/KUBLFM_SC",
-      "https://14013.live.streamtheworld.com:443/KUBLFM_SC"
+      "https://18513.live.streamtheworld.com:443/KUBLFM_SC",
+      "https://17853.live.streamtheworld.com:443/KUBLFM_SC"
     ],
     "country": "us",
     "languages": [
@@ -4535,23 +4502,12 @@
     ]
   },
   {
-    "nanoid": "6tsQHOhmo2ueor",
-    "name": "KILJ 105.5 FM",
-    "stream_urls": [
-      "https://crystalout.surfernetwork.com:8001/KILJ_MP3"
-    ],
-    "country": "us",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
     "nanoid": "SHLsAfjO3lPwGz",
     "name": "Kissin' 92.3",
     "stream_urls": [
       "https://playerservices.streamtheworld.com/api/livestream-redirect/KIZNFM_SC",
-      "https://18443.live.streamtheworld.com:443/KIZNFM_SC",
-      "https://29325.live.streamtheworld.com:443/KIZNFM_SC"
+      "https://29325.live.streamtheworld.com:443/KIZNFM_SC",
+      "https://23023.live.streamtheworld.com:443/KIZNFM_SC"
     ],
     "country": "us",
     "languages": [
@@ -4609,6 +4565,19 @@
       "https://stream.revma.ihrhls.com/zc5278"
     ],
     "country": "us",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "67GYCHdSVUjAkX",
+    "name": "KIX Country",
+    "stream_urls": [
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/KIXCOUNTRYAAC.aac",
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/KIXCOUNTRY.mp3",
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/KIXCOUNTRYAAC.m3u8"
+    ],
+    "country": "au",
     "languages": [
       "eng"
     ]
@@ -4924,17 +4893,6 @@
       "https://stream.zeno.fm/lamr6x1fxrruv"
     ],
     "country": "nz",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
-    "nanoid": "9rNoGOqZhySF40",
-    "name": "Lifestyle Radio UK",
-    "stream_urls": [
-      "https://a4.asurahosting.com:6560/radio.mp3"
-    ],
-    "country": "uk",
     "languages": [
       "eng"
     ]
@@ -5366,7 +5324,7 @@
     "name": "New Country 96.3 KSCS",
     "stream_urls": [
       "https://playerservices.streamtheworld.com/api/livestream-redirect/KSCSFM_SC",
-      "https://14983.live.streamtheworld.com:443/KSCSFM_SC",
+      "https://14933.live.streamtheworld.com:443/KSCSFM_SC",
       "https://17793.live.streamtheworld.com:443/KSCSFM_SC"
     ],
     "country": "us",
@@ -5526,7 +5484,7 @@
     "stream_urls": [
       "https://playerservices.streamtheworld.com/api/livestream-redirect/KUTTFM_SC",
       "https://27053.live.streamtheworld.com:443/KUTTFM_SC",
-      "https://26293.live.streamtheworld.com:443/KUTTFM_SC"
+      "https://19303.live.streamtheworld.com:443/KUTTFM_SC"
     ],
     "country": "us",
     "languages": [
@@ -5672,7 +5630,7 @@
     "nanoid": "AoLexAqD9UQo53",
     "name": "R.SA - Country",
     "stream_urls": [
-      "https://rsa.streamabc.net/regc-rsasachsencountry2764012-mp3-192-9624128?sABC=69qq53q1%230%23nnp26506rp49pqn990964o9n4q25s823%23fgernzf.efn-fnpufra.qr&aw_0_1st.playerid=streams.rsa-sachsen.de&amsparams=playerid:streams.rsa-sachsen.de;skey:1776112593"
+      "https://rsa.streamabc.net/regc-rsasachsencountry2764012-mp3-192-9624128?sABC=69r70r6q%230%23nnp26506rp49pqn990964o9n4q25s823%23fgernzf.efn-fnpufra.qr&aw_0_1st.playerid=streams.rsa-sachsen.de&amsparams=playerid:streams.rsa-sachsen.de;skey:1776750189"
     ],
     "country": "de",
     "languages": [
@@ -6187,17 +6145,6 @@
     ]
   },
   {
-    "nanoid": "z3GZBcGB87HlxM",
-    "name": "Retro Country 890",
-    "stream_urls": [
-      "https://www.tuneintoradio1.com:8050/radio.mp3"
-    ],
-    "country": "us",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
     "nanoid": "a3rNwqTM92nQbv",
     "name": "Riduna Radio",
     "stream_urls": [
@@ -6406,17 +6353,6 @@
     ]
   },
   {
-    "nanoid": "T4xWXwlloudmJB",
-    "name": "Rádio Tok",
-    "stream_urls": [
-      "https://cast2.hoost.com.br:20088/stream"
-    ],
-    "country": "br",
-    "languages": [
-      "por"
-    ]
-  },
-  {
     "nanoid": "AKIsOL9xqDvMF4",
     "name": "Rádio Virgo Net",
     "stream_urls": [
@@ -6562,17 +6498,6 @@
     ]
   },
   {
-    "nanoid": "ITS0zZsxzeg0lT",
-    "name": "Southern Cross Country",
-    "stream_urls": [
-      "https://sxcountry.radioca.st/stream"
-    ],
-    "country": "nz",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
     "nanoid": "qAyVohlgjoa0MC",
     "name": "Southern Rock Radio",
     "stream_urls": [
@@ -6684,17 +6609,6 @@
     ]
   },
   {
-    "nanoid": "2f0tNdEcNBgRg5",
-    "name": "Swamp Radio WADS-DB",
-    "stream_urls": [
-      "https://cast6.my-control-panel.com/proxy/swampradiomiami/stream"
-    ],
-    "country": "us",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
     "nanoid": "FLkI3I8slgKIeX",
     "name": "Sweet FM 97.1",
     "stream_urls": [
@@ -6758,17 +6672,6 @@
     "country": "us",
     "languages": [
       "eng"
-    ]
-  },
-  {
-    "nanoid": "iDx7m0Ga4XSZWT",
-    "name": "Thai Lanna Radio 106.5 FM",
-    "stream_urls": [
-      "https://inter.lannaradio.com/radio/8000/radio.mp3"
-    ],
-    "country": "th",
-    "languages": [
-      "tha"
     ]
   },
   {
@@ -6913,8 +6816,7 @@
     "name": "The WOLF Südhessen",
     "stream_urls": [
       "https://streams.radio21.de/thewolf-suedhessen/mp3-128/streams.radio21.de/",
-      "https://streams.radio21.de/thewolf-suedhessen/mp3-256/streams.radio21.de/",
-      "https://streams.radio21.de/thewolf-suedhessen/aac-64/streams.radio21.de/"
+      "https://streams.radio21.de/thewolf-suedhessen/mp3-256/streams.radio21.de/"
     ],
     "country": "de",
     "languages": [
@@ -7081,8 +6983,8 @@
     "name": "Viva 105.3",
     "stream_urls": [
       "https://14223.live.streamtheworld.com:443/CHRM_FM_SC",
-      "https://19003.live.streamtheworld.com:443/CHRM_FM_SC",
-      "https://18213.live.streamtheworld.com:443/CHRM_FM_SC"
+      "https://18213.live.streamtheworld.com:443/CHRM_FM_SC",
+      "https://19003.live.streamtheworld.com:443/CHRM_FM_SC"
     ],
     "country": "ca",
     "languages": [
@@ -7275,17 +7177,6 @@
     "name": "WIZS 1450 AM",
     "stream_urls": [
       "https://playerservices.streamtheworld.com/api/livestream-redirect/WIZSAMAAC_SC"
-    ],
-    "country": "us",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
-    "nanoid": "Ly0mVNKBAvisux",
-    "name": "WKDZ 106.5 FM",
-    "stream_urls": [
-      "https://us9.maindigitalstream.com/ssl/WKDZ"
     ],
     "country": "us",
     "languages": [

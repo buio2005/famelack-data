@@ -1482,17 +1482,6 @@
     ]
   },
   {
-    "nanoid": "lkrKsFvDu3j2u9",
-    "name": "95.7 The Wolf",
-    "stream_urls": [
-      "https://centova.radioservers.biz/proxy/cktpradi/stream"
-    ],
-    "country": "ca",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
     "nanoid": "ituZDCO9kMD5Yb",
     "name": "95.9 Sun FM",
     "stream_urls": [
@@ -1968,7 +1957,8 @@
     "nanoid": "r1iyMEfpwVwM6x",
     "name": "Allsound Radio",
     "stream_urls": [
-      "https://kathy.torontocast.com:2495/stream"
+      "https://kathy.torontocast.com:2495/stream",
+      "https://kathy.torontocast.com:2525/stream"
     ],
     "country": "ca",
     "languages": [
@@ -2494,17 +2484,6 @@
     ]
   },
   {
-    "nanoid": "DFpTjigdpb8LZF",
-    "name": "Calm Radio - Baroque",
-    "stream_urls": [
-      "https://streams.calmradio.com:3328/stream/"
-    ],
-    "country": "ca",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
     "nanoid": "rqwFwlRFiidGKY",
     "name": "Calm Radio - Beethoven",
     "stream_urls": [
@@ -3016,8 +2995,8 @@
     "nanoid": "ZoUMdOrH39g0Wi",
     "name": "CBC Music Central",
     "stream_urls": [
-      "https://27033.live.streamtheworld.com:443/CBWFM_CBC_SC",
       "https://26373.live.streamtheworld.com:443/CBWFM_CBC_SC",
+      "https://27033.live.streamtheworld.com:443/CBWFM_CBC_SC",
       "https://18303.live.streamtheworld.com:443/CBWFM_CBC_SC"
     ],
     "country": "ca",
@@ -3030,8 +3009,8 @@
     "name": "CBC Music Eastern",
     "stream_urls": [
       "https://cbcradiolive.akamaized.net/hls/live/2041057/ES_R2ETR/master.m3u8",
-      "https://26373.live.streamtheworld.com:443/CBLFM_CBC_SC",
-      "https://27033.live.streamtheworld.com:443/CBLFM_CBC_SC"
+      "https://27033.live.streamtheworld.com:443/CBLFM_CBC_SC",
+      "https://26373.live.streamtheworld.com:443/CBLFM_CBC_SC"
     ],
     "country": "ca",
     "languages": [
@@ -3078,8 +3057,8 @@
     "nanoid": "QR5ynCCZKUeHx9",
     "name": "CBC North",
     "stream_urls": [
-      "https://27033.live.streamtheworld.com:443/CFFBAM_CBC_SC",
       "https://26373.live.streamtheworld.com:443/CFFBAM_CBC_SC",
+      "https://27033.live.streamtheworld.com:443/CFFBAM_CBC_SC",
       "https://18303.live.streamtheworld.com:443/CFFBAM_CBC_SC"
     ],
     "country": "ca",
@@ -3113,8 +3092,8 @@
     "nanoid": "9ubONlRpd7L5U8",
     "name": "CBC Radio One Barrie",
     "stream_urls": [
-      "https://26283.live.streamtheworld.com:443/CBCOFM_CBC_SC",
       "https://29243.live.streamtheworld.com:443/CBCOFM_CBC_SC",
+      "https://26283.live.streamtheworld.com:443/CBCOFM_CBC_SC",
       "https://26733.live.streamtheworld.com:443/CBCOFM_CBC_SC"
     ],
     "country": "ca",
@@ -3152,9 +3131,9 @@
     "nanoid": "OEbWkbZLI4R37x",
     "name": "CBC Radio One Corner Brook",
     "stream_urls": [
+      "https://26283.live.streamtheworld.com:443/CBYAM_CBC_SC",
       "https://29243.live.streamtheworld.com:443/CBYAM_CBC_SC",
-      "https://26733.live.streamtheworld.com:443/CBYAM_CBC_SC",
-      "https://26283.live.streamtheworld.com:443/CBYAM_CBC_SC"
+      "https://26733.live.streamtheworld.com:443/CBYAM_CBC_SC"
     ],
     "country": "ca",
     "languages": [
@@ -3165,8 +3144,8 @@
     "nanoid": "svpdUu6Fj1DeZv",
     "name": "CBC Radio One Edmonton",
     "stream_urls": [
-      "https://27033.live.streamtheworld.com:443/CBXAM_CBC_SC",
       "https://26373.live.streamtheworld.com:443/CBXAM_CBC_SC",
+      "https://27033.live.streamtheworld.com:443/CBXAM_CBC_SC",
       "https://18303.live.streamtheworld.com:443/CBXAM_CBC_SC"
     ],
     "country": "ca",
@@ -3179,8 +3158,8 @@
     "name": "CBC Radio One Fredericton",
     "stream_urls": [
       "https://29243.live.streamtheworld.com:443/CBZFFM_CBC_SC",
-      "https://26733.live.streamtheworld.com:443/CBZFFM_CBC_SC",
-      "https://26283.live.streamtheworld.com:443/CBZFFM_CBC_SC"
+      "https://26283.live.streamtheworld.com:443/CBZFFM_CBC_SC",
+      "https://26733.live.streamtheworld.com:443/CBZFFM_CBC_SC"
     ],
     "country": "ca",
     "languages": [
@@ -3205,7 +3184,7 @@
     "name": "CBC Radio One Halifax",
     "stream_urls": [
       "https://cbcradiolive.akamaized.net/hls/live/2040987/ES_R1AHF/master.m3u8",
-      "https://29243.live.streamtheworld.com:443/CBHA_CBC_SC",
+      "https://26283.live.streamtheworld.com:443/CBHA_CBC_SC",
       "https://26733.live.streamtheworld.com:443/CBHA_CBC_SC"
     ],
     "country": "ca",
@@ -3217,8 +3196,8 @@
     "nanoid": "7xBwIaoEULeUJC",
     "name": "CBC Radio One Happy Valley-Goose Bay",
     "stream_urls": [
-      "https://29243.live.streamtheworld.com:443/CFGB_CBC_SC",
       "https://26283.live.streamtheworld.com:443/CFGB_CBC_SC",
+      "https://29243.live.streamtheworld.com:443/CFGB_CBC_SC",
       "https://26733.live.streamtheworld.com:443/CFGB_CBC_SC"
     ],
     "country": "ca",
@@ -3230,8 +3209,8 @@
     "nanoid": "JbqieyF9aRViS1",
     "name": "CBC Radio One Inuvik",
     "stream_urls": [
-      "https://27033.live.streamtheworld.com:443/CHAK_CBC_SC",
       "https://26373.live.streamtheworld.com:443/CHAK_CBC_SC",
+      "https://27033.live.streamtheworld.com:443/CHAK_CBC_SC",
       "https://18303.live.streamtheworld.com:443/CHAK_CBC_SC"
     ],
     "country": "ca",
@@ -3281,8 +3260,8 @@
     "name": "CBC Radio One Kingston",
     "stream_urls": [
       "https://29243.live.streamtheworld.com:443/CBCKFM_CBC_SC",
-      "https://15313.live.streamtheworld.com:443/CBCKFM_CBC_SC",
-      "https://26733.live.streamtheworld.com:443/CBCKFM_CBC_SC"
+      "https://26283.live.streamtheworld.com:443/CBCKFM_CBC_SC",
+      "https://18853.live.streamtheworld.com:443/CBCKFM_CBC_SC"
     ],
     "country": "ca",
     "languages": [
@@ -3307,8 +3286,8 @@
     "name": "CBC Radio One London",
     "stream_urls": [
       "https://18853.live.streamtheworld.com:443/CBCLFM_CBC_SC",
-      "https://26733.live.streamtheworld.com:443/CBCLFM_CBC_SC",
-      "https://29223.live.streamtheworld.com:443/CBCLFM_CBC_SC"
+      "https://26283.live.streamtheworld.com:443/CBCLFM_CBC_SC",
+      "https://26733.live.streamtheworld.com:443/CBCLFM_CBC_SC"
     ],
     "country": "ca",
     "languages": [
@@ -3320,8 +3299,8 @@
     "name": "CBC Radio One Moncton",
     "stream_urls": [
       "https://18853.live.streamtheworld.com:443/CBAMFM_CBC_SC",
-      "https://29243.live.streamtheworld.com:443/CBAMFM_CBC_SC",
-      "https://26733.live.streamtheworld.com:443/CBAMFM_CBC_SC"
+      "https://29223.live.streamtheworld.com:443/CBAMFM_CBC_SC",
+      "https://18863.live.streamtheworld.com:443/CBAMFM_CBC_SC"
     ],
     "country": "ca",
     "languages": [
@@ -3361,7 +3340,7 @@
     "stream_urls": [
       "https://cbcradiolive.akamaized.net/hls/live/2041037/ES_R1ETT/adaptive_128/chunklist_ao.m3u8",
       "https://26733.live.streamtheworld.com:443/CBOFM_CBC_SC",
-      "https://26283.live.streamtheworld.com:443/CBOFM_CBC_SC"
+      "https://29243.live.streamtheworld.com:443/CBOFM_CBC_SC"
     ],
     "country": "ca",
     "languages": [
@@ -3372,8 +3351,8 @@
     "nanoid": "iNthIhFSLPwdfO",
     "name": "CBC Radio One Peterborough",
     "stream_urls": [
-      "https://26373.live.streamtheworld.com:443/CBCPFM_CBC_SC",
       "https://27033.live.streamtheworld.com:443/CBCPFM_CBC_SC",
+      "https://26373.live.streamtheworld.com:443/CBCPFM_CBC_SC",
       "https://18303.live.streamtheworld.com:443/CBCPFM_CBC_SC"
     ],
     "country": "ca",
@@ -3411,8 +3390,8 @@
     "nanoid": "ZZq3QvnEJCRksJ",
     "name": "CBC Radio One Regina",
     "stream_urls": [
-      "https://26373.live.streamtheworld.com:443/CBKRFM_CBC_SC",
       "https://27033.live.streamtheworld.com:443/CBKRFM_CBC_SC",
+      "https://26373.live.streamtheworld.com:443/CBKRFM_CBC_SC",
       "https://18303.live.streamtheworld.com:443/CBKRFM_CBC_SC"
     ],
     "country": "ca",
@@ -3424,9 +3403,9 @@
     "nanoid": "eCEaXzefWuB9W9",
     "name": "CBC Radio One Saint John",
     "stream_urls": [
+      "https://29243.live.streamtheworld.com:443/CBDFM_CBC_SC",
       "https://26733.live.streamtheworld.com:443/CBDFM_CBC_SC",
-      "https://26283.live.streamtheworld.com:443/CBDFM_CBC_SC",
-      "https://29243.live.streamtheworld.com:443/CBDFM_CBC_SC"
+      "https://26283.live.streamtheworld.com:443/CBDFM_CBC_SC"
     ],
     "country": "ca",
     "languages": [
@@ -3438,8 +3417,8 @@
     "name": "CBC Radio One Saskatoon",
     "stream_urls": [
       "https://cbcradiolive.akamaized.net/hls/live/2041054/ES_R1SSA/adaptive_192/chunklist_ao.m3u8",
-      "https://26373.live.streamtheworld.com:443/CBK1FM_CBC_SC",
-      "https://27033.live.streamtheworld.com:443/CBK1FM_CBC_SC"
+      "https://27033.live.streamtheworld.com:443/CBK1FM_CBC_SC",
+      "https://26373.live.streamtheworld.com:443/CBK1FM_CBC_SC"
     ],
     "country": "ca",
     "languages": [
@@ -3450,9 +3429,9 @@
     "nanoid": "Tr7fI9XO7l12uw",
     "name": "CBC Radio One St. John's",
     "stream_urls": [
-      "https://29243.live.streamtheworld.com:443/CBN1_CBC_SC",
+      "https://26733.live.streamtheworld.com:443/CBN1_CBC_SC",
       "https://26283.live.streamtheworld.com:443/CBN1_CBC_SC",
-      "https://26733.live.streamtheworld.com:443/CBN1_CBC_SC"
+      "https://29243.live.streamtheworld.com:443/CBN1_CBC_SC"
     ],
     "country": "ca",
     "languages": [
@@ -3477,8 +3456,8 @@
     "name": "CBC Radio One Sydney",
     "stream_urls": [
       "https://26283.live.streamtheworld.com:443/CBIS_CBC_SC",
-      "https://29243.live.streamtheworld.com:443/CBIS_CBC_SC",
-      "https://26733.live.streamtheworld.com:443/CBIS_CBC_SC"
+      "https://26733.live.streamtheworld.com:443/CBIS_CBC_SC",
+      "https://29243.live.streamtheworld.com:443/CBIS_CBC_SC"
     ],
     "country": "ca",
     "languages": [
@@ -3515,8 +3494,8 @@
     "nanoid": "lGQebSjsVXp7Rh",
     "name": "CBC Radio One Vancouver",
     "stream_urls": [
-      "https://26373.live.streamtheworld.com:443/CBU2FM_CBC_SC",
       "https://27033.live.streamtheworld.com:443/CBU2FM_CBC_SC",
+      "https://26373.live.streamtheworld.com:443/CBU2FM_CBC_SC",
       "https://18303.live.streamtheworld.com:443/CBU2FM_CBC_SC"
     ],
     "country": "ca",
@@ -3541,8 +3520,8 @@
     "nanoid": "ON2Pbqeyt2O9fJ",
     "name": "CBC Radio One Whitehorse",
     "stream_urls": [
-      "https://27033.live.streamtheworld.com:443/CFWH_CBC_SC",
       "https://26373.live.streamtheworld.com:443/CFWH_CBC_SC",
+      "https://27033.live.streamtheworld.com:443/CFWH_CBC_SC",
       "https://18303.live.streamtheworld.com:443/CFWH_CBC_SC"
     ],
     "country": "ca",
@@ -3554,9 +3533,9 @@
     "nanoid": "xKrPD08o24uBxC",
     "name": "CBC Radio One Windsor",
     "stream_urls": [
-      "https://26283.live.streamtheworld.com:443/CBEWFM_CBC_SC",
+      "https://29243.live.streamtheworld.com:443/CBEWFM_CBC_SC",
       "https://26733.live.streamtheworld.com:443/CBEWFM_CBC_SC",
-      "https://29243.live.streamtheworld.com:443/CBEWFM_CBC_SC"
+      "https://26283.live.streamtheworld.com:443/CBEWFM_CBC_SC"
     ],
     "country": "ca",
     "languages": [
@@ -3580,8 +3559,8 @@
     "nanoid": "FZfi2Y4DNaZNVl",
     "name": "CBC Radio One Yellowknife",
     "stream_urls": [
-      "https://26373.live.streamtheworld.com:443/CFYKFM_CBC_SC",
       "https://27033.live.streamtheworld.com:443/CFYKFM_CBC_SC",
+      "https://26373.live.streamtheworld.com:443/CFYKFM_CBC_SC",
       "https://18303.live.streamtheworld.com:443/CFYKFM_CBC_SC"
     ],
     "country": "ca",
@@ -3867,17 +3846,6 @@
     ]
   },
   {
-    "nanoid": "UzCi9ZpN1EkSkJ",
-    "name": "CFRL Radio",
-    "stream_urls": [
-      "https://ice24.securenetsystems.net/CFRLIN"
-    ],
-    "country": "ca",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
     "nanoid": "BjJAh4gxkskqt0",
     "name": "CFRT 107.3 FM",
     "stream_urls": [
@@ -4159,6 +4127,17 @@
     ]
   },
   {
+    "nanoid": "ZCIVlDD4iGrEET",
+    "name": "CHIP 101.7 FM",
+    "stream_urls": [
+      "https://stream02.ustream.ca/chip128.mp3"
+    ],
+    "country": "ca",
+    "languages": [
+      "fra"
+    ]
+  },
+  {
     "nanoid": "oiTEy5z0Mwjluz",
     "name": "CHLC 97.1 FM",
     "stream_urls": [
@@ -4206,8 +4185,7 @@
     "nanoid": "GSmkTzHtG7HeEm",
     "name": "CHMB 1320 AM",
     "stream_urls": [
-      "https://n02.radiojar.com/nugqupcv8qzuv.mp3",
-      "https://n05.radiojar.com/nugqupcv8qzuv"
+      "https://n02.radiojar.com/nugqupcv8qzuv.mp3"
     ],
     "country": "ca",
     "languages": [
@@ -4275,17 +4253,6 @@
     "name": "CHOC 88,7 fm",
     "stream_urls": [
       "https://stream2.statsradio.com:8110/stream"
-    ],
-    "country": "ca",
-    "languages": [
-      "fra"
-    ]
-  },
-  {
-    "nanoid": "AFmx5SssTyIN33",
-    "name": "CHOI 98.1 Radio X",
-    "stream_urls": [
-      "https://lb0-stream.radiox981.ca/choi.aac"
     ],
     "country": "ca",
     "languages": [
@@ -4924,8 +4891,8 @@
     "name": "CJAD 800 AM",
     "stream_urls": [
       "https://playerservices.streamtheworld.com/api/livestream-redirect/CJADAMAAC_SC",
-      "https://26283.live.streamtheworld.com:443/CJADAM_SC",
-      "https://15313.live.streamtheworld.com:443/CJADAM_SC"
+      "https://22223.live.streamtheworld.com:443/CJADAM_SC",
+      "https://26283.live.streamtheworld.com:443/CJADAM_SC"
     ],
     "country": "ca",
     "languages": [
@@ -6667,18 +6634,6 @@
     ]
   },
   {
-    "nanoid": "4LsPhWRYFZn7Sz",
-    "name": "Drumbeat Radio",
-    "stream_urls": [
-      "https://n07.radiojar.com/yc0zykcd898uv",
-      "https://stream.radiojar.com/yc0zykcd898uv"
-    ],
-    "country": "ca",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
     "nanoid": "udkmiXneHXU66c",
     "name": "East FM 102.7",
     "stream_urls": [
@@ -7173,9 +7128,9 @@
     "nanoid": "KFXtnHnxVztWIa",
     "name": "Hit Country 105.3 Beauce",
     "stream_urls": [
-      "https://19003.live.streamtheworld.com:443/CHCT_FM_SC",
+      "https://18213.live.streamtheworld.com:443/CHCT_FM_SC",
       "https://14223.live.streamtheworld.com:443/CHCT_FM_SC",
-      "https://18213.live.streamtheworld.com:443/CHCT_FM_SC"
+      "https://19003.live.streamtheworld.com:443/CHCT_FM_SC"
     ],
     "country": "ca",
     "languages": [
@@ -7186,9 +7141,9 @@
     "nanoid": "jnlzoZwOrRIJIB",
     "name": "Hit Country 95.7",
     "stream_urls": [
-      "https://18213.live.streamtheworld.com:443/CKYQ_FM_SC",
+      "https://19003.live.streamtheworld.com:443/CKYQ_FM_SC",
       "https://14223.live.streamtheworld.com:443/CKYQ_FM_SC",
-      "https://19003.live.streamtheworld.com:443/CKYQ_FM_SC"
+      "https://18213.live.streamtheworld.com:443/CKYQ_FM_SC"
     ],
     "country": "ca",
     "languages": [
@@ -8489,6 +8444,17 @@
     ]
   },
   {
+    "nanoid": "qGwwAShIFa57Rd",
+    "name": "Life 94.7 FM",
+    "stream_urls": [
+      "https://churchmedia.ddns.net/Life947/Stream/Life947fm.m3u8"
+    ],
+    "country": "ca",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
     "nanoid": "i5O32wzy4iKB8q",
     "name": "Life Radio 96.5",
     "stream_urls": [
@@ -9150,17 +9116,6 @@
     ]
   },
   {
-    "nanoid": "uZhN9nvipEyWDe",
-    "name": "NewSong FM",
-    "stream_urls": [
-      "https://us9.streamingpulse.com/ssl/NewsongFM"
-    ],
-    "country": "ca",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
     "nanoid": "FsmayglAWGSm0H",
     "name": "NEWSTALK 1010",
     "stream_urls": [
@@ -9220,8 +9175,8 @@
     "name": "O 103.5",
     "stream_urls": [
       "https://18213.live.streamtheworld.com:443/CJLM_FM_SC",
-      "https://19003.live.streamtheworld.com:443/CJLM_FM_SC",
-      "https://14223.live.streamtheworld.com:443/CJLM_FM_SC"
+      "https://14223.live.streamtheworld.com:443/CJLM_FM_SC",
+      "https://19003.live.streamtheworld.com:443/CJLM_FM_SC"
     ],
     "country": "ca",
     "languages": [
@@ -9568,8 +9523,8 @@
     "name": "QUB Radio",
     "stream_urls": [
       "https://playerservices.streamtheworld.com/api/livestream-redirect/QUB_RADIOAAC_SC",
-      "https://26293.live.streamtheworld.com:443/QUB_RADIOAAC_SC",
-      "https://18213.live.streamtheworld.com:443/QUB_RADIOAAC_SC"
+      "https://27053.live.streamtheworld.com:443/QUB_RADIOAAC_SC",
+      "https://14223.live.streamtheworld.com:443/QUB_RADIOAAC_SC"
     ],
     "country": "ca",
     "languages": [
@@ -9732,17 +9687,6 @@
     "country": "ca",
     "languages": [
       "ara"
-    ]
-  },
-  {
-    "nanoid": "Y5mFJ82bm4SNZX",
-    "name": "Radio Cité 97.9",
-    "stream_urls": [
-      "https://stream2.statsradio.com:8056/stream"
-    ],
-    "country": "ca",
-    "languages": [
-      "fra"
     ]
   },
   {
@@ -9979,19 +9923,6 @@
     "country": "ca",
     "languages": [
       "hin",
-      "eng"
-    ]
-  },
-  {
-    "nanoid": "5cD0wCs4ByEQmx",
-    "name": "Radio Italia Canada",
-    "stream_urls": [
-      "https://streaming.radiostreamlive.com/radioitaliacanada_devices",
-      "https://streaming.radiostreamlive.com/radioitaliacanada_devices-low"
-    ],
-    "country": "ca",
-    "languages": [
-      "ita",
       "eng"
     ]
   },
@@ -10577,9 +10508,9 @@
     "nanoid": "IZug98kZLCGmUN",
     "name": "Rouge FM 96.9",
     "stream_urls": [
-      "https://18003.live.streamtheworld.com:443/CFIXFMAAC_SC",
-      "https://26413.live.streamtheworld.com:443/CFIXFMAAC_SC",
-      "https://27033.live.streamtheworld.com:443/CFIXFMAAC_SC"
+      "https://20593.live.streamtheworld.com:443/CFIXFMAAC_SC",
+      "https://26373.live.streamtheworld.com:443/CFIXFMAAC_SC",
+      "https://26413.live.streamtheworld.com:443/CFIXFMAAC_SC"
     ],
     "country": "ca",
     "languages": [
@@ -10864,17 +10795,6 @@
     "stream_urls": [
       "https://rogers-hls.leanstream.co/rogers/tor590.stream/playlist.m3u8",
       "https://rogers-hls.leanstream.co/rogers/tor590_alt.stream/48k/playlist.m3u8"
-    ],
-    "country": "ca",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
-    "nanoid": "3IEywn8HPFwAsN",
-    "name": "Sportsnet 650",
-    "stream_urls": [
-      "https://rogers-hls.leanstream.co/rogers/van650.stream/playlist.m3u8"
     ],
     "country": "ca",
     "languages": [
@@ -11560,6 +11480,17 @@
     ]
   },
   {
+    "nanoid": "nGmHdUSfWaJvpF",
+    "name": "Vinyl Voyage Radio",
+    "stream_urls": [
+      "https://jenny.torontocast.com:8018/stream2"
+    ],
+    "country": "ca",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
     "nanoid": "NKez3uRXohzDUk",
     "name": "Virgin Most Powerful Radio",
     "stream_urls": [
@@ -11575,8 +11506,8 @@
     "name": "Viva 101.9",
     "stream_urls": [
       "https://14223.live.streamtheworld.com:443/CFDA_FM_SC",
-      "https://19003.live.streamtheworld.com:443/CFDA_FM_SC",
-      "https://18213.live.streamtheworld.com:443/CFDA_FM_SC"
+      "https://18213.live.streamtheworld.com:443/CFDA_FM_SC",
+      "https://19003.live.streamtheworld.com:443/CFDA_FM_SC"
     ],
     "country": "ca",
     "languages": [
@@ -11599,8 +11530,8 @@
     "name": "Viva 105.3",
     "stream_urls": [
       "https://14223.live.streamtheworld.com:443/CHRM_FM_SC",
-      "https://19003.live.streamtheworld.com:443/CHRM_FM_SC",
-      "https://18213.live.streamtheworld.com:443/CHRM_FM_SC"
+      "https://18213.live.streamtheworld.com:443/CHRM_FM_SC",
+      "https://19003.live.streamtheworld.com:443/CHRM_FM_SC"
     ],
     "country": "ca",
     "languages": [
@@ -11611,9 +11542,9 @@
     "nanoid": "xGuMq7cF4Bplic",
     "name": "Viva 105.5",
     "stream_urls": [
+      "https://14223.live.streamtheworld.com:443/CKLD_FM_SC",
       "https://19003.live.streamtheworld.com:443/CKLD_FM_SC",
-      "https://18213.live.streamtheworld.com:443/CKLD_FM_SC",
-      "https://14223.live.streamtheworld.com:443/CKLD_FM_SC"
+      "https://18213.live.streamtheworld.com:443/CKLD_FM_SC"
     ],
     "country": "ca",
     "languages": [
@@ -11636,8 +11567,8 @@
     "name": "Viva FM",
     "stream_urls": [
       "https://19003.live.streamtheworld.com:443/CHOA_FM_SC",
-      "https://18213.live.streamtheworld.com:443/CHOA_FM_SC",
-      "https://14223.live.streamtheworld.com:443/CHOA_FM_SC"
+      "https://14223.live.streamtheworld.com:443/CHOA_FM_SC",
+      "https://18213.live.streamtheworld.com:443/CHOA_FM_SC"
     ],
     "country": "ca",
     "languages": [
