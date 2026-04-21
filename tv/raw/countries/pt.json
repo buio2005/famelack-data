@@ -232,6 +232,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "PUdpiv6E36htAt",
+    "name": "RFPtv",
+    "stream_urls": [
+      "https://video03.logicahost.com.br/rfptv/rfptv/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "por"
+    ],
+    "country": "pt",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "wviT8L1evQdgaR",
     "name": "SIC",
     "stream_urls": [
@@ -318,19 +331,6 @@
     "youtube_urls": [],
     "languages": [
       "rus"
-    ],
-    "country": "pt",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "8Zval48r5m3T99",
-    "name": "TVI",
-    "stream_urls": [
-      "https://raw.githubusercontent.com/thomraider12/canaistvpt/main/m3u8s/tvi.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "por"
     ],
     "country": "pt",
     "isGeoBlocked": false

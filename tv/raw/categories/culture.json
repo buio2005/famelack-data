@@ -131,19 +131,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "zK7yBiaKTXUpou",
-    "name": "BBC Four UK HD",
-    "stream_urls": [
-      "https://streamer.nexyl.uk/48559ccd-6400-457d-8acc-06b9e24c2ed8.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "eng"
-    ],
-    "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "bYTvtLA2rlhnbu",
     "name": "Bonaire.tv",
     "stream_urls": [
@@ -256,9 +243,7 @@
     "stream_urls": [
       "https://pemirateshls.persiana.live/hls/stream.m3u8"
     ],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/B8tBsNuS7XA"
-    ],
+    "youtube_urls": [],
     "languages": [
       "fas"
     ],
@@ -501,6 +486,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "vEu4AbFWQq3rTn",
+    "name": "El Sonorense",
+    "stream_urls": [
+      "https://s5.mexside.net:1936/elsonorense/elsonorense/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "mx",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "SLi8f8Yz14oKR0",
     "name": "ETV2",
     "stream_urls": [
@@ -708,19 +706,6 @@
       "spa"
     ],
     "country": "mx",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "pZScXgY8dAdzmZ",
-    "name": "Jaya Plus",
-    "stream_urls": [
-      "https://mumbai-edge.smartplaytv.in/JayaPLus/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "tam"
-    ],
-    "country": "in",
     "isGeoBlocked": false
   },
   {
@@ -1105,19 +1090,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "QP7DyV43LNSLl9",
-    "name": "StoryChannel TV",
-    "stream_urls": [
-      "https://136044159.r.cdnsun.net/storychannel.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "fra"
-    ],
-    "country": "ma",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "7omf3emk4fDdL8",
     "name": "STZ TV",
     "stream_urls": [
@@ -1321,6 +1293,19 @@
       "fra"
     ],
     "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "SouHlOn23CzTQS",
+    "name": "НТВ Мир",
+    "stream_urls": [
+      "https://streaming.thestream.cyou/live/213.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
     "isGeoBlocked": false
   },
   {

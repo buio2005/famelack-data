@@ -208,19 +208,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "8VadQ9bvVXyzrj",
-    "name": "Intuitiva TV",
-    "stream_urls": [
-      "https://video2.lhdserver.es/cableperu/live.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
-    "country": "pe",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "lM6iZ019g4zRqa",
     "name": "JN19",
     "stream_urls": [
@@ -260,19 +247,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "ZgK3gN33Rh7QOj",
-    "name": "Miel TV",
-    "stream_urls": [
-      "https://7.innovatestream.pe:19360/mieltv/mieltv.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
-    "country": "pe",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "UDdMtzxSFo4KG2",
     "name": "MO Channel",
     "stream_urls": [
@@ -301,6 +275,19 @@
     "name": "Nativa TV Satipo",
     "stream_urls": [
       "https://7.innovatestream.pe:19360/nativatv/nativatv.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "pe",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "EXY3gFnP4pv3FX",
+    "name": "ONDA DIGITAL",
+    "stream_urls": [
+      "https://tv.ondadigital.pe/ondadigital/index.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -418,6 +405,19 @@
     "name": "Señal Perú TV",
     "stream_urls": [
       "https://livestream.perucast.com/hls/stream.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "pe",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "NWQzBG1ASDZW7k",
+    "name": "Sol Televisión",
+    "stream_urls": [
+      "https://video03.logicahost.com.br/soltv/soltv/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -587,6 +587,19 @@
     "name": "Viva TV Yurimaguas",
     "stream_urls": [
       "https://live.obslivestream.com/vivatv/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "pe",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "sAN5lqkNeMhvi8",
+    "name": "VNP",
+    "stream_urls": [
+      "https://videoserver.tmcreativos.com:19360/visionnoticias/visionnoticias.m3u8"
     ],
     "youtube_urls": [],
     "languages": [

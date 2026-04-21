@@ -69,6 +69,7 @@
     "nanoid": "ZgdcsAoxUBnS3U",
     "name": "BTB HD",
     "stream_urls": [
+      "https://fa723fc1b171.us-west-2.playback.live-video.net/api/video/v1/us-west-2.196233775518.channel.tm5ELzwtPY6t.m3u8",
       "https://emisja.btb.j00r.us/iptv/session/1/hls.m3u8"
     ],
     "youtube_urls": [],
@@ -471,7 +472,7 @@
     "name": "Telewizja Gorzów",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/7ov-UmI_jZU"
+      "https://www.youtube-nocookie.com/embed/iW7F2Q_dCV4"
     ],
     "languages": [
       "pol"
@@ -798,6 +799,19 @@
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/HMjf450mRfk"
     ],
+    "languages": [
+      "pol"
+    ],
+    "country": "pl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "UJrA93oKFNB1K1",
+    "name": "Twoja.TV",
+    "stream_urls": [
+      "https://stream.twoja.tv/ttv_hls/live.m3u8"
+    ],
+    "youtube_urls": [],
     "languages": [
       "pol"
     ],

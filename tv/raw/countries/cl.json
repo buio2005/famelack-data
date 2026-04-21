@@ -82,7 +82,7 @@
     "name": "24 Horas",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/Nu775nv_Ppc"
+      "https://www.youtube-nocookie.com/embed/EUX_UE9fTP0"
     ],
     "languages": [
       "spa"
@@ -214,19 +214,6 @@
       "https://v2.tustreaming.cl/chilechannel/index.m3u8"
     ],
     "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
-    "country": "cl",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "fJikHBvZcviret",
-    "name": "Chilevisión",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/XnONnXIg30E"
-    ],
     "languages": [
       "spa"
     ],
@@ -420,7 +407,7 @@
     "name": "Meganoticias",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/5U4XDlaikrg"
+      "https://www.youtube-nocookie.com/embed/DUCLyfKG6yk"
     ],
     "languages": [
       "spa"
@@ -734,6 +721,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "hOfMwcYwkqMasz",
+    "name": "TV UCT",
+    "stream_urls": [
+      "https://unlimited1-us.dps.live/uct/uct.smil/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "cl",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "MiDzldTeOOzM8X",
     "name": "TVN3",
     "stream_urls": [
@@ -803,20 +803,6 @@
     "name": "UCV TV",
     "stream_urls": [
       "https://unlimited2-cl-isp.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
-    "country": "cl",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "fsG9WCXeLX2m3u",
-    "name": "Universidad Autónoma Temuco (UATV)",
-    "stream_urls": [
-      "https://unlimited1-us.dps.live/uatv/uatv.smil/playlist.m3u8",
-      "https://unlimited6-cl.dps.live/uatv/uatv.smil/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [

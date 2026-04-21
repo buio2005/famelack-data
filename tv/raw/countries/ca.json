@@ -304,19 +304,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "oj7vX3xxxcxlj0",
-    "name": "Fugget About It",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/EzbSfeEfbqA"
-    ],
-    "languages": [
-      "eng"
-    ],
-    "country": "ca",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "3PWIwG9FFIlO5Y",
     "name": "Game+",
     "stream_urls": [
@@ -694,6 +681,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "PcZvzmtUOxudPS",
+    "name": "NACTV",
+    "stream_urls": [
+      "https://stream2.pivotalelements.com/memfs/2d2e1038-9eb2-44df-a9b9-109de5752f3b_output_0.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "eng"
+    ],
+    "country": "ca",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "lw6jSScbMN0yre",
     "name": "Nature Time France",
     "stream_urls": [
@@ -854,6 +854,19 @@
     "youtube_urls": [],
     "languages": [
       "pan"
+    ],
+    "country": "ca",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "mmZjHuy87LmO4O",
+    "name": "Sooriyan TV",
+    "stream_urls": [
+      "https://live20.bozztv.com/giatv/giatv-Infinittyott/Infinittyott/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "tam"
     ],
     "country": "ca",
     "isGeoBlocked": false
@@ -1099,7 +1112,7 @@
     "name": "Super Simple: Bedtime Songs",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/zVkEM4CNR0s"
+      "https://www.youtube-nocookie.com/embed/Qcezsr2bNOE"
     ],
     "languages": [
       "eng"
@@ -1112,7 +1125,7 @@
     "name": "Super Simple: Noodle and Pals",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/2ccrN8UrrJ4"
+      "https://www.youtube-nocookie.com/embed/3OZ6hEwsVvM"
     ],
     "languages": [
       "eng"
@@ -1125,10 +1138,23 @@
     "name": "Super Simple: Simple Songs",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/ZzL8iIglO4s"
+      "https://www.youtube-nocookie.com/embed/56q9TFoxwsc"
     ],
     "languages": [
       "eng"
+    ],
+    "country": "ca",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "rX9UmgbTzSMtQs",
+    "name": "TAG TV",
+    "stream_urls": [
+      "https://cdn11.live247stream.com/tag/tv/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "hin"
     ],
     "country": "ca",
     "isGeoBlocked": false
