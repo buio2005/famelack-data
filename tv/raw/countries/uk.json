@@ -13,32 +13,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "ENzrhYlnEqyYie",
-    "name": "Afrobeats",
-    "stream_urls": [
-      "https://stream.ecable.tv/afrobeats/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "eng"
-    ],
-    "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "SCCSu7TMHcxg2h",
-    "name": "Akaal Channel",
-    "stream_urls": [
-      "https://cdn-globecast.akamaized.net/live/eds/akaal_tv/hls1_smart_akaal/akaal_tv.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "pan"
-    ],
-    "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "ziSogPvWMMpIww",
     "name": "Alhiwar TV",
     "stream_urls": [
@@ -226,6 +200,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "zK7yBiaKTXUpou",
+    "name": "BBC Four UK HD",
+    "stream_urls": [
+      "https://streamer.nexyl.uk/48559ccd-6400-457d-8acc-06b9e24c2ed8.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "eng"
+    ],
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "g1kSsRGdu6pjqO",
     "name": "BBC News",
     "stream_urls": [
@@ -277,6 +264,32 @@
     ],
     "languages": [
       "fas"
+    ],
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "0Nsqcxag0o981J",
+    "name": "BBC Three HD",
+    "stream_urls": [
+      "https://streamer.nexyl.uk/39290a19-b8dd-43ea-b8dc-081c37790f24.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "eng"
+    ],
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "EohUZfaHu9Fw27",
+    "name": "BBC Two HD",
+    "stream_urls": [
+      "https://streamer.nexyl.uk/69ef899e-8ca9-4537-9f1a-fe8b4216afbb.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "eng"
     ],
     "country": "uk",
     "isGeoBlocked": false
@@ -423,19 +436,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "vFuB4amnCAnzu2",
-    "name": "Crafter's TV",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/EcoCQAShXNs"
-    ],
-    "languages": [
-      "eng"
-    ],
-    "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "bQZCnoP3gYxqdY",
     "name": "Cruise1st TV",
     "stream_urls": [],
@@ -512,10 +512,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "b9z8Esreszehk1",
-    "name": "English Club TV",
+    "nanoid": "XRFUw5b3jxL5qh",
+    "name": "English Club TV (576i)",
     "stream_urls": [
-      "https://dash2.antik.sk/live/test_ectv_hd_1200/playlist.m3u8"
+      "https://stream8.cinerama.uz/1442/tracks-v1a1/mono.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -590,19 +590,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "y9tmDdGOMUn9pB",
-    "name": "Garshom TV",
-    "stream_urls": [
-      "https://og2qd3aal7an-hls-live.5centscdn.com/garshomtv/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "mal"
-    ],
-    "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "xAwIJiuvV7pfvX",
     "name": "GB News",
     "stream_urls": [
@@ -624,19 +611,6 @@
       "https://lo3.gemporia.com/abrgemporiaukgfx/smil:livestream.smil/playlist.m3u8"
     ],
     "youtube_urls": [],
-    "languages": [
-      "eng"
-    ],
-    "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "oS8yaG00faaZ9t",
-    "name": "Goodwood Road & Racing",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/wIMAydmfgF8"
-    ],
     "languages": [
       "eng"
     ],
@@ -909,6 +883,19 @@
     "youtube_urls": [],
     "languages": [
       "eng"
+    ],
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "rvyT3fOERpv5eO",
+    "name": "Magna Vision",
+    "stream_urls": [
+      "https://j78dpa3edq5r-hls-live.5centscdn.com/abr/0864028584026e6ad9cdf922473177a4/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "mal"
     ],
     "country": "uk",
     "isGeoBlocked": false
@@ -1344,17 +1331,6 @@
     "name": "Rakuten TV Sci-Fi UK",
     "stream_urls": [
       "https://sci-fi-rakuten-tv-uk.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6241/master.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [],
-    "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "jz4YnIQOr3KiI6",
-    "name": "Rakuten TV Thrillers UK",
-    "stream_urls": [
-      "https://thriller-rakuten-tv-uk.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6482/master.m3u8"
     ],
     "youtube_urls": [],
     "languages": [],

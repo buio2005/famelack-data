@@ -91,6 +91,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "SJOBQisik3SA5w",
+    "name": "CGTN",
+    "stream_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/BOy2xDU1LC8"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "country": "cn",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "3yeaLOItD0HtrR",
     "name": "CGTN Arabic",
     "stream_urls": [
@@ -264,6 +277,19 @@
     "name": "QTV-2",
     "stream_urls": [
       "https://video10.qtv.com.cn/drm/qtv2at/manifest.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "zho"
+    ],
+    "country": "cn",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "v5Cnt9e5fETRq9",
+    "name": "QTV-3",
+    "stream_urls": [
+      "https://video10.qtv.com.cn/drm/qtv3at/manifest.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -533,19 +559,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "0REjP55mYk4y0F",
-    "name": "小猪佩奇 中文官方 - Peppa Pig",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/kXCFQsGTazE"
-    ],
-    "languages": [
-      "zho"
-    ],
-    "country": "cn",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "9wRBNHe95BnBON",
     "name": "嵊州综合",
     "stream_urls": [
@@ -627,6 +640,17 @@
     "name": "浙江 Ⅰ 绍兴影视",
     "stream_urls": [
       "https://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [],
+    "country": "cn",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "tWjSdo4t72dhtd",
+    "name": "浙江 Ⅰ 绍兴综合",
+    "stream_urls": [
+      "https://live.shaoxing.com.cn/video/s10001-sxtv1/index.m3u8"
     ],
     "youtube_urls": [],
     "languages": [],

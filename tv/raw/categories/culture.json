@@ -131,6 +131,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "zK7yBiaKTXUpou",
+    "name": "BBC Four UK HD",
+    "stream_urls": [
+      "https://streamer.nexyl.uk/48559ccd-6400-457d-8acc-06b9e24c2ed8.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "eng"
+    ],
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "bYTvtLA2rlhnbu",
     "name": "Bonaire.tv",
     "stream_urls": [
@@ -243,7 +256,9 @@
     "stream_urls": [
       "https://pemirateshls.persiana.live/hls/stream.m3u8"
     ],
-    "youtube_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/Cq1qJLJ12RQ"
+    ],
     "languages": [
       "fas"
     ],
@@ -553,19 +568,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "y9tmDdGOMUn9pB",
-    "name": "Garshom TV",
-    "stream_urls": [
-      "https://og2qd3aal7an-hls-live.5centscdn.com/garshomtv/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "mal"
-    ],
-    "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "o8GJhpgQxXREN1",
     "name": "Geb Tv (KBPX LD5)",
     "stream_urls": [
@@ -709,6 +711,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "pZScXgY8dAdzmZ",
+    "name": "Jaya Plus",
+    "stream_urls": [
+      "https://mumbai-edge.smartplaytv.in/JayaPLus/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "tam"
+    ],
+    "country": "in",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "XZCXycjfmj9ydG",
     "name": "Jewish Life Television JLTV",
     "stream_urls": [
@@ -734,19 +749,6 @@
       "kur"
     ],
     "country": "nl",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "Bvox2CnXHOsvHp",
-    "name": "JOS TV HD",
-    "stream_urls": [
-      "https://stream.berosat.live:19360/jos-tv-stream/jos-tv-stream.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "fra"
-    ],
-    "country": "cg",
     "isGeoBlocked": false
   },
   {
@@ -1090,6 +1092,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "QP7DyV43LNSLl9",
+    "name": "StoryChannel TV",
+    "stream_urls": [
+      "https://136044159.r.cdnsun.net/storychannel.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "fra"
+    ],
+    "country": "ma",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "7omf3emk4fDdL8",
     "name": "STZ TV",
     "stream_urls": [
@@ -1272,17 +1287,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "qAUF947AFuFdtH",
-    "name": "Vĩnh Long TV5",
-    "stream_urls": [
-      "https://live.fptplay53.net/epzsd1/vinhlong5_vhls.smil/chunklist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [],
-    "country": "vn",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "glNPCf2RbwoWmt",
     "name": "zenith",
     "stream_urls": [
@@ -1296,16 +1300,16 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "SouHlOn23CzTQS",
-    "name": "НТВ Мир",
+    "nanoid": "7IG6c8BLRlAZXA",
+    "name": "Беларусь 3",
     "stream_urls": [
-      "https://streaming.thestream.cyou/live/213.m3u8"
+      "https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus3.smil/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
       "rus"
     ],
-    "country": "ru",
+    "country": "by",
     "isGeoBlocked": false
   },
   {

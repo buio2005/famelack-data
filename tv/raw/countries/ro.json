@@ -1,5 +1,18 @@
 [
   {
+    "nanoid": "aoIXV21LUXbgqK",
+    "name": "A7TV",
+    "stream_urls": [
+      "https://a7tvlive.ro/A7TV/A7TV/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "ron"
+    ],
+    "country": "ro",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "g5kkuBi9J5OPSY",
     "name": "Agro TV",
     "stream_urls": [
@@ -69,19 +82,6 @@
     "name": "Antena Monden",
     "stream_urls": [
       "https://stream1.antenaplay.ro/live/AntenaMonden/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "ron"
-    ],
-    "country": "ro",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "2UXhXxAP9FifSB",
-    "name": "Arges TV",
-    "stream_urls": [
-      "https://btutzctahuf0wjoq.cdn.streamingserver.io/hls/yjvam8hlp2g3u08z02tv0yz66rq3cy.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -306,19 +306,6 @@
       "https://stream1.antenaplay.ro/live/MediCOOLTV/chunklist.m3u8"
     ],
     "youtube_urls": [],
-    "languages": [
-      "ron"
-    ],
-    "country": "ro",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "dfvV9SkyUqJgjs",
-    "name": "MeteoTV",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/lqMWeBc6_Kg"
-    ],
     "languages": [
       "ron"
     ],

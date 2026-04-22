@@ -459,6 +459,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "dJh7EB1lQFwOCd",
+    "name": "Plous TV",
+    "stream_urls": [
+      "https://vcp.myplaytv.com/glowtv/glowtv/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "ve",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "3FPl5RIfISFiTh",
     "name": "PRIDEtv LATAM",
     "stream_urls": [
@@ -508,19 +521,6 @@
       "zho"
     ],
     "country": "cn",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "jEZKuysibqeB25",
-    "name": "Revry",
-    "stream_urls": [
-      "https://d36jpyyja698yd.cloudfront.net/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
     "isGeoBlocked": false
   },
   {
@@ -579,10 +579,10 @@
     "isGeoBlocked": true
   },
   {
-    "nanoid": "PTb3tdaVEXk3oP",
-    "name": "Открытый мир. Здоровье",
+    "nanoid": "aMcmywa1EUPmvH",
+    "name": "Доктор",
     "stream_urls": [
-      "https://v4.proofix.ru/0mir/index.m3u8"
+      "https://stream8.cinerama.uz/1409/tracks-v1a1/mono.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -592,10 +592,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "kmnCkTtdi4cLR8",
-    "name": "Сити Эдем МедЗдрав",
+    "nanoid": "PTb3tdaVEXk3oP",
+    "name": "Открытый мир. Здоровье",
     "stream_urls": [
-      "https://cityeden.catcast.tv/content/47519/index.m3u8"
+      "https://v4.proofix.ru/0mir/index.m3u8"
     ],
     "youtube_urls": [],
     "languages": [

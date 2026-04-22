@@ -104,10 +104,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "c9vagOs8X6vg6Q",
-    "name": "Guaro TV",
+    "nanoid": "gKZyGzv7VMGeI2",
+    "name": "Grande TV",
     "stream_urls": [
-      "https://streamtv.intervenhosting.net:3592/hybrid/play.m3u8"
+      "https://live20.bozztv.com/akamaissh101/ssh101/grandetv2240/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -173,6 +173,19 @@
     "name": "Más Talk",
     "stream_urls": [
       "https://vod2live.univtec.com/manifest/89290956-94ab-4950-accb-a54bbd7e176f.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "ve",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "dJh7EB1lQFwOCd",
+    "name": "Plous TV",
+    "stream_urls": [
+      "https://vcp.myplaytv.com/glowtv/glowtv/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -250,8 +263,7 @@
     "nanoid": "qRZZMGSFXehDnV",
     "name": "TAM TV",
     "stream_urls": [
-      "https://tv.webtuya.com:3726/hybrid/play.m3u8",
-      "https://tv.webtuya.com:3726/live/tammeridalive.m3u8"
+      "https://tv.webtuya.com:3726/hybrid/play.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -378,36 +390,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "b3aSHeBRmQKpi4",
-    "name": "TV Oasis Monay",
-    "stream_urls": [
-      "https://live20.bozztv.com/akamaissh101/ssh101/oasistv123/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
-    "country": "ve",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "XdOMLij5yy08uC",
     "name": "TVM para ti",
     "stream_urls": [
       "https://streamtv.intervenhosting.net:3529/live/tvmparatilive.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
-    "country": "ve",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "plr8p8zjDPs7Ks",
-    "name": "TVS",
-    "stream_urls": [
-      "https://vcp10.myplaytv.com/tvs/tvs/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [

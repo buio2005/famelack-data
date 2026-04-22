@@ -756,6 +756,20 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "kNGlVwY9GvBOjR",
+    "name": "Esport3",
+    "stream_urls": [
+      "https://directes-tv-int.3catdirectes.cat/live-content/esport3-hls/master.m3u8",
+      "https://directes-tv-int.3catdirectes.cat/live-origin/esport3-hls/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "cat"
+    ],
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "ev5jam8gTwJugh",
     "name": "Estepona Televisión",
     "stream_urls": [
@@ -1296,19 +1310,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "79RGODupZW3p8n",
-    "name": "Radio Carnaval TV",
-    "stream_urls": [
-      "https://eu1.servers10.com:8081/8116/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "OfgEoWKYhuXnuw",
     "name": "Rakuten Top Movies UK",
     "stream_urls": [
@@ -1406,6 +1407,19 @@
     "youtube_urls": [],
     "languages": [
       "fin"
+    ],
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "WZiR0UbRbq9wCY",
+    "name": "Rakuten TV Comedy Movies Germany",
+    "stream_urls": [
+      "https://ecac08c9e2214375b907d6825aaf9a01.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6182/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "deu"
     ],
     "country": "es",
     "isGeoBlocked": false
@@ -1600,6 +1614,17 @@
     "languages": [
       "fin"
     ],
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "azCmZT5s8W62Ny",
+    "name": "Rakuten TV Romance Movies Spain",
+    "stream_urls": [
+      "https://4b95c0f7aa2b4cae80f6515600154151.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6105/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [],
     "country": "es",
     "isGeoBlocked": false
   },
@@ -1884,12 +1909,12 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "CQURQvpBc9NP2U",
-    "name": "Telemadrid",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/7Vm6RmLBgVU"
+    "nanoid": "1nQKxr4bzoAoiY",
+    "name": "Telemotril",
+    "stream_urls": [
+      "https://5940924978228.streamlock.net/8431/8431/playlist.m3u8"
     ],
+    "youtube_urls": [],
     "languages": [
       "spa"
     ],
@@ -2007,19 +2032,6 @@
     "youtube_urls": [],
     "languages": [
       "spa"
-    ],
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "CEffbKfHtzuCb7",
-    "name": "TV Sabadell-Vallès",
-    "stream_urls": [
-      "https://ingest1-video.streaming-pro.com/canaltaronja/sabadell/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "cat"
     ],
     "country": "es",
     "isGeoBlocked": false

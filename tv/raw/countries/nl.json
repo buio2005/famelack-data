@@ -827,6 +827,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "bzhuoIIHDSQpOH",
+    "name": "Rotterdam Podium TV",
+    "stream_urls": [
+      "https://ms10.mx-cd.net/tv/141-573565/Podium_Rotterdam.smil/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [],
+    "country": "nl",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "wypSVAbA0JFPBr",
     "name": "RPL TV Woerden",
     "stream_urls": [
@@ -1001,6 +1012,19 @@
     "name": "RTV Rijnmond Extra",
     "stream_urls": [
       "https://dcur8bjarl5c2.cloudfront.net/live/rijnmond/tv-extra/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "nld"
+    ],
+    "country": "nl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Ua4a0OdjOruHxv",
+    "name": "RTV Rijnstreek TV",
+    "stream_urls": [
+      "https://ms7.mx-cd.net/tv/290-3222276/RTV_Rijnstreek.smil/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [

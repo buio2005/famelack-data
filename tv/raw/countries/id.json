@@ -273,6 +273,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "QsUhnT0pi51wcj",
+    "name": "Duta TV",
+    "stream_urls": [
+      "https://dutatv.siar.us/dutatv/live/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "ind"
+    ],
+    "country": "id",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "Eg0R1qmDu85lEs",
     "name": "Efarina TV",
     "stream_urls": [
@@ -329,6 +342,19 @@
     "name": "Huma Betang TV",
     "stream_urls": [
       "https://v3.siar.us/humabetangtv/live/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "ind"
+    ],
+    "country": "id",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Hae4Rh59QFhZLW",
+    "name": "I Am Channel",
+    "stream_urls": [
+      "https://61146e7ab7a66.streamlock.net:8089/tes/1/chunklist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -433,19 +459,6 @@
     "name": "KTV",
     "stream_urls": [
       "https://flv.intechmedia.net/live/ch118.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "ind"
-    ],
-    "country": "id",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "0KL7HXYYAtsJlk",
-    "name": "Lingkar TV",
-    "stream_urls": [
-      "https://lingkartv.my.id/hls/lingkartv.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -665,6 +678,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "GyYMyUUtPptNeI",
+    "name": "Rinjani TV",
+    "stream_urls": [
+      "https://rinjanitv.cloud/hls/tvkabel.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "ind"
+    ],
+    "country": "id",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "FbrCzMwlpQjYEF",
     "name": "Rodja TV",
     "stream_urls": [
@@ -737,32 +763,6 @@
       "https://sampit-tv.siar.us/live/sampit-tv.m3u8"
     ],
     "youtube_urls": [],
-    "languages": [
-      "ind"
-    ],
-    "country": "id",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "2XkFMpRoLYu9Ma",
-    "name": "Selaparang TV",
-    "stream_urls": [
-      "https://selaparangtv.siar.us/live/selaparangtv.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "ind"
-    ],
-    "country": "id",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "eQt3qfpQWLo9FO",
-    "name": "Serambinews",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/NQ4OKGtREOo"
-    ],
     "languages": [
       "ind"
     ],
@@ -1112,6 +1112,19 @@
     "name": "TVRI Jawa Timur",
     "stream_urls": [
       "https://ott-balancer.tvri.go.id/live/eds/Jatim/hls/Jatim.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "ind"
+    ],
+    "country": "id",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "mdPE8daQzbZFSj",
+    "name": "TVRI Kalimantan Barat",
+    "stream_urls": [
+      "https://ott-balancer.tvri.go.id/live/eds/Kalbar/hls/Kalbar.m3u8"
     ],
     "youtube_urls": [],
     "languages": [

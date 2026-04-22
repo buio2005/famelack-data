@@ -169,6 +169,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "mbc3tMycOFDjGt",
+    "name": "Canal 2 de Ushuaia",
+    "stream_urls": [
+      "https://nd106.republicaservers.com:4433/hls/c6611/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "ar",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "dP9dVYSF14RSuM",
     "name": "Canal 2 Misiones",
     "stream_urls": [
@@ -711,7 +724,7 @@
     "name": "El Observador 107.9",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/OEyi8eJo5e0"
+      "https://www.youtube-nocookie.com/embed/5J1ThUhFRd0"
     ],
     "languages": [
       "spa"
@@ -778,19 +791,6 @@
       "https://livetrx01.vodgc.net/eltrecetv/index.m3u8"
     ],
     "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
-    "country": "ar",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "rvSLmYJvnwZ691",
-    "name": "El Tres TV",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/_SwDNU-rEu0"
-    ],
     "languages": [
       "spa"
     ],
@@ -885,6 +885,17 @@
     "languages": [
       "spa"
     ],
+    "country": "ar",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "nxOuJBvN9WDNwl",
+    "name": "Milennio TV",
+    "stream_urls": [
+      "https://videostream.shockmedia.com.ar:19360/milenniotv/milenniotv.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [],
     "country": "ar",
     "isGeoBlocked": false
   },
@@ -1020,19 +1031,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "m0PY7A5wSbXayY",
-    "name": "Radio Yguazú TV",
-    "stream_urls": [
-      "https://live.enhdtv.com:8081/radioiguazutv/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
-    "country": "ar",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "Wqadc2o7wMWvHG",
     "name": "RTN (Neuquén)",
     "stream_urls": [
@@ -1128,6 +1126,19 @@
     "name": "Telemax",
     "stream_urls": [
       "https://stream-gtlc.telecentro.net.ar/hls/telemaxhls/main.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "ar",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "5dobEuPzzWq3sH",
+    "name": "Telenord Corrientes",
+    "stream_urls": [
+      "https://617c5175c970b.streamlock.net:4444/previsoratv/live/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -1233,7 +1244,7 @@
     "name": "Urbana Play 104.3 FM",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/RfWKkRA7gQk"
+      "https://www.youtube-nocookie.com/embed/S97CbtNBE-w"
     ],
     "languages": [
       "spa"
