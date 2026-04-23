@@ -1216,7 +1216,8 @@
     "nanoid": "Vq8mDnKI72KTqe",
     "name": "NickOnline Spongebob",
     "stream_urls": [
-      "https://x1co.com.br:2083/hls/stream.m3u8"
+      "https://lowa8026-cmyk.github.io/Brazil/NickOnlineSpongebob.m3u8",
+      "https://pc.x1co.com.br/hls/stream.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -1382,19 +1383,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "2SkwDt1DzEdQq9",
-    "name": "Peppa Pig Brasil",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/iKDCzN3aUr8"
-    ],
-    "languages": [
-      "por"
-    ],
-    "country": "br",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "EXvskphL1UFUHC",
     "name": "Persiana Junior",
     "stream_urls": [
@@ -1457,6 +1445,19 @@
       "jpn"
     ],
     "country": "jp",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "LaJUiyDd3qErb2",
+    "name": "Pororo 뽀로로",
+    "stream_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/ArZ1iH2z4II"
+    ],
+    "languages": [
+      "kor"
+    ],
+    "country": "kr",
     "isGeoBlocked": false
   },
   {
@@ -1607,7 +1608,7 @@
     "name": "Sunny Bunnies",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/tYJ-T8awNLg"
+      "https://www.youtube-nocookie.com/embed/-jLSGC4lXmo"
     ],
     "languages": [
       "eng"
@@ -1789,6 +1790,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "KUTGOu9eHmEeCI",
+    "name": "TRT Çocuk",
+    "stream_urls": [
+      "https://tv-trtcocuk.medya.trt.com.tr/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "tur"
+    ],
+    "country": "tr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "A3RiBctXfom21P",
     "name": "TRT Diyanet Çocuk",
     "stream_urls": [
@@ -1880,6 +1894,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "6i2Exc39Jo7dz5",
+    "name": "WildBrain Çocuklar: Çilekli Kurabiye",
+    "stream_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/xm-f_rvTL24"
+    ],
+    "languages": [
+      "tur"
+    ],
+    "country": "tr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "G5NY2Fs2RexhNk",
     "name": "WildBrain Çocuklar: Twirlywoos",
     "stream_urls": [],
@@ -1949,7 +1976,7 @@
     "name": "WildBrain: Teletubbies",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/b-Uzrf_sygM"
+      "https://www.youtube-nocookie.com/embed/-nf-hoFRkEo"
     ],
     "languages": [
       "eng"
@@ -1968,19 +1995,6 @@
       "spa"
     ],
     "country": "ar",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "5tnyJyKLhuRZfm",
-    "name": "ZB Cartoon",
-    "stream_urls": [
-      "https://server.zillarbarta.com/zbcatun/video.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "ben"
-    ],
-    "country": "in",
     "isGeoBlocked": false
   },
   {
@@ -2126,6 +2140,19 @@
       "bak"
     ],
     "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "0REjP55mYk4y0F",
+    "name": "小猪佩奇 中文官方 - Peppa Pig",
+    "stream_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/W7mJwi4l8lY"
+    ],
+    "languages": [
+      "zho"
+    ],
+    "country": "cn",
     "isGeoBlocked": false
   }
 ]

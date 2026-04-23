@@ -65,6 +65,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "ml8W50urKeRzrc",
+    "name": "BHTV",
+    "stream_urls": [
+      "https://sc1.wasidata.com/Bhtv/index.fmp4.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "pe",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "NcbX3D5e7HA0Yx",
     "name": "Cadena TV",
     "stream_urls": [
@@ -297,19 +310,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "EXY3gFnP4pv3FX",
-    "name": "ONDA DIGITAL",
-    "stream_urls": [
-      "https://tv.ondadigital.pe/ondadigital/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
-    "country": "pe",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "GS1iJoWQ7ta8Q1",
     "name": "Ovación TV",
     "stream_urls": [
@@ -444,6 +444,19 @@
     "name": "Telecolor Yurimaguas",
     "stream_urls": [
       "https://live.obslivestream.com/telecolormux/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "pe",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "wmJ1QxQIvPF4LM",
+    "name": "Teleselva",
+    "stream_urls": [
+      "https://7.innovatestream.pe:19360/tvnoticiassatipo/tvnoticiassatipo.m3u8"
     ],
     "youtube_urls": [],
     "languages": [

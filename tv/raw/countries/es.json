@@ -26,19 +26,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "MsBPAtiznwuBpL",
-    "name": "3Cat Plats bruts",
-    "stream_urls": [
-      "https://fast-tailor.3catdirectes.cat/v1/channel/ccma-channel2/hls.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "cat"
-    ],
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "SbKSg1Uc6JQCXF",
     "name": "3CatInfo",
     "stream_urls": [
@@ -717,19 +704,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "IgIhtSlDnhWcsL",
-    "name": "El Futuro En tu Mano",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/eBfbrwuVvPo"
-    ],
-    "languages": [
-      "spa"
-    ],
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "hH4CoV8wpIpgVv",
     "name": "El Toro TV",
     "stream_urls": [
@@ -747,20 +721,6 @@
     "name": "Empordà TV",
     "stream_urls": [
       "https://video3.lhdserver.es/empordatv2/live.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "cat"
-    ],
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "kNGlVwY9GvBOjR",
-    "name": "Esport3",
-    "stream_urls": [
-      "https://directes-tv-int.3catdirectes.cat/live-content/esport3-hls/master.m3u8",
-      "https://directes-tv-int.3catdirectes.cat/live-origin/esport3-hls/master.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -1219,6 +1179,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "jtokavrUrj69rD",
+    "name": "Parlamento de Navarra",
+    "stream_urls": [
+      "https://broadcasting.parlamentodenavarra.es/live/canal1/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "spa"
+    ],
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "r4O5xUGbFguCQr",
     "name": "Pequeradio",
     "stream_urls": [
@@ -1240,19 +1213,6 @@
     "youtube_urls": [],
     "languages": [
       "spa"
-    ],
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "MBXc78WctcBqtJ",
-    "name": "POP World TV",
-    "stream_urls": [
-      "https://janus.xpbroadcasting.com:8443/hls/popworld.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "eng"
     ],
     "country": "es",
     "isGeoBlocked": false
@@ -1909,12 +1869,12 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "1nQKxr4bzoAoiY",
-    "name": "Telemotril",
-    "stream_urls": [
-      "https://5940924978228.streamlock.net/8431/8431/playlist.m3u8"
+    "nanoid": "CQURQvpBc9NP2U",
+    "name": "Telemadrid",
+    "stream_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/gpzmtVx3VgA"
     ],
-    "youtube_urls": [],
     "languages": [
       "spa"
     ],
@@ -2032,6 +1992,19 @@
     "youtube_urls": [],
     "languages": [
       "spa"
+    ],
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "CEffbKfHtzuCb7",
+    "name": "TV Sabadell-Vallès",
+    "stream_urls": [
+      "https://ingest1-video.streaming-pro.com/canaltaronja/sabadell/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "cat"
     ],
     "country": "es",
     "isGeoBlocked": false

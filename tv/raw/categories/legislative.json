@@ -601,29 +601,16 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "fA9TEJ4ZsGIi2e",
-    "name": "HTV 1 Houston Television",
+    "nanoid": "tsY7Oi70RUlWEA",
+    "name": "ICRTV Colima",
     "stream_urls": [
-      "https://stream.swagit.com/live-edge/houstontx/smil:hd-16x9-2-a/playlist.m3u8"
+      "https://5fc584f3f19c9.streamlock.net/icrtvcolima/smil:icrtvcolima.smil/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
-      "eng"
+      "spa"
     ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "l0iAfvu6mSVdXN",
-    "name": "HTV 2 Houston Television",
-    "stream_urls": [
-      "https://stream.swagit.com/live-edge/houstontx/smil:hd-16x9-2-b/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
+    "country": "mx",
     "isGeoBlocked": false
   },
   {
@@ -784,19 +771,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "c9GCwVR0qdOyVK",
-    "name": "MBG TV",
-    "stream_urls": [
-      "https://stream.convergen.co/mbg_stream/smil:mbStream.smil/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "ind"
-    ],
-    "country": "id",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "BT8ZDrR6sexjCY",
     "name": "Miami Beach Tv (MBTV) (Miami Beach FL)",
     "stream_urls": [
@@ -954,16 +928,16 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "iPhkcC76kYpp0C",
-    "name": "Palm Beach County TV Channel 20 (Palm Beach County FL)",
+    "nanoid": "jtokavrUrj69rD",
+    "name": "Parlamento de Navarra",
     "stream_urls": [
-      "https://pbcvideostreams1.pbc.gov/memfs/1af49f9a-6b90-4ec2-a640-7f65ceebed4a.m3u8"
+      "https://broadcasting.parlamentodenavarra.es/live/canal1/master.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
-      "eng"
+      "spa"
     ],
-    "country": "us",
+    "country": "es",
     "isGeoBlocked": false
   },
   {
@@ -1075,25 +1049,12 @@
     "name": "Rio TV Câmara",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/Iwgw6Y6N1ok"
+      "https://www.youtube-nocookie.com/embed/7dnxmboIfzg"
     ],
     "languages": [
       "por"
     ],
     "country": "br",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "rq2drD41O4s9tZ",
-    "name": "Sangsad TV",
-    "stream_urls": [
-      "https://bozztv.com/rongo/rongo-SangsadTV/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "ben"
-    ],
-    "country": "bd",
     "isGeoBlocked": false
   },
   {
@@ -1247,7 +1208,7 @@
     "name": "TV Assembleia Minas Gerais",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/GjNGDF5i8Gc"
+      "https://www.youtube-nocookie.com/embed/-OzOLASxEpY"
     ],
     "languages": [
       "por"

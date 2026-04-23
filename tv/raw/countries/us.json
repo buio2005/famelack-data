@@ -624,7 +624,7 @@
     "name": "ABC News",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/mzZ9AMDZhTw"
+      "https://www.youtube-nocookie.com/embed/P49mKO-tTNk"
     ],
     "languages": [
       "eng"
@@ -1971,7 +1971,8 @@
     "nanoid": "BKprRPWc9ugskl",
     "name": "Backstage",
     "stream_urls": [
-      "https://d2ah48mnofquik.cloudfront.net/Backstage.m3u8"
+      "https://d2ah48mnofquik.cloudfront.net/Backstage.m3u8",
+      "https://fuse-backstage-xumo.amagi.tv/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -3367,7 +3368,7 @@
     "name": "CBS News",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/k_34r_x5Jc0"
+      "https://www.youtube-nocookie.com/embed/u61NNtOMgH8"
     ],
     "languages": [
       "eng"
@@ -3615,7 +3616,7 @@
       "https://pemirateshls.persiana.live/hls/stream.m3u8"
     ],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/Cq1qJLJ12RQ"
+      "https://www.youtube-nocookie.com/embed/P3XnCevUT7Y"
     ],
     "languages": [
       "fas"
@@ -3793,6 +3794,7 @@
     "stream_urls": [
       "https://amg00432-circletvfast-amg00432c1-cineverse-us-1112.playouts.now.amagi.tv/playlist/amg00432-circletv-circletv-cineverseus/playlist.m3u8",
       "https://circle-klowdtv.amagi.tv/playlist.m3u8",
+      "https://circle-roku.amagi.tv/playlist.m3u8",
       "https://circle-samsung.amagi.tv/playlist.m3u8",
       "https://circle-xumo.amagi.tv/playlist.m3u8"
     ],
@@ -3961,7 +3963,6 @@
     "nanoid": "IKGLMXNjS6qTZj",
     "name": "CMC (California Music Channel)",
     "stream_urls": [
-      "https://cmc-cmctv-cineverse.amagi.tv/playlist.m3u8",
       "https://cmc-ono.amagi.tv/hls/amagi_hls_data_cmcAAAAAA-cmc-ono/CDN/playlist.m3u8",
       "https://hwlive.streamingmediahosting.com/14215-live/0_obd393sh/playlist.m3u8"
     ],
@@ -4086,6 +4087,19 @@
     ],
     "languages": [
       "eng"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "dS38RFG3Xj3JOv",
+    "name": "CONtv: Yu-Gi-Oh! (Deutsch)",
+    "stream_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/CrpmcMUf4vs"
+    ],
+    "languages": [
+      "deu"
     ],
     "country": "us",
     "isGeoBlocked": false
@@ -4230,6 +4244,7 @@
     "nanoid": "506BAi9ddP3YAU",
     "name": "CraftsyTV",
     "stream_urls": [
+      "https://d2lgb18e46c3by.cloudfront.net/playlist.m3u8",
       "https://linear-492.frequency.stream/dist/xumo/492/hls/master/playlist.m3u8"
     ],
     "youtube_urls": [],
@@ -5485,6 +5500,7 @@
     "name": "EstrellaTV",
     "stream_urls": [
       "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00567-estrellamedia-estrellatv-distrotv/playlist.m3u8",
+      "https://estrellatv-glewed.amagi.tv/playlist.m3u8",
       "https://estrellatv-plex.amagi.tv/playlist.m3u8",
       "https://estrellatv-roku.amagi.tv/playlist.m3u8",
       "https://d1accqs1infy2u.cloudfront.net/EstrellaTV.m3u8",
@@ -5895,7 +5911,7 @@
     "name": "Food Network",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/rxP-9vgI5BE"
+      "https://www.youtube-nocookie.com/embed/OxMKc11PRpQ"
     ],
     "languages": [
       "eng"
@@ -6234,7 +6250,7 @@
     "name": "Friends of Felines Rescue Center",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/NbHi930VbN8"
+      "https://www.youtube-nocookie.com/embed/NQrmlwqsxP4"
     ],
     "languages": [
       "eng"
@@ -7073,32 +7089,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "fA9TEJ4ZsGIi2e",
-    "name": "HTV 1 Houston Television",
-    "stream_urls": [
-      "https://stream.swagit.com/live-edge/houstontx/smil:hd-16x9-2-a/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "l0iAfvu6mSVdXN",
-    "name": "HTV 2 Houston Television",
-    "stream_urls": [
-      "https://stream.swagit.com/live-edge/houstontx/smil:hd-16x9-2-b/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "qy6bcbSL050Vab",
     "name": "Humor Mill",
     "stream_urls": [
@@ -7107,19 +7097,6 @@
     "youtube_urls": [],
     "languages": [
       "eng"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "HJyy0A6HEHW1y5",
-    "name": "Humraaz TV",
-    "stream_urls": [
-      "https://cdn61.liveonlineservices.com/hls/humraaz.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "urd"
     ],
     "country": "us",
     "isGeoBlocked": false
@@ -7248,8 +7225,7 @@
     "nanoid": "GgRGCAWKuULSOc",
     "name": "InfoWars Network",
     "stream_urls": [
-      "https://freespeech.akamaized.net/hls/live/2016712/live1/playlist.m3u8",
-      "https://a-cdn.klowdtv.com/live2/infowars_720p/playlist.m3u8"
+      "https://freespeech.akamaized.net/hls/live/2016712/live1/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -7821,6 +7797,19 @@
       "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg02104-imagicommcommun-kokibreaking-ono/playlist.m3u8"
     ],
     "youtube_urls": [],
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "EGNrGUDtkRGPq0",
+    "name": "KOMO News",
+    "stream_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/uzLnZ26YB00"
+    ],
     "languages": [
       "eng"
     ],
@@ -10036,7 +10025,7 @@
       "https://xumo-drct-nbcnn-ir8ze.fast.nbcuni.com/live/master.m3u8"
     ],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/efhIM2-8vmo"
+      "https://www.youtube-nocookie.com/embed/Y-CS1C2r8Ck"
     ],
     "languages": [
       "eng"
@@ -10194,32 +10183,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "yJ6qb835TTUKh1",
-    "name": "News12 Bronx",
-    "stream_urls": [
-      "https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12XH_A1/index_new.m3u8?omap=https"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
-    "isGeoBlocked": true
-  },
-  {
-    "nanoid": "EmHOTWEORpvSsZ",
-    "name": "News12 Brooklyn",
-    "stream_urls": [
-      "https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12KH_A1/index_new.m3u8?omap=https"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
-    "isGeoBlocked": true
-  },
-  {
     "nanoid": "EtiKHivASIxm20",
     "name": "News12 Conneticut",
     "stream_urls": [
@@ -10263,19 +10226,6 @@
     "name": "News12 New Jersey",
     "stream_urls": [
       "https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12JH_CENT_A1/index_new.m3u8?omap=https"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
-    "isGeoBlocked": true
-  },
-  {
-    "nanoid": "q8agflF5shjdE5",
-    "name": "News12 Westchester",
-    "stream_urls": [
-      "https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12WH_A1/index_new.m3u8?omap=https"
     ],
     "youtube_urls": [],
     "languages": [
@@ -10592,6 +10542,7 @@
     "nanoid": "NiTjGp1PXehjKc",
     "name": "OAN",
     "stream_urls": [
+      "https://oneamericanews-roku-us.amagi.tv/playlist.m3u8",
       "https://a-cdn.klowdtv.com/live1/oan_720p/playlist.m3u8"
     ],
     "youtube_urls": [],
@@ -10618,7 +10569,6 @@
     "nanoid": "g3GWl6JjVcCHL8",
     "name": "OANPlus",
     "stream_urls": [
-      "https://oan-plus-tcl.amagi.tv/playlist.m3u8",
       "https://a-cdn.klowdtv.com/live1/oane/playlist.m3u8"
     ],
     "youtube_urls": [],
@@ -10916,19 +10866,6 @@
     "name": "Pacific Island Network",
     "stream_urls": [
       "https://cdn.vegasplus.us/vegas/mpin/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "iPhkcC76kYpp0C",
-    "name": "Palm Beach County TV Channel 20 (Palm Beach County FL)",
-    "stream_urls": [
-      "https://pbcvideostreams1.pbc.gov/memfs/1af49f9a-6b90-4ec2-a640-7f65ceebed4a.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -13170,7 +13107,7 @@
     "name": "Sunny Bunnies",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/tYJ-T8awNLg"
+      "https://www.youtube-nocookie.com/embed/-jLSGC4lXmo"
     ],
     "languages": [
       "eng"
@@ -13503,6 +13440,19 @@
     "stream_urls": [
       "https://watch.haitilive.net/app/2020/telepam/index.fmp4.m3u8",
       "https://watch.haitilive.net/gethb/telepam/index.fmp4.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "fra"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "1E8L6wvxfbR06G",
+    "name": "TeleMIX",
+    "stream_urls": [
+      "https://haititivi.com/haiti/telemix1/index.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -14059,7 +14009,7 @@
     "name": "The Why Files - Backstage",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/DT0aJIAGBnA"
+      "https://www.youtube-nocookie.com/embed/jRTm510g60o"
     ],
     "languages": [
       "eng"
@@ -15265,9 +15215,7 @@
       "https://amg00457-amg00457c1-stirr-us-8143.playouts.now.amagi.tv/playlist.m3u8",
       "https://usatodaynews-xumo.amagi.tv/playlist.m3u8"
     ],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/BsmnuTeJ-DY"
-    ],
+    "youtube_urls": [],
     "languages": [
       "eng"
     ],
@@ -16428,19 +16376,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "PM6gvoKgoWCd78",
-    "name": "Wired2Fish",
-    "stream_urls": [
-      "https://wire2fish-klowdtv.amagi.tv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "eng"
-    ],
-    "country": "us",
-    "isGeoBlocked": true
-  },
-  {
     "nanoid": "NacuGC4x2jLbAS",
     "name": "WITI-DT1",
     "stream_urls": [
@@ -17196,6 +17131,7 @@
     "stream_urls": [
       "https://amg00143-younghollywoodfast-amg00143c1-cineverse-us-946.playouts.now.amagi.tv/playlist/amg00143-younghollywoodfast-younghollywood-cineverseus/playlist.m3u8",
       "https://younghollywood-rakuten-samsung.amagi.tv/playlist.m3u8",
+      "https://younghollywood-tcl.amagi.tv/playlist.m3u8",
       "https://younghollywood-vizio.amagi.tv/playlist.m3u8"
     ],
     "youtube_urls": [],

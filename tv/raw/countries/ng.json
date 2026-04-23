@@ -236,19 +236,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "HUxeirBEJ9XVlF",
-    "name": "News Central",
-    "stream_urls": [
-      "https://wf.newscentral.ng:8443/hls/stream.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "eng"
-    ],
-    "country": "ng",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "DGyLo10RdXeXNy",
     "name": "News Central TV",
     "stream_urls": [],
@@ -353,19 +340,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "mQsEQa26uw8XEM",
-    "name": "TrustTV News",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/QEvxF3FeCVs"
-    ],
-    "languages": [
-      "eng"
-    ],
-    "country": "ng",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "sbDH8jcQOtprOU",
     "name": "TVC",
     "stream_urls": [
@@ -398,6 +372,19 @@
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/b-Yzp0l8cAM"
     ],
+    "languages": [
+      "eng"
+    ],
+    "country": "ng",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "xqNDe2nURDi4zM",
+    "name": "Wazobia Max TV Abuja",
+    "stream_urls": [
+      "https://wazobia.live:8333/channel/wmaxabuja.m3u8"
+    ],
+    "youtube_urls": [],
     "languages": [
       "eng"
     ],

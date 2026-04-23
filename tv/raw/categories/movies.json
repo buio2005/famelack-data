@@ -1,18 +1,5 @@
 [
   {
-    "nanoid": "WDozmZBk0hABKQ",
-    "name": "&TV International",
-    "stream_urls": [
-      "https://amg01117-amg01117c1-amgplt0029.playout.now3.amagi.tv/playlist/amg01117-amg01117c1-amgplt0029/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "hin"
-    ],
-    "country": "in",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "lcQDr83GGlzSBu",
     "name": "24 Hour Free Movies",
     "stream_urls": [
@@ -110,6 +97,19 @@
     "name": "alpha Cinema",
     "stream_urls": [
       "https://live.15plusmg.ru/memfs/b389173a-df4e-4171-8904-e249893e71eb.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "zDrvFUZTP4zt2k",
+    "name": "alpha Moretime",
+    "stream_urls": [
+      "https://live.15plusmg.ru/memfs/3546fc09-2eba-459d-9a1f-9a2fc39e50bd.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -912,19 +912,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "fG091FxoA2NCwZ",
-    "name": "MCI Televisión",
-    "stream_urls": [
-      "https://video.ejeserver.com/live/mcitelevision.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
-    "country": "co",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "CH0OBldtzqtjEK",
     "name": "Mega Cine TV",
     "stream_urls": [
@@ -1054,6 +1041,19 @@
       "eng"
     ],
     "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "hNQTzHtY43GPXe",
+    "name": "MyTime Movie Network",
+    "stream_urls": [
+      "https://appletree-mytimeuk-rakuten.amagi.tv/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "eng"
+    ],
+    "country": "uk",
     "isGeoBlocked": false
   },
   {
@@ -1239,19 +1239,6 @@
       "kan"
     ],
     "country": "in",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "v5Cnt9e5fETRq9",
-    "name": "QTV-3",
-    "stream_urls": [
-      "https://video10.qtv.com.cn/drm/qtv3at/manifest.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "zho"
-    ],
-    "country": "cn",
     "isGeoBlocked": false
   },
   {
@@ -1749,6 +1736,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "9XCIxSDz7ScIo3",
+    "name": "Suriyan TV",
+    "stream_urls": [
+      "https://stream.sscloud7.com/live/suriyantv/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "tam"
+    ],
+    "country": "in",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "XuWfe4a08uRwNd",
     "name": "T2 Movies",
     "stream_urls": [
@@ -1772,19 +1772,6 @@
       "hin"
     ],
     "country": "in",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "q642f1lR53cD10",
-    "name": "TVCARiB Cinema",
-    "stream_urls": [
-      "https://cdn.mycloudstream.io/hls/live/broadcast/l3vslw4i/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "nld"
-    ],
-    "country": "sx",
     "isGeoBlocked": false
   },
   {
@@ -1932,6 +1919,32 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "GXyfpkGN0MGlca",
+    "name": "Дом Кино",
+    "stream_urls": [
+      "https://streaming.thestream.cyou/live/44.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "lQnAhlrKiieUTC",
+    "name": "Кино 1 International",
+    "stream_urls": [
+      "https://kino-1.catcast.tv/content/38617/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "15VRBndlazTkgP",
     "name": "КИНО ТВ",
     "stream_urls": [
@@ -1962,6 +1975,71 @@
     "name": "Патриот (576i)",
     "stream_urls": [
       "https://catchup.videoline.ru/asvtv/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Jqp4ZHvmJjGFio",
+    "name": "Сити Эдем КиноДрама",
+    "stream_urls": [
+      "https://cityeden.catcast.tv/content/45269/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "3bwrLU3me5VJ37",
+    "name": "Сити Эдем КиноКлассика",
+    "stream_urls": [
+      "https://cityeden.catcast.tv/content/34185/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "LN1hGmRGEKcWz7",
+    "name": "Сити Эдем КиноКомедия",
+    "stream_urls": [
+      "https://cityeden.catcast.tv/content/41331/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "6NRgQX5F3uvhNk",
+    "name": "Сити Эдем КиноМистика",
+    "stream_urls": [
+      "https://cityeden.catcast.tv/content/40783/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "ID6NJjfwQAnwkN",
+    "name": "Сити Эдем КиноЭкшен",
+    "stream_urls": [
+      "https://cityeden.catcast.tv/content/41333/index.m3u8"
     ],
     "youtube_urls": [],
     "languages": [

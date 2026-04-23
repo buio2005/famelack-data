@@ -26,19 +26,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "H0fTRstAnfWOk3",
-    "name": "Avers",
-    "stream_urls": [
-      "https://avers.pp.ua/hls/efir.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "ukr"
-    ],
-    "country": "ua",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "OTZ19e4QL89Emf",
     "name": "Espreso",
     "stream_urls": [],
@@ -86,6 +73,19 @@
     ],
     "languages": [
       "rus"
+    ],
+    "country": "ua",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "2ijBxrnqlhILuI",
+    "name": "ITV",
+    "stream_urls": [
+      "https://cdn10.live-tv.cloud/itvrv/abr-lq/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "ukr"
     ],
     "country": "ua",
     "isGeoBlocked": false
@@ -143,6 +143,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "t4HZl9R8oxsSaq",
+    "name": "TV Rivne 1",
+    "stream_urls": [
+      "https://cdn1.live-tv.cloud/rivne1/rivne1-abr/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "ukr"
+    ],
+    "country": "ua",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "TSbUr1OhqLkxuT",
     "name": "TVA",
     "stream_urls": [
@@ -180,19 +193,6 @@
     "youtube_urls": [],
     "languages": [
       "ukr"
-    ],
-    "country": "ua",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "8guglX3waEEweH",
-    "name": "Луганск 24",
-    "stream_urls": [
-      "https://streaming.televizor-24-tochka.ru/live/29.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "rus"
     ],
     "country": "ua",
     "isGeoBlocked": false
@@ -267,7 +267,7 @@
     "name": "Телеканал Конкурент TV",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/KKS3Sw1rxeQ"
+      "https://www.youtube-nocookie.com/embed/ajUAECykgJ8"
     ],
     "languages": [
       "ukr"
@@ -321,19 +321,6 @@
       "https://tuso.cdn-01.cosmonova.net.ua/hls/tuso_ua.m3u8"
     ],
     "youtube_urls": [],
-    "languages": [
-      "ukr"
-    ],
-    "country": "ua",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "I6nxwpbCBqRLYc",
-    "name": "ЦЕНТР",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/FlqTZKF3z98"
-    ],
     "languages": [
       "ukr"
     ],

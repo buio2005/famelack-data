@@ -185,9 +185,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "CpNNMuCGpglDQA",
+    "nanoid": "UBjqGDOceqJLt2",
     "name": "ATV",
-    "stream_urls": [],
+    "stream_urls": [
+      "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_360p.m3u8"
+    ],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/56g7DPSZjow"
     ],
@@ -359,7 +361,9 @@
     "stream_urls": [
       "https://live.artidijitalmedya.com/artidijital_ciftcitv/ciftcitv/playlist.m3u8"
     ],
-    "youtube_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/6snZ0b6b9ec"
+    ],
     "languages": [
       "tur"
     ],
@@ -685,19 +689,6 @@
     "name": "GEM Film",
     "stream_urls": [
       "https://ca-rt.onetv.app/gemfilm/index-0.m3u8?token=onetv202"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "fas"
-    ],
-    "country": "tr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "kM3B5XM0dLyl7Z",
-    "name": "GEM Fit",
-    "stream_urls": [
-      "https://ca-rt.onetv.app/gemfit/index-0.m3u8?token=onetv202"
     ],
     "youtube_urls": [],
     "languages": [
@@ -1298,11 +1289,24 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "QQopjrBuObsS3K",
+    "name": "Lalegul TV",
+    "stream_urls": [
+      "https://lbl.netmedya.net/hls/lalegultv.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "tur"
+    ],
+    "country": "tr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "oYLz4JWGWtAe6e",
     "name": "Lider Haber",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/XzlxtpPB2dk"
+      "https://www.youtube-nocookie.com/embed/KR7PCO40GW4"
     ],
     "languages": [
       "tur"
@@ -1785,6 +1789,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "KUTGOu9eHmEeCI",
+    "name": "TRT Çocuk",
+    "stream_urls": [
+      "https://tv-trtcocuk.medya.trt.com.tr/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "tur"
+    ],
+    "country": "tr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "A3RiBctXfom21P",
     "name": "TRT Diyanet Çocuk",
     "stream_urls": [
@@ -2045,6 +2062,19 @@
     ],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/cTOiQDPmuUY"
+    ],
+    "languages": [
+      "tur"
+    ],
+    "country": "tr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "6i2Exc39Jo7dz5",
+    "name": "WildBrain Çocuklar: Çilekli Kurabiye",
+    "stream_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/xm-f_rvTL24"
     ],
     "languages": [
       "tur"

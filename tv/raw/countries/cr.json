@@ -55,7 +55,9 @@
     "nanoid": "1LD9fRGKwL67SK",
     "name": "BestClasicosTV",
     "stream_urls": [
-      "https://acceso.mediosdecostarica.com:3873/hybrid/play.m3u8"
+      "https://acceso.mediosdecostarica.com:3873/multi_live/play.m3u8",
+      "https://acceso.mediosdecostarica.com:3873/hybrid/play.m3u8",
+      "https://acceso.mediosdecostarica.com:3873/live/bestclasicostvlive.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -105,21 +107,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "Z3J6UkFFEng975",
-    "name": "Canal 17 TV Nosara",
-    "stream_urls": [
-      "https://latamvdo.com:3870/hybrid/play.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [],
-    "country": "cr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "O4M3Z3Jo7F6qrX",
     "name": "Cartago Medios TV",
     "stream_urls": [
-      "https://acceso.mediosdecostarica.com:3511/stream/play.m3u8"
+      "https://acceso.mediosdecostarica.com:3511/live/cartagomediostvlive.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -289,7 +280,7 @@
     "name": "Multimedios Costa Rica",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/nlIRSmVU9os"
+      "https://www.youtube-nocookie.com/embed/H0u-aVh715c"
     ],
     "languages": [
       "spa"

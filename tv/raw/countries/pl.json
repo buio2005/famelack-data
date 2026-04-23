@@ -53,6 +53,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "FHHW8HxY4wkWHY",
+    "name": "Arche TV",
+    "stream_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/JY3e3f3BHsQ"
+    ],
+    "languages": [
+      "pol"
+    ],
+    "country": "pl",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "kJrXloIeM5KZgw",
     "name": "Bialogardzka Telewizja Kablowa",
     "stream_urls": [
@@ -79,9 +92,23 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "DHR1El8JiIdfUH",
+    "name": "BTB 3",
+    "stream_urls": [
+      "https://emisja3.btb.j00r.us/iptv/session/3/hls.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "pol"
+    ],
+    "country": "pl",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "ZgdcsAoxUBnS3U",
     "name": "BTB HD",
     "stream_urls": [
+      "https://fa723fc1b171.us-west-2.playback.live-video.net/api/video/v1/us-west-2.196233775518.channel.tm5ELzwtPY6t.m3u8",
       "https://emisja.btb.j00r.us/iptv/session/1/hls.m3u8"
     ],
     "youtube_urls": [],
@@ -96,6 +123,19 @@
     "name": "BTB International",
     "stream_urls": [
       "https://emisja.btb.j00r.us/iptv/session/2/hls.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "pol"
+    ],
+    "country": "pl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "QpkwHa7GwFnKLp",
+    "name": "BTB Music",
+    "stream_urls": [
+      "https://panel.btb.j00r.us/memfs/ebaffae6-0086-49d7-843d-57f2c561de86.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -213,7 +253,7 @@
     "name": "HORYZONT TV",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/bPZuDSVsXkw"
+      "https://www.youtube-nocookie.com/embed/xHgZP4AfQNo"
     ],
     "languages": [
       "pol"
@@ -320,6 +360,19 @@
     "youtube_urls": [],
     "languages": [
       "eng"
+    ],
+    "country": "pl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "yVHVo5RwmcKcvS",
+    "name": "Radio Czwórka",
+    "stream_urls": [
+      "https://stream14.polskieradio.pl/pr4_video/video_pr4.stream/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "pol"
     ],
     "country": "pl",
     "isGeoBlocked": false
@@ -459,7 +512,7 @@
     "name": "Telewizja Gorzów",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/KK49mrzWiMo"
+      "https://www.youtube-nocookie.com/embed/xmnbTpZpxhs"
     ],
     "languages": [
       "pol"
@@ -693,7 +746,7 @@
     "name": "TV Relax",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/KqdZgN8AnR4"
+      "https://www.youtube-nocookie.com/embed/XLkhwsgfpyY"
     ],
     "languages": [
       "pol"
@@ -786,6 +839,19 @@
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/HMjf450mRfk"
     ],
+    "languages": [
+      "pol"
+    ],
+    "country": "pl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "UJrA93oKFNB1K1",
+    "name": "Twoja.TV",
+    "stream_urls": [
+      "https://stream.twoja.tv/ttv_hls/live.m3u8"
+    ],
+    "youtube_urls": [],
     "languages": [
       "pol"
     ],
