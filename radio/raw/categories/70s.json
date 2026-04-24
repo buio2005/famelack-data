@@ -102,6 +102,17 @@
     ]
   },
   {
+    "nanoid": "FW2QTWgwXJ7IKF",
+    "name": "181.FM Super 70s",
+    "stream_urls": [
+      "https://listen.181fm.com/181-70s_128k.mp3"
+    ],
+    "country": "us",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
     "nanoid": "8CX4CkD7RNZLYH",
     "name": "192 Radio",
     "stream_urls": [
@@ -261,8 +272,8 @@
     "nanoid": "FGSLg6FI0RwaBi",
     "name": "AMV Oldies and Evergreens",
     "stream_urls": [
-      "https://streams.antennemv.de/oldies/mp3-192",
-      "https://streams.antennemv.de/oldies/mp3-128/streams.antennemv.de/"
+      "https://streams.antennemv.de/oldies/mp3-128/streams.antennemv.de/",
+      "https://streams.antennemv.de/oldies/mp3-192"
     ],
     "country": "de",
     "languages": [
@@ -320,17 +331,6 @@
     ]
   },
   {
-    "nanoid": "oH3zjzsLMFYaOI",
-    "name": "Antenne Vorarlberg 70er Hits",
-    "stream_urls": [
-      "https://web.radio.antennevorarlberg.at/av-70er"
-    ],
-    "country": "at",
-    "languages": [
-      "deu"
-    ]
-  },
-  {
     "nanoid": "jKuBthLREVpJJV",
     "name": "Arabella Bayern",
     "stream_urls": [
@@ -340,6 +340,18 @@
     "country": "de",
     "languages": [
       "deu"
+    ]
+  },
+  {
+    "nanoid": "xUlAzMxy9UNv3o",
+    "name": "Aussie Pub Rock",
+    "stream_urls": [
+      "https://wz7liw.scahw.com.au/live/7mushroom50_128.stream/playlist.m3u8",
+      "https://sa46.scastream.com.au/live/7mushroom50_128.stream/playlist.m3u8"
+    ],
+    "country": "au",
+    "languages": [
+      "eng"
     ]
   },
   {
@@ -371,6 +383,17 @@
       "https://edge-audio-03-gos2.sharp-stream.com/ssvcbfbs21.aac"
     ],
     "country": "uk",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "YJye6fbrCgnRgZ",
+    "name": "Big 8 Radio",
+    "stream_urls": [
+      "https://la2.indexcom.com/hls/big8radio/1/64k/program.m3u8"
+    ],
+    "country": "us",
     "languages": [
       "eng"
     ]
@@ -620,10 +643,7 @@
     "stream_urls": [
       "https://streams.fluxfm.de/70er/aac-64/audio/",
       "https://streams.fluxfm.de/70er/mp3-128/audio/",
-      "https://streams.fluxfm.de/70er/mp3-320/audio/",
-      "https://fluxfm.streamabc.net/flx-70er-mp3-320-4383769",
-      "https://fluxfm.streamabc.net/flx-70er-mp3-128-3928273",
-      "https://fluxfm.streamabc.net/flx-70er-aacplus-64-5805170"
+      "https://streams.fluxfm.de/70er/mp3-320/audio/"
     ],
     "country": "de",
     "languages": [
@@ -658,8 +678,8 @@
     "name": "Funky Radio",
     "stream_urls": [
       "https://discofunk.streamingmedia.it/play",
-      "https://my.streamingmedia.it:8020/play",
-      "https://my.streamingmedia.it/listen/discofunk/play"
+      "https://my.streamingmedia.it/listen/discofunk/play",
+      "https://my.streamingmedia.it:8020/play"
     ],
     "country": "it",
     "languages": [
@@ -696,6 +716,7 @@
     "nanoid": "QlI2yzPEihO2zy",
     "name": "Gold Web Radio",
     "stream_urls": [
+      "https://centova.svdns.com.br:19418/stream1",
       "https://centova.svdns.com.br:19418/stream2",
       "https://centova.svdns.com.br:19418/stream"
     ],
@@ -730,7 +751,8 @@
     "nanoid": "Nk1saDS34yjQwi",
     "name": "harmony.fm +70er",
     "stream_urls": [
-      "https://mp3.harmonyfm.de/hrmplus/hq70er.aac"
+      "https://mp3.harmonyfm.de/hrmplus/hq70er.aac",
+      "https://mp3.harmonyfm.de/hrmplus/hq70er.mp3?aw_0_req.gdpr=true"
     ],
     "country": "de",
     "languages": [
@@ -755,6 +777,17 @@
       "https://media-ssl.musicradio.com/Heart70sMP3"
     ],
     "country": "uk",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "BsZLFS0YINRG6k",
+    "name": "Heart Hits",
+    "stream_urls": [
+      "https://sa46.scastream.com.au/live/2hearthits_128.stream/playlist.m3u8"
+    ],
+    "country": "au",
     "languages": [
       "eng"
     ]
@@ -804,6 +837,50 @@
     ]
   },
   {
+    "nanoid": "IRvKTP1Gy4MUCO",
+    "name": "iHeart Real Oldies",
+    "stream_urls": [
+      "https://stream.revma.ihrhls.com/zc4717/hls.m3u8"
+    ],
+    "country": "us",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "s5T93GtOlYTcc0",
+    "name": "iHeart70s Radio",
+    "stream_urls": [
+      "https://stream.revma.ihrhls.com/zc6843/hls.m3u8"
+    ],
+    "country": "us",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "RPPgUW2oyFP88k",
+    "name": "iHeartRadio Café",
+    "stream_urls": [
+      "https://stream.revma.ihrhls.com/zc6951/hls.m3u8"
+    ],
+    "country": "us",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "e1VGEuT6yFXJ4U",
+    "name": "iHeartRadio Cool Oldies",
+    "stream_urls": [
+      "https://stream.revma.ihrhls.com/zc4439/hls.m3u8"
+    ],
+    "country": "us",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
     "nanoid": "4pUpfhhGimf7WX",
     "name": "J1 GOLD",
     "stream_urls": [
@@ -821,8 +898,7 @@
     "stream_urls": [
       "https://icecast-qmusicnl-cdp.triple-it.nl/Joe_nl.mp3",
       "https://stream.joe.nl/joe/aachigh",
-      "https://icecast-qmusicnl-cdp.triple-it.nl/Joe_nl_high.aac",
-      "https://stream.joe.nl/joe/mp3"
+      "https://icecast-qmusicnl-cdp.triple-it.nl/Joe_nl_high.aac"
     ],
     "country": "nl",
     "languages": [
@@ -855,8 +931,8 @@
     "nanoid": "Zk0qBnG86KG8NF",
     "name": "Kiss FM 97.7",
     "stream_urls": [
-      "https://stream.zeno.fm/k7sx1n90g3quv",
-      "https://stream.zenolive.com/1sgzkhhm8ueuv"
+      "https://stream.zenolive.com/1sgzkhhm8ueuv",
+      "https://stream.zeno.fm/k7sx1n90g3quv"
     ],
     "country": "gt",
     "languages": [
@@ -878,8 +954,8 @@
     "nanoid": "3EcSYrPGKlCTZj",
     "name": "KRR 98.7 FM",
     "stream_urls": [
-      "https://playerservices.streamtheworld.com/api/livestream-redirect/2KRRAAC.aac",
-      "https://playerservices.streamtheworld.com/api/livestream-redirect/2KRR.mp3"
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/2KRR.mp3",
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/2KRRAAC.aac"
     ],
     "country": "au",
     "languages": [
@@ -1022,6 +1098,17 @@
     ]
   },
   {
+    "nanoid": "6KXQNS6eYbJDrw",
+    "name": "MDR Sachsen",
+    "stream_urls": [
+      "https://mdr-284280-0.sslcast.mdr.de/mdr/284280/0/mp3/high/stream.mp3"
+    ],
+    "country": "de",
+    "languages": [
+      "deu"
+    ]
+  },
+  {
     "nanoid": "wj9QVydajxJdgA",
     "name": "Mega FM 94.9",
     "stream_urls": [
@@ -1090,12 +1177,23 @@
     ]
   },
   {
+    "nanoid": "lnPBWY8i4eaQUg",
+    "name": "Nostalgia Central",
+    "stream_urls": [
+      "https://s5.radio.co/s6211fbeed/listen"
+    ],
+    "country": "uk",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
     "nanoid": "eZOyKV5vMI10rQ",
     "name": "Nostalgie",
     "stream_urls": [
       "https://frontend.streamonkey.net/nostalgie-live/stream/mp3",
-      "https://nrj.de/nostalgielivestream",
-      "https://edge83.streamonkey.net/nostalgie-live"
+      "https://edge83.streamonkey.net/nostalgie-live",
+      "https://nrj.de/nostalgielivestream"
     ],
     "country": "de",
     "languages": [
@@ -1137,6 +1235,17 @@
     ]
   },
   {
+    "nanoid": "cPLuJRV2AJl2c2",
+    "name": "Now 70s",
+    "stream_urls": [
+      "https://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8"
+    ],
+    "country": "uk",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
     "nanoid": "tT9ihSEfxcRXD8",
     "name": "NSR - Das Stadt-Radio",
     "stream_urls": [
@@ -1162,14 +1271,9 @@
     "nanoid": "hXXucjqWVy5Act",
     "name": "Oldie Antenne",
     "stream_urls": [
-      "https://stream.antenne.de/oldies-but-goldies/stream/aacp",
-      "https://mp3channels.webradio.antenne.de/oldies-but-goldies",
-      "https://s3-webradio.antenne.de/oldies-but-goldies/stream/aacp",
-      "https://s6-webradio.antenne.de/oldies-but-goldies",
-      "https://s7-webradio.antenne.de/oldies-but-goldies.aac",
       "https://stream.oldie-antenne.de/oldie-antenne/stream/mp3",
       "https://s1-webradio.oldie-antenne.de/oldie-antenne",
-      "https://stream.oldie-antenne.de/oldie-antenne/stream/aacp"
+      "https://stream.antenne.de/oldies-but-goldies/stream/aacp"
     ],
     "country": "de",
     "languages": [
@@ -1280,7 +1384,8 @@
     "name": "R.SA - 70er Oldies",
     "stream_urls": [
       "https://streams.rsa-sachsen.de/70er/mp3-192",
-      "https://streams.rsa-sachsen.de/70er/mp3-192/streams.rsa-sachsen.de/"
+      "https://streams.rsa-sachsen.de/70er/mp3-192/streams.rsa-sachsen.de/",
+      "https://rsa.streamabc.net/regc-rsasachsen70erold9456468-mp3-128-2357955?sABC=69r72366%230%23nnp26506rp49pqn990964o9n4q25s823%23fgernzf.efn-fnpufra.qr&aw_0_1st.playerid=streams.rsa-sachsen.de&amsparams=playerid:streams.rsa-sachsen.de;skey:1776755558"
     ],
     "country": "de",
     "languages": [
@@ -1304,7 +1409,9 @@
     "nanoid": "RdFxc1GrX2szqf",
     "name": "Radio 10 60s & 70s Hits",
     "stream_urls": [
-      "https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR18.mp3"
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR18.mp3",
+      "https://29043.live.streamtheworld.com:443/TLPSTR18_SC",
+      "https://25233.live.streamtheworld.com:443/TLPSTR18_SC"
     ],
     "country": "nl",
     "languages": [
@@ -1360,6 +1467,18 @@
     ]
   },
   {
+    "nanoid": "0Dxt3c8KZCFuzY",
+    "name": "Radio Arabella 70er",
+    "stream_urls": [
+      "https://edge23.streams.arabella.at/arabella-70er",
+      "https://frontend.streams.arabella.at/arabella-70er?aggregator=arabella-playlistfile"
+    ],
+    "country": "at",
+    "languages": [
+      "deu"
+    ]
+  },
+  {
     "nanoid": "W8QM3xbbPeZWBc",
     "name": "RADIO BOB! 70er Rock",
     "stream_urls": [
@@ -1370,6 +1489,18 @@
     "country": "de",
     "languages": [
       "deu"
+    ]
+  },
+  {
+    "nanoid": "G5uDhBcBxkqWlY",
+    "name": "Radio Caroline 319 Gold",
+    "stream_urls": [
+      "https://happy.radiomonique.nl/listen/happy_oldies/radio64.mp3"
+    ],
+    "country": "nl",
+    "languages": [
+      "nld",
+      "eng"
     ]
   },
   {
@@ -1480,7 +1611,8 @@
     "name": "Radio Monique 963 Gold",
     "stream_urls": [
       "https://server-10.rcgoldserver.nl/listen/happy_oldies/radio320.mp3",
-      "https://happy.radiomonique.nl/listen/happy_oldies/radio96.acc"
+      "https://happy.radiomonique.nl/listen/happy_oldies/radio96.acc",
+      "https://happy.radiomonique.nl/listen/happy_oldies/radio192.mp3"
     ],
     "country": "nl",
     "languages": [
@@ -1516,8 +1648,7 @@
     "stream_urls": [
       "https://norawebstreams-stream23.radiohost.de/nora-oldies_mp3-192",
       "https://streams.norawebstreams.de/nora-oldies/mp3-192/streams.norawebstreams.de/",
-      "https://norawebstreams-stream22.radiohost.de/nora-oldies_mp3-128",
-      "https://streams.norawebstreams.de/nora-oldies/mp3-128/homepage/"
+      "https://norawebstreams-stream22.radiohost.de/nora-oldies_mp3-128"
     ],
     "country": "de",
     "languages": [
@@ -1685,8 +1816,8 @@
     "name": "RauteMusik Goldies",
     "stream_urls": [
       "https://goldies-high.rautemusik.fm/",
-      "https://rautemusik-de-hz-fal-stream11.radiohost.de/goldies",
-      "https://rautemusik-de-hz-fal-stream17.radiohost.de/goldies"
+      "https://rautemusik-de-hz-fal-stream17.radiohost.de/goldies",
+      "https://rautemusik-de-hz-fal-stream11.radiohost.de/goldies"
     ],
     "country": "de",
     "languages": [
@@ -1981,8 +2112,8 @@
     "nanoid": "qYVU3P60cCDW3l",
     "name": "That 70's Channel",
     "stream_urls": [
-      "https://los.cdnstream.com/1101_128",
-      "https://ais-sa5.cdnstream1.com/b68000_128mp3"
+      "https://ais-sa5.cdnstream1.com/b68000_128mp3",
+      "https://los.cdnstream.com/1101_128"
     ],
     "country": "us",
     "languages": [
@@ -2170,6 +2301,7 @@
     "nanoid": "3KXr268FBNmkPN",
     "name": "Universal Stereo",
     "stream_urls": [
+      "https://14553.live.streamtheworld.com/XERC_FMAAC.aac",
       "https://playerservices.streamtheworld.com/api/livestream-redirect/XERC_FMAAC.aac"
     ],
     "country": "mx",
@@ -2276,6 +2408,17 @@
     "country": "de",
     "languages": [
       "deu"
+    ]
+  },
+  {
+    "nanoid": "uNhBrazSs8EMx2",
+    "name": "WKM Radio 91.5",
+    "stream_urls": [
+      "https://mdstrm.com/audio/5df7cf305396b836ef541c12/live.m3u8"
+    ],
+    "country": "bo",
+    "languages": [
+      "spa"
     ]
   },
   {

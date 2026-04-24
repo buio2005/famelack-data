@@ -3,9 +3,9 @@
     "nanoid": "5ncJ841Sx88aBd",
     "name": "BFBS Gurkha Radio",
     "stream_urls": [
+      "https://listen-ssvcbfbs.sharp-stream.com/ssvcbfbs3.aac",
       "https://edge-audio-04-thn.sharp-stream.com/ssvcbfbs3.aac",
-      "https://edge-audio-05-gos2.sharp-stream.com/ssvcbfbs3.mp3",
-      "https://listen-ssvcbfbs.sharp-stream.com/ssvcbfbs3.aac"
+      "https://edge-audio-05-gos2.sharp-stream.com/ssvcbfbs3.mp3"
     ],
     "country": "np",
     "languages": [
@@ -18,6 +18,17 @@
     "name": "CIN Khabar",
     "stream_urls": [
       "https://streaming.softnep.net:10996/;stream.nsv&type=mp3&volume=60"
+    ],
+    "country": "np",
+    "languages": [
+      "nep"
+    ]
+  },
+  {
+    "nanoid": "PKchb4ExVntR0W",
+    "name": "Kalika FM 95.2",
+    "stream_urls": [
+      "https://streaming.softnep.net:10828/stream"
     ],
     "country": "np",
     "languages": [
@@ -60,6 +71,17 @@
     ]
   },
   {
+    "nanoid": "Zy1eoJZdr9W0fF",
+    "name": "Radio Nepal",
+    "stream_urls": [
+      "https://stream1.radionepal.gov.np/live/"
+    ],
+    "country": "np",
+    "languages": [
+      "nep"
+    ]
+  },
+  {
     "nanoid": "1ysyLazGXnpRDk",
     "name": "Radio Thaha Sanchar",
     "stream_urls": [
@@ -93,6 +115,17 @@
     ]
   },
   {
+    "nanoid": "VWEITR8MIgM4ou",
+    "name": "Synergy FM 91.6",
+    "stream_urls": [
+      "https://live.itech.host:3880/stream"
+    ],
+    "country": "np",
+    "languages": [
+      "nep"
+    ]
+  },
+  {
     "nanoid": "kOGP6oFTXXIXcP",
     "name": "Ujyaalo 90 Network",
     "stream_urls": [
@@ -102,6 +135,17 @@
     "country": "np",
     "languages": [
       "eng",
+      "nep"
+    ]
+  },
+  {
+    "nanoid": "ZBN9TSqyMsKWCp",
+    "name": "Vijaya FM 101.6",
+    "stream_urls": [
+      "https://live.itech.host:3320/stream"
+    ],
+    "country": "np",
+    "languages": [
       "nep"
     ]
   }

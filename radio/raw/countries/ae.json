@@ -3389,8 +3389,8 @@
     "nanoid": "YGOxxO48bl78Vo",
     "name": "Exclusively George Harrison",
     "stream_urls": [
-      "https://2.mystreaming.net/er/georgeharrison/icecast.audio",
-      "https://streaming.exclusive.radio/er/georgeharrison/icecast.audio"
+      "https://streaming.exclusive.radio/er/georgeharrison/icecast.audio",
+      "https://2.mystreaming.net/er/georgeharrison/icecast.audio"
     ],
     "country": "ae",
     "languages": [
@@ -3481,8 +3481,8 @@
     "nanoid": "1UPyAKqnCKANqL",
     "name": "Exclusively Gordon Lightfoot",
     "stream_urls": [
-      "https://2.mystreaming.net/er/gordonlightfoot/icecast.audio",
-      "https://streaming.exclusive.radio/er/gordonlightfoot/icecast.audio"
+      "https://streaming.exclusive.radio/er/gordonlightfoot/icecast.audio",
+      "https://2.mystreaming.net/er/gordonlightfoot/icecast.audio"
     ],
     "country": "ae",
     "languages": [
@@ -3738,8 +3738,8 @@
     "nanoid": "visKiMD81EPrN2",
     "name": "Exclusively James Taylor",
     "stream_urls": [
-      "https://2.mystreaming.net/er/jamestaylor/icecast.audio",
-      "https://streaming.exclusive.radio/er/jamestaylor/icecast.audio"
+      "https://streaming.exclusive.radio/er/jamestaylor/icecast.audio",
+      "https://2.mystreaming.net/er/jamestaylor/icecast.audio"
     ],
     "country": "ae",
     "languages": [
@@ -4082,8 +4082,8 @@
     "nanoid": "clU1Y5PuQGnhlf",
     "name": "Exclusively Joni Mitchell",
     "stream_urls": [
-      "https://2.mystreaming.net/er/jonimitchell/icecast.audio",
-      "https://streaming.exclusive.radio/er/jonimitchell/icecast.audio"
+      "https://streaming.exclusive.radio/er/jonimitchell/icecast.audio",
+      "https://2.mystreaming.net/er/jonimitchell/icecast.audio"
     ],
     "country": "ae",
     "languages": [
@@ -4205,8 +4205,8 @@
     "nanoid": "9woMYnnW80Hfqm",
     "name": "Exclusively Kate Bush",
     "stream_urls": [
-      "https://2.mystreaming.net/er/katebush/icecast.audio",
-      "https://streaming.exclusive.radio/er/katebush/icecast.audio"
+      "https://streaming.exclusive.radio/er/katebush/icecast.audio",
+      "https://2.mystreaming.net/er/katebush/icecast.audio"
     ],
     "country": "ae",
     "languages": [
@@ -4466,8 +4466,8 @@
     "nanoid": "PbsLnW6MJinewO",
     "name": "Exclusively Linda Ronstadt",
     "stream_urls": [
-      "https://2.mystreaming.net/er/lindaronstadt/icecast.audio",
-      "https://streaming.exclusive.radio/er/lindaronstadt/icecast.audio"
+      "https://streaming.exclusive.radio/er/lindaronstadt/icecast.audio",
+      "https://2.mystreaming.net/er/lindaronstadt/icecast.audio"
     ],
     "country": "ae",
     "languages": [
@@ -5252,8 +5252,8 @@
     "name": "Exclusively Pete Seeger",
     "stream_urls": [
       "https://nl4.mystreaming.net/er/peteseeger/icecast.audio",
-      "https://2.mystreaming.net/er/peteseeger/icecast.audio",
-      "https://streaming.exclusive.radio/er/peteseeger/icecast.audio"
+      "https://streaming.exclusive.radio/er/peteseeger/icecast.audio",
+      "https://2.mystreaming.net/er/peteseeger/icecast.audio"
     ],
     "country": "ae",
     "languages": [
@@ -5752,8 +5752,8 @@
     "nanoid": "i8IPWpxDDk1uq1",
     "name": "Exclusively Sade",
     "stream_urls": [
-      "https://2.mystreaming.net/er/sade/icecast.audio",
-      "https://streaming.exclusive.radio/er/sade/icecast.audio"
+      "https://streaming.exclusive.radio/er/sade/icecast.audio",
+      "https://2.mystreaming.net/er/sade/icecast.audio"
     ],
     "country": "ae",
     "languages": [
@@ -6838,8 +6838,8 @@
     "nanoid": "rn7Q3G6WhnD4dm",
     "name": "Exclusively Tina Turner",
     "stream_urls": [
-      "https://2.mystreaming.net/er/tinaturner/icecast.audio",
-      "https://streaming.exclusive.radio/er/tinaturner/icecast.audio"
+      "https://streaming.exclusive.radio/er/tinaturner/icecast.audio",
+      "https://2.mystreaming.net/er/tinaturner/icecast.audio"
     ],
     "country": "ae",
     "languages": [
@@ -8263,6 +8263,28 @@
     ]
   },
   {
+    "nanoid": "t3Bu28qS24o6Mb",
+    "name": "Pulse 95",
+    "stream_urls": [
+      "https://svs.itworkscdn.net/pulse95live/pulse96/chunks.m3u8"
+    ],
+    "country": "ae",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "N8dlxhb9VJE1Qs",
+    "name": "Radio Mango",
+    "stream_urls": [
+      "https://listen.openstream.co/4635/audio"
+    ],
+    "country": "ae",
+    "languages": [
+      "mal"
+    ]
+  },
+  {
     "nanoid": "zN4WLfexPMo0bG",
     "name": "Radio Relax International",
     "stream_urls": [
@@ -8377,6 +8399,17 @@
     "name": "Sharjah Quran 102.7 FM",
     "stream_urls": [
       "https://l3.itworkscdn.net/smcquranlive/quranradiolive/icecast.audio"
+    ],
+    "country": "ae",
+    "languages": [
+      "ara"
+    ]
+  },
+  {
+    "nanoid": "qoq7OgcrzuUG8F",
+    "name": "Sharjah Radio 94.4 FM",
+    "stream_urls": [
+      "https://svs.itworkscdn.net/smcradiolive/smcradiolive/chunks.m3u8"
     ],
     "country": "ae",
     "languages": [
@@ -8543,7 +8576,8 @@
     "name": "TAG 91.1",
     "stream_urls": [
       "https://stream-159.zeno.fm/7neg6f1hbm0uv",
-      "https://stream-161.zeno.fm/7neg6f1hbm0uv"
+      "https://stream-161.zeno.fm/7neg6f1hbm0uv",
+      "https://cast4.servcast.net/proxy/v81radioworldwide/live"
     ],
     "country": "ae",
     "languages": [

@@ -45,6 +45,17 @@
     ]
   },
   {
+    "nanoid": "n9xF9Ujp7SAOrD",
+    "name": "BadRock Radio",
+    "stream_urls": [
+      "https://play-radio0.jump.bg:7028/live"
+    ],
+    "country": "bg",
+    "languages": [
+      "bul"
+    ]
+  },
+  {
     "nanoid": "qWRAH2QtX5fAi0",
     "name": "BG Estrada",
     "stream_urls": [
@@ -65,6 +76,18 @@
     "country": "bg",
     "languages": [
       "bul"
+    ]
+  },
+  {
+    "nanoid": "ZByDgBsBTWIdUy",
+    "name": "BGRapRadio",
+    "stream_urls": [
+      "https://home.radionrg.com/hls/bgrapradio/live.m3u8"
+    ],
+    "country": "bg",
+    "languages": [
+      "bul",
+      "eng"
     ]
   },
   {
@@ -156,6 +179,17 @@
     ]
   },
   {
+    "nanoid": "qDJZ9KH2z9135v",
+    "name": "Deep House Radio",
+    "stream_urls": [
+      "https://home.radionrg.com/hls/deephouse/live.m3u8"
+    ],
+    "country": "bg",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
     "nanoid": "kwPEYICd9g5jGZ",
     "name": "Deep Lounge",
     "stream_urls": [
@@ -167,10 +201,10 @@
     ]
   },
   {
-    "nanoid": "JdcQNQDrKwANpl",
-    "name": "Deluxe Radio",
+    "nanoid": "XNAvtu2Sn0yCgV",
+    "name": "DJ Zone House Radio",
     "stream_urls": [
-      "https://play.radiomaxxfm.com/deluxe-high"
+      "https://stream.djzone.mobi/"
     ],
     "country": "bg",
     "languages": [
@@ -178,10 +212,12 @@
     ]
   },
   {
-    "nanoid": "XNAvtu2Sn0yCgV",
-    "name": "DJ Zone House Radio",
+    "nanoid": "oNvuG4dOX2AEDl",
+    "name": "Easy Radio",
     "stream_urls": [
-      "https://stream.djzone.mobi/"
+      "https://live.easyradio.bg/aac",
+      "https://live.easyradio.bg/192",
+      "https://c30.radioboss.fm:8758/live"
     ],
     "country": "bg",
     "languages": [
@@ -222,6 +258,17 @@
     ]
   },
   {
+    "nanoid": "kjwCWReRo3Y0Lf",
+    "name": "House Music Radio",
+    "stream_urls": [
+      "https://home.radionrg.com/hls/housemusic/live.m3u8"
+    ],
+    "country": "bg",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
     "nanoid": "BxQPbqQWcdRRNx",
     "name": "Jazz FM",
     "stream_urls": [
@@ -245,10 +292,10 @@
     ]
   },
   {
-    "nanoid": "B0DtY21JahvzRw",
-    "name": "Maxx FM",
+    "nanoid": "ciomacwugW0YiB",
+    "name": "Magic FM",
     "stream_urls": [
-      "https://play.radiomaxxfm.com/maxx-high"
+      "https://bss1.neterra.tv/magicfm/magicfm.m3u8"
     ],
     "country": "bg",
     "languages": [
@@ -328,10 +375,9 @@
     "nanoid": "XuemyzBPqtFAzw",
     "name": "Radio City",
     "stream_urls": [
-      "https://play.global.audio/cityhi.aac",
       "https://play.global.audio/city.opus",
-      "https://play.global.audio/city64",
-      "https://play.global.audio/city_low.ogg"
+      "https://play.global.audio/cityhi.aac",
+      "https://play.global.audio/city64"
     ],
     "country": "bg",
     "languages": [
@@ -498,6 +544,17 @@
     ]
   },
   {
+    "nanoid": "yGUYWiGSYSjQvZ",
+    "name": "Radio NRG",
+    "stream_urls": [
+      "https://home.radionrg.com/hls/live/live.m3u8"
+    ],
+    "country": "bg",
+    "languages": [
+      "bul"
+    ]
+  },
+  {
     "nanoid": "lBuvdTg4moXk6E",
     "name": "Radio Party Mix",
     "stream_urls": [
@@ -554,6 +611,28 @@
     ]
   },
   {
+    "nanoid": "GeCgApm6a6qdHm",
+    "name": "Radio Veselina",
+    "stream_urls": [
+      "https://bss1.neterra.tv/veselina/veselina.m3u8"
+    ],
+    "country": "bg",
+    "languages": [
+      "bul"
+    ]
+  },
+  {
+    "nanoid": "hPdB7t86dIBJlW",
+    "name": "Radio Vitosha",
+    "stream_urls": [
+      "https://bss1.neterra.tv/vitosha/vitosha.m3u8"
+    ],
+    "country": "bg",
+    "languages": [
+      "bul"
+    ]
+  },
+  {
     "nanoid": "IUo6SWTFq5pjLB",
     "name": "Radio Zig Zag",
     "stream_urls": [
@@ -587,14 +666,15 @@
     ]
   },
   {
-    "nanoid": "G2cfWg9qfG29fT",
-    "name": "Sweet Radio",
+    "nanoid": "FNa0mqIPuWSPPc",
+    "name": "The Voice",
     "stream_urls": [
-      "https://stream.sweetradio.online:8001/HD"
+      "https://bss1.neterra.tv/thevoicefm/thevoicefm.m3u8",
+      "https://bss1.neterra.tv/thevoicefm/stream_0.m3u8"
     ],
     "country": "bg",
     "languages": [
-      "eng"
+      "bul"
     ]
   },
   {
@@ -602,6 +682,17 @@
     "name": "Vanilla",
     "stream_urls": [
       "https://play.global.audio/vanillahi.aac"
+    ],
+    "country": "bg",
+    "languages": [
+      "bul"
+    ]
+  },
+  {
+    "nanoid": "IBkJmkoD02mSWa",
+    "name": "Victoria Radio",
+    "stream_urls": [
+      "https://play.radiomaxxfm.com/victoriafm"
     ],
     "country": "bg",
     "languages": [

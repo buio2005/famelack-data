@@ -296,6 +296,7 @@
     "nanoid": "S0RsSNnE8UAdEj",
     "name": "Kan Bet",
     "stream_urls": [
+      "https://25583.live.streamtheworld.com/KAN_BET.mp3",
       "https://28563.live.streamtheworld.com/KAN_BET.mp3"
     ],
     "country": "il",
@@ -428,6 +429,17 @@
     ]
   },
   {
+    "nanoid": "E52ha4bebslOBo",
+    "name": "Radio Breslev Carmiel",
+    "stream_urls": [
+      "https://securestreams6.autopo.st:2294/mp3"
+    ],
+    "country": "il",
+    "languages": [
+      "heb"
+    ]
+  },
+  {
     "nanoid": "hDH6n927TaYzQ1",
     "name": "Radio Darom",
     "stream_urls": [
@@ -541,8 +553,8 @@
     "nanoid": "vVwTqaDPNxNkRy",
     "name": "Radio Lev Hamedina 91 FM",
     "stream_urls": [
-      "https://91fm.streamgates.net/Lev91Fm",
-      "https://cdn.cybercdn.live/Lev_Hamedina/Audio/icecast.audio"
+      "https://cdn.cybercdn.live/Lev_Hamedina/Audio/icecast.audio",
+      "https://91fm.streamgates.net/Lev91Fm"
     ],
     "country": "il",
     "languages": [
@@ -586,7 +598,8 @@
     "nanoid": "TANuiKfNuwkZ9l",
     "name": "Radio Noshmim Mizrahit",
     "stream_urls": [
-      "https://mzr.mediacast.co.il/mzradio"
+      "https://mzr.mediacast.co.il/mzradio",
+      "https://www.rs.mizrahit.fm:7777/"
     ],
     "country": "il",
     "languages": [

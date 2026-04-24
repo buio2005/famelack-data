@@ -22,14 +22,50 @@
     ]
   },
   {
-    "nanoid": "WLNT33PeUfam54",
-    "name": "Estación 40",
+    "nanoid": "kBkcl4VHIocvBR",
+    "name": "Canal 100",
     "stream_urls": [
-      "https://us-b4-p-e-cg11-audio.cdn.mdstrm.com/live-audio-aw/62d81cfbbfbcee0837ba1b60"
+      "https://rds3.desdeparaguay.net/movcanal100/movcanal100.stream/playlist.m3u8"
     ],
     "country": "py",
     "languages": [
       "spa"
+    ]
+  },
+  {
+    "nanoid": "oWsPBMkOV6q2rb",
+    "name": "Emisoras Paraguay 106.1 FM",
+    "stream_urls": [
+      "https://rds3.desdeparaguay.net/movemisoras/movemisoras.stream/chunklist_w1882715633.m3u8",
+      "https://rds3.desdeparaguay.net/movemisoras/movemisoras.stream/playlist.m3u8"
+    ],
+    "country": "py",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "WLNT33PeUfam54",
+    "name": "Estación 40",
+    "stream_urls": [
+      "https://us-b4-p-e-cg11-audio.cdn.mdstrm.com/live-audio-aw/62d81cfbbfbcee0837ba1b60",
+      "https://rds3.desdeparaguay.net/transestacion40/transestacion40/playlist.m3u8"
+    ],
+    "country": "py",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "ic6TZ8JSEzpoYh",
+    "name": "Exclusiva FM 103.7",
+    "stream_urls": [
+      "https://rds3.desdeparaguay.net/movexclusiva/movexclusiva.stream/playlist.m3u8"
+    ],
+    "country": "py",
+    "languages": [
+      "spa",
+      "grn"
     ]
   },
   {
@@ -42,6 +78,17 @@
     "languages": [
       "spa",
       "grn"
+    ]
+  },
+  {
+    "nanoid": "x3eagf0RwiNumt",
+    "name": "FM Popular 103.1",
+    "stream_urls": [
+      "https://rds3.desdeparaguay.net/transpopular/transpopular/playlist.m3u8"
+    ],
+    "country": "py",
+    "languages": [
+      "spa"
     ]
   },
   {
@@ -70,7 +117,8 @@
     "nanoid": "YEl99OpnWuw123",
     "name": "Palma FM",
     "stream_urls": [
-      "https://us-b4-p-e-qg12-audio.cdn.mdstrm.com/live-audio-aw/62d81d48f5ef320830c8becf"
+      "https://us-b4-p-e-qg12-audio.cdn.mdstrm.com/live-audio-aw/62d81d48f5ef320830c8becf",
+      "https://rds3.desdeparaguay.net/transpalma/transpalma/playlist.m3u8"
     ],
     "country": "py",
     "languages": [
@@ -89,10 +137,46 @@
     ]
   },
   {
+    "nanoid": "vM84hdWb8IBkDr",
+    "name": "Radio Amor 95.9 FM",
+    "stream_urls": [
+      "https://copaco.desdeparaguay.net/movamor/movamor.stream/playlist.m3u8"
+    ],
+    "country": "py",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
     "nanoid": "aIAegWEtKlqbmO",
     "name": "Radio América Clásicos",
     "stream_urls": [
       "https://stream.zeno.fm/a1s86ymequeuv"
+    ],
+    "country": "py",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "BJRsGuXBvxeXUn",
+    "name": "Radio Aranduka 87.9 FM",
+    "stream_urls": [
+      "https://tigocloud.desdeparaguay.net/movaranduka/movaranduka.stream/playlist.m3u8",
+      "https://rds3.desdeparaguay.net/movaranduka/movaranduka.stream/playlist.m3u8"
+    ],
+    "country": "py",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "gI5zcm2dLzpzhM",
+    "name": "Radio Aspen 102.7 FM",
+    "stream_urls": [
+      "https://copaco.desdeparaguay.net/movaspen/movaspen.stream/playlist.m3u8",
+      "https://rds3.desdeparaguay.net/movaspen/movaspen.stream/playlist.m3u8",
+      "https://tigocloud.desdeparaguay.net/movaspen/movaspen.stream/playlist.m3u8"
     ],
     "country": "py",
     "languages": [
@@ -115,6 +199,17 @@
     "name": "Radio Concierto 89.1 FM",
     "stream_urls": [
       "https://radio.host.com.py/9572/stream"
+    ],
+    "country": "py",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "hWOB86FyRO1Wm8",
+    "name": "Radio Disney 96.5 FM",
+    "stream_urls": [
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/DISNEY_PAR_ASAAC.m3u8"
     ],
     "country": "py",
     "languages": [
@@ -145,6 +240,17 @@
     ]
   },
   {
+    "nanoid": "f0gzgwyPcyF1ev",
+    "name": "Radio Tapiracuai 88.7 FM",
+    "stream_urls": [
+      "https://tigocloud.desdeparaguay.net/movtapiracuai/movtapiracuai.stream/playlist.m3u8"
+    ],
+    "country": "py",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
     "nanoid": "J3WhGO82DCbCuF",
     "name": "Radio Top Milenium 91.5 FM",
     "stream_urls": [
@@ -159,7 +265,8 @@
     "nanoid": "tV2XdxdR2VnDSm",
     "name": "Radio Urbana 106.9 FM",
     "stream_urls": [
-      "https://us-b4-p-e-pb13-audio.cdn.mdstrm.com/live-audio-aw/62d81cdabff0bc082f8f1a24"
+      "https://us-b4-p-e-pb13-audio.cdn.mdstrm.com/live-audio-aw/62d81cdabff0bc082f8f1a24",
+      "https://rds3.desdeparaguay.net/transurbana/transurbana/playlist.m3u8"
     ],
     "country": "py",
     "languages": [
@@ -171,6 +278,18 @@
     "name": "Radio Vallenatos Clásicos",
     "stream_urls": [
       "https://stream.zeno.fm/z07vyxbqz8quv"
+    ],
+    "country": "py",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "EZ8TWLFdGNrszq",
+    "name": "Radio Vibras 92.7 FM",
+    "stream_urls": [
+      "https://rds3.desdeparaguay.net/movvibras/movvibras.stream/playlist.m3u8",
+      "https://copaco.desdeparaguay.net/movvibras/movvibras.stream/chunklist_w1786225280.m3u8"
     ],
     "country": "py",
     "languages": [
@@ -200,10 +319,44 @@
     ]
   },
   {
+    "nanoid": "TddEqCUBUpHsDu",
+    "name": "RQP 94.3 FM",
+    "stream_urls": [
+      "https://dx85eyfuo1x2i.cloudfront.net/index.m3u8",
+      "https://rds3.desdeparaguay.net/transrqp/transrqp/playlist.m3u"
+    ],
+    "country": "py",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "sXAJmzAp1U9GeD",
+    "name": "RS Online",
+    "stream_urls": [
+      "https://rds3.desdeparaguay.net/movsagrados/movsagrados.stream/playlist.m3u8"
+    ],
+    "country": "py",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
     "nanoid": "6jUclK2WDabVVI",
     "name": "Tereré Mix",
     "stream_urls": [
       "https://stream.zeno.fm/a0z8gjrlucluv"
+    ],
+    "country": "py",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "RcH2QMtrsrZrxp",
+    "name": "Tropicalia 93.9 FM",
+    "stream_urls": [
+      "https://rds3.desdeparaguay.net/movtropicalia/movtropicalia.stream/playlist.m3u8"
     ],
     "country": "py",
     "languages": [

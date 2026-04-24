@@ -31,6 +31,17 @@
     "languages": []
   },
   {
+    "nanoid": "9jthOyx0caUBBy",
+    "name": "181.FM Reggae Roots",
+    "stream_urls": [
+      "https://listen.181fm.com/181-reggae_128k.mp3"
+    ],
+    "country": "us",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
     "nanoid": "MeCRhqqUBhNnTk",
     "name": "1BTN",
     "stream_urls": [
@@ -194,6 +205,17 @@
       "https://streams.calmradio.com:18928/stream"
     ],
     "country": "ca",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "FMXf2cweT5cBN2",
+    "name": "Caribbean Power Jam Radio",
+    "stream_urls": [
+      "https://auds1.intacs.com/caribbeanpowerjamradio"
+    ],
+    "country": "us",
     "languages": [
       "eng"
     ]
@@ -470,8 +492,8 @@
     "nanoid": "vV3WbwVroGJWDb",
     "name": "FIP Reggae",
     "stream_urls": [
-      "https://direct.fipradio.fr/live/fip-webradio6.mp3",
       "https://icecast.radiofrance.fr/fipreggae-midfi.mp3",
+      "https://direct.fipradio.fr/live/fip-webradio6.mp3",
       "https://icecast.radiofrance.fr/fipreggae-hifi.aac"
     ],
     "country": "fr",
@@ -907,17 +929,6 @@
     ]
   },
   {
-    "nanoid": "4uKnAo3lRMPqH7",
-    "name": "Logical Asylum Radio",
-    "stream_urls": [
-      "https://a5.asurahosting.com:6760/radio.mp3"
-    ],
-    "country": "bz",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
     "nanoid": "rwGmsAXxMPAHrb",
     "name": "Lomovogt",
     "stream_urls": [
@@ -1011,8 +1022,8 @@
     "nanoid": "mcEG2FX6LRjjEG",
     "name": "Nationwide 90 FM",
     "stream_urls": [
-      "https://stream.zenolive.com/a3wmsfazfv5tv",
-      "https://stream.zeno.fm/sx58ugee4s5tv"
+      "https://stream.zeno.fm/sx58ugee4s5tv",
+      "https://stream.zenolive.com/a3wmsfazfv5tv"
     ],
     "country": "jm",
     "languages": [
@@ -1115,8 +1126,8 @@
     "nanoid": "ajbuxdzSNKsiUA",
     "name": "Papas Skakiste 007",
     "stream_urls": [
-      "https://papasskakiste007.stream.laut.fm/papas_skakiste007",
-      "https://papas_skakiste007.stream.laut.fm/papas_skakiste007"
+      "https://papas_skakiste007.stream.laut.fm/papas_skakiste007",
+      "https://papasskakiste007.stream.laut.fm/papas_skakiste007"
     ],
     "country": "de",
     "languages": [
@@ -1272,7 +1283,8 @@
     "nanoid": "aiZUBXIdsDPBLV",
     "name": "Radio Endstation",
     "stream_urls": [
-      "https://funkturm.radio-endstation.de/radio/8000/radio.mp3"
+      "https://funkturm.radio-endstation.de/radio/8000/radio.mp3",
+      "https://funkturm.radio-endstation.de/listen/radio-endstation/radio.mp3"
     ],
     "country": "de",
     "languages": [
@@ -1740,7 +1752,8 @@
     "name": "SomaFM: Dub Step Beyond",
     "stream_urls": [
       "https://ice3.somafm.com/dubstep-128-aac",
-      "https://ice3.somafm.com/dubstep-128-mp3"
+      "https://ice3.somafm.com/dubstep-128-mp3",
+      "https://ice2.somafm.com/dubstep-128-aac"
     ],
     "country": "us",
     "languages": [
@@ -1751,8 +1764,9 @@
     "nanoid": "48GdmQFPvuIcur",
     "name": "SomaFM: Heavyweight Reggae",
     "stream_urls": [
+      "https://ice1.somafm.com/reggae-32-aac",
       "https://ice4.somafm.com/reggae-256-mp3",
-      "https://ice1.somafm.com/reggae-32-aac"
+      "https://ice4.somafm.com/reggae-128-mp3"
     ],
     "country": "us",
     "languages": [
@@ -1861,6 +1875,17 @@
     ]
   },
   {
+    "nanoid": "PmwgSA5sN2gOvB",
+    "name": "Surf Shack Radio",
+    "stream_urls": [
+      "https://la2.indexcom.com/hls/disco/64k/program.m3u8"
+    ],
+    "country": "de",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
     "nanoid": "pmZkPQ1ikNN8m7",
     "name": "Technolovers - Trap",
     "stream_urls": [
@@ -1912,17 +1937,6 @@
     "name": "The Reggae Spin: Dancehall",
     "stream_urls": [
       "https://reggaespin.media/radio/8010/radio.mp3"
-    ],
-    "country": "us",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
-    "nanoid": "SXXD7LkybSJoJB",
-    "name": "The Reggae Spin: Soca Zone",
-    "stream_urls": [
-      "https://reggaespin.media/radio/8020/radio.mp3"
     ],
     "country": "us",
     "languages": [

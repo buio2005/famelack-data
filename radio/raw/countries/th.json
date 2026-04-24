@@ -56,6 +56,17 @@
     ]
   },
   {
+    "nanoid": "8o4vJbWlTeXKPL",
+    "name": "Chula Radio Plus 101.5 FM",
+    "stream_urls": [
+      "https://media.curadio.chula.ac.th/live/liveradio128/playlist.m3u8"
+    ],
+    "country": "th",
+    "languages": [
+      "tha"
+    ]
+  },
+  {
     "nanoid": "R2p6j2Gml5fJXD",
     "name": "City Radio Pattaya 90.25 FM",
     "stream_urls": [
@@ -133,10 +144,10 @@
     ]
   },
   {
-    "nanoid": "FdsGPW8B2hwDXK",
-    "name": "Looktung Eingdoi",
+    "nanoid": "VjLp1NbXJPvWHA",
+    "name": "Looktung Network 98.5 FM",
     "stream_urls": [
-      "https://radio.garden/api/ara/content/listen/8n_MZrpC/channel.mp3"
+      "https://cdn-th2.livestreaming.in.th/shoutcast/8200"
     ],
     "country": "th",
     "languages": [
@@ -144,10 +155,32 @@
     ]
   },
   {
-    "nanoid": "VjLp1NbXJPvWHA",
-    "name": "Looktung Network 98.5 FM",
+    "nanoid": "LRS2L9jbrrmJXh",
+    "name": "MCOT Chumphon 104.75 FM",
     "stream_urls": [
-      "https://cdn-th2.livestreaming.in.th/shoutcast/8200"
+      "https://lb-media.mcot.net/RegionRadio/ChumphonLangsuan.stream_aac/playlist.m3u8"
+    ],
+    "country": "th",
+    "languages": [
+      "tha"
+    ]
+  },
+  {
+    "nanoid": "J5XA67cagaMfI1",
+    "name": "MCOT Loei 100 FM",
+    "stream_urls": [
+      "https://lb-media.mcot.net/RegionRadio/Loei.stream_aac/playlist.m3u8"
+    ],
+    "country": "th",
+    "languages": [
+      "tha"
+    ]
+  },
+  {
+    "nanoid": "bi8kLhJce3qmgL",
+    "name": "MCOT Radio Chiangmai 100.75 FM",
+    "stream_urls": [
+      "https://live-org-01-cdn.mcot.net/RegionRadio/ChiangMai.stream_aac/playlist.m3u8"
     ],
     "country": "th",
     "languages": [
@@ -210,10 +243,10 @@
     ]
   },
   {
-    "nanoid": "iDx7m0Ga4XSZWT",
-    "name": "Thai Lanna Radio 106.5 FM",
+    "nanoid": "bmaiEwKuBfMp0N",
+    "name": "Thai PBS",
     "stream_urls": [
-      "https://inter.lannaradio.com/radio/8000/radio.mp3"
+      "https://thaipbs-live.cdn.byteark.com/live-en/playlist_720p/index.m3u8"
     ],
     "country": "th",
     "languages": [
@@ -221,10 +254,21 @@
     ]
   },
   {
-    "nanoid": "bmaiEwKuBfMp0N",
-    "name": "Thai PBS",
+    "nanoid": "lpezO4TDatKHkK",
+    "name": "Thinking Radio 96.5 FM",
     "stream_urls": [
-      "https://thaipbs-live.cdn.byteark.com/live-en/playlist_720p/index.m3u8"
+      "https://live-org-01-cdn.mcot.net/radiocdn_edge/fm965.stream_aac/chunklist.m3u8"
+    ],
+    "country": "th",
+    "languages": [
+      "tha"
+    ]
+  },
+  {
+    "nanoid": "D978qI8Y9Ps4Ky",
+    "name": "Top News",
+    "stream_urls": [
+      "https://live.topnews.co.th/hls/topnews_a_240.m3u8"
     ],
     "country": "th",
     "languages": [

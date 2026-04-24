@@ -1,5 +1,39 @@
 [
   {
+    "nanoid": "DrsEF8tv39HHeY",
+    "name": "Avtoradio",
+    "stream_urls": [
+      "https://tv.cdn.xsg.ge/cld9-0386/avtoradio/tracks-a1/mono.m3u8"
+    ],
+    "country": "ge",
+    "languages": [
+      "kat"
+    ]
+  },
+  {
+    "nanoid": "PsZ39JP25LAMon",
+    "name": "GPB Radio 1",
+    "stream_urls": [
+      "https://tv.cdn.xsg.ge/gpb-radio1/tracks-a1/mono.m3u8"
+    ],
+    "country": "ge",
+    "languages": [
+      "kat"
+    ]
+  },
+  {
+    "nanoid": "uYenrtmRlQOzA2",
+    "name": "GPB Radio 2",
+    "stream_urls": [
+      "https://tv.cdn.xsg.ge/gpb-radio2/tracks-a1/mono.m3u8",
+      "https://tv.cdn.xsg.ge/gpb-radio2/tracks-a1/index.m3u8"
+    ],
+    "country": "ge",
+    "languages": [
+      "kat"
+    ]
+  },
+  {
     "nanoid": "RT3CrgfS8nFMwC",
     "name": "LF Radio",
     "stream_urls": [
@@ -47,10 +81,56 @@
     ]
   },
   {
+    "nanoid": "WowJKkWxDm46jk",
+    "name": "Radio Ar Daidardo",
+    "stream_urls": [
+      "https://tv.cdn.xsg.ge/cld9-0386/ardaidardo/tracks-a1/mono.m3u8"
+    ],
+    "country": "ge",
+    "languages": [
+      "kat"
+    ]
+  },
+  {
+    "nanoid": "uAjmezILxrMZ1R",
+    "name": "Radio Chveneburi",
+    "stream_urls": [
+      "https://radio.cdn.xsg.ge/cld9-1050/chveneburi/tracks-a1/mono.m3u8",
+      "https://radio.cdn.xsg.ge/cld9-1050/chveneburi/index.m3u8"
+    ],
+    "country": "ge",
+    "languages": [
+      "kat"
+    ]
+  },
+  {
+    "nanoid": "zd1u0JJ21zUKIL",
+    "name": "Radio Commersant",
+    "stream_urls": [
+      "https://radio.cdn.xsg.ge/fm-commersant-95.5/tracks-a1/mono.m3u8"
+    ],
+    "country": "ge",
+    "languages": [
+      "kat"
+    ]
+  },
+  {
     "nanoid": "86tQRYt2943voC",
     "name": "Radio Imedi",
     "stream_urls": [
-      "https://tv.cdn.xsg.ge/radioimedi/stream01/shoutcast"
+      "https://tv.cdn.xsg.ge/radioimedi/stream01/shoutcast",
+      "https://tv.cdn.xsg.ge/radioimedi/stream01/index.m3u8"
+    ],
+    "country": "ge",
+    "languages": [
+      "kat"
+    ]
+  },
+  {
+    "nanoid": "z6ZRQkRyisVHO0",
+    "name": "Radio Obieqtivi",
+    "stream_urls": [
+      "https://nue01-edge01.itdc.ge/fm-obieqtivi-105.1/mono.m3u8"
     ],
     "country": "ge",
     "languages": [

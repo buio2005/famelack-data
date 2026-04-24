@@ -43,6 +43,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "o5kbiFCgZZTyJH",
+    "name": "Al Jazeera 2",
+    "stream_urls": [
+      "https://live-hls-web-aja2-gcp.thehlive.com/AJA2/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "ara"
+    ],
+    "country": "qa",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "bCMGnYsgr2wSQW",
     "name": "Al Jazeera Arabic",
     "stream_urls": [],
@@ -201,8 +214,7 @@
     "nanoid": "nRS5DLp96YBtfJ",
     "name": "Qatar Television 2",
     "stream_urls": [
-      "https://live.kwikmotion.com/qtv2live/qtv2.smil/playlist.m3u8",
-      "https://qatartv.akamaized.net/hls/live/2026574/qtv2/master.m3u8"
+      "https://live.kwikmotion.com/qtv2live/qtv2.smil/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [

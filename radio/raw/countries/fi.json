@@ -1,5 +1,27 @@
 [
   {
+    "nanoid": "GxepAcldCjuver",
+    "name": "Aito Iskelmä",
+    "stream_urls": [
+      "https://aud-stream-aitoiskelma.nm-elemental.nelonenmedia.fi/playlist-256000.m3u8"
+    ],
+    "country": "fi",
+    "languages": [
+      "fin"
+    ]
+  },
+  {
+    "nanoid": "nfDFCUiGVFgDs9",
+    "name": "Classic Hits",
+    "stream_urls": [
+      "https://aud-stream-classichits.nm-elemental.nelonenmedia.fi/playlist-256000.m3u8"
+    ],
+    "country": "fi",
+    "languages": [
+      "fin"
+    ]
+  },
+  {
     "nanoid": "QHuVOu5iN9WbsY",
     "name": "Doubleclap Radio",
     "stream_urls": [
@@ -13,10 +35,55 @@
     ]
   },
   {
+    "nanoid": "fWJ4HgXAzbDo7i",
+    "name": "Easy Hits",
+    "stream_urls": [
+      "https://aud-stream-easyhits.nm-elemental.nelonenmedia.fi/playlist-256000.m3u8"
+    ],
+    "country": "fi",
+    "languages": [
+      "fin"
+    ]
+  },
+  {
+    "nanoid": "PXJNu3UTO9ZUVN",
+    "name": "Groove FM",
+    "stream_urls": [
+      "https://aud-stream-groove.nm-elemental.nelonenmedia.fi/playlist.m3u8",
+      "https://aud-stream-groove.nm-elemental.nelonenmedia.fi/playlist-256000.m3u8"
+    ],
+    "country": "fi",
+    "languages": [
+      "fin"
+    ]
+  },
+  {
+    "nanoid": "4Y14qYqLM6LA6c",
+    "name": "HitMix",
+    "stream_urls": [
+      "https://aud-stream-hitmix.nm-elemental.nelonenmedia.fi/playlist-256000.m3u8"
+    ],
+    "country": "fi",
+    "languages": [
+      "fin"
+    ]
+  },
+  {
     "nanoid": "eLPYrpdP4pWwlf",
     "name": "Järviradio",
     "stream_urls": [
       "https://jarviradio.radiotaajuus.fi:9000/jr"
+    ],
+    "country": "fi",
+    "languages": [
+      "fin"
+    ]
+  },
+  {
+    "nanoid": "r5quVvdhanI7dq",
+    "name": "Kantriradio",
+    "stream_urls": [
+      "https://aud-stream-kantriradio.nm-elemental.nelonenmedia.fi/playlist-256000.m3u8"
     ],
     "country": "fi",
     "languages": [
@@ -54,6 +121,17 @@
     "country": "fi",
     "languages": [
       "eng"
+    ]
+  },
+  {
+    "nanoid": "idav5tHgNT1t2B",
+    "name": "Loop",
+    "stream_urls": [
+      "https://aud-stream-loop.nm-elemental.nelonenmedia.fi/playlist-256000.m3u8"
+    ],
+    "country": "fi",
+    "languages": [
+      "fin"
     ]
   },
   {
@@ -123,6 +201,17 @@
     ]
   },
   {
+    "nanoid": "Op704nvrZbOB5n",
+    "name": "Radio Kaleva",
+    "stream_urls": [
+      "https://radiokaleva.digitacdn.net/radio/kaleva/master.m3u8"
+    ],
+    "country": "fi",
+    "languages": [
+      "fin"
+    ]
+  },
+  {
     "nanoid": "RppjFFknNSXJAS",
     "name": "Radio Keskisuomalainen",
     "stream_urls": [
@@ -180,6 +269,18 @@
     ]
   },
   {
+    "nanoid": "3OHf9XEIrvDemo",
+    "name": "Radio Rock",
+    "stream_urls": [
+      "https://aud-stream-radiorock.nm-elemental.nelonenmedia.fi/playlist.m3u8",
+      "https://aud-stream-radiorock.nm-elemental.nelonenmedia.fi/playlist-256000.m3u8"
+    ],
+    "country": "fi",
+    "languages": [
+      "fin"
+    ]
+  },
+  {
     "nanoid": "UpQam29cBmfZdG",
     "name": "Radio Sandels",
     "stream_urls": [
@@ -207,6 +308,18 @@
     "name": "Radio SUN",
     "stream_urls": [
       "https://st.downtime.fi/sun.mp3"
+    ],
+    "country": "fi",
+    "languages": [
+      "fin"
+    ]
+  },
+  {
+    "nanoid": "BulldgTnQeQOhT",
+    "name": "Radio Suomipop",
+    "stream_urls": [
+      "https://aud-stream-suomipop.nm-elemental.nelonenmedia.fi/playlist.m3u8",
+      "https://aud-stream-suomipop.nm-elemental.nelonenmedia.fi/playlist-256000.m3u8"
     ],
     "country": "fi",
     "languages": [
@@ -315,6 +428,18 @@
     ]
   },
   {
+    "nanoid": "RKzBafKcXmEBL6",
+    "name": "SR Sisuradio",
+    "stream_urls": [
+      "https://live1.sr.se/finska-aac-320"
+    ],
+    "country": "fi",
+    "languages": [
+      "fin",
+      "swe"
+    ]
+  },
+  {
     "nanoid": "aO4M8kfLXxbZOn",
     "name": "Tick Tock Radio 1950s",
     "stream_urls": [
@@ -340,7 +465,8 @@
     "nanoid": "VGj2fpuySieN4P",
     "name": "Yle Klassinen",
     "stream_urls": [
-      "https://icecast.live.yle.fi/radio/YleKlassinen/icecast.audio"
+      "https://icecast.live.yle.fi/radio/YleKlassinen/icecast.audio",
+      "https://yleradiolive.akamaized.net/hls/live/2027676/in-YleKlassinen/master.m3u8"
     ],
     "country": "fi",
     "languages": [
@@ -351,7 +477,8 @@
     "nanoid": "F4PQbEYwh1AFCp",
     "name": "Yle Radio 1",
     "stream_urls": [
-      "https://icecast.live.yle.fi/radio/YleRadio1Hifi/icecast.audio"
+      "https://icecast.live.yle.fi/radio/YleRadio1Hifi/icecast.audio",
+      "https://yleradiolive.akamaized.net/hls/live/2027672/in-YleRadio1/master.m3u8"
     ],
     "country": "fi",
     "languages": [
@@ -362,8 +489,8 @@
     "nanoid": "mcL2kavpQ2X98h",
     "name": "Yle Radio Suomi Helsinki",
     "stream_urls": [
-      "https://yleradiolive.akamaized.net/hls/live/2027675/in-YleRS/256/variant.m3u8",
-      "https://icecast.live.yle.fi/radio/YleRS/icecast.audio"
+      "https://icecast.live.yle.fi/radio/YleRS/icecast.audio",
+      "https://yleradiolive.akamaized.net/hls/live/2027675/in-YleRS/256/variant.m3u8"
     ],
     "country": "fi",
     "languages": [
@@ -386,6 +513,17 @@
     "name": "Yle Radio Suomi Jyväskylä",
     "stream_urls": [
       "https://icecast.live.yle.fi/radio/YleJKL/icecast.audio"
+    ],
+    "country": "fi",
+    "languages": [
+      "fin"
+    ]
+  },
+  {
+    "nanoid": "Vm0OgwlcKV751p",
+    "name": "Yle Radio Suomi Kemi",
+    "stream_urls": [
+      "https://yleradiolive.akamaized.net/hls/live/2027706/in-YleKemi/master.m3u8"
     ],
     "country": "fi",
     "languages": [
@@ -419,6 +557,17 @@
     "name": "Yle Radio Suomi Lahti",
     "stream_urls": [
       "https://icecast.live.yle.fi/radio/YleLahti/icecast.audio"
+    ],
+    "country": "fi",
+    "languages": [
+      "fin"
+    ]
+  },
+  {
+    "nanoid": "lYbcBTqxPL2KLR",
+    "name": "Yle Radio Suomi Lappeenranta",
+    "stream_urls": [
+      "https://yleradiolive.akamaized.net/hls/live/2027711/in-YleLPR/master.m3u8"
     ],
     "country": "fi",
     "languages": [
@@ -503,6 +652,17 @@
     ]
   },
   {
+    "nanoid": "Kkkud6mppcAiRs",
+    "name": "Yle Radio Vega",
+    "stream_urls": [
+      "https://yleradiolive.akamaized.net/hls/live/2027679/in-YleVega/master.m3u8"
+    ],
+    "country": "fi",
+    "languages": [
+      "swe"
+    ]
+  },
+  {
     "nanoid": "chjr154j6ALdBV",
     "name": "Yle Radio Vega Västnyland",
     "stream_urls": [
@@ -548,10 +708,22 @@
     ]
   },
   {
+    "nanoid": "C5kVSBc8ytRp20",
+    "name": "Yle Sámi Radio",
+    "stream_urls": [
+      "https://yleradiolive.akamaized.net/hls/live/2027680/in-YleSami/master.m3u8"
+    ],
+    "country": "fi",
+    "languages": [
+      "sme"
+    ]
+  },
+  {
     "nanoid": "dnZLj7n35vWJ2A",
     "name": "Yle X3M",
     "stream_urls": [
-      "https://icecast.live.yle.fi/radio/YleX3M/icecast.audio"
+      "https://icecast.live.yle.fi/radio/YleX3M/icecast.audio",
+      "https://yleradiolive.akamaized.net/hls/live/2027678/in-YleX3M/master.m3u8"
     ],
     "country": "fi",
     "languages": [
@@ -563,7 +735,8 @@
     "nanoid": "bVIydSWCoPdIX7",
     "name": "YleX",
     "stream_urls": [
-      "https://icecast.live.yle.fi/radio/YleX/icecast.audio"
+      "https://icecast.live.yle.fi/radio/YleX/icecast.audio",
+      "https://yleradiolive.akamaized.net/hls/live/2027674/in-YleX/master.m3u8"
     ],
     "country": "fi",
     "languages": [

@@ -22,17 +22,6 @@
     ]
   },
   {
-    "nanoid": "lLrn8IrrgGsuXP",
-    "name": "Azatlyk Radiosy (RFE/RL)",
-    "stream_urls": [
-      "https://n0f.radiojar.com/gdmva69nn3quv"
-    ],
-    "country": "cz",
-    "languages": [
-      "tuk"
-    ]
-  },
-  {
     "nanoid": "fQ7rq1Qw08bxTa",
     "name": "Bikers Radio Doupě",
     "stream_urls": [
@@ -158,8 +147,8 @@
     "nanoid": "OMAr1EUlFsDa4j",
     "name": "Dance Radio",
     "stream_urls": [
-      "https://ice.actve.net/dance-radio320.mp3",
-      "https://ice.actve.net/dance-radio128.mp3"
+      "https://ice.actve.net/dance-radio128.mp3",
+      "https://ice.actve.net/dance-radio320.mp3"
     ],
     "country": "cz",
     "languages": [
@@ -272,8 +261,7 @@
     "nanoid": "IJAGOUeFV1RXaB",
     "name": "Frekvence 1",
     "stream_urls": [
-      "https://playerservices.streamtheworld.com/api/livestream-redirect/FREKVENCE1.mp3",
-      "https://ice.actve.net/fm-frekvence1-aac"
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/FREKVENCE1.mp3"
     ],
     "country": "cz",
     "languages": [
@@ -361,9 +349,9 @@
     "nanoid": "eXnUcUp43nl03J",
     "name": "Hitrádio Devadesátka",
     "stream_urls": [
-      "https://ice.abradio.cz/hit90128.mp3",
       "https://ice2.radia.cz/hit90128.aac",
-      "https://radia.cz/spa/assets/c8516a638fbaff4ae963.mp3"
+      "https://radia.cz/spa/assets/c8516a638fbaff4ae963.mp3",
+      "https://ice.abradio.cz/hit90128.mp3"
     ],
     "country": "cz",
     "languages": [
@@ -404,17 +392,6 @@
     ]
   },
   {
-    "nanoid": "XVeP1VVpDvAPsG",
-    "name": "Hitrádio FM Plus",
-    "stream_urls": [
-      "https://playerservices.streamtheworld.com/api/livestream-redirect/HITRADIO_FMPLUS_128.mp3"
-    ],
-    "country": "cz",
-    "languages": [
-      "ces"
-    ]
-  },
-  {
     "nanoid": "EMrxlHBJ9DrR1t",
     "name": "Hitrádio Orion",
     "stream_urls": [
@@ -429,8 +406,8 @@
     "nanoid": "TmewxmEhvi54Zz",
     "name": "Hitrádio Osmdesátka",
     "stream_urls": [
-      "https://ice.abradio.cz/hit80128.mp3",
-      "https://27753.live.streamtheworld.com/HITRADIO_OSMDESATKA.aac"
+      "https://27753.live.streamtheworld.com/HITRADIO_OSMDESATKA.aac",
+      "https://ice.abradio.cz/hit80128.mp3"
     ],
     "country": "cz",
     "languages": [
@@ -539,10 +516,32 @@
     ]
   },
   {
+    "nanoid": "nKBgAOYuXNODeQ",
+    "name": "Mňau TV",
+    "stream_urls": [
+      "https://5ca49f2417d90.streamlock.net/mnau/livestream/playlist.m3u8"
+    ],
+    "country": "cz",
+    "languages": [
+      "ces"
+    ]
+  },
+  {
     "nanoid": "Al1LUXRdSka4wI",
     "name": "Netro Life Radio 100.8 FM",
     "stream_urls": [
       "https://icecast9.play.cz/netro-life-radio.mp3"
+    ],
+    "country": "cz",
+    "languages": [
+      "ces"
+    ]
+  },
+  {
+    "nanoid": "JyWGjeEOS42MAU",
+    "name": "OIK TV",
+    "stream_urls": [
+      "https://streamer05.low-latency.cz/oiktv/index.m3u8"
     ],
     "country": "cz",
     "languages": [
@@ -609,6 +608,17 @@
     "name": "Pigy.cz - Písničky z pohádek",
     "stream_urls": [
       "https://ice.actve.net/web-pg-pisnicky"
+    ],
+    "country": "cz",
+    "languages": [
+      "ces"
+    ]
+  },
+  {
+    "nanoid": "cmE5gEsYuRQ1j6",
+    "name": "Plzeň TV",
+    "stream_urls": [
+      "https://vysilani.zaktv.cz/broadcast/hls/ptv/index.m3u8"
     ],
     "country": "cz",
     "languages": [
@@ -738,17 +748,6 @@
     "languages": [
       "ces",
       "eng"
-    ]
-  },
-  {
-    "nanoid": "IZNsjmVXvxsFh9",
-    "name": "Radio Dechovka",
-    "stream_urls": [
-      "https://icecast5.play.cz/dechovka128.mp3"
-    ],
-    "country": "cz",
-    "languages": [
-      "ces"
     ]
   },
   {
@@ -918,7 +917,8 @@
     "nanoid": "9Fm4EDZRBTqgYL",
     "name": "Radio Proglas",
     "stream_urls": [
-      "https://icecast2.play.cz/proglas128"
+      "https://icecast2.play.cz/proglas128",
+      "https://icecast1.play.cz/proglas96aac"
     ],
     "country": "cz",
     "languages": [
@@ -973,8 +973,8 @@
     "nanoid": "mY7XCmRIm0Tgdh",
     "name": "Radio Čas Rock",
     "stream_urls": [
-      "https://icecast6.play.cz/casrock128.mp3",
-      "https://icecast9.play.cz/casrock192.mp3"
+      "https://icecast9.play.cz/casrock192.mp3",
+      "https://icecast6.play.cz/casrock128.mp3"
     ],
     "country": "cz",
     "languages": [
@@ -1052,9 +1052,9 @@
     "nanoid": "5fvvYKgcfNQz7K",
     "name": "Rádio Beat",
     "stream_urls": [
+      "https://icecast2.play.cz/beat128aac",
       "https://icecast1.play.cz/beat64.mp3",
-      "https://icecast2.play.cz/radiobeat128.mp3",
-      "https://icecast2.play.cz/beat128aac"
+      "https://icecast2.play.cz/radiobeat128.mp3"
     ],
     "country": "cz",
     "languages": [
@@ -1065,10 +1065,9 @@
     "nanoid": "GheUoLEPQNZilv",
     "name": "Rádio Blaník",
     "stream_urls": [
-      "https://ice.abradio.cz/blanikcz128.mp3",
       "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_BLANIK.aac",
       "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_BLANIK_128.mp3",
-      "https://ice.abradio.cz/blanikfm128.mp3"
+      "https://ice.abradio.cz/blanikcz128.mp3"
     ],
     "country": "cz",
     "languages": [
@@ -1135,6 +1134,17 @@
     "name": "Rádio Humor",
     "stream_urls": [
       "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_HUMOR.aac"
+    ],
+    "country": "cz",
+    "languages": [
+      "ces"
+    ]
+  },
+  {
+    "nanoid": "95s9esTqP8uBeV",
+    "name": "Rádio Hvězda",
+    "stream_urls": [
+      "https://hls.hvezda.info/session01/128k/s.m3u8"
     ],
     "country": "cz",
     "languages": [
@@ -1267,8 +1277,8 @@
     "nanoid": "Y092PJAm8VTgON",
     "name": "Rádio Samson",
     "stream_urls": [
-      "https://icecast8.play.cz/samsonfm128.mp3",
-      "https://icecast2.play.cz/samsonfm128aac"
+      "https://icecast2.play.cz/samsonfm128aac",
+      "https://icecast8.play.cz/samsonfm128.mp3"
     ],
     "country": "cz",
     "languages": [
@@ -1280,6 +1290,17 @@
     "name": "Rádio Sázava",
     "stream_urls": [
       "https://icecast8.play.cz/sazava192.mp3"
+    ],
+    "country": "cz",
+    "languages": [
+      "ces"
+    ]
+  },
+  {
+    "nanoid": "bEcOwXIFX5SKeB",
+    "name": "Rádio Xaver",
+    "stream_urls": [
+      "https://icecast6.play.cz/radio-xaver.aac"
     ],
     "country": "cz",
     "languages": [
@@ -1335,6 +1356,17 @@
     "name": "Stanice Hvězda",
     "stream_urls": [
       "https://fire.doscast.com:8038/stream"
+    ],
+    "country": "cz",
+    "languages": [
+      "ces"
+    ]
+  },
+  {
+    "nanoid": "W1pCboQfDyCW5p",
+    "name": "Televize JČ1",
+    "stream_urls": [
+      "https://stream.jc1.cz/hls/jc1.m3u8"
     ],
     "country": "cz",
     "languages": [
@@ -1429,6 +1461,28 @@
     "stream_urls": [
       "https://stream.zunradio.cz/zun3.mp3",
       "https://icecast9.play.cz/zun48.aac"
+    ],
+    "country": "cz",
+    "languages": [
+      "ces"
+    ]
+  },
+  {
+    "nanoid": "KubRiZtKK0SDN9",
+    "name": "Óčko Expres",
+    "stream_urls": [
+      "https://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist/cze/live_lq.m3u8"
+    ],
+    "country": "cz",
+    "languages": [
+      "ces"
+    ]
+  },
+  {
+    "nanoid": "NZufwd0v0FAmTu",
+    "name": "Óčko TV",
+    "stream_urls": [
+      "https://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist/cze/live_lq.m3u8"
     ],
     "country": "cz",
     "languages": [
@@ -1537,32 +1591,21 @@
     ]
   },
   {
+    "nanoid": "IMx6be6LKldi9m",
+    "name": "ČRo Olomouc",
+    "stream_urls": [
+      "https://rozhlas.stream/olomouc_high.aac"
+    ],
+    "country": "cz",
+    "languages": [
+      "ces"
+    ]
+  },
+  {
     "nanoid": "Z9rX60A0ug0n1w",
     "name": "ČRo Ostrava",
     "stream_urls": [
       "https://rozhlas.stream/ostrava_high.aac"
-    ],
-    "country": "cz",
-    "languages": [
-      "ces"
-    ]
-  },
-  {
-    "nanoid": "7lzBZt745ev5at",
-    "name": "ČRo Pardubice",
-    "stream_urls": [
-      "https://rozhlas.stream/pardubice_high.aac"
-    ],
-    "country": "cz",
-    "languages": [
-      "ces"
-    ]
-  },
-  {
-    "nanoid": "TGCDQZOWi5a0m2",
-    "name": "ČRo Plus",
-    "stream_urls": [
-      "https://rozhlas.stream/plus_high.aac"
     ],
     "country": "cz",
     "languages": [
@@ -1666,6 +1709,17 @@
     ]
   },
   {
+    "nanoid": "yyH3ClkLu9QsFw",
+    "name": "ČRo Rádio Praha",
+    "stream_urls": [
+      "https://rozhlas.stream/radio_dab_praha_high.aac"
+    ],
+    "country": "cz",
+    "languages": [
+      "ces"
+    ]
+  },
+  {
     "nanoid": "BwgimflrslsvAo",
     "name": "ČRo Sever",
     "stream_urls": [
@@ -1758,7 +1812,8 @@
     "nanoid": "z0en9nqfJJYyTg",
     "name": "Крым.Реалии",
     "stream_urls": [
-      "https://stream.radiojar.com/wm9sntcpn3quv"
+      "https://stream.radiojar.com/wm9sntcpn3quv",
+      "https://rfe-ingest.akamaized.net/hls/live/2035288/axia19/playlist.m3u8"
     ],
     "country": "cz",
     "languages": [
@@ -1771,10 +1826,8 @@
     "name": "Радио Свобода",
     "stream_urls": [
       "https://n0c.radiojar.com/hcrb063nn3quv",
-      "https://n01.radiojar.com/hcrb063nn3quv",
       "https://stream.radiojar.com/hcrb063nn3quv",
-      "https://n08.radiojar.com/hcrb063nn3quv",
-      "https://rfe04.akacast.akamaistream.net/7/509/437762/v1/ibb.akacast.akamaistream.net/rfe04"
+      "https://n01.radiojar.com/hcrb063nn3quv"
     ],
     "country": "cz",
     "languages": [

@@ -92,7 +92,8 @@
     "nanoid": "6Pz7JeWO758ZYA",
     "name": "Laluna",
     "stream_urls": [
-      "https://radio.m-1.fm/laluna/mp3"
+      "https://radio.m-1.fm/laluna/mp3",
+      "https://radio.m-1.fm/laluna/high"
     ],
     "country": "lt",
     "languages": [
@@ -113,6 +114,39 @@
     ]
   },
   {
+    "nanoid": "4odJUmAte7ndLU",
+    "name": "LRT Klasika",
+    "stream_urls": [
+      "https://stream-live.lrt.lt/klasika/master.m3u8"
+    ],
+    "country": "lt",
+    "languages": [
+      "lit"
+    ]
+  },
+  {
+    "nanoid": "G6EuWcTjwCJiX0",
+    "name": "LRT Opus",
+    "stream_urls": [
+      "https://stream-live.lrt.lt/opus/master.m3u8"
+    ],
+    "country": "lt",
+    "languages": [
+      "lit"
+    ]
+  },
+  {
+    "nanoid": "Jyj4abUzH3kJou",
+    "name": "LRT Radijas",
+    "stream_urls": [
+      "https://stream-live.lrt.lt/radijas/master.m3u8"
+    ],
+    "country": "lt",
+    "languages": [
+      "lit"
+    ]
+  },
+  {
     "nanoid": "dq53UWXxz4tLU4",
     "name": "M-1",
     "stream_urls": [
@@ -125,22 +159,11 @@
     ]
   },
   {
-    "nanoid": "WHK5Z5UuNYBrLg",
-    "name": "M-1 Dance",
-    "stream_urls": [
-      "https://radio.m-1.fm/m-1dance/aac"
-    ],
-    "country": "lt",
-    "languages": [
-      "lit"
-    ]
-  },
-  {
     "nanoid": "X0BSt0gDeLsuzm",
     "name": "M-1 Plius",
     "stream_urls": [
-      "https://radio.m-1.fm/m1plius/mp3",
-      "https://radio.m-1.fm/m1plius/aacp64"
+      "https://radio.m-1.fm/m1plius/aacp64",
+      "https://radio.m-1.fm/m1plius/mp3"
     ],
     "country": "lt",
     "languages": [
@@ -163,7 +186,20 @@
     "nanoid": "zfR8RHAFT9b0qI",
     "name": "Pasaulio muzikos radijas (PMR)",
     "stream_urls": [
-      "https://pmr.lt/streams/pmr-1"
+      "https://pmr.lt/streams/pmr-1",
+      "https://pmr.lt/streams/pmr-2",
+      "https://pmr.lt/streams/pmr-3"
+    ],
+    "country": "lt",
+    "languages": [
+      "lit"
+    ]
+  },
+  {
+    "nanoid": "bzLH14yRYfaTLI",
+    "name": "Patejago Radijas",
+    "stream_urls": [
+      "https://stream-46.zeno.fm/f6m1zbud5p8uv"
     ],
     "country": "lt",
     "languages": [
@@ -195,21 +231,23 @@
     ]
   },
   {
+    "nanoid": "3JTAO6cuAB4OCb",
+    "name": "Power Radio",
+    "stream_urls": [
+      "https://cast1.my-control-panel.com/proxy/eventas/stream"
+    ],
+    "country": "lt",
+    "languages": [
+      "eng",
+      "lit",
+      "rus"
+    ]
+  },
+  {
     "nanoid": "yEIWjyKSTM1HZI",
     "name": "Pulsas",
     "stream_urls": [
       "https://pulsas.lt/stream"
-    ],
-    "country": "lt",
-    "languages": [
-      "lit"
-    ]
-  },
-  {
-    "nanoid": "uQPWTmycvESPoc",
-    "name": "RA-8",
-    "stream_urls": [
-      "https://stream.zeno.fm/aae76827qtzuv"
     ],
     "country": "lt",
     "languages": [

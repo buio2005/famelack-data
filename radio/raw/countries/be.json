@@ -47,7 +47,9 @@
     "nanoid": "b13AV4CxtWu079",
     "name": "AFN 360 Benelux",
     "stream_urls": [
-      "https://playerservices.streamtheworld.com/api/livestream-redirect/AFNE_BLX_SC"
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/AFNE_BLX_SC",
+      "https://25553.live.streamtheworld.com:443/AFNE_BLX_SC",
+      "https://27913.live.streamtheworld.com:443/AFNE_BLX_SC"
     ],
     "country": "be",
     "languages": [
@@ -372,8 +374,8 @@
     "nanoid": "kvtu9VGWkkYwOO",
     "name": "Classic 21 Metal",
     "stream_urls": [
-      "https://radio.rtbf.be/c21-metal/aac-128/fl",
-      "https://radios.rtbf.be/wr-c21-metal-128.mp3"
+      "https://radios.rtbf.be/wr-c21-metal-128.mp3",
+      "https://radio.rtbf.be/c21-metal/aac-128/fl"
     ],
     "country": "be",
     "languages": [
@@ -539,7 +541,8 @@
     "nanoid": "phIpzvavUYYYI2",
     "name": "Fun Radio Belgique",
     "stream_urls": [
-      "https://funradiobe.ice.infomaniak.ch/funradiobe-high"
+      "https://funradiobe.ice.infomaniak.ch/funradiobe-high",
+      "https://funradiobe.ice.infomaniak.ch/funradiobe-high.mp3"
     ],
     "country": "be",
     "languages": [
@@ -566,6 +569,18 @@
     "country": "be",
     "languages": [
       "fra"
+    ]
+  },
+  {
+    "nanoid": "x8sJXaK5Cs9uX1",
+    "name": "GothVille Radio",
+    "stream_urls": [
+      "https://gothville.radio/listen/gothville/radio.mp3",
+      "https://streams.radio.co/s62583474c/listen"
+    ],
+    "country": "be",
+    "languages": [
+      "eng"
     ]
   },
   {
@@ -629,9 +644,9 @@
     "nanoid": "cSghZvAuLOn3MJ",
     "name": "Instrumentals Forever",
     "stream_urls": [
+      "https://quincy.torontocast.com:1925/stream",
       "https://quincy.torontocast.com:1910/stream",
-      "https://quincy.torontocast.com:1920/stream",
-      "https://quincy.torontocast.com:1925/stream"
+      "https://quincy.torontocast.com:1920/stream"
     ],
     "country": "be",
     "languages": [
@@ -1545,8 +1560,8 @@
     "nanoid": "rQuryvV0JLtrrg",
     "name": "Radio Opsinjoor",
     "stream_urls": [
-      "https://mooiradio.live-streams.nl/",
-      "https://icecast.movemedia.be/opsinjoor"
+      "https://icecast.movemedia.be/opsinjoor",
+      "https://mooiradio.live-streams.nl/"
     ],
     "country": "be",
     "languages": [
@@ -1686,17 +1701,6 @@
     ]
   },
   {
-    "nanoid": "t75DGbo3FGvGXL",
-    "name": "Radio Zoe Gold",
-    "stream_urls": [
-      "https://streams.movemedia.eu/zoegold128"
-    ],
-    "country": "be",
-    "languages": [
-      "nld"
-    ]
-  },
-  {
     "nanoid": "zu4ubqbwHRVod9",
     "name": "Radyo Gar",
     "stream_urls": [
@@ -1778,6 +1782,17 @@
     "name": "RGR FM",
     "stream_urls": [
       "https://uplink.intronic.nl/rgrfm"
+    ],
+    "country": "be",
+    "languages": [
+      "nld"
+    ]
+  },
+  {
+    "nanoid": "Ksh1Xd5wLqREx8",
+    "name": "Rowyna",
+    "stream_urls": [
+      "https://server5.radio-streams.net:8048/stream"
     ],
     "country": "be",
     "languages": [
@@ -1927,6 +1942,19 @@
     "country": "be",
     "languages": [
       "fra"
+    ]
+  },
+  {
+    "nanoid": "ZEHJ02ZCm3eQUt",
+    "name": "Slow Radio",
+    "stream_urls": [
+      "https://stream1.slowradio.com",
+      "https://stream2.slowradio.com",
+      "https://stream3.slowradio.com"
+    ],
+    "country": "be",
+    "languages": [
+      "nld"
     ]
   },
   {
@@ -2170,7 +2198,6 @@
     "name": "VRT Radio 1",
     "stream_urls": [
       "https://icecast.vrtcdn.be/radio1-high.mp3",
-      "https://f8e0a3fc90d142e68cd424a56b220f0d.mediatailor.us-east-1.amazonaws.com/v1/manifest/7c1b669ef36eb1e845184b6345b06cd264fc4eb7/5bzs1cW9_vrt-audio-only-v1/d65e4279-e3bc-4151-af02-02ffe699135d/0.m3u8",
       "https://icecast.vrtcdn.be/radio1.aac",
       "https://icecast.vrtcdn.be/radio1-mid.mp3"
     ],
@@ -2284,8 +2311,7 @@
     "stream_urls": [
       "https://icecast-qmusicbe-cdp.triple-it.nl/willy-class-x.aac",
       "https://streams.radio.dpgmedia.cloud/redirect/willy_be/aac",
-      "https://streams.radio.dpgmedia.cloud/redirect/willy_be_class_x/aac",
-      "https://streams.radio.dpgmedia.cloud/redirect/willy_be_class_x/mp3"
+      "https://streams.radio.dpgmedia.cloud/redirect/willy_be_class_x/aac"
     ],
     "country": "be",
     "languages": [

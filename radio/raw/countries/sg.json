@@ -25,8 +25,8 @@
     "nanoid": "lok9bpHW6PkUDo",
     "name": "973FM: Blasts That Last",
     "stream_urls": [
-      "https://c16.radioboss.fm:8115/autodj",
-      "https://c16.radioboss.fm:18115/stream"
+      "https://c16.radioboss.fm:18115/stream",
+      "https://c16.radioboss.fm:8115/autodj"
     ],
     "country": "sg",
     "languages": [
@@ -39,17 +39,6 @@
     "stream_urls": [
       "https://14033.live.streamtheworld.com/987FM_SC",
       "https://22393.live.streamtheworld.com/987FM_PREM.aac"
-    ],
-    "country": "sg",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
-    "nanoid": "Dul2tKVbXXuzse",
-    "name": "AXR Manila",
-    "stream_urls": [
-      "https://playerservices.streamtheworld.com/api/livestream-redirect/AXR_MANILA.mp3"
     ],
     "country": "sg",
     "languages": [
@@ -84,6 +73,17 @@
     "name": "Bible Witness Web Radio",
     "stream_urls": [
       "https://playerservices.streamtheworld.com/api/livestream-redirect/SP_R3179571_SC"
+    ],
+    "country": "sg",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "y96W4g8oiKIBCT",
+    "name": "CNA (Channel News Asia)",
+    "stream_urls": [
+      "https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8"
     ],
     "country": "sg",
     "languages": [
@@ -154,7 +154,8 @@
     "name": "One FM 91.3",
     "stream_urls": [
       "https://playerservices.streamtheworld.com/api/livestream-redirect/ONE_FM_913_SC",
-      "https://playerservices.streamtheworld.com/api/livestream-redirect/ONE_FM_913AAC.aac"
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/ONE_FM_913AAC.aac",
+      "https://22283.live.streamtheworld.com:443/ONE_FM_913AAC_SC"
     ],
     "country": "sg",
     "languages": [

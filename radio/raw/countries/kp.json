@@ -1,5 +1,16 @@
 [
   {
+    "nanoid": "cXQCJOHDUiY36p",
+    "name": "Korean Central Broadcasting Station",
+    "stream_urls": [
+      "https://radio.intchoson.com/kcbs/index.m3u8"
+    ],
+    "country": "kp",
+    "languages": [
+      "kor"
+    ]
+  },
+  {
     "nanoid": "lE8l4xfgKhCSXS",
     "name": "Pyongyang FM",
     "stream_urls": [
@@ -26,7 +37,8 @@
     "nanoid": "hEPzllO2ItG7PS",
     "name": "Voice of Korea",
     "stream_urls": [
-      "https://listen4.myradio24.com/60315"
+      "https://listen4.myradio24.com/60315",
+      "https://radio.intchoson.com/vok/index.m3u8"
     ],
     "country": "kp",
     "languages": [

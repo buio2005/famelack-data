@@ -50,7 +50,8 @@
     "name": "Eldoradio Chill",
     "stream_urls": [
       "https://sc.bce.lu/eldochill",
-      "https://shoutcast.rtl.lu/eldochill"
+      "https://shoutcast.rtl.lu/eldochill",
+      "https://eldo-streaming.eldo.lu/radio/eldochill/playlist.m3u8"
     ],
     "country": "lu",
     "languages": [
@@ -95,6 +96,20 @@
     ]
   },
   {
+    "nanoid": "lAk6FoZOR0XPIo",
+    "name": "Generation Dance",
+    "stream_urls": [
+      "https://generationdance.lu/radio/8030/hd",
+      "https://generationdance.lu/radio/8030/mobile"
+    ],
+    "country": "lu",
+    "languages": [
+      "lub",
+      "eng",
+      "fra"
+    ]
+  },
+  {
     "nanoid": "3alsjb8weIfHxD",
     "name": "L'essentiel Radio",
     "stream_urls": [
@@ -110,10 +125,9 @@
     "nanoid": "tTgontwEamSflU",
     "name": "Radio 100,7",
     "stream_urls": [
-      "https://100komma7.cast.addradio.de/100komma7/live/mp3/128/stream.mp3",
       "https://stream.100komma7.lu/100komma7/live/aac/48/stream.aac",
       "https://stream.100komma7.lu/100komma7/live/mp3/128/stream.mp3",
-      "https://100komma7.cast.addradio.de/100komma7/live/mp3/320/stream.mp3"
+      "https://100komma7.cast.addradio.de/100komma7/live/mp3/128/stream.mp3"
     ],
     "country": "lu",
     "languages": [
@@ -151,7 +165,8 @@
     "nanoid": "Kj8QBqVs1saK9k",
     "name": "RTL Gold",
     "stream_urls": [
-      "https://shoutcast.rtl.lu/rtlgold"
+      "https://shoutcast.rtl.lu/rtlgold",
+      "https://live-edge.rtl.lu/radio/rtlgold/playlist.m3u8"
     ],
     "country": "lu",
     "languages": [
@@ -194,6 +209,18 @@
     "country": "lu",
     "languages": [
       "deu"
+    ]
+  },
+  {
+    "nanoid": "wEzGRt5VApKiLd",
+    "name": "Rádio Larochette",
+    "stream_urls": [
+      "https://servidor14.brlogic.com:8150/live"
+    ],
+    "country": "lu",
+    "languages": [
+      "por",
+      "ltz"
     ]
   }
 ]

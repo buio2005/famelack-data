@@ -45,6 +45,17 @@
     ]
   },
   {
+    "nanoid": "4iTRYK6cbtieGj",
+    "name": "BH Radio 1",
+    "stream_urls": [
+      "https://webtvstream.bhtelecom.ba/bh_radio1.m3u8"
+    ],
+    "country": "ba",
+    "languages": [
+      "bos"
+    ]
+  },
+  {
     "nanoid": "2yhVJeE8yOKooC",
     "name": "Drukčiji Radio 94.7",
     "stream_urls": [
@@ -119,6 +130,17 @@
     "country": "ba",
     "languages": [
       "eng"
+    ]
+  },
+  {
+    "nanoid": "wnbdr9CMZO07Ef",
+    "name": "Federalni Radio",
+    "stream_urls": [
+      "https://webtvstream.bhtelecom.ba/radio_fbih.m3u8"
+    ],
+    "country": "ba",
+    "languages": [
+      "bos"
     ]
   },
   {
@@ -204,6 +226,17 @@
     ]
   },
   {
+    "nanoid": "jGoVtiO2xl78TJ",
+    "name": "Moj Radio",
+    "stream_urls": [
+      "https://webtvstream.bhtelecom.ba/moj_radio.m3u8"
+    ],
+    "country": "ba",
+    "languages": [
+      "bos"
+    ]
+  },
+  {
     "nanoid": "txXqbMPfh14the",
     "name": "Običan Radio",
     "stream_urls": [
@@ -238,10 +271,21 @@
     ]
   },
   {
-    "nanoid": "lbKAdt1AKxHCNQ",
-    "name": "POP FM 97.6",
+    "nanoid": "Am8pxD0vhFsYG9",
+    "name": "Radio 7 Tuzla",
     "stream_urls": [
-      "https://solid1.streamupsolutions.com/proxy/bnwmfvnq/POPFM"
+      "https://webtvstream.bhtelecom.ba/radio_7_tuzla.m3u8"
+    ],
+    "country": "ba",
+    "languages": [
+      "bos"
+    ]
+  },
+  {
+    "nanoid": "huRGgZdqMTJqGD",
+    "name": "Radio ASK",
+    "stream_urls": [
+      "https://webtvstream.bhtelecom.ba/radio_ask.m3u8"
     ],
     "country": "ba",
     "languages": [
@@ -286,7 +330,8 @@
     "nanoid": "Xw0guLLmAXe20W",
     "name": "Radio Bosanska Krupa",
     "stream_urls": [
-      "https://stream.leftor.com/proxy/radiobk/stream/;stream.mp3"
+      "https://stream.leftor.com/proxy/radiobk/stream/;stream.mp3",
+      "https://webtvstream.bhtelecom.ba/radio_bosanska_krupa.m3u8"
     ],
     "country": "ba",
     "languages": [
@@ -302,6 +347,17 @@
     "country": "ba",
     "languages": [
       "srp",
+      "bos"
+    ]
+  },
+  {
+    "nanoid": "JA5Y9XSKaQ4ETC",
+    "name": "Radio Bosanski Petrovac",
+    "stream_urls": [
+      "https://webtvstream.bhtelecom.ba/radio_bosanski_petrovac.m3u8"
+    ],
+    "country": "ba",
+    "languages": [
       "bos"
     ]
   },
@@ -422,6 +478,17 @@
     ]
   },
   {
+    "nanoid": "hQB8PNKKLbQahH",
+    "name": "Radio Feral",
+    "stream_urls": [
+      "https://webtvstream.bhtelecom.ba/radio_feral_kalesija.m3u8"
+    ],
+    "country": "ba",
+    "languages": [
+      "bos"
+    ]
+  },
+  {
     "nanoid": "1dDnf4KLmW1DSD",
     "name": "Radio Foča",
     "stream_urls": [
@@ -444,6 +511,28 @@
     ]
   },
   {
+    "nanoid": "z6oiEKlDeMsICM",
+    "name": "Radio Gradačac",
+    "stream_urls": [
+      "https://webtvstream.bhtelecom.ba/radio_gradacac.m3u8"
+    ],
+    "country": "ba",
+    "languages": [
+      "bos"
+    ]
+  },
+  {
+    "nanoid": "TjzT0ktgHfO3tn",
+    "name": "Radio Gračanica",
+    "stream_urls": [
+      "https://webtvstream.bhtelecom.ba/radio_gracanica.m3u8"
+    ],
+    "country": "ba",
+    "languages": [
+      "bos"
+    ]
+  },
+  {
     "nanoid": "FFDXTK0es71RK8",
     "name": "Radio Herceg-Bosne",
     "stream_urls": [
@@ -452,6 +541,17 @@
     "country": "ba",
     "languages": [
       "hrv",
+      "bos"
+    ]
+  },
+  {
+    "nanoid": "3zUa9cHZbkU9w0",
+    "name": "Radio HIT FM",
+    "stream_urls": [
+      "https://webtvstream.bhtelecom.ba/radio_hit_fm.m3u8"
+    ],
+    "country": "ba",
+    "languages": [
       "bos"
     ]
   },
@@ -493,7 +593,8 @@
     "nanoid": "THkKUR6M2zoxOx",
     "name": "Radio Kameleon",
     "stream_urls": [
-      "https://radiokameleon.radioca.st/;"
+      "https://radiokameleon.radioca.st/;",
+      "https://webtvstream.bhtelecom.ba/radio_kameleon.m3u8"
     ],
     "country": "ba",
     "languages": [
@@ -504,7 +605,8 @@
     "nanoid": "8xnyuiJX47mLcy",
     "name": "Radio Konjic",
     "stream_urls": [
-      "https://s3.free-shoutcast.com/stream/18056ic-uzivo/"
+      "https://s3.free-shoutcast.com/stream/18056ic-uzivo/",
+      "https://webtvstream.bhtelecom.ba/radio_konjic.m3u8"
     ],
     "country": "ba",
     "languages": [
@@ -667,6 +769,17 @@
     ]
   },
   {
+    "nanoid": "0V3KfwGa6gl4NW",
+    "name": "Radio RTRS",
+    "stream_urls": [
+      "https://webtvstream.bhtelecom.ba/radio_rtrs.m3u8"
+    ],
+    "country": "ba",
+    "languages": [
+      "srp"
+    ]
+  },
+  {
     "nanoid": "koYYAbBCo2z40V",
     "name": "Radio Rujnica",
     "stream_urls": [
@@ -722,6 +835,17 @@
     ]
   },
   {
+    "nanoid": "bIiyVUmI3Vxxa4",
+    "name": "Radio TK",
+    "stream_urls": [
+      "https://webtvstream.bhtelecom.ba/radio_tk.m3u8"
+    ],
+    "country": "ba",
+    "languages": [
+      "bos"
+    ]
+  },
+  {
     "nanoid": "vI0Y1iDRU0H05b",
     "name": "Radio Tomislavgrad",
     "stream_urls": [
@@ -759,7 +883,19 @@
     "name": "Radio USK",
     "stream_urls": [
       "https://radiousk.radioca.st/stream",
-      "https://radiousk.radioca.st/stream/"
+      "https://radiousk.radioca.st/stream/",
+      "https://webtvstream.bhtelecom.ba/radio_usk.m3u8"
+    ],
+    "country": "ba",
+    "languages": [
+      "bos"
+    ]
+  },
+  {
+    "nanoid": "nrBbC1EGeJImvZ",
+    "name": "Radio Valentino",
+    "stream_urls": [
+      "https://webtvstream.bhtelecom.ba/radio_valentino.m3u8"
     ],
     "country": "ba",
     "languages": [
@@ -789,10 +925,32 @@
     ]
   },
   {
+    "nanoid": "8beZmpsoo8F9Tw",
+    "name": "Radio Vogošća",
+    "stream_urls": [
+      "https://webtvstream.bhtelecom.ba/radio_vogosca.m3u8"
+    ],
+    "country": "ba",
+    "languages": [
+      "bos"
+    ]
+  },
+  {
     "nanoid": "u0CpK9VubXpumk",
     "name": "Radio Zenit",
     "stream_urls": [
       "https://uzivo.zenit.ba/stream/"
+    ],
+    "country": "ba",
+    "languages": [
+      "bos"
+    ]
+  },
+  {
+    "nanoid": "tM3yHnXT2nVUCa",
+    "name": "RadioAktivan",
+    "stream_urls": [
+      "https://stream-152.zeno.fm/4qe0awx37wquv"
     ],
     "country": "ba",
     "languages": [
@@ -837,17 +995,6 @@
     "name": "RSG Radio",
     "stream_urls": [
       "https://stream.rsgmedia.ba/listen/radio_stari_grad/radio.mp3"
-    ],
-    "country": "ba",
-    "languages": [
-      "bos"
-    ]
-  },
-  {
-    "nanoid": "a4ltspvze9f3yQ",
-    "name": "Trend Radio",
-    "stream_urls": [
-      "https://trendradio-codus.radioca.st/;"
     ],
     "country": "ba",
     "languages": [

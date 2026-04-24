@@ -95,6 +95,18 @@
     ]
   },
   {
+    "nanoid": "TgiEOxqlAQL1IR",
+    "name": "90s Pinoy Alternative",
+    "stream_urls": [
+      "https://cast3.my-control-panel.com/proxy/ronald/stream"
+    ],
+    "country": "ph",
+    "languages": [
+      "eng",
+      "tgl"
+    ]
+  },
+  {
     "nanoid": "2O7uzdDDZg9owF",
     "name": "91.5 Win Radio Manila",
     "stream_urls": [
@@ -104,6 +116,18 @@
     "languages": [
       "eng",
       "tgl"
+    ]
+  },
+  {
+    "nanoid": "6uPyzhthOv4Oo0",
+    "name": "93.3 DXFB Star",
+    "stream_urls": [
+      "https://stream.zeno.fm/40bgexmyd0quv"
+    ],
+    "country": "ph",
+    "languages": [
+      "tgl",
+      "eng"
     ]
   },
   {
@@ -253,8 +277,8 @@
     "nanoid": "atZjzQXJRvByOP",
     "name": "B 107.9 FM Tacloban",
     "stream_urls": [
-      "https://streamnavs.net:8147/stream",
-      "https://streamnavs.net:8147/live"
+      "https://streamnavs.net:8147/live",
+      "https://streamnavs.net:8147/stream"
     ],
     "country": "ph",
     "languages": [
@@ -326,8 +350,8 @@
     "nanoid": "EYuR9B8slKBFpH",
     "name": "Bible Radio 531 AM",
     "stream_urls": [
-      "https://stream.radio.co/se9de95c10/low",
-      "https://stream.radio.co/se9de95c10/listen"
+      "https://stream.radio.co/se9de95c10/listen",
+      "https://stream.radio.co/se9de95c10/low"
     ],
     "country": "ph",
     "languages": [
@@ -408,6 +432,31 @@
     ]
   },
   {
+    "nanoid": "KeiDtDxReoJb19",
+    "name": "Bombo Radyo Koronadal",
+    "stream_urls": [
+      "https://stream.zenolive.com/s81g7zfnz9duv"
+    ],
+    "country": "ph",
+    "languages": [
+      "tgl",
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "FTXia6BOPJ17My",
+    "name": "Bombo Radyo La Union",
+    "stream_urls": [
+      "https://stream.zeno.fm/n6wgdtu78heuv",
+      "https://stream.zenolive.com/n6wgdtu78heuv"
+    ],
+    "country": "ph",
+    "languages": [
+      "tgl",
+      "eng"
+    ]
+  },
+  {
     "nanoid": "85xgOSyqFxt9hU",
     "name": "Bombo Radyo Laoag",
     "stream_urls": [
@@ -432,10 +481,34 @@
     ]
   },
   {
+    "nanoid": "8GQ7UwvraQNdKC",
+    "name": "Bombo Radyo Tacloban",
+    "stream_urls": [
+      "https://stream.zeno.fm/e8zw1dg0xy5tv"
+    ],
+    "country": "ph",
+    "languages": [
+      "tgl",
+      "eng"
+    ]
+  },
+  {
     "nanoid": "vO4ZtTjSinj2vG",
     "name": "Bombo Radyo Vigan",
     "stream_urls": [
       "https://stream.zenolive.com/wg8yn4cnz9duv"
+    ],
+    "country": "ph",
+    "languages": [
+      "tgl",
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "Zi5szpdn80V8qr",
+    "name": "Bright FM 91.9",
+    "stream_urls": [
+      "https://stream.zeno.fm/wx5hopniqfvtv"
     ],
     "country": "ph",
     "languages": [
@@ -473,6 +546,17 @@
     "name": "Clubmix",
     "stream_urls": [
       "https://stream.zeno.fm/vztn8ux96zhvv"
+    ],
+    "country": "ph",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "FvRmGyCOXsRAbo",
+    "name": "DepEd Radio Learning English",
+    "stream_urls": [
+      "https://voa-ingest.akamaized.net/hls/live/2035234/160_342L/playlist.m3u8"
     ],
     "country": "ph",
     "languages": [
@@ -580,7 +664,6 @@
     "name": "Eagle FM 95.5",
     "stream_urls": [
       "https://stream.radiojar.com/yus0r2bghd3vv",
-      "https://n09.radiojar.com/yus0r2bghd3vv",
       "https://n0d.radiojar.com/yus0r2bghd3vv",
       "https://n06.radiojar.com/yus0r2bghd3vv"
     ],
@@ -642,7 +725,8 @@
     "nanoid": "r0VkBqBYhRmUvO",
     "name": "EWTN Radio Philippines",
     "stream_urls": [
-      "https://ewtn-ice.streamguys1.com/philippines-aac"
+      "https://ewtn-ice.streamguys1.com/philippines-aac",
+      "https://ewtn-sgrewind.streamguys1.com/sgrewind/philippines/playlist.m3u8"
     ],
     "country": "ph",
     "languages": [
@@ -841,19 +925,6 @@
     ]
   },
   {
-    "nanoid": "k0hqlQIPi0TrVy",
-    "name": "Islamic Radio Filipino",
-    "stream_urls": [
-      "https://islamicbulletin.site:8030/stream"
-    ],
-    "country": "ph",
-    "languages": [
-      "eng",
-      "tgl",
-      "ara"
-    ]
-  },
-  {
     "nanoid": "auT5o6ktEry8SX",
     "name": "Jesus is Lord Radio",
     "stream_urls": [
@@ -966,6 +1037,18 @@
     "name": "KKBN Radio",
     "stream_urls": [
       "https://stream.zeno.fm/8qt5kzmh144vv"
+    ],
+    "country": "ph",
+    "languages": [
+      "eng",
+      "tgl"
+    ]
+  },
+  {
+    "nanoid": "wyL4Z0ilBEGHnY",
+    "name": "Like Radio 104.7",
+    "stream_urls": [
+      "https://s3.free-shoutcast.com/stream/18054"
     ],
     "country": "ph",
     "languages": [
@@ -1118,6 +1201,18 @@
     ]
   },
   {
+    "nanoid": "51IsGOfdQvbSHX",
+    "name": "MYX",
+    "stream_urls": [
+      "https://abscbn-ono.akamaized.net/midroll/amagi_hls_data_abscbnAAA-abscbn-myxnola/CDN/playlist.m3u8"
+    ],
+    "country": "ph",
+    "languages": [
+      "eng",
+      "tgl"
+    ]
+  },
+  {
     "nanoid": "khTta6fU6BrdHJ",
     "name": "MYX P-Pop Radio",
     "stream_urls": [
@@ -1159,6 +1254,31 @@
     "name": "OK FM 97.5",
     "stream_urls": [
       "https://servidor22-5.brlogic.com:7014/live"
+    ],
+    "country": "ph",
+    "languages": [
+      "tgl",
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "bV2BeFhYgP3KJS",
+    "name": "OK-FM Legazpi",
+    "stream_urls": [
+      "https://stream.zeno.fm/bqqqtxviwvfuv"
+    ],
+    "country": "ph",
+    "languages": [
+      "tgl",
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "Dl5o2jJq6WJCE8",
+    "name": "OK-FM Sorsogon",
+    "stream_urls": [
+      "https://radio.garden/api/ara/content/listen/i5Au89ck/channel.mp3",
+      "https://s20.reliastream.com:8178/stream"
     ],
     "country": "ph",
     "languages": [
@@ -1279,6 +1399,18 @@
     "name": "Pinoy Rap Radio",
     "stream_urls": [
       "https://stream.zeno.fm/0cdp55nqam0uv"
+    ],
+    "country": "ph",
+    "languages": [
+      "tgl",
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "chwroUQKvqDPej",
+    "name": "Power FM 96.7",
+    "stream_urls": [
+      "https://stream.zenolive.com/n4q1s7r4qzzuv.aac"
     ],
     "country": "ph",
     "languages": [
@@ -1767,6 +1899,18 @@
     ]
   },
   {
+    "nanoid": "sfOOoUcWQ4vd6S",
+    "name": "Radio Natin Roxas",
+    "stream_urls": [
+      "https://hifi.radyonatinfm.com:8020/roxas"
+    ],
+    "country": "ph",
+    "languages": [
+      "tgl",
+      "eng"
+    ]
+  },
+  {
     "nanoid": "PxCNijicvuKb12",
     "name": "Radio Natin Sablayan",
     "stream_urls": [
@@ -1983,6 +2127,18 @@
     ]
   },
   {
+    "nanoid": "XSEWjEikdZEyWq",
+    "name": "RPN DXKS 1080 Surigao",
+    "stream_urls": [
+      "https://dxks-rpnradio.radioca.st/stream"
+    ],
+    "country": "ph",
+    "languages": [
+      "tgl",
+      "eng"
+    ]
+  },
+  {
     "nanoid": "tjDhFm0UH35FiG",
     "name": "Sanib Pwersa 101.7 Your Love FM",
     "stream_urls": [
@@ -2092,6 +2248,30 @@
     ]
   },
   {
+    "nanoid": "t7E6pdWsUpQAUg",
+    "name": "Star FM 95.5",
+    "stream_urls": [
+      "https://stream-146.zeno.fm/60cb36c29heuv"
+    ],
+    "country": "ph",
+    "languages": [
+      "tgl",
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "Jp1uybcK1xXO8C",
+    "name": "Star FM Bacolod",
+    "stream_urls": [
+      "https://stream.zeno.fm/kg6tx8w4t9duv"
+    ],
+    "country": "ph",
+    "languages": [
+      "tgl",
+      "eng"
+    ]
+  },
+  {
     "nanoid": "sCL7qeU43XHbDI",
     "name": "Star FM Baguio",
     "stream_urls": [
@@ -2116,10 +2296,46 @@
     ]
   },
   {
-    "nanoid": "kqqLbPOUZv5O4g",
-    "name": "Star FM Davao",
+    "nanoid": "wR8bTHgS3jb3Vd",
+    "name": "Star FM Cotabato",
     "stream_urls": [
-      "https://stream.zeno.fm/sdtv271nz9duv"
+      "https://stream.zeno.fm/hf1yubc29heuv"
+    ],
+    "country": "ph",
+    "languages": [
+      "tgl",
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "tTTdB7immHAo9l",
+    "name": "Star FM Dagupan",
+    "stream_urls": [
+      "https://stream.zeno.fm/kw40qqc29heuv"
+    ],
+    "country": "ph",
+    "languages": [
+      "tgl",
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "BP7t7k3alUHnHV",
+    "name": "Star FM Dipolog",
+    "stream_urls": [
+      "https://stream.zeno.fm/qd45x88q0y5tv.aac"
+    ],
+    "country": "ph",
+    "languages": [
+      "tgl",
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "ufwzNrObZ4jkPB",
+    "name": "Star FM Iloilo",
+    "stream_urls": [
+      "https://stream.zeno.fm/t9tm8gm29heuv"
     ],
     "country": "ph",
     "languages": [
@@ -2132,6 +2348,18 @@
     "name": "Star FM Roxas",
     "stream_urls": [
       "https://stream.zeno.fm/6qehcpd29heuv"
+    ],
+    "country": "ph",
+    "languages": [
+      "tgl",
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "WxXWiJghPyCHlT",
+    "name": "Star FM Zamboanga",
+    "stream_urls": [
+      "https://stream.zeno.fm/sfaqs2c29heuv"
     ],
     "country": "ph",
     "languages": [
@@ -2276,8 +2504,8 @@
     "name": "Win Radio 107.5",
     "stream_urls": [
       "https://stream.zeno.fm/dx1k9na7nznvv",
-      "https://stream.zeno.fm/sxk9ss4f4oeuv",
-      "https://stream-42.zeno.fm/1noxhem5qpkuv"
+      "https://stream-42.zeno.fm/1noxhem5qpkuv",
+      "https://stream.zeno.fm/sxk9ss4f4oeuv"
     ],
     "country": "ph",
     "languages": [

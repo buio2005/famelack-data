@@ -104,9 +104,9 @@
     "nanoid": "Ap08MN2XWymZwq",
     "name": "Fresh Rock",
     "stream_urls": [
+      "https://stream.freshrock.net/128.mp3",
       "https://stream.freshrock.net/320.mp3",
-      "https://stream.freshrock.net/24.aac",
-      "https://stream.freshrock.net/128.mp3"
+      "https://stream.freshrock.net/24.aac"
     ],
     "country": "ua",
     "languages": [
@@ -162,8 +162,8 @@
     "nanoid": "8uUy62BDJXvrRs",
     "name": "Kiss FM Deep",
     "stream_urls": [
-      "https://online.kissfm.ua/KissFM_Deep_Live",
-      "https://online.kissfm.ua/KissFM_Deep"
+      "https://online.kissfm.ua/KissFM_Deep",
+      "https://online.kissfm.ua/KissFM_Deep_Live"
     ],
     "country": "ua",
     "languages": [
@@ -470,8 +470,8 @@
     "nanoid": "PTBLMZ8ChCVOwx",
     "name": "Radio ROKS",
     "stream_urls": [
-      "https://online.radioroks.ua/RadioROKS",
-      "https://online.radioroks.ua/RadioROKS_HD"
+      "https://online.radioroks.ua/RadioROKS_HD",
+      "https://online.radioroks.ua/RadioROKS"
     ],
     "country": "ua",
     "languages": [
@@ -701,6 +701,19 @@
     ]
   },
   {
+    "nanoid": "LA3cTyHveSTr8C",
+    "name": "Trans World Radio Ukraine",
+    "stream_urls": [
+      "https://radio.eclipse-streaming.co.za/listen/transworldradioukraine/radio.mp3",
+      "https://radio.eclipse-streaming.co.za/listen/transworldradioukraine/TWR-ukraine_48.m4a",
+      "https://radio.eclipse-streaming.co.za/listen/transworldradioukraine/TWR-ukraine_96.m4a"
+    ],
+    "country": "ua",
+    "languages": [
+      "ukr"
+    ]
+  },
+  {
     "nanoid": "z3NIwvfvBc9y9x",
     "name": "True Black Metal Radio",
     "stream_urls": [
@@ -858,6 +871,17 @@
     ]
   },
   {
+    "nanoid": "l0nocB6v07qG6M",
+    "name": "Громадське радіо (Hromadske Radio)",
+    "stream_urls": [
+      "https://hromadske.radio/radio_https_upstream"
+    ],
+    "country": "ua",
+    "languages": [
+      "ukr"
+    ]
+  },
+  {
     "nanoid": "vnPlsYWO2gbN7e",
     "name": "Гуляй Радіо",
     "stream_urls": [
@@ -904,6 +928,17 @@
     ]
   },
   {
+    "nanoid": "ccSbQ5dNAFaOfw",
+    "name": "Люкс FM Львів",
+    "stream_urls": [
+      "https://streamvideo.luxnet.ua/luxlviv/luxlviv.stream/playlist.m3u8"
+    ],
+    "country": "ua",
+    "languages": [
+      "ukr"
+    ]
+  },
+  {
     "nanoid": "WtkNb8UkpSAPsy",
     "name": "Мелодія FM (Melodia FM)",
     "stream_urls": [
@@ -931,17 +966,6 @@
     "name": "Мелодія FM International",
     "stream_urls": [
       "https://online.melodiafm.ua/MelodiaFM_Int_Live"
-    ],
-    "country": "ua",
-    "languages": [
-      "ukr"
-    ]
-  },
-  {
-    "nanoid": "95QPW9dhUEf8St",
-    "name": "Мелодія FM Romantic",
-    "stream_urls": [
-      "https://online.melodiafm.ua/MelodiaFM_Romantic_Live"
     ],
     "country": "ua",
     "languages": [
@@ -1007,8 +1031,8 @@
     "nanoid": "QtoZT5ZyJWW4Ju",
     "name": "Радіо MAXIMUM",
     "stream_urls": [
-      "https://icecastdc.luxnet.ua/maximum_mp3_128",
-      "https://icecast.luxnet.ua/radio24"
+      "https://icecast.luxnet.ua/radio24",
+      "https://icecastdc.luxnet.ua/maximum_mp3_128"
     ],
     "country": "ua",
     "languages": [
@@ -1110,6 +1134,61 @@
     "name": "Радіо Канал Благодаті",
     "stream_urls": [
       "https://noasrv.caster.fm:10001/live"
+    ],
+    "country": "ua",
+    "languages": [
+      "ukr"
+    ]
+  },
+  {
+    "nanoid": "gzser0rVj3IPnT",
+    "name": "Радіо Київстар Chill & Lounge",
+    "stream_urls": [
+      "https://radio.kyivstar.ua/stream/chill/master.m3u8"
+    ],
+    "country": "ua",
+    "languages": [
+      "ukr"
+    ]
+  },
+  {
+    "nanoid": "bNfuXxGLTvT0ak",
+    "name": "Радіо Київстар Golden Hits",
+    "stream_urls": [
+      "https://radio.kyivstar.ua/stream/gold/master.m3u8"
+    ],
+    "country": "ua",
+    "languages": [
+      "ukr"
+    ]
+  },
+  {
+    "nanoid": "hg39JoOHP4Pn0U",
+    "name": "Радіо Київстар Happy Hits",
+    "stream_urls": [
+      "https://radio.kyivstar.ua/stream/sport/master.m3u8"
+    ],
+    "country": "ua",
+    "languages": [
+      "ukr"
+    ]
+  },
+  {
+    "nanoid": "Kbufl3GLlI7rZh",
+    "name": "Радіо Київстар Made in Ukraine",
+    "stream_urls": [
+      "https://radio.kyivstar.ua/stream/ukraine/master.m3u8"
+    ],
+    "country": "ua",
+    "languages": [
+      "ukr"
+    ]
+  },
+  {
+    "nanoid": "v5A9gvCoTSpjkc",
+    "name": "Радіо Київстар Retro",
+    "stream_urls": [
+      "https://radio.kyivstar.ua/stream/retromusic/master.m3u8"
     ],
     "country": "ua",
     "languages": [
@@ -1339,6 +1418,28 @@
     ]
   },
   {
+    "nanoid": "OP3xChIQIWsiX8",
+    "name": "Світле радіо (Svitle Radio)",
+    "stream_urls": [
+      "https://online.svitle.org/hls/svitle/default.m3u8"
+    ],
+    "country": "ua",
+    "languages": [
+      "ukr"
+    ]
+  },
+  {
+    "nanoid": "cq4Vz7R9hflMzh",
+    "name": "Світле радіо Еммануїл (Svitle Radio)",
+    "stream_urls": [
+      "https://online.svitle.org/hls/svitle/aac_hifi.m3u8"
+    ],
+    "country": "ua",
+    "languages": [
+      "ukr"
+    ]
+  },
+  {
     "nanoid": "oV85EQX27Ky0Dw",
     "name": "Севастополь FM (Sevastopol FM)",
     "stream_urls": [
@@ -1377,17 +1478,6 @@
     "stream_urls": [
       "https://cdn-br2.live-tv.cloud/sferarvFM/320k/icecast.audio",
       "https://cdn-br2.live-tv.cloud/sferarvFM/64k/icecast.audio"
-    ],
-    "country": "ua",
-    "languages": [
-      "ukr"
-    ]
-  },
-  {
-    "nanoid": "0v4CMJx3O4Ld8Q",
-    "name": "Твоє Радіо",
-    "stream_urls": [
-      "https://complex.in.ua/tvoeRadio"
     ],
     "country": "ua",
     "languages": [

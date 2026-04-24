@@ -138,6 +138,7 @@
     "name": "DR P1",
     "stream_urls": [
       "https://live-icy.gss.dr.dk/A/A03H.mp3",
+      "https://drliveradio1.akamaized.net/hls/live/2097651/p1/masterab.m3u8",
       "https://drliveradio1.akamaized.net/hls/live/2097651/p1/playlist-96000.m3u8"
     ],
     "country": "dk",
@@ -151,9 +152,7 @@
     "stream_urls": [
       "https://live-icy.dr.dk/A/A04L.mp3",
       "https://live-icy.dr.dk/A/A27L.mp3",
-      "https://live-icy.gslb01.dr.dk/A/A04H.mp3",
-      "https://live-icy.gss.dr.dk/A/A04H.mp3",
-      "https://drliveradio1.akamaized.net/hls/live/2097651/p2/playlist-96000.m3u8"
+      "https://live-icy.gslb01.dr.dk/A/A04H.mp3"
     ],
     "country": "dk",
     "languages": [
@@ -165,6 +164,7 @@
     "name": "DR P3",
     "stream_urls": [
       "https://live-icy.gslb01.dr.dk/A/A05H.mp3",
+      "https://drliveradio1.akamaized.net/hls/live/2097651/p3/masterab.m3u8",
       "https://drliveradio1.akamaized.net/hls/live/2097651/p3/playlist-96000.m3u8"
     ],
     "country": "dk",
@@ -176,9 +176,9 @@
     "nanoid": "2IPEYmBJKvx3Ks",
     "name": "DR P4 Bornholm",
     "stream_urls": [
+      "https://live-icy.dr.dk/A/A30H.mp3",
       "https://live-icy.gslb01.dr.dk/A/A06H.mp3",
-      "https://live-icy.gss.dr.dk/A/A06H.mp3",
-      "https://live-icy.dr.dk/A/A30H.mp3"
+      "https://live-icy.gss.dr.dk/A/A06H.mp3"
     ],
     "country": "dk",
     "languages": [
@@ -190,7 +190,8 @@
     "name": "DR P4 Esbjerg",
     "stream_urls": [
       "https://live-icy.gslb01.dr.dk/A/A15H.mp3",
-      "https://live-icy.gss.dr.dk/A/A15H.mp3"
+      "https://live-icy.gss.dr.dk/A/A15H.mp3",
+      "https://drliveradio1.akamaized.net/hls/live/2097651/p4esbjerg/masterab.m3u8"
     ],
     "country": "dk",
     "languages": [
@@ -201,7 +202,8 @@
     "nanoid": "ZvzdlSNHnfuhVO",
     "name": "DR P4 Fyn",
     "stream_urls": [
-      "https://live-icy.gslb01.dr.dk/A/A07H.mp3"
+      "https://live-icy.gslb01.dr.dk/A/A07H.mp3",
+      "https://drliveradio1.akamaized.net/hls/live/2097651/p4fyn/masterab.m3u8"
     ],
     "country": "dk",
     "languages": [
@@ -214,8 +216,7 @@
     "stream_urls": [
       "https://live-icy.gslb01.dr.dk/A/A08H.mp3",
       "https://live-icy.gss.dr.dk/A/A08H.mp3",
-      "https://live-icy.dr.dk/A/A08H.mp3",
-      "https://drliveradio1.akamaized.net/hls/live/2097651/p4kobenhavn/playlist-96000.m3u8"
+      "https://live-icy.dr.dk/A/A08H.mp3"
     ],
     "country": "dk",
     "languages": [
@@ -227,7 +228,8 @@
     "name": "DR P4 Midt & Vest",
     "stream_urls": [
       "https://live-icy.gslb01.dr.dk/A/A09H.mp3",
-      "https://live-icy.gss.dr.dk/A/A09H.mp3"
+      "https://live-icy.gss.dr.dk/A/A09H.mp3",
+      "https://drliveradio1.akamaized.net/hls/live/2097651/p4midtvest/masterab.m3u8"
     ],
     "country": "dk",
     "languages": [
@@ -238,7 +240,8 @@
     "nanoid": "NnTVYFytnSxycq",
     "name": "DR P4 Nordjylland",
     "stream_urls": [
-      "https://live-icy.gslb01.dr.dk/A/A10H.mp3"
+      "https://live-icy.gslb01.dr.dk/A/A10H.mp3",
+      "https://drliveradio1.akamaized.net/hls/live/2097651/p4nordjylland/masterab.m3u8"
     ],
     "country": "dk",
     "languages": [
@@ -249,7 +252,8 @@
     "nanoid": "Cqc3lNGoTdV6Ip",
     "name": "DR P4 Sjælland",
     "stream_urls": [
-      "https://live-icy.gslb01.dr.dk/A/A11H.mp3"
+      "https://live-icy.gslb01.dr.dk/A/A11H.mp3",
+      "https://drliveradio1.akamaized.net/hls/live/2097651/p4sjaelland/masterab.m3u8"
     ],
     "country": "dk",
     "languages": [
@@ -261,7 +265,8 @@
     "name": "DR P4 Syd",
     "stream_urls": [
       "https://live-icy.gslb01.dr.dk/A/A12H.mp3",
-      "https://live-icy.gss.dr.dk/A/A12H.mp3"
+      "https://live-icy.gss.dr.dk/A/A12H.mp3",
+      "https://drliveradio1.akamaized.net/hls/live/2097651/p4syd/masterab.m3u8"
     ],
     "country": "dk",
     "languages": [
@@ -272,7 +277,8 @@
     "nanoid": "Zrdo0JnpkepHR9",
     "name": "DR P4 Trekanten",
     "stream_urls": [
-      "https://live-icy.gslb01.dr.dk/A/A13H.mp3"
+      "https://live-icy.gslb01.dr.dk/A/A13H.mp3",
+      "https://drliveradio1.akamaized.net/hls/live/2097651/p4trekanten/masterab.m3u8"
     ],
     "country": "dk",
     "languages": [
@@ -283,7 +289,8 @@
     "nanoid": "UbU4mcRQoQik1G",
     "name": "DR P4 Østjylland",
     "stream_urls": [
-      "https://live-icy.gslb01.dr.dk/A/A14H.mp3"
+      "https://live-icy.gslb01.dr.dk/A/A14H.mp3",
+      "https://drliveradio1.akamaized.net/hls/live/2097651/p4ostjylland/masterab.m3u8"
     ],
     "country": "dk",
     "languages": [
@@ -302,10 +309,22 @@
     ]
   },
   {
+    "nanoid": "f1pP5xlpEik1GT",
+    "name": "DR P5 Bornholm",
+    "stream_urls": [
+      "https://drliveradio1.akamaized.net/hls/live/2097651/p5bornholm/masterab.m3u8"
+    ],
+    "country": "dk",
+    "languages": [
+      "dan"
+    ]
+  },
+  {
     "nanoid": "kVkZAXuUzFEbzF",
     "name": "DR P5 Esbjerg",
     "stream_urls": [
-      "https://live-icy.dr.dk/A/A26H.mp3"
+      "https://live-icy.dr.dk/A/A26H.mp3",
+      "https://drliveradio1.akamaized.net/hls/live/2097651/p5esbjerg/masterab.m3u8"
     ],
     "country": "dk",
     "languages": [
@@ -317,7 +336,19 @@
     "name": "DR P5 Fyn",
     "stream_urls": [
       "https://live-icy.dr.dk/A/A02H.mp3",
-      "https://drliveradio.akamaized.net/hls/live/2022411/p5fyn/playlist-96000.m3u8"
+      "https://drliveradio.akamaized.net/hls/live/2022411/p5fyn/playlist-96000.m3u8",
+      "https://drliveradio1.akamaized.net/hls/live/2097651/p5fyn/masterab.m3u8"
+    ],
+    "country": "dk",
+    "languages": [
+      "dan"
+    ]
+  },
+  {
+    "nanoid": "i2zk4r6Q4izwtA",
+    "name": "DR P5 København",
+    "stream_urls": [
+      "https://drliveradio1.akamaized.net/hls/live/2097651/p5kobenhavn/masterab.m3u8"
     ],
     "country": "dk",
     "languages": [
@@ -328,7 +359,53 @@
     "nanoid": "u7FrEV4jpxLiNy",
     "name": "DR P5 Midt & Vest",
     "stream_urls": [
-      "https://live-icy.dr.dk/A/A17H.mp3"
+      "https://live-icy.dr.dk/A/A17H.mp3",
+      "https://drliveradio1.akamaized.net/hls/live/2097651/p5midtvest/masterab.m3u8"
+    ],
+    "country": "dk",
+    "languages": [
+      "dan"
+    ]
+  },
+  {
+    "nanoid": "CpyTZZAByopPX5",
+    "name": "DR P5 Nordjylland",
+    "stream_urls": [
+      "https://drliveradio1.akamaized.net/hls/live/2097651/p5nordjylland/masterab.m3u8"
+    ],
+    "country": "dk",
+    "languages": [
+      "dan"
+    ]
+  },
+  {
+    "nanoid": "lqOsm5l6jz6TmB",
+    "name": "DR P5 Sjælland",
+    "stream_urls": [
+      "https://drliveradio1.akamaized.net/hls/live/2097651/p5sjaelland/masterab.m3u8"
+    ],
+    "country": "dk",
+    "languages": [
+      "dan"
+    ]
+  },
+  {
+    "nanoid": "yEjUknE7bwa6KU",
+    "name": "DR P5 Syd",
+    "stream_urls": [
+      "https://drliveradio.akamaized.net/hls/live/2022411/p5syd/masterab.m3u8",
+      "https://drliveradio1.akamaized.net/hls/live/2097651/p5syd/masterab.m3u8"
+    ],
+    "country": "dk",
+    "languages": [
+      "dan"
+    ]
+  },
+  {
+    "nanoid": "pGPQuiRZPe7fyZ",
+    "name": "DR P5 Trekanten",
+    "stream_urls": [
+      "https://drliveradio1.akamaized.net/hls/live/2097651/p5trekanten/masterab.m3u8"
     ],
     "country": "dk",
     "languages": [
@@ -339,7 +416,8 @@
     "nanoid": "PK7HhBsld3hdFa",
     "name": "DR P5 Østjylland",
     "stream_urls": [
-      "https://live-icy.dr.dk/A/A24H.mp3"
+      "https://live-icy.dr.dk/A/A24H.mp3",
+      "https://drliveradio1.akamaized.net/hls/live/2097651/p5ostjylland/masterab.m3u8"
     ],
     "country": "dk",
     "languages": [
@@ -352,8 +430,7 @@
     "stream_urls": [
       "https://live-icy.dr.dk/A/A29H.mp3",
       "https://live-icy.gss.dr.dk/A/A29H.mp3",
-      "https://live-icy.gslb01.dr.dk/A/A29H.mp3",
-      "https://drliveradio1.akamaized.net/hls/live/2097651/p6beat/playlist-96000.m3u8"
+      "https://live-icy.gslb01.dr.dk/A/A29H.mp3"
     ],
     "country": "dk",
     "languages": [
@@ -364,10 +441,9 @@
     "nanoid": "I7dSwN4weWnUwF",
     "name": "DR P8 Jazz",
     "stream_urls": [
-      "https://drliveradio.akamaized.net/hls/live/2022411/p8jazz/playlist-320000.m3u8",
       "https://live-icy.gslb01.dr.dk/A/A22H.mp3",
       "https://live-icy.gss.dr.dk/A/A22H.mp3",
-      "https://drliveradio1.akamaized.net/hls/live/2097651/p8jazz/playlist-96000.m3u8"
+      "https://drliveradio.akamaized.net/hls/live/2022411/p8jazz/playlist-320000.m3u8"
     ],
     "country": "dk",
     "languages": [
@@ -444,8 +520,8 @@
     "nanoid": "E3wGa5jvln1ryJ",
     "name": "Limfjord Slager",
     "stream_urls": [
-      "https://media.limfjordnetradio.dk/plusslager128",
-      "https://media.limfjordnetradio.dk/plusslageraac"
+      "https://media.limfjordnetradio.dk/plusslageraac",
+      "https://media.limfjordnetradio.dk/plusslager128"
     ],
     "country": "dk",
     "languages": [
@@ -525,8 +601,8 @@
     "nanoid": "dsHxlYUubQoSVn",
     "name": "Radio 100",
     "stream_urls": [
-      "https://live-bauerdk.sharp-stream.com/100fm_live.mp3",
-      "https://live-bauerdk.sharp-stream.com/radio100_dk_mp3"
+      "https://live-bauerdk.sharp-stream.com/radio100_dk_mp3",
+      "https://live-bauerdk.sharp-stream.com/100fm_live.mp3"
     ],
     "country": "dk",
     "languages": [
@@ -792,8 +868,8 @@
     "nanoid": "1bVRQADhfuCH1o",
     "name": "Radio Soft",
     "stream_urls": [
-      "https://edge-bauerdk-03-gos2.sharp-stream.com/radiosoft_dk_mp3",
-      "https://live-bauerdk.sharp-stream.com/radiosoft_dk_tunein_mp3"
+      "https://live-bauerdk.sharp-stream.com/radiosoft_dk_tunein_mp3",
+      "https://edge-bauerdk-03-gos2.sharp-stream.com/radiosoft_dk_mp3"
     ],
     "country": "dk",
     "languages": [
@@ -917,8 +993,8 @@
     "nanoid": "Eh9S3J9WCIpLsu",
     "name": "Skala FM",
     "stream_urls": [
-      "https://webradio.skala.fm/kolding",
-      "https://netradio.skala.fm/ska8d"
+      "https://netradio.skala.fm/ska8d",
+      "https://webradio.skala.fm/kolding"
     ],
     "country": "dk",
     "languages": [
@@ -977,6 +1053,18 @@
     "name": "Uniradioen",
     "stream_urls": [
       "https://uniradio.out.airtime.pro/uniradio_a"
+    ],
+    "country": "dk",
+    "languages": [
+      "dan"
+    ]
+  },
+  {
+    "nanoid": "aflZnU1NjaxacI",
+    "name": "Vinyl Hits",
+    "stream_urls": [
+      "https://stream.vinylhits.dk/vinylaac",
+      "https://stream.vinylhits.dk/vinylmp3"
     ],
     "country": "dk",
     "languages": [

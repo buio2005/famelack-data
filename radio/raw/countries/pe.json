@@ -1,5 +1,16 @@
 [
   {
+    "nanoid": "NCyclUeqsANS6K",
+    "name": "Cadena Radio Visión 770 AM",
+    "stream_urls": [
+      "https://radio.magozoft.com/;stream.mp3"
+    ],
+    "country": "pe",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
     "nanoid": "qkjggDqRWhDpw3",
     "name": "CJ Radio",
     "stream_urls": [
@@ -343,6 +354,17 @@
     ]
   },
   {
+    "nanoid": "RHU319JFMSvJhz",
+    "name": "Radio Armonía",
+    "stream_urls": [
+      "https://radio.sistemasandinos.org:10978/;"
+    ],
+    "country": "pe",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
     "nanoid": "KyNac3e5IEUI98",
     "name": "Radio Astoria",
     "stream_urls": [
@@ -391,17 +413,6 @@
     "name": "Radio Boleros Inolvidables",
     "stream_urls": [
       "https://stream.zeno.fm/5t45zksv7mruv"
-    ],
-    "country": "pe",
-    "languages": [
-      "spa"
-    ]
-  },
-  {
-    "nanoid": "JM4V5luvsIDyAO",
-    "name": "Radio CaDis",
-    "stream_urls": [
-      "https://stream.zeno.fm/a440accyxqzuv"
     ],
     "country": "pe",
     "languages": [
@@ -539,6 +550,17 @@
     "country": "pe",
     "languages": [
       "eng",
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "1lPzCGa7wffN3g",
+    "name": "Radio Disney",
+    "stream_urls": [
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/DISNEY_PER_LMAAC.m3u8"
+    ],
+    "country": "pe",
+    "languages": [
       "spa"
     ]
   },
@@ -681,7 +703,8 @@
     "nanoid": "bQnuRdzMjIMKe6",
     "name": "Radio Felicidad",
     "stream_urls": [
-      "https://mdstrm.com/audio/5fad731fcf097a068af3c8f7/icecast.audio"
+      "https://mdstrm.com/audio/5fad731fcf097a068af3c8f7/icecast.audio",
+      "https://mdstrm.com/audio/5fad731fcf097a068af3c8f7/live.m3u8"
     ],
     "country": "pe",
     "languages": [
@@ -738,17 +761,6 @@
     "name": "Radio Frecuencia 100",
     "stream_urls": [
       "https://sp.oyotunstream.com/7066/;"
-    ],
-    "country": "pe",
-    "languages": [
-      "spa"
-    ]
-  },
-  {
-    "nanoid": "UOlZVDTX8Zc4mf",
-    "name": "Radio Frecuencia Popular",
-    "stream_urls": [
-      "https://radio.sistemasandinos.org/7412/stream"
     ],
     "country": "pe",
     "languages": [
@@ -917,10 +929,10 @@
     ]
   },
   {
-    "nanoid": "FGSjb16xMFQrhd",
-    "name": "Radio La Norteña",
+    "nanoid": "Tv93Rt4M56nOOz",
+    "name": "Radio La Noventera",
     "stream_urls": [
-      "https://radio.livestreamingmundial.com:7060/live"
+      "https://host.gometri.com/proxy/lanoventera/stream/"
     ],
     "country": "pe",
     "languages": [
@@ -997,7 +1009,8 @@
     "nanoid": "kSmQ2FKQN1kYmW",
     "name": "Radio La Zona",
     "stream_urls": [
-      "https://mdstrm.com/audio/5fada54116646e098d97e6a5/icecast.audio"
+      "https://mdstrm.com/audio/5fada54116646e098d97e6a5/icecast.audio",
+      "https://mdstrm.com/audio/5fada54116646e098d97e6a5/live.m3u8"
     ],
     "country": "pe",
     "languages": [
@@ -1060,17 +1073,6 @@
     ]
   },
   {
-    "nanoid": "9D2Hk0Yw7pPUZN",
-    "name": "Radio Madre de Dios",
-    "stream_urls": [
-      "https://tupanel.info:9000/stream"
-    ],
-    "country": "pe",
-    "languages": [
-      "spa"
-    ]
-  },
-  {
     "nanoid": "RM9oIIgGZjQ1nT",
     "name": "Radio Manantial de Vida",
     "stream_urls": [
@@ -1086,18 +1088,8 @@
     "name": "Radio MegaMix",
     "stream_urls": [
       "https://mdstrm.com/audio/5fada56fe4e09508207a7951/icecast.audio",
-      "https://us-b4-p-e-pb13-audio.cdn.mdstrm.com/live-audio-aw/5fada56fe4e09508207a7951"
-    ],
-    "country": "pe",
-    "languages": [
-      "spa"
-    ]
-  },
-  {
-    "nanoid": "hUmLROf8pBzC04",
-    "name": "Radio Melodía",
-    "stream_urls": [
-      "https://stream.radiomelodia.com.pe:8000/radio.mp3"
+      "https://us-b4-p-e-pb13-audio.cdn.mdstrm.com/live-audio-aw/5fada56fe4e09508207a7951",
+      "https://mdstrm.com/audio/5fada56fe4e09508207a7951/live.m3u8"
     ],
     "country": "pe",
     "languages": [
@@ -1168,6 +1160,17 @@
     "country": "pe",
     "languages": [
       "eng",
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "qDcVqdsIlfuGCm",
+    "name": "Radio Nacional del Perú",
+    "stream_urls": [
+      "https://cdnhd.iblups.com/hls/0773874174fd4eba8bb9eff741d190dc.m3u8"
+    ],
+    "country": "pe",
+    "languages": [
       "spa"
     ]
   },
@@ -1243,6 +1246,17 @@
     "name": "Radio Ondas del Misti 1330 AM",
     "stream_urls": [
       "https://maximacenterdata.com/8124/stream"
+    ],
+    "country": "pe",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "ZzWwDkaq75alAs",
+    "name": "Radio Oxígeno 102.1 FM",
+    "stream_urls": [
+      "https://mdstrm.com/audio/5fab0687bcd6c2389ee9480c/live.m3u8"
     ],
     "country": "pe",
     "languages": [
@@ -1440,7 +1454,8 @@
     "nanoid": "bHpB0ZpDjQvGZU",
     "name": "Radio Studio 92",
     "stream_urls": [
-      "https://mdstrm.com/audio/5fada553978fe1080e3ac5ea/icecast.audio"
+      "https://mdstrm.com/audio/5fada553978fe1080e3ac5ea/icecast.audio",
+      "https://mdstrm.com/audio/5fada553978fe1080e3ac5ea/live.m3u8"
     ],
     "country": "pe",
     "languages": [
@@ -1463,6 +1478,17 @@
     "name": "Radio Super (Pucallpa)",
     "stream_urls": [
       "https://sechin.grupocentroserver.com/listen/mi_super_radio/radio.mp3"
+    ],
+    "country": "pe",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "4I6nE3H4QIZBdT",
+    "name": "Radio Super Latina",
+    "stream_urls": [
+      "https://corporacionlatina.com:7004/;"
     ],
     "country": "pe",
     "languages": [

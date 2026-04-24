@@ -33,10 +33,10 @@
     ]
   },
   {
-    "nanoid": "25xvkjomUf130G",
-    "name": "Prvi (Radio Slovenija 1)",
+    "nanoid": "YVnQBx3cDC8wPz",
+    "name": "Hitradio Center Gen X",
     "stream_urls": [
-      "https://mp3.rtvslo.si/ra1"
+      "https://stream2.nextmedia.si/hls/gex/live.m3u8"
     ],
     "country": "si",
     "languages": [
@@ -47,8 +47,8 @@
     "nanoid": "QDH4U7P7TEPOsV",
     "name": "Radio 1",
     "stream_urls": [
-      "https://live.radio.si/Radio1",
-      "https://live.radio1.si/Radio80"
+      "https://live.radio1.si/Radio80",
+      "https://live.radio.si/Radio1"
     ],
     "country": "si",
     "languages": [
@@ -63,18 +63,6 @@
     ],
     "country": "si",
     "languages": [
-      "slv"
-    ]
-  },
-  {
-    "nanoid": "HdLWlAkWEmbBiE",
-    "name": "Radio Capodistria",
-    "stream_urls": [
-      "https://mp3.rtvslo.si/capo"
-    ],
-    "country": "si",
-    "languages": [
-      "ita",
       "slv"
     ]
   },
@@ -94,6 +82,17 @@
     "name": "Radio Dur",
     "stream_urls": [
       "https://zvok.ragla.si/gr"
+    ],
+    "country": "si",
+    "languages": [
+      "slv"
+    ]
+  },
+  {
+    "nanoid": "xdLhzob2bKcINS",
+    "name": "Radio Frajer",
+    "stream_urls": [
+      "https://stream2.nextmedia.si/hls/frj/128k/frj-128.m3u8"
     ],
     "country": "si",
     "languages": [

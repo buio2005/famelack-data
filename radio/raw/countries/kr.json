@@ -33,10 +33,101 @@
     ]
   },
   {
+    "nanoid": "dUrD8wcz74lLxT",
+    "name": "BTN TV",
+    "stream_urls": [
+      "https://btn.nowcdn.co.kr/btn/btnlive01/playlist.m3u8"
+    ],
+    "country": "kr",
+    "languages": [
+      "kor"
+    ]
+  },
+  {
     "nanoid": "QTQf8hezyIVKI7",
     "name": "CBS Music FM",
     "stream_urls": [
-      "https://lhttp-hw.qtfm.cn/live/15318233/64k.mp3"
+      "https://lhttp-hw.qtfm.cn/live/15318233/64k.mp3",
+      "https://m-aac.cbs.co.kr/mweb_cbs939/_definst_/cbs939.stream/chunklist.m3u8",
+      "https://m-aac.cbs.co.kr/mweb_cbs939/_definst_/cbs939.stream/playlist.m3u8"
+    ],
+    "country": "kr",
+    "languages": [
+      "kor"
+    ]
+  },
+  {
+    "nanoid": "64hYkIF4JmHTuX",
+    "name": "EBS English",
+    "stream_urls": [
+      "https://ebsonair.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8"
+    ],
+    "country": "kr",
+    "languages": [
+      "eng",
+      "kor"
+    ]
+  },
+  {
+    "nanoid": "pUuMp2LRFoK67Y",
+    "name": "EBS FM",
+    "stream_urls": [
+      "https://ebsonair.ebs.co.kr/fmradiofamilypc/familypc1m/playlist.m3u8"
+    ],
+    "country": "kr",
+    "languages": [
+      "kor"
+    ]
+  },
+  {
+    "nanoid": "dQif0Z23GZIFGf",
+    "name": "EBS Kids",
+    "stream_urls": [
+      "https://ebsonairios.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8"
+    ],
+    "country": "kr",
+    "languages": [
+      "kor"
+    ]
+  },
+  {
+    "nanoid": "7MLXElYejB3DzI",
+    "name": "EBS Plus 1",
+    "stream_urls": [
+      "https://ebsonairios.ebs.co.kr/plus1familypc/familypc1m/playlist.m3u8"
+    ],
+    "country": "kr",
+    "languages": [
+      "kor"
+    ]
+  },
+  {
+    "nanoid": "RdTNF8LmGsVeH0",
+    "name": "EBS Plus 2",
+    "stream_urls": [
+      "https://ebsonairios.ebs.co.kr/plus2familypc/familypc1m/playlist.m3u8"
+    ],
+    "country": "kr",
+    "languages": [
+      "kor"
+    ]
+  },
+  {
+    "nanoid": "AXlX8d9YYGuy7E",
+    "name": "EBS TV-1",
+    "stream_urls": [
+      "https://ebsonair.ebs.co.kr/groundwavefamilypc/familypc1m/playlist.m3u8"
+    ],
+    "country": "kr",
+    "languages": [
+      "kor"
+    ]
+  },
+  {
+    "nanoid": "r8yhhQtFzcKqOJ",
+    "name": "EBS TV-2",
+    "stream_urls": [
+      "https://ebsonair.ebs.co.kr/ebs2familypc/familypc1m/playlist.m3u8"
     ],
     "country": "kr",
     "languages": [
@@ -55,6 +146,39 @@
     ]
   },
   {
+    "nanoid": "KAVNGxR8SUGLkO",
+    "name": "Gugak FM",
+    "stream_urls": [
+      "https://mgugaklive.nowcdn.co.kr/gugakradio/gugakradio.stream/playlist.m3u8"
+    ],
+    "country": "kr",
+    "languages": [
+      "kor"
+    ]
+  },
+  {
+    "nanoid": "HI9W4LB27obFjy",
+    "name": "Gugak TV",
+    "stream_urls": [
+      "https://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8"
+    ],
+    "country": "kr",
+    "languages": [
+      "kor"
+    ]
+  },
+  {
+    "nanoid": "bZhcwenIx4uBlz",
+    "name": "iFM",
+    "stream_urls": [
+      "https://stream.ifm.kr/live/aod1/playlist.m3u8"
+    ],
+    "country": "kr",
+    "languages": [
+      "kor"
+    ]
+  },
+  {
     "nanoid": "zHrJQJWQVZoudE",
     "name": "K-RADIO AM 1660",
     "stream_urls": [
@@ -66,10 +190,32 @@
     ]
   },
   {
+    "nanoid": "uEUcgDCB4EGBOo",
+    "name": "OBS Radio",
+    "stream_urls": [
+      "https://vod3.obs.co.kr:444/live/obsstream1/radio.stream/playlist.m3u8"
+    ],
+    "country": "kr",
+    "languages": [
+      "kor"
+    ]
+  },
+  {
     "nanoid": "B6Z4Ae5w2gMnYk",
     "name": "Replay News",
     "stream_urls": [
       "https://replaynewskr.ice.infomaniak.ch/replaynewskr-128.mp3"
+    ],
+    "country": "kr",
+    "languages": [
+      "kor"
+    ]
+  },
+  {
+    "nanoid": "j70d9iS1ZlMu3l",
+    "name": "Sky Lake 24",
+    "stream_urls": [
+      "https://cast2.sayclub.com/saycast2/24sky/llhls.m3u8"
     ],
     "country": "kr",
     "languages": [

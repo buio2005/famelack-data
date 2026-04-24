@@ -35,6 +35,17 @@
     ]
   },
   {
+    "nanoid": "6TfXdSyNKRXeen",
+    "name": "Al Arabiya FM",
+    "stream_urls": [
+      "https://fm.alarabiya.net/fm/myStream/playlist.m3u8"
+    ],
+    "country": "sa",
+    "languages": [
+      "ara"
+    ]
+  },
+  {
     "nanoid": "uqubR0eDOaBCfp",
     "name": "Alif Alif FM",
     "stream_urls": [
@@ -150,6 +161,28 @@
     ]
   },
   {
+    "nanoid": "y7rKVGZvfCH0di",
+    "name": "Jeddah Radio 96.2 FM",
+    "stream_urls": [
+      "https://live.kwikmotion.com/sbrksajeddahradiolive/ksajeddahradio/chunks.m3u8"
+    ],
+    "country": "sa",
+    "languages": [
+      "ara"
+    ]
+  },
+  {
+    "nanoid": "tTG58hk1OTBxmu",
+    "name": "Khuzama Radio",
+    "stream_urls": [
+      "https://live.kwikmotion.com/sbrksakhuzamaradiolive/khuzama/chunks.m3u8"
+    ],
+    "country": "sa",
+    "languages": [
+      "ara"
+    ]
+  },
+  {
     "nanoid": "hpGJqvlTUw1RIB",
     "name": "Maura Radio",
     "stream_urls": [
@@ -158,6 +191,17 @@
     "country": "sa",
     "languages": [
       "ara"
+    ]
+  },
+  {
+    "nanoid": "UivzZQLyk0sF9z",
+    "name": "MBC Loud FM",
+    "stream_urls": [
+      "https://radio-loud-fm.mbc.net/radio-loud-fm.m3u8"
+    ],
+    "country": "sa",
+    "languages": [
+      "eng"
     ]
   },
   {
@@ -181,18 +225,6 @@
     "languages": [
       "ara",
       "eng"
-    ]
-  },
-  {
-    "nanoid": "A0D59TuWOde7Qj",
-    "name": "OFW Kabayan Radio",
-    "stream_urls": [
-      "https://c2.radioboss.fm:18478/stream"
-    ],
-    "country": "sa",
-    "languages": [
-      "eng",
-      "tgl"
     ]
   },
   {
@@ -267,7 +299,8 @@
     "nanoid": "5SNsKy7ge0VILo",
     "name": "Riyadh Radio 91.5 FM",
     "stream_urls": [
-      "https://stream-154.zeno.fm/pdeizhgrtrstv"
+      "https://stream-154.zeno.fm/pdeizhgrtrstv",
+      "https://live.kwikmotion.com/sbrksariyadhradiolive/ksariyadhradio/chunks.m3u8"
     ],
     "country": "sa",
     "languages": [
@@ -293,6 +326,18 @@
     ],
     "country": "sa",
     "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "xpMyBdzqavvpnp",
+    "name": "Saudia Radio 87.7 FM",
+    "stream_urls": [
+      "https://live.kwikmotion.com/sbrksasaudiaradiolive/ksasaudiaradio/chunks.m3u8"
+    ],
+    "country": "sa",
+    "languages": [
+      "ara",
       "eng"
     ]
   },

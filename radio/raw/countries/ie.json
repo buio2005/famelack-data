@@ -223,6 +223,17 @@
     ]
   },
   {
+    "nanoid": "M4WjCTND6Sfdst",
+    "name": "Dublin's 98FM",
+    "stream_urls": [
+      "https://stream.audioxi.com/98"
+    ],
+    "country": "ie",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
     "nanoid": "Pa2GTrOnXf5c9j",
     "name": "Dublin's 98FM Dance",
     "stream_urls": [
@@ -351,7 +362,8 @@
     "nanoid": "rtXCpesXdB52eB",
     "name": "Highland Radio",
     "stream_urls": [
-      "https://edge.audioxi.com/HIGHLAND"
+      "https://edge.audioxi.com/HIGHLAND",
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/HIGHLAND_RADIO.mp3"
     ],
     "country": "ie",
     "languages": [
@@ -475,8 +487,7 @@
     "stream_urls": [
       "https://playerservices.streamtheworld.com/api/livestream-redirect/MIDWEST_RADIOAAC.aac",
       "https://playerservices.streamtheworld.com/api/livestream-redirect/MIDWEST_RADIO.mp3",
-      "https://edge-audio-01-gos2.sharp-stream.com/midwestfmie2.aac",
-      "https://direct.sharp-stream.com/midwestfmie.mp3"
+      "https://edge-audio-01-gos2.sharp-stream.com/midwestfmie2.aac"
     ],
     "country": "ie",
     "languages": [
@@ -575,7 +586,8 @@
     "nanoid": "lL27G6Gv0XTZwb",
     "name": "Near FM",
     "stream_urls": [
-      "https://nearfm-radiohosting.radioca.st/stream.mp3"
+      "https://nearfm-radiohosting.radioca.st/stream.mp3",
+      "https://vdo.ssl-stream.com:3550/live/nearfmlive.m3u8"
     ],
     "country": "ie",
     "languages": [
@@ -762,6 +774,17 @@
     ]
   },
   {
+    "nanoid": "qO64FGES1RQgU4",
+    "name": "RabbitHole Radio",
+    "stream_urls": [
+      "https://stream.zeno.fm/c88dha3fmzzuv"
+    ],
+    "country": "ie",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
     "nanoid": "nSn6e4mV5HDnnd",
     "name": "Radio Cenzura",
     "stream_urls": [
@@ -823,8 +846,8 @@
     "nanoid": "9J67KkobCQXYss",
     "name": "Raidió Rí-Rá",
     "stream_urls": [
-      "https://icy-zurich.mpbnl.nl/rrr",
-      "https://uksoutha.streaming.broadcast.radio/ri-ra"
+      "https://uksoutha.streaming.broadcast.radio/ri-ra",
+      "https://icy-zurich.mpbnl.nl/rrr"
     ],
     "country": "ie",
     "languages": [
@@ -858,7 +881,8 @@
     "name": "RTÉ 2fm",
     "stream_urls": [
       "https://icecast.rte.ie/2fm",
-      "https://icecast2.rte.ie/ie2fm"
+      "https://icecast2.rte.ie/ie2fm",
+      "https://www.rte.ie/manifests/2fm.m3u8"
     ],
     "country": "ie",
     "languages": [
@@ -869,7 +893,9 @@
     "nanoid": "5PgEW5jgUv8O4T",
     "name": "RTÉ Gold",
     "stream_urls": [
-      "https://icecast1.rte.ie/gold"
+      "https://icecast1.rte.ie/gold",
+      "https://www.rte.ie/manifests/gold.m3u8",
+      "https://liveaudio.rte.ie/hls-radio/gold/chunklist.m3u8"
     ],
     "country": "ie",
     "languages": [
@@ -880,7 +906,9 @@
     "nanoid": "YHWY2jjPOnW9du",
     "name": "RTÉ lyric fm",
     "stream_urls": [
-      "https://icecast.rte.ie/lyric"
+      "https://icecast.rte.ie/lyric",
+      "https://www.rte.ie/manifests/lyric.m3u8",
+      "https://liveaudio.rte.ie/hls-radio/lyric/chunklist.m3u8"
     ],
     "country": "ie",
     "languages": [
@@ -905,7 +933,9 @@
     "nanoid": "hB2x092SdhmhPs",
     "name": "RTÉ Raidió na Gaeltachta",
     "stream_urls": [
-      "https://icecast2.rte.ie/rnag"
+      "https://icecast2.rte.ie/rnag",
+      "https://liveaudio.rte.ie/hls-radio/rnag/chunklist.m3u8",
+      "https://www.rte.ie/manifests/rnag.m3u8"
     ],
     "country": "ie",
     "languages": [
@@ -1005,6 +1035,17 @@
     ]
   },
   {
+    "nanoid": "b0njhbSnrjBN4w",
+    "name": "The Zone Dublin",
+    "stream_urls": [
+      "https://uk1.internet-radio.com/proxy/thezone/stream"
+    ],
+    "country": "ie",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
     "nanoid": "KDv4bTnQraRJh0",
     "name": "Timewarp Ireland",
     "stream_urls": [
@@ -1043,8 +1084,7 @@
     "stream_urls": [
       "https://stream.audioxi.com/TD",
       "https://pri.gocaster.net/td",
-      "https://edge.audioxi.com/TDAAC",
-      "https://live-bauerie.sharp-stream.com/TDAAC"
+      "https://edge.audioxi.com/TDAAC"
     ],
     "country": "ie",
     "languages": [
@@ -1056,8 +1096,7 @@
     "name": "Today FM 80s",
     "stream_urls": [
       "https://edge3.audioxi.com/T80",
-      "https://live-bauerie.sharp-stream.com/T80",
-      "https://stream.audioxi.com/T80"
+      "https://live-bauerie.sharp-stream.com/T80"
     ],
     "country": "ie",
     "languages": [
@@ -1135,17 +1174,6 @@
     "name": "Wired 99.9 FM",
     "stream_urls": [
       "https://s2.radio.co/sf0986595a/listen"
-    ],
-    "country": "ie",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
-    "nanoid": "U7ek95nOL9isnB",
-    "name": "WLR FM",
-    "stream_urls": [
-      "https://live-bauerie.sharp-stream.com/WLRAAC"
     ],
     "country": "ie",
     "languages": [

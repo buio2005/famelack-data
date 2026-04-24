@@ -1,5 +1,40 @@
 [
   {
+    "nanoid": "oOLRMY7KA7DrJc",
+    "name": "Kool FM",
+    "stream_urls": [
+      "https://radio.mbconline.xyz/hls/koolfm.m3u8"
+    ],
+    "country": "mu",
+    "languages": [
+      "eng",
+      "fra"
+    ]
+  },
+  {
+    "nanoid": "xvwolnNBDz00sY",
+    "name": "Radio Maurice",
+    "stream_urls": [
+      "https://radio.mbconline.xyz/hls/radiomaurice.m3u8"
+    ],
+    "country": "mu",
+    "languages": [
+      "fra"
+    ]
+  },
+  {
+    "nanoid": "eDunkUmUnZAuns",
+    "name": "Radio Mauritius",
+    "stream_urls": [
+      "https://radio.mbconline.xyz/hls/radiomauritus.m3u8"
+    ],
+    "country": "mu",
+    "languages": [
+      "eng",
+      "hin"
+    ]
+  },
+  {
     "nanoid": "ACFTeuALrrjNnx",
     "name": "Radio Plus",
     "stream_urls": [
@@ -36,6 +71,18 @@
     ]
   },
   {
+    "nanoid": "FpUS77yHCrIlbP",
+    "name": "Taal FM",
+    "stream_urls": [
+      "https://radio.mbconline.xyz/hls/tallfm.m3u8"
+    ],
+    "country": "mu",
+    "languages": [
+      "eng",
+      "hin"
+    ]
+  },
+  {
     "nanoid": "24FMaZmbS7jUWd",
     "name": "Tamizen Radio",
     "stream_urls": [
@@ -44,17 +91,6 @@
     "country": "mu",
     "languages": [
       "tam"
-    ]
-  },
-  {
-    "nanoid": "Bu1pfwEg1wv7w2",
-    "name": "Top FM",
-    "stream_urls": [
-      "https://s1.radioforge.com:4433/topfmlive/stream"
-    ],
-    "country": "mu",
-    "languages": [
-      "fra"
     ]
   }
 ]
