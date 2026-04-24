@@ -1,5 +1,18 @@
 [
   {
+    "nanoid": "wvLjkMxbINYOUZ",
+    "name": "1-2-3 TV",
+    "stream_urls": [
+      "https://123tv-mx1.flex-cdn.net/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "deu"
+    ],
+    "country": "de",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "LAPj7zIAvtxGKM",
     "name": "Alex Berlin",
     "stream_urls": [
@@ -43,6 +56,19 @@
     "name": "Anixe HD Serie",
     "stream_urls": [
       "https://ma.anixa.tv/clips/stream/anixehd/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "deu"
+    ],
+    "country": "de",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "IJpns8FI8lNpRr",
+    "name": "ARD-alpha",
+    "stream_urls": [
+      "https://brlive-lh.akamaihd.net/i/bralpha_germany@119899/master.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -121,9 +147,7 @@
     "nanoid": "HISiOL7NmfoR6g",
     "name": "Baden TV",
     "stream_urls": [
-      "https://cdn.icu.de/rtplive/btv.stream/playlist.m3u8",
-      "https://badentv-stream2.siebnich.info/rtplive/btv.stream/live.m3u8",
-      "https://badentv-stream2.siebnich.info/rtplive/btv.stream/playlist.m3u8"
+      "https://cdn.icu.de/rtplive/btv.stream/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -371,8 +395,8 @@
     "name": "DW English",
     "stream_urls": [
       "https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/master.m3u8",
-      "https://liveh12.vtvprime.vn/hls/DW/03.m3u8",
-      "https://stream8.cinerama.uz/1418/tracks-v1a1/mono.m3u8"
+      "https://live.fptplay53.net/fnxhd2/dwenglish_hls.smil/chunklist.m3u8",
+      "https://liveh12.vtvprime.vn/hls/DW/03.m3u8"
     ],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/LuKwFajn37U"
@@ -390,19 +414,6 @@
       "https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/master.m3u8"
     ],
     "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
-    "country": "de",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "T1qgpA3LWRh4Lf",
-    "name": "DW Español",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/jRnqxURJ120"
-    ],
     "languages": [
       "spa"
     ],
@@ -553,7 +564,7 @@
     "name": "Glück Auf TV - Mittel Erzgebirgs Fernsehen",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/LQ_068HZsP8"
+      "https://www.youtube-nocookie.com/embed/CDLv3dx_pi8"
     ],
     "languages": [
       "deu"
@@ -746,21 +757,8 @@
     "name": "Kanal 9 Erzgebirge",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/Xjsdgar6xks"
+      "https://www.youtube-nocookie.com/embed/cfgKCNFuq9E"
     ],
-    "languages": [
-      "deu"
-    ],
-    "country": "de",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "Wb0Im4H36585vz",
-    "name": "Kanal12 Spremberg TV",
-    "stream_urls": [
-      "https://58de7a369a9c4.streamlock.net/sprembergtv/live/playlist.m3u8"
-    ],
-    "youtube_urls": [],
     "languages": [
       "deu"
     ],
@@ -782,10 +780,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "OH65zONOdo7fss",
-    "name": "KiKA HD",
+    "nanoid": "0yjVBN9zD5VvoM",
+    "name": "KiKA",
     "stream_urls": [
-      "https://dash4.antik.sk/live/test_kika_tizen/playlist.m3u8"
+      "https://kikahls.akamaized.net/hls/live/2022690/livetvkika_ww/master.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -795,10 +793,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "veVA32nZqDrhse",
-    "name": "KulturMD",
+    "nanoid": "OH65zONOdo7fss",
+    "name": "KiKA HD",
     "stream_urls": [
-      "https://58bd5b7a98e04.streamlock.net/medienasa-live/kulturmd_high/playlist.m3u8"
+      "https://dash4.antik.sk/live/test_kika_tizen/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -867,19 +865,6 @@
     ],
     "youtube_urls": [],
     "languages": [],
-    "country": "de",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "AfL5oyVqCpLDJk",
-    "name": "MDF.1",
-    "stream_urls": [
-      "https://58bd5b7a98e04.streamlock.net/medienasa-live/mdf1_high/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "deu"
-    ],
     "country": "de",
     "isGeoBlocked": false
   },
@@ -1078,35 +1063,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "t25XYUZkAL9Kgw",
-    "name": "OF-TV Offenbach",
-    "stream_urls": [
-      "https://5864df9ceac85.streamlock.net/germanpictures-live/_definst_/mp4:streamschedule/playlist.m3u8",
-      "https://5864df9ceac85.streamlock.net/germanpictures-live/mp4:streamschedule/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "deu"
-    ],
-    "country": "de",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "MUm8U37A4OvXc2",
-    "name": "OK Dessau",
-    "stream_urls": [
-      "https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:ok-dessau_high/playlist.m3u8",
-      "https://58bd5b7a98e04.streamlock.net/medienasa-live/mp4:ok-dessau_high/playlist.m3u8",
-      "https://58bd5b7a98e04.streamlock.net/medienasa-live/ok-dessau_high/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "deu"
-    ],
-    "country": "de",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "ixhyYhnKxhDZBe",
     "name": "OK Flensburg",
     "stream_urls": [
@@ -1124,77 +1080,6 @@
     "name": "OK Kiel",
     "stream_urls": [
       "https://live-cdn.oksh.de/play/hls/kieltv/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "deu"
-    ],
-    "country": "de",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "3sRXXJs8hqTfO5",
-    "name": "OK Magdeburg",
-    "stream_urls": [
-      "https://58bd5b7a98e04.streamlock.net/medienasa-live/mp4:ok-magdeburg_high/playlist.m3u8",
-      "https://58bd5b7a98e04.streamlock.net/medienasa-live/ok-magdeburg_high/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "deu"
-    ],
-    "country": "de",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "FYuXPwk6jlP8bJ",
-    "name": "OK Merseburg-Querfurt",
-    "stream_urls": [
-      "https://58bd5b7a98e04.streamlock.net/medienasa-live/mp4:ok-merseburg_high/playlist.m3u8",
-      "https://58bd5b7a98e04.streamlock.net/medienasa-live/ok-merseburg_high/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "deu"
-    ],
-    "country": "de",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "rBGrW8kNGesFFe",
-    "name": "OK Salzwedel",
-    "stream_urls": [
-      "https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:ok-salzwedel_high/playlist.m3u8",
-      "https://58bd5b7a98e04.streamlock.net/medienasa-live/mp4:ok-salzwedel_high/playlist.m3u8",
-      "https://58bd5b7a98e04.streamlock.net/medienasa-live/ok-salzwedel_high/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "deu"
-    ],
-    "country": "de",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "WyGGx8bh7zihHI",
-    "name": "OK Stendal",
-    "stream_urls": [
-      "https://58bd5b7a98e04.streamlock.net/medienasa-live/mp4:ok-stendal_high/playlist.m3u8",
-      "https://58bd5b7a98e04.streamlock.net/medienasa-live/ok-stendal_high/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "deu"
-    ],
-    "country": "de",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "iD1O3DGfgUMF59",
-    "name": "OK Wernigerode",
-    "stream_urls": [
-      "https://58bd5b7a98e04.streamlock.net/medienasa-live/mp4:ok-wernigerode_high/playlist.m3u8",
-      "https://58bd5b7a98e04.streamlock.net/medienasa-live/ok-wernigerode_high/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -1234,19 +1119,6 @@
     "name": "ProSieben",
     "stream_urls": [
       "https://dash4.antik.sk/live/test_pro_sieben_tizen/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "deu"
-    ],
-    "country": "de",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "dQC6hnK8bEtRAv",
-    "name": "PUNKTum Fernsehen",
-    "stream_urls": [
-      "https://58bd5b7a98e04.streamlock.net/medienasa-live/punktum_high/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -1342,39 +1214,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "ILjNpPssxRQReN",
-    "name": "RAN1",
-    "stream_urls": [
-      "https://58bd5b7a98e04.streamlock.net/medienasa-live/mp4:ran1_high/playlist.m3u8",
-      "https://58bd5b7a98e04.streamlock.net/medienasa-live/ran1_high/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "deu"
-    ],
-    "country": "de",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "wzGJSCy2AvoKPw",
     "name": "rbb Fernsehen",
     "stream_urls": [
       "https://dash2.antik.sk/live/test_rbb_tizen/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "deu"
-    ],
-    "country": "de",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "eDxTJNmoxWEurz",
-    "name": "RBW",
-    "stream_urls": [
-      "https://58bd5b7a98e04.streamlock.net/medienasa-live/mp4:rbw_high/playlist.m3u8",
-      "https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:rbw_high/playlist.m3u8",
-      "https://58bd5b7a98e04.streamlock.net/medienasa-live/rbw_high/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -1426,21 +1269,7 @@
     "nanoid": "6I4CQI5DQQYidR",
     "name": "RFH",
     "stream_urls": [
-      "https://h056.video-stream-hosting.de/medienasa-live/_definst_/mp4:RFH_high/index.m3u8",
-      "https://58bd5b7a98e04.streamlock.net/medienasa-live/RFH_high/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "deu"
-    ],
-    "country": "de",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "Wm5wGl36SAC05e",
-    "name": "RFO",
-    "stream_urls": [
-      "https://stream01.stream.welocal.world/stream/fhd-rfo_66876/ngrp:stream_all/playlist.m3u8"
+      "https://h056.video-stream-hosting.de/medienasa-live/_definst_/mp4:RFH_high/index.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -1646,19 +1475,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "v3xxGRtiYvFu9f",
-    "name": "SRF",
-    "stream_urls": [
-      "https://58de7a369a9c4.streamlock.net/srf/stream_720p/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "deu"
-    ],
-    "country": "de",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "qyY0UwrdD794tp",
     "name": "Starke Frauen",
     "stream_urls": [
@@ -1741,20 +1557,6 @@
     "youtube_urls": [],
     "languages": [
       "eng"
-    ],
-    "country": "de",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "26XgnwsMGpjD8v",
-    "name": "Tide TV",
-    "stream_urls": [
-      "https://5889e7d0d6e28.streamlock.net/tide-live/smil:livestream.smil/playlist.m3u8",
-      "https://5889e7d0d6e28.streamlock.net/tide-live/_definst_/smil:livestream.smil/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "deu"
     ],
     "country": "de",
     "isGeoBlocked": false

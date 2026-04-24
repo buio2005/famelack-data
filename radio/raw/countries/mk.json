@@ -69,32 +69,10 @@
     ]
   },
   {
-    "nanoid": "EsQYjAaFQOJ6Ob",
-    "name": "MRT Radio Skopje",
-    "stream_urls": [
-      "https://vod-c57.interspace.com/channel_abr/49/playlist.m3u8"
-    ],
-    "country": "mk",
-    "languages": [
-      "mkd"
-    ]
-  },
-  {
     "nanoid": "4Uv0qYYKtiMffB",
     "name": "Radio Bar",
     "stream_urls": [
       "https://visual.shoutca.st:8122/stream"
-    ],
-    "country": "mk",
-    "languages": [
-      "mkd"
-    ]
-  },
-  {
-    "nanoid": "13ehmFMWnz1TbY",
-    "name": "Radio Buba Mara",
-    "stream_urls": [
-      "https://stream.bubamara.com.mk/live"
     ],
     "country": "mk",
     "languages": [
@@ -140,17 +118,6 @@
     "name": "Samo MK",
     "stream_urls": [
       "https://radiostream.neotel.mk/samomk"
-    ],
-    "country": "mk",
-    "languages": [
-      "mkd"
-    ]
-  },
-  {
-    "nanoid": "lLnJah7uuCMZD3",
-    "name": "Sky Folk",
-    "stream_urls": [
-      "https://eu.live.skyfolk.mk/live.m3u8"
     ],
     "country": "mk",
     "languages": [
@@ -235,17 +202,6 @@
     ]
   },
   {
-    "nanoid": "u2z2cLSWhkCciO",
-    "name": "Star Radio Plus",
-    "stream_urls": [
-      "https://radiostar.pro/stream/starplus.php"
-    ],
-    "country": "mk",
-    "languages": [
-      "mkd"
-    ]
-  },
-  {
     "nanoid": "mKdKRm0V1TXbws",
     "name": "Star Radio Urban Folk",
     "stream_urls": [
@@ -272,6 +228,17 @@
     "name": "Time FM",
     "stream_urls": [
       "https://s2.free-shoutcast.com/stream/18058"
+    ],
+    "country": "mk",
+    "languages": [
+      "mkd"
+    ]
+  },
+  {
+    "nanoid": "wTKPnafPAPcZBn",
+    "name": "Urban FM",
+    "stream_urls": [
+      "https://securestreams4.autopo.st:1668/stream"
     ],
     "country": "mk",
     "languages": [

@@ -89,17 +89,6 @@
     ]
   },
   {
-    "nanoid": "VzAak85LCtzyag",
-    "name": "Colosal FM 88.3",
-    "stream_urls": [
-      "https://5eac7b031d945.streamlock.net/canal3/canal3/playlist.m3u8"
-    ],
-    "country": "cr",
-    "languages": [
-      "spa"
-    ]
-  },
-  {
     "nanoid": "AR3x81g3JGfMbx",
     "name": "Columbia Estéreo 92.7 FM",
     "stream_urls": [
@@ -157,32 +146,10 @@
     ]
   },
   {
-    "nanoid": "e4VYcJWTsH0PZa",
-    "name": "Exa FM 102.7",
-    "stream_urls": [
-      "https://d2sqnny37a5vy4.cloudfront.net/index.m3u8"
-    ],
-    "country": "cr",
-    "languages": [
-      "spa"
-    ]
-  },
-  {
     "nanoid": "329ILd8luHLhZU",
     "name": "Faro del Caribe",
     "stream_urls": [
       "https://sp.unoredcdn.net/8032/stream"
-    ],
-    "country": "cr",
-    "languages": [
-      "spa"
-    ]
-  },
-  {
-    "nanoid": "C08FcwK4yv5YX7",
-    "name": "La Mejor 99.1 FM",
-    "stream_urls": [
-      "https://alba-cr-lamejor-lamejor.stream.mediatiquestream.com/index.m3u8"
     ],
     "country": "cr",
     "languages": [
@@ -204,7 +171,8 @@
     "nanoid": "HrPaFXcsmJqNsw",
     "name": "Mundo Rock Radio",
     "stream_urls": [
-      "https://cloudstream2030.conectarhosting.com/8196/stream"
+      "https://cloudstream2030.conectarhosting.com/8196/stream",
+      "https://as100.globalhost1.com/8046/stream"
     ],
     "country": "cr",
     "languages": [
@@ -279,28 +247,6 @@
     ]
   },
   {
-    "nanoid": "G0QsMX5aNdILUO",
-    "name": "Radio Momentos 94.3 FM",
-    "stream_urls": [
-      "https://d8bzy7to8mrmz.cloudfront.net/index.m3u8"
-    ],
-    "country": "cr",
-    "languages": [
-      "spa"
-    ]
-  },
-  {
-    "nanoid": "RzEGfOLHD8ksqe",
-    "name": "Radio Monumental 93.5 FM",
-    "stream_urls": [
-      "https://d217zps3ol2v0s.cloudfront.net/index.m3u8"
-    ],
-    "country": "cr",
-    "languages": [
-      "spa"
-    ]
-  },
-  {
     "nanoid": "HfLhqJdxLgtPCJ",
     "name": "Radio Musical 97.5 FM",
     "stream_urls": [
@@ -323,17 +269,6 @@
     ]
   },
   {
-    "nanoid": "KvdfVQmBNAxy4y",
-    "name": "Teletica Radio 91.5 FM",
-    "stream_urls": [
-      "https://g2qd375ol7an-hls-live.5centscdn.com/Radio/eae835e83c0494a376229f254f7d3392.sdp/chunks.m3u8"
-    ],
-    "country": "cr",
-    "languages": [
-      "spa"
-    ]
-  },
-  {
     "nanoid": "uPzft8PoKfTKPU",
     "name": "Tiquicia Rock",
     "stream_urls": [
@@ -342,17 +277,6 @@
     "country": "cr",
     "languages": [
       "eng",
-      "spa"
-    ]
-  },
-  {
-    "nanoid": "MbJUFjjRqerjeo",
-    "name": "Zeta 95.1 FM",
-    "stream_urls": [
-      "https://d24u73fmiriau6.cloudfront.net/index.m3u8"
-    ],
-    "country": "cr",
-    "languages": [
       "spa"
     ]
   }

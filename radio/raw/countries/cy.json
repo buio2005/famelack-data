@@ -55,17 +55,6 @@
     ]
   },
   {
-    "nanoid": "Z6dH3Ii9BCeu8z",
-    "name": "Cool Radio 91.6",
-    "stream_urls": [
-      "https://live3.istoikona.net/proxy/cooleradio/stream"
-    ],
-    "country": "cy",
-    "languages": [
-      "ell"
-    ]
-  },
-  {
     "nanoid": "LP90vzg8RojAVf",
     "name": "Dance FM",
     "stream_urls": [
@@ -124,8 +113,7 @@
     "nanoid": "EuVOi7vUHtPVHe",
     "name": "Mix FM",
     "stream_urls": [
-      "https://link.radiojar.com/c27wx6pdh8vtv",
-      "https://strm.mixlive.eu/mixfm/index.m3u8"
+      "https://link.radiojar.com/c27wx6pdh8vtv"
     ],
     "country": "cy",
     "languages": [
@@ -200,50 +188,6 @@
     ]
   },
   {
-    "nanoid": "XpPhYL4xAEDWYw",
-    "name": "RIK Classic",
-    "stream_urls": [
-      "https://r1.cloudskep.com/cybcr/cybc4/playlist.m3u8"
-    ],
-    "country": "cy",
-    "languages": [
-      "ell"
-    ]
-  },
-  {
-    "nanoid": "utCvSyAu6kP7BR",
-    "name": "RIK Deftero",
-    "stream_urls": [
-      "https://r1.cloudskep.com/cybcr/cybc2/playlist.m3u8"
-    ],
-    "country": "cy",
-    "languages": [
-      "ell"
-    ]
-  },
-  {
-    "nanoid": "DxWHAfpqBRF7U5",
-    "name": "RIK Proto",
-    "stream_urls": [
-      "https://r1.cloudskep.com/cybcr/cybc1/playlist.m3u8"
-    ],
-    "country": "cy",
-    "languages": [
-      "ell"
-    ]
-  },
-  {
-    "nanoid": "PjbmlwlRjiYAa7",
-    "name": "RIK Sat",
-    "stream_urls": [
-      "https://l3.cloudskep.com/cybcsat/abr/playlist.m3u8"
-    ],
-    "country": "cy",
-    "languages": [
-      "ell"
-    ]
-  },
-  {
     "nanoid": "ABYENI1nUr9Qq4",
     "name": "RIK Tetarto",
     "stream_urls": [
@@ -302,8 +246,8 @@
     "nanoid": "0MEl1OkpJ7UIVH",
     "name": "Super Sport FM",
     "stream_urls": [
-      "https://r1.cloudskep.com/radio3/supersportfm/icecast.audio",
-      "https://sportfm-cyprus.live24.gr/sportfm-cyprus"
+      "https://sportfm-cyprus.live24.gr/sportfm-cyprus",
+      "https://r1.cloudskep.com/radio3/supersportfm/icecast.audio"
     ],
     "country": "cy",
     "languages": [

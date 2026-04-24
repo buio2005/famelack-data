@@ -16,9 +16,9 @@
     "nanoid": "eq34GdxYvaNMcu",
     "name": "Araz FM 103.3",
     "stream_urls": [
-      "https://s14.myradiostream.com/30454/listen.mp3",
       "https://s39.myradiostream.com:5458/listen.mp3",
-      "https://s39.myradiostream.com/5458/listen.mp3"
+      "https://s39.myradiostream.com/5458/listen.mp3",
+      "https://s14.myradiostream.com/30454/listen.mp3"
     ],
     "country": "az",
     "languages": [
@@ -40,8 +40,8 @@
     "nanoid": "vliqHfemWz5UZb",
     "name": "AutoLife Radio",
     "stream_urls": [
-      "https://radio.autoliferadio.com:8005/radio",
-      "https://radio.autoliferadio.com:8090/radio"
+      "https://radio.autoliferadio.com:8090/radio",
+      "https://radio.autoliferadio.com:8005/radio"
     ],
     "country": "az",
     "languages": [
@@ -56,29 +56,6 @@
     "name": "Azad 106.3 FM",
     "stream_urls": [
       "https://audiostr.atv.az/106.3fm"
-    ],
-    "country": "az",
-    "languages": [
-      "aze"
-    ]
-  },
-  {
-    "nanoid": "Y0yPCgBthqkyj7",
-    "name": "Azerbaycan Radiosu 105 FM",
-    "stream_urls": [
-      "https://str.yodacdn.net/radio_respublica/tracks-a1/mono.m3u8",
-      "https://str.yodacdn.net/radio_respublica/video.m3u8"
-    ],
-    "country": "az",
-    "languages": [
-      "aze"
-    ]
-  },
-  {
-    "nanoid": "F3ht4RpQWc6TkA",
-    "name": "Azərbaycan Beynəlxalq Radiosu",
-    "stream_urls": [
-      "https://str.yodacdn.net/radio_int/tracks-a1/mono.m3u8"
     ],
     "country": "az",
     "languages": [
@@ -121,40 +98,6 @@
     ]
   },
   {
-    "nanoid": "TmCDxOG09KeHC1",
-    "name": "Europa Plus Baku 107.7 FM",
-    "stream_urls": [
-      "https://hls-02-europaplus.emgsound.ru/11/128/playlist.m3u8"
-    ],
-    "country": "az",
-    "languages": [
-      "aze",
-      "rus"
-    ]
-  },
-  {
-    "nanoid": "1l91hqh7JwA2Qw",
-    "name": "Ictimai Radio 90 FM",
-    "stream_urls": [
-      "https://stream.itv.az/rtmp:/radio/chunks.m3u8"
-    ],
-    "country": "az",
-    "languages": [
-      "aze"
-    ]
-  },
-  {
-    "nanoid": "MjE9NEzoK7dkDb",
-    "name": "İctimai Radio 90 FM",
-    "stream_urls": [
-      "https://stream.itv.az/rtmp:/radio/playlist.m3u8"
-    ],
-    "country": "az",
-    "languages": [
-      "aze"
-    ]
-  },
-  {
     "nanoid": "NDLFJMqBCIKoee",
     "name": "Media FM 105.5",
     "stream_urls": [
@@ -169,8 +112,7 @@
     "nanoid": "ODwTA8rKAAuAri",
     "name": "Naxçıvan Radiosu 104.1 FM",
     "stream_urls": [
-      "https://s33.myradiostream.com:12782/listen.mp3",
-      "https://str.yodacdn.net/naxcivanradio/tracks-a1/mono.ts.m3u8"
+      "https://s33.myradiostream.com:12782/listen.mp3"
     ],
     "country": "az",
     "languages": [

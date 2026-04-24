@@ -274,8 +274,8 @@
     "nanoid": "ug8hHOhT9BNrwW",
     "name": "Radio Viva",
     "stream_urls": [
-      "https://stream.sepia.sk/viva128.mp3",
-      "https://stream.sepia.sk:8000/viva128.mp3"
+      "https://stream.sepia.sk:8000/viva128.mp3",
+      "https://stream.sepia.sk/viva128.mp3"
     ],
     "country": "sk",
     "languages": [
@@ -325,18 +325,6 @@
     "languages": [
       "slk",
       "ces"
-    ]
-  },
-  {
-    "nanoid": "YDBoDSnqKfm6AV",
-    "name": "Rádio Expres",
-    "stream_urls": [
-      "https://stream.bauermedia.sk/128.mp3",
-      "https://stream.expres.sk/128.mp3"
-    ],
-    "country": "sk",
-    "languages": [
-      "slk"
     ]
   },
   {
@@ -467,6 +455,17 @@
     "name": "Rádio Pyramída",
     "stream_urls": [
       "https://icecast.stv.livebox.sk/klasika_128.mp3"
+    ],
+    "country": "sk",
+    "languages": [
+      "slk"
+    ]
+  },
+  {
+    "nanoid": "nvND7555xtvWRs",
+    "name": "Rádio Rebeca",
+    "stream_urls": [
+      "https://mpc2.mediacp.eu:8200/rebecaweb"
     ],
     "country": "sk",
     "languages": [
@@ -650,17 +649,6 @@
     ]
   },
   {
-    "nanoid": "whnhd9mqx7uebc",
-    "name": "TA3",
-    "stream_urls": [
-      "https://n13.stv.livebox.sk/ta3/685d9a141bd846e8facf83bc378da26b/1.smil/chunklist_b2691072.m3u8"
-    ],
-    "country": "sk",
-    "languages": [
-      "slk"
-    ]
-  },
-  {
     "nanoid": "jJEDtSlklX0XOr",
     "name": "Tiché rádio",
     "stream_urls": [
@@ -687,17 +675,6 @@
     "name": "Trnavské rádio",
     "stream_urls": [
       "https://solid33.streamupsolutions.com/proxy/mujdmamw/trnavske"
-    ],
-    "country": "sk",
-    "languages": [
-      "slk"
-    ]
-  },
-  {
-    "nanoid": "xP7jlsQLuC8dPK",
-    "name": "TV Lux",
-    "stream_urls": [
-      "https://stream.tvlux.sk/lux/lux.stream_aac/playlist.m3u8"
     ],
     "country": "sk",
     "languages": [

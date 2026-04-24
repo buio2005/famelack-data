@@ -1,5 +1,16 @@
 [
   {
+    "nanoid": "4QFLpjzqiwMDrn",
+    "name": "All The Best Radio",
+    "stream_urls": [
+      "https://c4.radioboss.fm/stream/537"
+    ],
+    "country": "ee",
+    "languages": [
+      "est"
+    ]
+  },
+  {
     "nanoid": "tYBYocapbIXXZ5",
     "name": "Duo Country",
     "stream_urls": [
@@ -406,8 +417,8 @@
     "nanoid": "0dEbhiPbRt4u85",
     "name": "Raadio Kuku",
     "stream_urls": [
-      "https://router.euddn.net/8103046e16b71d15d692b57c187875c7/kuku_high.mp3",
-      "https://router.euddn.net/8103046e16b71d15d692b57c187875c7/kuku_low.mp3"
+      "https://router.euddn.net/8103046e16b71d15d692b57c187875c7/kuku_low.mp3",
+      "https://router.euddn.net/8103046e16b71d15d692b57c187875c7/kuku_high.mp3"
     ],
     "country": "ee",
     "languages": [
@@ -519,8 +530,8 @@
     "nanoid": "OoBYQeOhsxFDgW",
     "name": "Ring FM",
     "stream_urls": [
-      "https://cdn.treraadio.ee/ringfm",
-      "https://cdn.treraadio.ee/tartustuudio"
+      "https://cdn.treraadio.ee/tartustuudio",
+      "https://cdn.treraadio.ee/ringfm"
     ],
     "country": "ee",
     "languages": [
@@ -625,6 +636,17 @@
     "stream_urls": [
       "https://icecast.err.ee/vikerraadiokorge.mp3",
       "https://icecast.err.ee/vikerraadio.mp3"
+    ],
+    "country": "ee",
+    "languages": [
+      "est"
+    ]
+  },
+  {
+    "nanoid": "YmRVbeAX2KB7cv",
+    "name": "XFM",
+    "stream_urls": [
+      "https://sc2.treraadio.ee/ttesstttinggg"
     ],
     "country": "ee",
     "languages": [

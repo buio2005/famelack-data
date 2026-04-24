@@ -36,22 +36,11 @@
     ]
   },
   {
-    "nanoid": "hkyQUbJXZW7GWe",
-    "name": "Dagnys Jukebox",
-    "stream_urls": [
-      "https://stream4.rcast.net/73224"
-    ],
-    "country": "se",
-    "languages": [
-      "swe"
-    ]
-  },
-  {
     "nanoid": "kP42UcgLqxApFC",
     "name": "Dansbandskanalen",
     "stream_urls": [
-      "https://stream.dbmedia.se/dbkMP3",
-      "https://stream.dbmedia.se/dbk96"
+      "https://stream.dbmedia.se/dbk96",
+      "https://stream.dbmedia.se/dbkMP3"
     ],
     "country": "se",
     "languages": [
@@ -73,8 +62,8 @@
     "nanoid": "nMTjAg2sl0FKCH",
     "name": "Guldkanalen 60-tal",
     "stream_urls": [
-      "https://stream.dbmedia.se/gk60tal96",
-      "https://stream.dbmedia.se/gk60talMP3"
+      "https://stream.dbmedia.se/gk60talMP3",
+      "https://stream.dbmedia.se/gk60tal96"
     ],
     "country": "se",
     "languages": [
@@ -196,17 +185,6 @@
     ]
   },
   {
-    "nanoid": "q35Vp2cGsAhcFZ",
-    "name": "Northern Metal Radio",
-    "stream_urls": [
-      "https://dc5.serverse.com/proxy/lvzgnvcj/stream"
-    ],
-    "country": "se",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
     "nanoid": "xQMKceNwEo27PP",
     "name": "Northern Metal Radio Extreme",
     "stream_urls": [
@@ -251,17 +229,6 @@
     ]
   },
   {
-    "nanoid": "mrODluGfJfwqnS",
-    "name": "Polushon Radio",
-    "stream_urls": [
-      "https://whsh4u-clients.com:18323/proxy/ndhfnbqx?mp=/stream"
-    ],
-    "country": "se",
-    "languages": [
-      "swe"
-    ]
-  },
-  {
     "nanoid": "hyyIPbnxDoNwvy",
     "name": "Radio 88 Golden Hits",
     "stream_urls": [
@@ -281,17 +248,6 @@
     "country": "se",
     "languages": [
       "swe"
-    ]
-  },
-  {
-    "nanoid": "HckbghkzrBXgX3",
-    "name": "Radio Gbg SEVDAH",
-    "stream_urls": [
-      "https://stream.radiogbg.se:8050/relay4"
-    ],
-    "country": "se",
-    "languages": [
-      "bos"
     ]
   },
   {
@@ -472,23 +428,11 @@
     ]
   },
   {
-    "nanoid": "mlsdkmixzFk2Cp",
-    "name": "Sveriges Radio Ekot",
-    "stream_urls": [
-      "https://live1.sr.se/ekotdirekt-aac-320"
-    ],
-    "country": "se",
-    "languages": [
-      "swe"
-    ]
-  },
-  {
     "nanoid": "20vpwxYzY6xMCD",
     "name": "Sveriges Radio P1",
     "stream_urls": [
-      "https://edge1.sr.se/p1-aac-320",
       "https://sverigesradio.se/topsy/direkt/srapi/132-hi-aac-http",
-      "https://live1.sr.se/p1-aac-320"
+      "https://edge1.sr.se/p1-aac-320"
     ],
     "country": "se",
     "languages": [
@@ -500,19 +444,7 @@
     "name": "Sveriges Radio P2",
     "stream_urls": [
       "https://live1.sr.se/p2-flac",
-      "https://edge1.sr.se/p2-flac",
-      "https://live1.sr.se/p2-aac-320"
-    ],
-    "country": "se",
-    "languages": [
-      "swe"
-    ]
-  },
-  {
-    "nanoid": "f9cGpj4GCZvbPA",
-    "name": "Sveriges Radio P2 Språk och Musik",
-    "stream_urls": [
-      "https://live1.sr.se/p2sm-aac-320"
+      "https://edge1.sr.se/p2-flac"
     ],
     "country": "se",
     "languages": [
@@ -523,31 +455,7 @@
     "nanoid": "5lTMkcAWxNIp8o",
     "name": "Sveriges Radio P3",
     "stream_urls": [
-      "https://edge1.sr.se/p3-aac-320",
-      "https://live1.sr.se/p3-aac-320",
-      "https://live1.sr.se/p3-mp3-96"
-    ],
-    "country": "se",
-    "languages": [
-      "swe"
-    ]
-  },
-  {
-    "nanoid": "8gkZdSPH7O1mns",
-    "name": "Sveriges Radio P3 Din gata",
-    "stream_urls": [
-      "https://live1.sr.se/dingata-aac-320"
-    ],
-    "country": "se",
-    "languages": [
-      "swe"
-    ]
-  },
-  {
-    "nanoid": "QYg6LscIVUT7UF",
-    "name": "Sveriges Radio P4 Blekinge",
-    "stream_urls": [
-      "https://live1.sr.se/p4blek-mp3-96"
+      "https://edge1.sr.se/p3-aac-320"
     ],
     "country": "se",
     "languages": [
@@ -566,17 +474,6 @@
     ]
   },
   {
-    "nanoid": "untEJaKRAoLUwa",
-    "name": "Sveriges Radio P4 Göteborg",
-    "stream_urls": [
-      "https://live1.sr.se/p4gbg-aac-320"
-    ],
-    "country": "se",
-    "languages": [
-      "swe"
-    ]
-  },
-  {
     "nanoid": "rzoVQRie28aqNR",
     "name": "Sveriges Radio P4 Halland",
     "stream_urls": [
@@ -588,55 +485,10 @@
     ]
   },
   {
-    "nanoid": "O9C6wOQMOMg3Da",
-    "name": "Sveriges Radio P4 Jämtland",
-    "stream_urls": [
-      "https://live1.sr.se/p4jmtl-aac-320"
-    ],
-    "country": "se",
-    "languages": [
-      "swe"
-    ]
-  },
-  {
-    "nanoid": "nLWnZrejGqqNT4",
-    "name": "Sveriges Radio P4 Kalmar",
-    "stream_urls": [
-      "https://live1.sr.se/p4kalm-mp3-96"
-    ],
-    "country": "se",
-    "languages": [
-      "swe"
-    ]
-  },
-  {
-    "nanoid": "XRByFpJVloH6rA",
-    "name": "Sveriges Radio P4 Kristianstad",
-    "stream_urls": [
-      "https://live1.sr.se/p4krist-mp3-96"
-    ],
-    "country": "se",
-    "languages": [
-      "swe"
-    ]
-  },
-  {
     "nanoid": "EOFvpVYO3fFOOo",
     "name": "Sveriges Radio P4 Malmöhus",
     "stream_urls": [
-      "https://sverigesradio.se/topsy/direkt/207-hi.mp3",
-      "https://live1.sr.se/p4malm-mp3-96"
-    ],
-    "country": "se",
-    "languages": [
-      "swe"
-    ]
-  },
-  {
-    "nanoid": "kyyMSUTFMVD1B8",
-    "name": "Sveriges Radio P4 Plus",
-    "stream_urls": [
-      "https://live1.sr.se/p4plus-aac-320"
+      "https://sverigesradio.se/topsy/direkt/207-hi.mp3"
     ],
     "country": "se",
     "languages": [
@@ -671,62 +523,6 @@
     "name": "Sveriges Radio P4 Väst",
     "stream_urls": [
       "https://live1.sr.se/p4vast-mp3-96"
-    ],
-    "country": "se",
-    "languages": [
-      "swe"
-    ]
-  },
-  {
-    "nanoid": "3y3feq0HuzT8pe",
-    "name": "Sveriges Radio P4 Västerbotten",
-    "stream_urls": [
-      "https://live1.sr.se/p4vbtn-mp3-96"
-    ],
-    "country": "se",
-    "languages": [
-      "swe"
-    ]
-  },
-  {
-    "nanoid": "s3Pp0EMwnLsy4f",
-    "name": "Sveriges Radio P4 Västernorrland",
-    "stream_urls": [
-      "https://live1.sr.se/p4vnrl-mp3-96",
-      "https://live1.sr.se/p4vnrl-aac-320"
-    ],
-    "country": "se",
-    "languages": [
-      "swe"
-    ]
-  },
-  {
-    "nanoid": "hAnifF4ry3o2iN",
-    "name": "Sveriges Radio P4 Västmanland",
-    "stream_urls": [
-      "https://live1.sr.se/p4vstm-mp3-96"
-    ],
-    "country": "se",
-    "languages": [
-      "swe"
-    ]
-  },
-  {
-    "nanoid": "On5Zi5GiNQz4Ez",
-    "name": "Sveriges Radio P4 Östergötland",
-    "stream_urls": [
-      "https://live1.sr.se/p4ostg-mp3-96"
-    ],
-    "country": "se",
-    "languages": [
-      "swe"
-    ]
-  },
-  {
-    "nanoid": "7k0wmVsk9jZAiw",
-    "name": "Sveriges Radio P6",
-    "stream_urls": [
-      "https://live1.sr.se/p6-aac-320"
     ],
     "country": "se",
     "languages": [

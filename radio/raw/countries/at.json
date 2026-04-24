@@ -72,8 +72,9 @@
     "name": "88.6 OnAir",
     "stream_urls": [
       "https://edge82.streamonkey.net/radio886-onair/stream/mp3",
-      "https://frontend.streamonkey.net/radio886-onair/stream/mp3",
-      "https://radio886.at/streams/radio_88.6/mp3"
+      "https://radio886.at/streams/radio_88.6/mp3",
+      "https://edge07.streamonkey.net/radio886-onair/stream/mp3",
+      "https://frontend.streamonkey.net/radio886-onair/stream/mp3"
     ],
     "country": "at",
     "languages": [
@@ -150,8 +151,7 @@
     "nanoid": "LHUdpOmE00NdLc",
     "name": "Antenne Steiermark",
     "stream_urls": [
-      "https://live.antenne.at/as",
-      "https://60efd7a2b4d02.streamlock.net/a_steiermark/ngrp:livestream_all/playlist.m3u8"
+      "https://live.antenne.at/as"
     ],
     "country": "at",
     "languages": [
@@ -203,11 +203,22 @@
     ]
   },
   {
+    "nanoid": "oH3zjzsLMFYaOI",
+    "name": "Antenne Vorarlberg 70er Hits",
+    "stream_urls": [
+      "https://web.radio.antennevorarlberg.at/av-70er"
+    ],
+    "country": "at",
+    "languages": [
+      "deu"
+    ]
+  },
+  {
     "nanoid": "B7pUmRMXc8m29q",
     "name": "Antenne Vorarlberg 80er Hits",
     "stream_urls": [
-      "https://edge63.radio.antennevorarlberg.at/av-live",
-      "https://web.radio.antennevorarlberg.at/av-80er"
+      "https://web.radio.antennevorarlberg.at/av-80er",
+      "https://edge63.radio.antennevorarlberg.at/av-live"
     ],
     "country": "at",
     "languages": [
@@ -461,18 +472,6 @@
     ]
   },
   {
-    "nanoid": "05PpxhYXC8Im61",
-    "name": "Bluffphonica",
-    "stream_urls": [
-      "https://bluffphonica.stream.laut.fm/bluffphonica"
-    ],
-    "country": "at",
-    "languages": [
-      "deu",
-      "eng"
-    ]
-  },
-  {
     "nanoid": "WGcFLb63tOmIAK",
     "name": "Callshop Radio Wien",
     "stream_urls": [
@@ -520,8 +519,8 @@
     "nanoid": "zxaaD8Y4npYwYX",
     "name": "CITY23",
     "stream_urls": [
-      "https://edge61.stream.maxfive.com/max5-city23",
-      "https://live.radiomax.technology/city23"
+      "https://live.radiomax.technology/city23",
+      "https://edge61.stream.maxfive.com/max5-city23"
     ],
     "country": "at",
     "languages": [
@@ -563,17 +562,6 @@
     ]
   },
   {
-    "nanoid": "2rdv9Yx3iwO6Bc",
-    "name": "ERF Süd Radio",
-    "stream_urls": [
-      "https://erfradio.com/ERF_Sued"
-    ],
-    "country": "at",
-    "languages": [
-      "deu"
-    ]
-  },
-  {
     "nanoid": "iqYNZDujWY8h1R",
     "name": "Eurodance X-Press",
     "stream_urls": [
@@ -590,17 +578,6 @@
     "stream_urls": [
       "https://stream.flash90s.at/flash90s/mp3-192/",
       "https://liferadio.streamabc.net/lfr-flash90s-mp3-192-3814105"
-    ],
-    "country": "at",
-    "languages": [
-      "deu"
-    ]
-  },
-  {
-    "nanoid": "BX22pjsZLbjXfj",
-    "name": "Freies Radio Freistadt",
-    "stream_urls": [
-      "https://develop.servus.at:8443/frf"
     ],
     "country": "at",
     "languages": [
@@ -679,8 +656,8 @@
     "name": "Hitradio Ö3",
     "stream_urls": [
       "https://orf-live.ors-shoutcast.at/oe3-q2a",
-      "https://ors-sn03.ors-shoutcast.at/oe3-q1a",
-      "https://orf-live.ors-shoutcast.at/oe3-q1a"
+      "https://orf-live.ors-shoutcast.at/oe3-q1a",
+      "https://ors-sn03.ors-shoutcast.at/oe3-q1a"
     ],
     "country": "at",
     "languages": [
@@ -749,7 +726,6 @@
     "nanoid": "Tp3GF27Ow5Vun2",
     "name": "Kronehit Digital",
     "stream_urls": [
-      "https://secureonair.krone.at/kronehit64.aac",
       "https://secureonair.krone.at/kronehit-hp.mp3"
     ],
     "country": "at",
@@ -897,8 +873,8 @@
     "nanoid": "qjOuLbGn41Wt91",
     "name": "Life Radio Tirol",
     "stream_urls": [
-      "https://stream.liferadio.tirol/live/mp3-192/link",
-      "https://stream.liferadio.tirol/live/aac-256/SHQ"
+      "https://stream.liferadio.tirol/live/aac-256/SHQ",
+      "https://stream.liferadio.tirol/live/mp3-192/link"
     ],
     "country": "at",
     "languages": [
@@ -973,17 +949,6 @@
     ]
   },
   {
-    "nanoid": "O8Dmj9Qbh7p5jb",
-    "name": "Mein Kinderradio Radino",
-    "stream_urls": [
-      "https://stream.zogl.net/stream"
-    ],
-    "country": "at",
-    "languages": [
-      "deu"
-    ]
-  },
-  {
     "nanoid": "nd3kBN59UJblmz",
     "name": "METAL Radio",
     "stream_urls": [
@@ -993,17 +958,6 @@
     "country": "at",
     "languages": [
       "deu"
-    ]
-  },
-  {
-    "nanoid": "1AeDT5OQPKE36l",
-    "name": "Moj Radio",
-    "stream_urls": [
-      "https://eu4.fastcast4u.com/proxy/svidakov?mp=/1"
-    ],
-    "country": "at",
-    "languages": [
-      "srp"
     ]
   },
   {
@@ -1033,17 +987,6 @@
     "name": "NORA Oldie Party",
     "stream_urls": [
       "https://streams.norawebstreams.de/oldieparty/mp3-192/vtuner/"
-    ],
-    "country": "at",
-    "languages": [
-      "deu"
-    ]
-  },
-  {
-    "nanoid": "mfOslOFaRw4BNP",
-    "name": "NOW Radio",
-    "stream_urls": [
-      "https://stream.erf.at:8443/nowradio_192"
     ],
     "country": "at",
     "languages": [
@@ -1139,6 +1082,17 @@
     ]
   },
   {
+    "nanoid": "Kqk1ev74u3Blc5",
+    "name": "oe24 Radio - Best of Schlager",
+    "stream_urls": [
+      "https://edge82.streamonkey.net/oe24-schlager"
+    ],
+    "country": "at",
+    "languages": [
+      "deu"
+    ]
+  },
+  {
     "nanoid": "L4qQcfmCj90CtD",
     "name": "oe24 Radio - No.1 Hits",
     "stream_urls": [
@@ -1177,17 +1131,6 @@
     "name": "Peters Plattenthek",
     "stream_urls": [
       "https://server7524.streamplus.de/stream.mp3"
-    ],
-    "country": "at",
-    "languages": [
-      "deu"
-    ]
-  },
-  {
-    "nanoid": "bocQj2YLN0mSoI",
-    "name": "Pfarr-Radio Enzersfeld",
-    "stream_urls": [
-      "https://server4.streamserver24.com/proxy/pfarre/stream"
     ],
     "country": "at",
     "languages": [
@@ -1250,17 +1193,6 @@
     ]
   },
   {
-    "nanoid": "Y7oUjRiCSnIlpZ",
-    "name": "Radio 3: The DJ Johnson Somerset Remixes",
-    "stream_urls": [
-      "https://radio.eduneu.eu:8020/radio.mp3"
-    ],
-    "country": "at",
-    "languages": [
-      "deu"
-    ]
-  },
-  {
     "nanoid": "1QBt3gSWP6B30X",
     "name": "Radio Agora 105.5",
     "stream_urls": [
@@ -1273,140 +1205,9 @@
     ]
   },
   {
-    "nanoid": "aOupz4Y3vPOmZn",
-    "name": "Radio Alpenstar",
-    "stream_urls": [
-      "https://server7517.streamplus.de/;stream.mp3"
-    ],
-    "country": "at",
-    "languages": [
-      "deu"
-    ]
-  },
-  {
-    "nanoid": "0Dxt3c8KZCFuzY",
-    "name": "Radio Arabella 70er",
-    "stream_urls": [
-      "https://edge23.streams.arabella.at/arabella-70er",
-      "https://frontend.streams.arabella.at/arabella-70er?aggregator=arabella-playlistfile"
-    ],
-    "country": "at",
-    "languages": [
-      "deu"
-    ]
-  },
-  {
-    "nanoid": "MFDFDX35ttYf33",
-    "name": "Radio Arabella 80er",
-    "stream_urls": [
-      "https://edge23.streams.arabella.at/arabella-80er",
-      "https://frontend.streams.arabella.at/arabella-80er?aggregator=arabella-playlistfile"
-    ],
-    "country": "at",
-    "languages": [
-      "deu"
-    ]
-  },
-  {
-    "nanoid": "SRO5Ac6AogghV0",
-    "name": "Radio Arabella 90er",
-    "stream_urls": [
-      "https://edge65.streams.arabella.at/arabella-90er",
-      "https://frontend.streams.arabella.at/arabella-90er?aggregator=arabella-playlistfile"
-    ],
-    "country": "at",
-    "languages": [
-      "deu"
-    ]
-  },
-  {
-    "nanoid": "Af7XptlNf68KCs",
-    "name": "Radio Arabella Austropop",
-    "stream_urls": [
-      "https://edge61.streams.arabella.at/arabella-austropop",
-      "https://frontend.streams.arabella.at/arabella-austropop/stream/mp3?aggregator=arabella-playlistfile"
-    ],
-    "country": "at",
-    "languages": [
-      "deu"
-    ]
-  },
-  {
-    "nanoid": "SSzO6suKWia6B7",
-    "name": "Radio Arabella Christmas",
-    "stream_urls": [
-      "https://edge03.streams.arabella.at/arabella-christmas"
-    ],
-    "country": "at",
-    "languages": [
-      "deu"
-    ]
-  },
-  {
-    "nanoid": "HcnmO7KXZxwa0t",
-    "name": "Radio Arabella Gold",
-    "stream_urls": [
-      "https://edge70.streams.arabella.at/arabella-gold",
-      "https://frontend.streams.arabella.at/arabella-gold/stream/mp3?aggregator=arabella-playlistfile"
-    ],
-    "country": "at",
-    "languages": [
-      "deu"
-    ]
-  },
-  {
-    "nanoid": "AQnH2STYshCpHg",
-    "name": "Radio Arabella Golden Oldies",
-    "stream_urls": [
-      "https://edge68.streams.arabella.at/arabella-goldenoldies",
-      "https://frontend.streams.arabella.at/arabella-goldenoldies/stream/mp3?aggregator=arabella-playlistfile"
-    ],
-    "country": "at",
-    "languages": [
-      "deu"
-    ]
-  },
-  {
-    "nanoid": "LbJdgFB6WEfZHb",
-    "name": "Radio Arabella Holiday",
-    "stream_urls": [
-      "https://edge71.streams.arabella.at/arabella-holiday",
-      "https://frontend.streams.arabella.at/arabella-holiday/stream/mp3?aggregator=arabella-playlistfile"
-    ],
-    "country": "at",
-    "languages": [
-      "deu"
-    ]
-  },
-  {
-    "nanoid": "rhXZUe6EdxcjPn",
-    "name": "Radio Arabella Hot",
-    "stream_urls": [
-      "https://edge12.streams.arabella.at/arabella-hot",
-      "https://frontend.streams.arabella.at/arabella-hot/stream/mp3?aggregator=arabella-playlistfile"
-    ],
-    "country": "at",
-    "languages": [
-      "deu"
-    ]
-  },
-  {
-    "nanoid": "ShELAjXE8nlp9d",
-    "name": "Radio Arabella Lovesongs",
-    "stream_urls": [
-      "https://edge69.streams.arabella.at/arabella-lovesongs",
-      "https://frontend.streams.arabella.at/arabella-lovesongs/stream/mp3?aggregator=arabella-playlistfile"
-    ],
-    "country": "at",
-    "languages": [
-      "deu"
-    ]
-  },
-  {
     "nanoid": "rWzVHNeAlvfaVD",
     "name": "Radio Arabella Niederösterreich",
     "stream_urls": [
-      "https://edge68.streams.arabella.at/arabella-niederoesterreich",
       "https://frontend.streams.arabella.at/arabella-niederoesterreich/stream/mp3"
     ],
     "country": "at",
@@ -1418,90 +1219,7 @@
     "nanoid": "VNDnDb3KgzHQlT",
     "name": "Radio Arabella Oberösterreich",
     "stream_urls": [
-      "https://edge22.streams.arabella.at/arabella-oberoesterreich",
       "https://frontend.streams.arabella.at/arabella-oberoesterreich"
-    ],
-    "country": "at",
-    "languages": [
-      "deu"
-    ]
-  },
-  {
-    "nanoid": "pOCoLMoJY53fCM",
-    "name": "Radio Arabella Relax",
-    "stream_urls": [
-      "https://edge83.streams.arabella.at/arabella-relax",
-      "https://frontend.streams.arabella.at/arabella-relax?aggregator=arabella-playlistfile"
-    ],
-    "country": "at",
-    "languages": [
-      "deu"
-    ]
-  },
-  {
-    "nanoid": "srK4PDgDHoXa2b",
-    "name": "Radio Arabella Rock",
-    "stream_urls": [
-      "https://edge83.streams.arabella.at/arabella-rock",
-      "https://frontend.streams.arabella.at/arabella-rock/stream/mp3?aggregator=arabella-playlistfile"
-    ],
-    "country": "at",
-    "languages": [
-      "deu"
-    ]
-  },
-  {
-    "nanoid": "lB6ammxhNSaLaZ",
-    "name": "Radio Arabella Schlager",
-    "stream_urls": [
-      "https://edge64.streams.arabella.at/arabella-schlager",
-      "https://frontend.streams.arabella.at/arabella-schlager/stream/mp3?aggregator=arabella-playlistfile"
-    ],
-    "country": "at",
-    "languages": [
-      "deu"
-    ]
-  },
-  {
-    "nanoid": "4Z9Vp1vum3QCWf",
-    "name": "Radio Arabella Ti Amo",
-    "stream_urls": [
-      "https://edge06.streams.arabella.at/arabella-tiamo",
-      "https://frontend.streams.arabella.at/arabella-tiamo/stream/mp3?aggregator=arabella-playlistfile"
-    ],
-    "country": "at",
-    "languages": [
-      "deu"
-    ]
-  },
-  {
-    "nanoid": "K22WlwB0KcIBEG",
-    "name": "Radio Arabella Wien",
-    "stream_urls": [
-      "https://frontend.streams.arabella.at/arabella-wien?aggregator=arabella-playlistfile"
-    ],
-    "country": "at",
-    "languages": [
-      "deu"
-    ]
-  },
-  {
-    "nanoid": "gR94sabDIuqfTX",
-    "name": "Radio Austria",
-    "stream_urls": [
-      "https://edge63.streamonkey.net/radioaustria-live",
-      "https://frontend.streamonkey.net/radioaustria-live"
-    ],
-    "country": "at",
-    "languages": [
-      "deu"
-    ]
-  },
-  {
-    "nanoid": "hxj3XOnuTAdNhZ",
-    "name": "Radio B138",
-    "stream_urls": [
-      "https://73713.streamerr.co:8443/main"
     ],
     "country": "at",
     "languages": [
@@ -1622,17 +1340,6 @@
     ]
   },
   {
-    "nanoid": "25zHKTDcd5IX8l",
-    "name": "Radio FRO",
-    "stream_urls": [
-      "https://stream.fro.at/fro320.mp3"
-    ],
-    "country": "at",
-    "languages": [
-      "deu"
-    ]
-  },
-  {
     "nanoid": "ZnWqRhhJUSlBlk",
     "name": "Radio Grün Weiß",
     "stream_urls": [
@@ -1648,17 +1355,6 @@
     "name": "Radio GÖD",
     "stream_urls": [
       "https://radiogoed.securestream.kapper.net/stream"
-    ],
-    "country": "at",
-    "languages": [
-      "deu"
-    ]
-  },
-  {
-    "nanoid": "R4uRUkiwnllbnv",
-    "name": "Radio Harmonie",
-    "stream_urls": [
-      "https://v2.radiodienst.de:9630/live"
     ],
     "country": "at",
     "languages": [
@@ -1704,17 +1400,6 @@
     "stream_urls": [
       "https://ors-sn02.ors-shoutcast.at/ktn-q1a",
       "https://orf-live.ors-shoutcast.at/ktn-q2a"
-    ],
-    "country": "at",
-    "languages": [
-      "deu"
-    ]
-  },
-  {
-    "nanoid": "R7SpNdw94zgUeT",
-    "name": "Radio LoungeFM - UKW Wien",
-    "stream_urls": [
-      "https://s35.derstream.net/ukwwien.mp3"
     ],
     "country": "at",
     "languages": [
@@ -1814,32 +1499,10 @@
     ]
   },
   {
-    "nanoid": "hw7Mt59mghvoG7",
-    "name": "Radio Osttirol",
-    "stream_urls": [
-      "https://server10956.streamplus.de/;stream.mp3"
-    ],
-    "country": "at",
-    "languages": [
-      "deu"
-    ]
-  },
-  {
     "nanoid": "nSC0UjknDR9vrb",
     "name": "Radio Proton",
     "stream_urls": [
       "https://radioproton.at:8443/proton"
-    ],
-    "country": "at",
-    "languages": [
-      "deu"
-    ]
-  },
-  {
-    "nanoid": "aOYoulVxRQ4p2t",
-    "name": "Radio Radieschen",
-    "stream_urls": [
-      "https://radioradieschen.stream.kapper.net/radioradieschen"
     ],
     "country": "at",
     "languages": [
@@ -1895,17 +1558,6 @@
     ]
   },
   {
-    "nanoid": "ZDRaN8CSiRcYTA",
-    "name": "Radio SOL",
-    "stream_urls": [
-      "https://stream.radiosol.at/webstream"
-    ],
-    "country": "at",
-    "languages": [
-      "deu"
-    ]
-  },
-  {
     "nanoid": "SUwP9nMUkYftTJ",
     "name": "Radio Steiermark",
     "stream_urls": [
@@ -1918,22 +1570,10 @@
     ]
   },
   {
-    "nanoid": "JyN24XV5ynsova",
-    "name": "Radio Studio Enns",
-    "stream_urls": [
-      "https://ice05.fluidstream.net/studio_enns.mp3"
-    ],
-    "country": "at",
-    "languages": [
-      "deu"
-    ]
-  },
-  {
     "nanoid": "IKt9BKKTiBjiJC",
     "name": "Radio Superfly",
     "stream_urls": [
-      "https://edge80.stream.superfly.fm/superfly-live",
-      "https://edge80.stream.superfly.fm/superfly-livesound"
+      "https://stream01.superfly.fm/live"
     ],
     "country": "at",
     "languages": [
@@ -1958,18 +1598,8 @@
     "stream_urls": [
       "https://u1-tirol-stream20.radiohost.de/u1-tirol-live_mp3-192",
       "https://live.u1-radio.at/",
-      "https://u1-tirol-stream07.radiohost.de/u1-tirol-live_mp3-192"
-    ],
-    "country": "at",
-    "languages": [
-      "deu"
-    ]
-  },
-  {
-    "nanoid": "sN39B5ob75idtn",
-    "name": "Radio VM1",
-    "stream_urls": [
-      "https://radiovm1.fluidstream.eu/radiovm1.mp3"
+      "https://u1-tirol-stream07.radiohost.de/u1-tirol-live_mp3-192",
+      "https://live.u1-radio.at/u1-tirol-live/mp3-192/"
     ],
     "country": "at",
     "languages": [
@@ -2004,17 +1634,6 @@
     "stream_urls": [
       "https://orf-live.ors-shoutcast.at/vbg-q1a",
       "https://orf-live.ors-shoutcast.at/vbg-q2a"
-    ],
-    "country": "at",
-    "languages": [
-      "deu"
-    ]
-  },
-  {
-    "nanoid": "ZDVYE4MtjvXLLk",
-    "name": "Radio Weanerisch gspielt",
-    "stream_urls": [
-      "https://radiovm1.fluidstream.eu/weanarisch"
     ],
     "country": "at",
     "languages": [
@@ -2095,6 +1714,8 @@
     "name": "ROCK ANTENNE Österreich",
     "stream_urls": [
       "https://s6-webradio.webradio.de/rockantenne-oesterreich",
+      "https://s2-webradio.webradio.de/rockantenne-oesterreich",
+      "https://mp3channels.webradio.de/rockantenne-oesterreich",
       "https://stream.rockantenne.at/rockantenne-oesterreich/stream/mp3",
       "https://stream.rockantenne.at/rockantenne-oesterreich/stream/aacp"
     ],
@@ -2152,18 +1773,6 @@
     "name": "Soundportal Rock Nation",
     "stream_urls": [
       "https://rs8.stream24.net/soundportal-channel1.aac"
-    ],
-    "country": "at",
-    "languages": [
-      "deu"
-    ]
-  },
-  {
-    "nanoid": "JOD8TU4T9XJeVK",
-    "name": "SoundStorm Radio",
-    "stream_urls": [
-      "https://stream.soundstorm-radio.com/listen/soundstorm/radio.mp3",
-      "https://stream.soundstorm-radio.com/listen/soundstorm/aac"
     ],
     "country": "at",
     "languages": [
@@ -2375,8 +1984,8 @@
     "nanoid": "8KwSusbAYtSHV7",
     "name": "Ö1",
     "stream_urls": [
-      "https://orf-live.ors-shoutcast.at/oe1-q2a",
-      "https://orf-live.ors-shoutcast.at/oe1-q1a"
+      "https://orf-live.ors-shoutcast.at/oe1-q1a",
+      "https://orf-live.ors-shoutcast.at/oe1-q2a"
     ],
     "country": "at",
     "languages": [

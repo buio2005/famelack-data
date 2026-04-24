@@ -44,39 +44,6 @@
     ]
   },
   {
-    "nanoid": "aPi6Qdz2dqZdMX",
-    "name": "Ha Tinh Radio",
-    "stream_urls": [
-      "https://wse.hatinhtv.net/radio/voht/playlist.m3u8"
-    ],
-    "country": "vn",
-    "languages": [
-      "vie"
-    ]
-  },
-  {
-    "nanoid": "OcIn4yytGfl6mf",
-    "name": "Kien Giang TV",
-    "stream_urls": [
-      "https://tv.kgtv.vn/live/kgtv/kgtv.m3u8"
-    ],
-    "country": "vn",
-    "languages": [
-      "vie"
-    ]
-  },
-  {
-    "nanoid": "IVaNFkooHNbebF",
-    "name": "Kien Giang TV-1",
-    "stream_urls": [
-      "https://tv.kgtv.vn/live/kgtv1/kgtv1.m3u8"
-    ],
-    "country": "vn",
-    "languages": [
-      "vie"
-    ]
-  },
-  {
     "nanoid": "K3x6y0zX7VVsQq",
     "name": "Little Saigon Radio",
     "stream_urls": [
@@ -121,17 +88,6 @@
     ]
   },
   {
-    "nanoid": "IFsJr9Rbggw8dX",
-    "name": "Son La Radio",
-    "stream_urls": [
-      "https://cdn.sonlatv.vn/live/285bfb76d0d7a3c4615b853fe7a698e150c/chunklist.m3u8"
-    ],
-    "country": "vn",
-    "languages": [
-      "vie"
-    ]
-  },
-  {
     "nanoid": "Z1Cei2ehtMaMH2",
     "name": "TNT Atlanta Radio",
     "stream_urls": [
@@ -143,11 +99,21 @@
     ]
   },
   {
-    "nanoid": "KFvl8esgs8ROd0",
-    "name": "VOH AM 610",
+    "nanoid": "GtR9X03sjOW868",
+    "name": "VOV 5 World 24/7 English",
     "stream_urls": [
-      "https://strm.voh.com.vn/radio/channel2/playlist.m3u8",
-      "https://strm.voh.com.vn/radio/channel2/chunklist_w884773542.m3u8"
+      "https://stream.vovmedia.vn/vov247"
+    ],
+    "country": "vn",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "kUqQ1yACxjUkMT",
+    "name": "VOV Mekong",
+    "stream_urls": [
+      "https://stream.vovmedia.vn/vovmekong"
     ],
     "country": "vn",
     "languages": [
@@ -155,71 +121,20 @@
     ]
   },
   {
-    "nanoid": "XhWVmpmM2q60TJ",
-    "name": "VOH FM 87.7",
+    "nanoid": "toIREAXwlWxHgp",
+    "name": "VOV5 World Radio",
     "stream_urls": [
-      "https://strm.voh.com.vn/radio/channel5/chunklist_w2071193605.m3u8"
+      "https://stream.vovmedia.vn/vov5"
     ],
     "country": "vn",
     "languages": [
-      "vie"
-    ]
-  },
-  {
-    "nanoid": "sCqsJ46S7xaSDP",
-    "name": "VOH FM 95.6",
-    "stream_urls": [
-      "https://strm.voh.com.vn/radio/channel1/playlist.m3u8",
-      "https://strm.voh.com.vn/radio/channel1/chunklist_w829828563.m3u8"
-    ],
-    "country": "vn",
-    "languages": [
-      "vie"
-    ]
-  },
-  {
-    "nanoid": "3Nl2dTCXw6YnCs",
-    "name": "VOH FM 99.9",
-    "stream_urls": [
-      "https://strm.voh.com.vn/radio/channel3/playlist.m3u8",
-      "https://strm.voh.com.vn/radio/channel3/chunklist_w1005696319.m3u8"
-    ],
-    "country": "vn",
-    "languages": [
-      "vie"
-    ]
-  },
-  {
-    "nanoid": "pvqFpoAlkJF3BU",
-    "name": "VOV Giao thông Hà Nội",
-    "stream_urls": [
-      "https://play.vovgiaothong.vn/live/gthn/playlist.m3u8"
-    ],
-    "country": "vn",
-    "languages": [
-      "vie"
-    ]
-  },
-  {
-    "nanoid": "jB4zgeo8sCc0Gi",
-    "name": "VOV GT HCM",
-    "stream_urls": [
-      "https://play.vovgiaothong.vn/live/gthcm/playlist.m3u8"
-    ],
-    "country": "vn",
-    "languages": [
-      "vie"
-    ]
-  },
-  {
-    "nanoid": "v8w0208G4DWsCS",
-    "name": "VOV1",
-    "stream_urls": [
-      "https://str.vov.gov.vn/vovlive/vov1vov5Vietnamese.sdp_aac/playlist.m3u8"
-    ],
-    "country": "vn",
-    "languages": [
-      "vie"
+      "deu",
+      "eng",
+      "spa",
+      "fra",
+      "jpn",
+      "rus",
+      "zho"
     ]
   },
   {
@@ -238,17 +153,6 @@
     "name": "Đài Phát Thanh Việt Nam",
     "stream_urls": [
       "https://c13.radioboss.fm:8127/stream"
-    ],
-    "country": "vn",
-    "languages": [
-      "vie"
-    ]
-  },
-  {
-    "nanoid": "jogGTczsyC9va3",
-    "name": "Đài PTTH Kiên Giang",
-    "stream_urls": [
-      "https://tv.kgtv.vn/live/kgaudio/kgaudio.m3u8"
     ],
     "country": "vn",
     "languages": [

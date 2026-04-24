@@ -25,8 +25,8 @@
     "nanoid": "aUKcYIRGtUL3Q3",
     "name": "101FM Logan",
     "stream_urls": [
-      "https://playerservices.streamtheworld.com/api/livestream-redirect/4CBLAAC.aac",
-      "https://playerservices.streamtheworld.com/api/livestream-redirect/4CBL.mp3"
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/4CBL.mp3",
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/4CBLAAC.aac"
     ],
     "country": "au",
     "languages": [
@@ -37,7 +37,6 @@
     "nanoid": "ugB2h1VjbZjNW8",
     "name": "102.9 Hot Tomato",
     "stream_urls": [
-      "https://23203.live.streamtheworld.com/GOL_HOTTOMATO_SC",
       "https://playerservices.streamtheworld.com/api/livestream-redirect/GOL_HOTTOMATO.mp3"
     ],
     "country": "au",
@@ -103,55 +102,11 @@
     ]
   },
   {
-    "nanoid": "OEh7xEYEk4nhtU",
-    "name": "1089 3WM",
-    "stream_urls": [
-      "https://wz3liw.scahw.com.au/live/3wm_128.stream/playlist.m3u8"
-    ],
-    "country": "au",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
-    "nanoid": "spapwW0BcU3OHY",
-    "name": "1116 4BH",
-    "stream_urls": [
-      "https://wz4liw.scahw.com.au/live/4bh_128.stream/playlist.m3u8"
-    ],
-    "country": "au",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
     "nanoid": "tXwwpjrPvXx4PL",
     "name": "1206 2CC",
     "stream_urls": [
       "https://18233.live.streamtheworld.com/2CCAAC.aac",
       "https://playerservices.streamtheworld.com/api/livestream-redirect/2CCAAC.aac"
-    ],
-    "country": "au",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
-    "nanoid": "CRYq8CUQpwaZkk",
-    "name": "1332 3SH",
-    "stream_urls": [
-      "https://wz3liw.scahw.com.au/live/3sh_128.stream/playlist.m3u8"
-    ],
-    "country": "au",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
-    "nanoid": "LPgIcRc3tzh14D",
-    "name": "1494 2AY",
-    "stream_urls": [
-      "https://wz2liw.scahw.com.au/live/2ay_128.stream/playlist.m3u8"
     ],
     "country": "au",
     "languages": [
@@ -186,53 +141,8 @@
     "name": "2 Triple B FM",
     "stream_urls": [
       "https://playerservices.streamtheworld.com/api/livestream-redirect/2BBBAAC.aac",
-      "https://23203.live.streamtheworld.com/2BBBAAC.aac",
-      "https://playerservices.streamtheworld.com/api/livestream-redirect/2BBB.mp3"
-    ],
-    "country": "au",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
-    "nanoid": "l2LkTCtzUwd6ev",
-    "name": "2010s",
-    "stream_urls": [
-      "https://wz7liw.scahw.com.au/live/72010s_128.stream/playlist.m3u8",
-      "https://sa46.scastream.com.au/live/72010s_128.stream/playlist.m3u8"
-    ],
-    "country": "au",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
-    "nanoid": "ovaQLg9WLIeDnX",
-    "name": "2010s Dance",
-    "stream_urls": [
-      "https://sa46.scastream.com.au/live/2010s-dance.stream/playlist.m3u8"
-    ],
-    "country": "au",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
-    "nanoid": "NHkLA4WnntdiWE",
-    "name": "2010s Pop",
-    "stream_urls": [
-      "https://sa46.scastream.com.au/live/2010s-pop.stream/playlist.m3u8"
-    ],
-    "country": "au",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
-    "nanoid": "kLGm2F4hURoLAX",
-    "name": "2020s",
-    "stream_urls": [
-      "https://sa46.scastream.com.au/live/2020s.stream/playlist.m3u8"
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/2BBB.mp3",
+      "https://23203.live.streamtheworld.com/2BBBAAC.aac"
     ],
     "country": "au",
     "languages": [
@@ -345,8 +255,7 @@
     "nanoid": "8ud7wCxtybiNiw",
     "name": "2Day FM",
     "stream_urls": [
-      "https://legacy.scahw.com.au/2day_32",
-      "https://wz2liw.scahw.com.au/live/2day_128.stream/playlist.m3u8"
+      "https://legacy.scahw.com.au/2day_32"
     ],
     "country": "au",
     "languages": [
@@ -382,8 +291,7 @@
     "nanoid": "yHAkuEYMcLKTwo",
     "name": "2GB 873 AM",
     "stream_urls": [
-      "https://playerservices.streamtheworld.com/api/livestream-redirect/2GB.mp3",
-      "https://28093.live.streamtheworld.com/2GBAAC_O/HLS/playlist.m3u8"
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/2GB.mp3"
     ],
     "country": "au",
     "languages": [
@@ -418,9 +326,9 @@
     "nanoid": "tAwsSKBS6LfUx6",
     "name": "2Max FM",
     "stream_urls": [
-      "https://streaming.brol.tech/rtfmlounge",
       "https://playerservices.streamtheworld.com/api/livestream-redirect/2MAXAAC.aac",
-      "https://playerservices.streamtheworld.com/api/livestream-redirect/2MAX.mp3"
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/2MAX.mp3",
+      "https://streaming.brol.tech/rtfmlounge"
     ],
     "country": "au",
     "languages": [
@@ -473,6 +381,17 @@
     ]
   },
   {
+    "nanoid": "hvFhhZzwKBXBzE",
+    "name": "2NBC 90.1 FM",
+    "stream_urls": [
+      "https://studio.901nbcfm.com.au:8902/newstream"
+    ],
+    "country": "au",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
     "nanoid": "JxwW80fEy0ASPp",
     "name": "2NM",
     "stream_urls": [
@@ -488,9 +407,9 @@
     "nanoid": "qqDR1zdKYKOBRM",
     "name": "2NUR FM",
     "stream_urls": [
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/2NURFMAAC.aac",
       "https://playerservices.streamtheworld.com/api/livestream-redirect/2NURFM.mp3",
-      "https://28853.live.streamtheworld.com/2NURFM.mp3",
-      "https://playerservices.streamtheworld.com/api/livestream-redirect/2NURFMAAC.aac"
+      "https://28853.live.streamtheworld.com/2NURFM.mp3"
     ],
     "country": "au",
     "languages": [
@@ -498,10 +417,10 @@
     ]
   },
   {
-    "nanoid": "XHspuWxemgEFHw",
-    "name": "2QN",
+    "nanoid": "Wims2QmkjRWu4E",
+    "name": "2NVR 105.9 FM",
     "stream_urls": [
-      "https://wz2liw.scahw.com.au/live/2qn_128.stream/playlist.m3u8"
+      "https://s14.myradiostream.com/19092/listen.mp3"
     ],
     "country": "au",
     "languages": [
@@ -547,8 +466,8 @@
     "nanoid": "4pwD9jdq7m74Yg",
     "name": "2SSR FM",
     "stream_urls": [
-      "https://radio12.shoutcast.net.au:8000/stream",
-      "https://radio12.shoutcast.net.au:2020/stream/8000"
+      "https://radio12.shoutcast.net.au:2020/stream/8000",
+      "https://radio12.shoutcast.net.au:8000/stream"
     ],
     "country": "au",
     "languages": [
@@ -561,7 +480,8 @@
     "stream_urls": [
       "https://playerservices.streamtheworld.com/api/livestream-redirect/NOW_2STAAC.aac",
       "https://playerservices.streamtheworld.com/api/livestream-redirect/NOW_2ST.mp3",
-      "https://playerservices.streamtheworld.com/api/livestream-redirect/BOW_2STAAC.aac"
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/BOW_2STAAC.aac",
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/BOW_2ST.mp3"
     ],
     "country": "au",
     "languages": [
@@ -573,17 +493,6 @@
     "name": "2TLP Ngarralinyi Radio",
     "stream_urls": [
       "https://stream.wwolfco.com/listen/2tlp/radio.mp3"
-    ],
-    "country": "au",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
-    "nanoid": "lIeDlBntB2v6eM",
-    "name": "2UE 954 AM",
-    "stream_urls": [
-      "https://wz2liw.scahw.com.au/live/2ue_128.stream/playlist.m3u8"
     ],
     "country": "au",
     "languages": [
@@ -627,8 +536,8 @@
     "nanoid": "ZY2gMkQJMURAnK",
     "name": "2XX FM",
     "stream_urls": [
-      "https://playerservices.streamtheworld.com/api/livestream-redirect/2XX.mp3",
-      "https://playerservices.streamtheworld.com/api/livestream-redirect/2XXAAC.aac"
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/2XXAAC.aac",
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/2XX.mp3"
     ],
     "country": "au",
     "languages": [
@@ -696,19 +605,7 @@
     "name": "3CR Community Radio",
     "stream_urls": [
       "https://playerservices.streamtheworld.com/api/livestream-redirect/3CR.mp3",
-      "https://playerservices.streamtheworld.com/api/livestream-redirect/3CRAAC.aac",
-      "https://23203.live.streamtheworld.com/3CRAAC.aac"
-    ],
-    "country": "au",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
-    "nanoid": "UUZLrgzBdueI8N",
-    "name": "3CS 1134 AM",
-    "stream_urls": [
-      "https://wz3liw.scahw.com.au/live/3cs_128.stream/playlist.m3u8"
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/3CRAAC.aac"
     ],
     "country": "au",
     "languages": [
@@ -719,19 +616,8 @@
     "nanoid": "wXeBSDytTY6KCr",
     "name": "3GG",
     "stream_urls": [
-      "https://17843.live.streamtheworld.com/3GGAAC.aac",
-      "https://playerservices.streamtheworld.com/api/livestream-redirect/3GGAAC.aac"
-    ],
-    "country": "au",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
-    "nanoid": "ErilQeN3ndkDz1",
-    "name": "3HA",
-    "stream_urls": [
-      "https://wz3liw.scahw.com.au/live/3ha_128.stream/playlist.m3u8"
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/3GGAAC.aac",
+      "https://17843.live.streamtheworld.com/3GGAAC.aac"
     ],
     "country": "au",
     "languages": [
@@ -773,21 +659,12 @@
     ]
   },
   {
-    "nanoid": "WN0BfYqPfZEV5S",
-    "name": "3MP 1377 AM",
+    "nanoid": "3kcbfzz30sfqOH",
+    "name": "3MGB Wilderness Radio",
     "stream_urls": [
-      "https://wz3liw.scahw.com.au/live/3mp_128.stream/playlist.m3u8"
-    ],
-    "country": "au",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
-    "nanoid": "iEMCuxDfmtNpdZ",
-    "name": "3NE 1566 AM",
-    "stream_urls": [
-      "https://wz3liw.scahw.com.au/live/3ne_128.stream/playlist.m3u8"
+      "https://28803.live.streamtheworld.com/3MGBAAC.aac",
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/3MGBAAC.aac",
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/3MGB.mp3"
     ],
     "country": "au",
     "languages": [
@@ -809,7 +686,6 @@
     "nanoid": "pKLYOVi6HYgins",
     "name": "3ZZZ 92.3 FM",
     "stream_urls": [
-      "https://23193.live.streamtheworld.com/3ZZZAAC.aac",
       "https://playerservices.streamtheworld.com/api/livestream-redirect/3ZZZAAC.aac",
       "https://playerservices.streamtheworld.com/api/livestream-redirect/3ZZZ.mp3"
     ],
@@ -855,9 +731,9 @@
     "nanoid": "SfveuDFQyiqjQf",
     "name": "4BU 1332 AM",
     "stream_urls": [
-      "https://playerservices.streamtheworld.com/api/livestream-redirect/BUN_4BUAAC_SC",
       "https://playerservices.streamtheworld.com/api/livestream-redirect/BUN_4BUAAC.aac",
-      "https://playerservices.streamtheworld.com/api/livestream-redirect/BUN_4BU.mp3"
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/BUN_4BU.mp3",
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/BUN_4BUAAC_SC"
     ],
     "country": "au",
     "languages": [
@@ -868,9 +744,9 @@
     "nanoid": "AHAjmg2eFmRgFW",
     "name": "4CA 846 AM",
     "stream_urls": [
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/CAI_4CA.mp3",
       "https://playerservices.streamtheworld.com/api/livestream-redirect/CAI_4CAAAC.aac",
-      "https://playerservices.streamtheworld.com/api/livestream-redirect/CAI_4CAAAC_SC",
-      "https://playerservices.streamtheworld.com/api/livestream-redirect/CAI_4CA.mp3"
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/CAI_4CAAAC_SC"
     ],
     "country": "au",
     "languages": [
@@ -882,8 +758,8 @@
     "name": "4CC",
     "stream_urls": [
       "https://playerservices.streamtheworld.com/api/livestream-redirect/GLA_4CCAAC.aac",
-      "https://22963.live.streamtheworld.com/GLA_4CCAAC_SC",
-      "https://playerservices.streamtheworld.com/api/livestream-redirect/GLA_4CC.mp3"
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/GLA_4CC.mp3",
+      "https://22963.live.streamtheworld.com/GLA_4CCAAC_SC"
     ],
     "country": "au",
     "languages": [
@@ -906,8 +782,8 @@
     "name": "4EB Ethnic Radio",
     "stream_urls": [
       "https://playerservices.streamtheworld.com/api/livestream-redirect/4EB.mp3",
-      "https://23153.live.streamtheworld.com/4EB.mp3",
-      "https://playerservices.streamtheworld.com/api/livestream-redirect/4EBAAC.aac"
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/4EBAAC.aac",
+      "https://23153.live.streamtheworld.com/4EB.mp3"
     ],
     "country": "au",
     "languages": [
@@ -918,8 +794,8 @@
     "nanoid": "LbTeIYXq5AHrKH",
     "name": "4MK 1026 AM",
     "stream_urls": [
-      "https://playerservices.streamtheworld.com/api/livestream-redirect/MAC_4MKAAC.aac",
-      "https://playerservices.streamtheworld.com/api/livestream-redirect/MAC_4MK.mp3"
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/MAC_4MK.mp3",
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/MAC_4MKAAC.aac"
     ],
     "country": "au",
     "languages": [
@@ -941,8 +817,8 @@
     "nanoid": "j7ym8t45iRy039",
     "name": "4RO 990 AM",
     "stream_urls": [
-      "https://playerservices.streamtheworld.com/api/livestream-redirect/ROC_4ROAAC.aac",
-      "https://playerservices.streamtheworld.com/api/livestream-redirect/ROC_4RO.mp3"
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/ROC_4RO.mp3",
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/ROC_4ROAAC.aac"
     ],
     "country": "au",
     "languages": [
@@ -953,9 +829,9 @@
     "nanoid": "O2NlLjfQn9bujd",
     "name": "4YOU 98.5 FM",
     "stream_urls": [
-      "https://28793.live.streamtheworld.com/4YOUAAC.aac",
       "https://playerservices.streamtheworld.com/api/livestream-redirect/4YOUAAC.aac",
-      "https://playerservices.streamtheworld.com/api/livestream-redirect/4YOU.mp3"
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/4YOU.mp3",
+      "https://28793.live.streamtheworld.com/4YOUAAC.aac"
     ],
     "country": "au",
     "languages": [
@@ -967,17 +843,6 @@
     "name": "4ZZZ 102.1 FM",
     "stream_urls": [
       "https://iheart.4zzz.org.au/4zzz"
-    ],
-    "country": "au",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
-    "nanoid": "f6Wp2pbG39Ixzj",
-    "name": "50s Hits",
-    "stream_urls": [
-      "https://wz0liw.scahw.com.au/live/50s-hits.stream/playlist.m3u8"
     ],
     "country": "au",
     "languages": [
@@ -1011,7 +876,6 @@
     "name": "5MBS 99.9 FM",
     "stream_urls": [
       "https://stream.sigile.net/5mbs-128-mp3",
-      "https://stream.sigile.net/5mbs-64-aac",
       "https://stream01.sigile.net/5mbs-128-mp3"
     ],
     "country": "au",
@@ -1035,17 +899,6 @@
     "name": "5THEfm 107.7",
     "stream_urls": [
       "https://s6.myradiostream.com:48146/listen.mp3"
-    ],
-    "country": "au",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
-    "nanoid": "6ZMvaLwqNeOLqb",
-    "name": "60s Hits",
-    "stream_urls": [
-      "https://wz2liw.scahw.com.au/live/760shits_128.stream/playlist.m3u8"
     ],
     "country": "au",
     "languages": [
@@ -1133,18 +986,6 @@
     ]
   },
   {
-    "nanoid": "tWZBDtNLv6dmaq",
-    "name": "80s New Wave",
-    "stream_urls": [
-      "https://wz7liw.scahw.com.au/live/780snewwave_128.stream/playlist.m3u8",
-      "https://sa46.scastream.com.au/live/780snewwave_128.stream/playlist.m3u8"
-    ],
-    "country": "au",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
     "nanoid": "yagaMUNUWiP3Hf",
     "name": "87.8 UCFM",
     "stream_urls": [
@@ -1170,6 +1011,7 @@
     "nanoid": "wswgt8N8G4vI13",
     "name": "88.9 FM Tamworth",
     "stream_urls": [
+      "https://stream.889fmtamworth.com.au:8443/stream",
       "https://stream.889fmtamworth.com.au/stream"
     ],
     "country": "au",
@@ -1216,7 +1058,6 @@
     "nanoid": "dUxpBFv6IMmLcZ",
     "name": "8CCC 102.1 FM",
     "stream_urls": [
-      "https://23163.live.streamtheworld.com/8CCC.mp3",
       "https://playerservices.streamtheworld.com/api/livestream-redirect/8CCCAAC.aac",
       "https://playerservices.streamtheworld.com/api/livestream-redirect/8CCC.mp3"
     ],
@@ -1230,18 +1071,6 @@
     "name": "8KTR 101.3 FM",
     "stream_urls": [
       "https://28863.live.streamtheworld.com/8KTRAAC.aac"
-    ],
-    "country": "au",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
-    "nanoid": "Nb5F9K6wrodcVD",
-    "name": "90s Soft Pop",
-    "stream_urls": [
-      "https://wz7liw.scahw.com.au/live/790ssoftpop_128.stream/playlist.m3u8",
-      "https://sa46.scastream.com.au/live/790ssoftpop_128.stream/playlist.m3u8"
     ],
     "country": "au",
     "languages": [
@@ -1272,17 +1101,6 @@
     ]
   },
   {
-    "nanoid": "7YcmPc9bM07vzh",
-    "name": "92.9 Triple M Perth",
-    "stream_urls": [
-      "https://wz6liw.scahw.com.au/live/6ppm_128.stream/playlist.m3u8"
-    ],
-    "country": "au",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
     "nanoid": "h1BqlmSisRkkng",
     "name": "93.7 Edge FM",
     "stream_urls": [
@@ -1306,44 +1124,11 @@
     ]
   },
   {
-    "nanoid": "uNoKeuiFw4kR8V",
-    "name": "94.5 3YB FM",
-    "stream_urls": [
-      "https://wz3liw.scahw.com.au/live/3yb_128.stream/playlist.m3u8"
-    ],
-    "country": "au",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
     "nanoid": "51YWawkEEmH76l",
     "name": "94.9 Power FM",
     "stream_urls": [
       "https://playerservices.streamtheworld.com/api/livestream-redirect/NOW_POWER_FMAAC.aac",
       "https://playerservices.streamtheworld.com/api/livestream-redirect/NOW_POWER_FM.mp3"
-    ],
-    "country": "au",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
-    "nanoid": "gofTYQreziaj1y",
-    "name": "95.3 Coast FM",
-    "stream_urls": [
-      "https://wz3liw.scahw.com.au/live/3yfm_128.stream/playlist.m3u8"
-    ],
-    "country": "au",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
-    "nanoid": "jW2duTVU526GMI",
-    "name": "96.1 FM",
-    "stream_urls": [
-      "https://28793.live.streamtheworld.com/ARN_CADAAAC/HLS/playlist.m3u8"
     ],
     "country": "au",
     "languages": [
@@ -1423,9 +1208,9 @@
     "nanoid": "LxJyi7fO4gxLbv",
     "name": "99.7 Bridge FM",
     "stream_urls": [
-      "https://28853.live.streamtheworld.com/997BRIDGEFMAAC.aac",
       "https://playerservices.streamtheworld.com/api/livestream-redirect/997BRIDGEFMAAC.aac",
-      "https://playerservices.streamtheworld.com/api/livestream-redirect/997BRIDGEFM.mp3"
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/997BRIDGEFM.mp3",
+      "https://28853.live.streamtheworld.com/997BRIDGEFMAAC.aac"
     ],
     "country": "au",
     "languages": [
@@ -1449,8 +1234,7 @@
     "name": "ABC Adelaide",
     "stream_urls": [
       "https://live-radio01.mediahubaustralia.com/5LRW/aac/",
-      "https://live-radio01.mediahubaustralia.com/5LRW/mp3/",
-      "https://mediaserviceslive.akamaized.net/hls/live/2038298/localadelaide/index.m3u8"
+      "https://live-radio01.mediahubaustralia.com/5LRW/mp3/"
     ],
     "country": "au",
     "languages": [
@@ -1470,23 +1254,11 @@
     ]
   },
   {
-    "nanoid": "lI4IH7Tjv0VZIW",
-    "name": "ABC Ballarat",
-    "stream_urls": [
-      "https://mediaserviceslive.akamaized.net/hls/live/2038263/localballarat/index.m3u8"
-    ],
-    "country": "au",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
     "nanoid": "RjEoyOIa7D4wGg",
     "name": "ABC Brisbane",
     "stream_urls": [
       "https://live-radio01.mediahubaustralia.com/4LRW/aac/",
-      "https://live-radio01.mediahubaustralia.com/4LRW/mp3/",
-      "https://mediaserviceslive.akamaized.net/hls/live/2038304/localbrisbane/masterhq.m3u8"
+      "https://live-radio01.mediahubaustralia.com/4LRW/mp3/"
     ],
     "country": "au",
     "languages": [
@@ -1498,30 +1270,7 @@
     "name": "ABC Canberra",
     "stream_urls": [
       "https://live-radio01.mediahubaustralia.com/1LRW/aac/",
-      "https://live-radio01.mediahubaustralia.com/1LRW/mp3/",
-      "https://mediaserviceslive.akamaized.net/hls/live/2038303/localcanberra/masterhq.m3u8"
-    ],
-    "country": "au",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
-    "nanoid": "ivjwC6rouKHQ73",
-    "name": "ABC Capricornia",
-    "stream_urls": [
-      "https://mediaserviceslive.akamaized.net/hls/live/2038251/localcapricornia/masterhq.m3u8"
-    ],
-    "country": "au",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
-    "nanoid": "vwAVmQj2y7E4dF",
-    "name": "ABC Central Coast",
-    "stream_urls": [
-      "https://mediaserviceslive.akamaized.net/hls/live/2038258/localcentralcoast/masterhq.m3u8"
+      "https://live-radio01.mediahubaustralia.com/1LRW/mp3/"
     ],
     "country": "au",
     "languages": [
@@ -1532,9 +1281,10 @@
     "nanoid": "QnRl2G6Zr6o9r1",
     "name": "ABC Classic",
     "stream_urls": [
-      "https://live-radio01.mediahubaustralia.com/4FMW/aac/",
       "https://live-radio01.mediahubaustralia.com/2FMW/aac/",
-      "https://live-radio01.mediahubaustralia.com/2FMW/mp3/;*.mp3"
+      "https://live-radio01.mediahubaustralia.com/2FMW/mp3/;*.mp3",
+      "https://live-radio01.mediahubaustralia.com/6FMW/aac/",
+      "https://live-radio01.mediahubaustralia.com/4FMW/aac/"
     ],
     "country": "au",
     "languages": [
@@ -1546,19 +1296,7 @@
     "name": "ABC Classic 2",
     "stream_urls": [
       "https://live-radio01.mediahubaustralia.com/FM2W/aac/",
-      "https://live-radio01.mediahubaustralia.com/FM2W/mp3/",
-      "https://mediaserviceslive.akamaized.net/hls/live/2038317/classic2/index.m3u8"
-    ],
-    "country": "au",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
-    "nanoid": "EahnzPTQSjpcXP",
-    "name": "ABC Coffs Coast",
-    "stream_urls": [
-      "https://mediaserviceslive.akamaized.net/hls/live/2038246/localcoffscoast/index.m3u8"
+      "https://live-radio01.mediahubaustralia.com/FM2W/mp3/"
     ],
     "country": "au",
     "languages": [
@@ -1583,8 +1321,7 @@
     "name": "ABC Darwin",
     "stream_urls": [
       "https://live-radio01.mediahubaustralia.com/8LRW/aac/",
-      "https://live-radio01.mediahubaustralia.com/8LRW/mp3/",
-      "https://mediaserviceslive.akamaized.net/hls/live/2038307/localdarwin/index.m3u8"
+      "https://live-radio01.mediahubaustralia.com/8LRW/mp3/"
     ],
     "country": "au",
     "languages": [
@@ -1619,8 +1356,7 @@
     "name": "ABC Far North",
     "stream_urls": [
       "https://live-radio02.mediahubaustralia.com/4CRNW/mp3/;/",
-      "https://live-radio02.mediahubaustralia.com/4CRNW/mp3/;",
-      "https://mediaserviceslive.akamaized.net/hls/live/2038337/localcairns/masterhq.m3u8"
+      "https://live-radio02.mediahubaustralia.com/4CRNW/mp3/;"
     ],
     "country": "au",
     "languages": [
@@ -1644,8 +1380,7 @@
     "name": "ABC Gold Coast",
     "stream_urls": [
       "https://live-radio01.mediahubaustralia.com/4GLDW/aac/",
-      "https://live-radio01.mediahubaustralia.com/4GLDW/mp3/",
-      "https://abc.streamguys1.com/live/localgoldcoast/icecast.audio"
+      "https://live-radio01.mediahubaustralia.com/4GLDW/mp3/"
     ],
     "country": "au",
     "languages": [
@@ -1681,8 +1416,7 @@
     "name": "ABC Hobart",
     "stream_urls": [
       "https://live-radio01.mediahubaustralia.com/7LRW/mp3/",
-      "https://live-radio01.mediahubaustralia.com/7LRW/aac/",
-      "https://abc.streamguys1.com/live/localhobart/icecast.audio"
+      "https://live-radio01.mediahubaustralia.com/7LRW/aac/"
     ],
     "country": "au",
     "languages": [
@@ -1705,19 +1439,7 @@
     "name": "ABC Jazz",
     "stream_urls": [
       "https://live-radio01.mediahubaustralia.com/JAZW/aac/",
-      "https://live-radio01.mediahubaustralia.com/JAZW/mp3/",
-      "https://mediaserviceslive.akamaized.net/hls/live/2038319/abcjazz/masterhq.m3u8"
-    ],
-    "country": "au",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
-    "nanoid": "UFXFLVr2WC7DOO",
-    "name": "ABC Kids listen",
-    "stream_urls": [
-      "https://mediaserviceslive.akamaized.net/hls/live/2038321/abcextra/masterhq.m3u8"
+      "https://live-radio01.mediahubaustralia.com/JAZW/mp3/"
     ],
     "country": "au",
     "languages": [
@@ -1742,18 +1464,8 @@
     "stream_urls": [
       "https://live-radio03.mediahubaustralia.com/3LRW/aac/",
       "https://live-radio03.mediahubaustralia.com/3LRW/mp3/",
-      "https://live-radio01.mediahubaustralia.com/3LRW/aac/"
-    ],
-    "country": "au",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
-    "nanoid": "vGUtCB2XXkqhCg",
-    "name": "ABC Midwest & Wheatbelt",
-    "stream_urls": [
-      "https://mediaserviceslive.akamaized.net/hls/live/2038256/localwheatbelt/index.m3u8"
+      "https://live-radio01.mediahubaustralia.com/3LRW/aac/",
+      "https://live-radio01.mediahubaustralia.com/3LRW/mp3/"
     ],
     "country": "au",
     "languages": [
@@ -1788,8 +1500,7 @@
     "name": "ABC NewsRadio",
     "stream_urls": [
       "https://live-radio01.mediahubaustralia.com/PBW/aac/",
-      "https://live-radio01.mediahubaustralia.com/PBW/mp3/",
-      "https://mediaserviceslive.akamaized.net/hls/live/2109425/newsradio/v0-221.m3u8"
+      "https://live-radio01.mediahubaustralia.com/PBW/mp3/"
     ],
     "country": "au",
     "languages": [
@@ -1801,42 +1512,7 @@
     "name": "ABC North and West SA",
     "stream_urls": [
       "https://live-radio02.mediahubaustralia.com/5PIRW/mp3/;",
-      "https://live-radio02.mediahubaustralia.com/5PIRW/mp3/;/",
-      "https://mediaserviceslive.akamaized.net/hls/live/2109420/localportpirie-u1/v0-221.m3u8"
-    ],
-    "country": "au",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
-    "nanoid": "RLfmJs2seke2gt",
-    "name": "ABC North Coast",
-    "stream_urls": [
-      "https://mediaserviceslive.akamaized.net/hls/live/2038170/localnorthcoast/index.m3u8"
-    ],
-    "country": "au",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
-    "nanoid": "TQrCKT6fkfbLjc",
-    "name": "ABC North Queensland",
-    "stream_urls": [
-      "https://mediaserviceslive.akamaized.net/hls/live/2038157-b/localnorthqld/masterhq.m3u8"
-    ],
-    "country": "au",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
-    "nanoid": "KtAJ8WsLg082gd",
-    "name": "ABC North West Queensland",
-    "stream_urls": [
-      "https://mediaserviceslive.akamaized.net/hls/live/2038355/localmtisa/masterhq.m3u8",
-      "https://mediaserviceslive.akamaized.net/hls/live/2109417/localmtisa-u1/v0-221.m3u8"
+      "https://live-radio02.mediahubaustralia.com/5PIRW/mp3/;/"
     ],
     "country": "au",
     "languages": [
@@ -1874,8 +1550,7 @@
     "name": "ABC Pilbara",
     "stream_urls": [
       "https://live-radio02.mediahubaustralia.com/6KARW/mp3/;/",
-      "https://live-radio02.mediahubaustralia.com/6KARW/mp3/;",
-      "https://mediaserviceslive.akamaized.net/hls/live/2109412/localkarratha-u1/v0-221.m3u8"
+      "https://live-radio02.mediahubaustralia.com/6KARW/mp3/;"
     ],
     "country": "au",
     "languages": [
@@ -1887,8 +1562,7 @@
     "name": "ABC Radio Australia",
     "stream_urls": [
       "https://live-radio01.mediahubaustralia.com/RAEW/aac/",
-      "https://live-radio01.mediahubaustralia.com/RAEW/mp3/",
-      "https://mediaserviceslive.akamaized.net/hls/live/2038266/ramulti/masterhq.m3u8"
+      "https://live-radio01.mediahubaustralia.com/RAEW/mp3/"
     ],
     "country": "au",
     "languages": [
@@ -1899,8 +1573,8 @@
     "nanoid": "SnTJbCj4bSzerU",
     "name": "ABC Radio National",
     "stream_urls": [
-      "https://live-radio01.mediahubaustralia.com/2RNW/mp3/",
       "https://live-radio02.mediahubaustralia.com/2RNW/aac/",
+      "https://live-radio01.mediahubaustralia.com/2RNW/mp3/",
       "https://live-radio01.mediahubaustralia.com/3RNW/mp3/;"
     ],
     "country": "au",
@@ -1912,31 +1586,7 @@
     "nanoid": "WorfUdHYOKEHXf",
     "name": "ABC Riverina",
     "stream_urls": [
-      "https://live-radio04.mediahubaustralia.com/2WAGW/mp3/",
-      "https://abc.streamguys1.com/live/localriverina/icecast.audio"
-    ],
-    "country": "au",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
-    "nanoid": "JHdASuQ0rDQf8h",
-    "name": "ABC Riverland",
-    "stream_urls": [
-      "https://mediaserviceslive.akamaized.net/hls/live/2038160/localriverland/index.m3u8"
-    ],
-    "country": "au",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
-    "nanoid": "IKhNN5ib2Txcyk",
-    "name": "ABC South East NSW",
-    "stream_urls": [
-      "https://abc.streamguys1.com/live/localsoutheastnsw/icecast.audio",
-      "https://mediaserviceslive.akamaized.net/hls/live/2038247/localsoutheastnsw/masterhq.m3u8"
+      "https://live-radio04.mediahubaustralia.com/2WAGW/mp3/"
     ],
     "country": "au",
     "languages": [
@@ -1948,8 +1598,7 @@
     "name": "ABC South West WA",
     "stream_urls": [
       "https://live-radio02.mediahubaustralia.com/6BUNW/mp3/;/",
-      "https://live-radio02.mediahubaustralia.com/6BUNW/mp3/;",
-      "https://mediaserviceslive.akamaized.net/hls/live/2038338/localbunbury/index.m3u8"
+      "https://live-radio02.mediahubaustralia.com/6BUNW/mp3/;"
     ],
     "country": "au",
     "languages": [
@@ -1961,8 +1610,7 @@
     "name": "ABC Southern Queensland",
     "stream_urls": [
       "https://live-radio02.mediahubaustralia.com/4TOOW/mp3/;",
-      "https://live-radio02.mediahubaustralia.com/4TOOW/mp3/;/",
-      "https://mediaserviceslive.akamaized.net/hls/live/2038328/localtoowoomba/masterhq.m3u8"
+      "https://live-radio02.mediahubaustralia.com/4TOOW/mp3/;/"
     ],
     "country": "au",
     "languages": [
@@ -1975,18 +1623,10 @@
     "stream_urls": [
       "https://live-radio02.mediahubaustralia.com/GSDW/aac/;/",
       "https://live-radio02.mediahubaustralia.com/GSDW/mp3/;/",
-      "https://live-radio02.mediahubaustralia.com/GSDW/aac/;"
-    ],
-    "country": "au",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
-    "nanoid": "CYwewYp5cZyb1A",
-    "name": "ABC Sport AFL",
-    "stream_urls": [
-      "https://mediaserviceslive.akamaized.net/hls/live/2038314/itinerantone/masterhq.m3u8"
+      "https://live-radio02.mediahubaustralia.com/GSDW/aac/;",
+      "https://live-radio02.mediahubaustralia.com/GSDW/mp3/;",
+      "https://live-radio01.mediahubaustralia.com/GSDW/aac/",
+      "https://live-radio01.mediahubaustralia.com/GSDW/mp3/;"
     ],
     "country": "au",
     "languages": [
@@ -2009,8 +1649,7 @@
     "name": "ABC Sydney",
     "stream_urls": [
       "https://live-radio01.mediahubaustralia.com/2LRW/aac/",
-      "https://live-radio01.mediahubaustralia.com/2LRW/mp3/",
-      "https://mediaserviceslive.akamaized.net/hls/live/2038302/localsydney/masterhq.m3u8"
+      "https://live-radio01.mediahubaustralia.com/2LRW/mp3/"
     ],
     "country": "au",
     "languages": [
@@ -2023,7 +1662,8 @@
     "stream_urls": [
       "https://live-radio01.mediahubaustralia.com/2TJW/mp3/;stream.nsv",
       "https://live-radio01.mediahubaustralia.com/5TJW/aac/",
-      "https://live-radio01.mediahubaustralia.com/2TJW/aac/"
+      "https://live-radio01.mediahubaustralia.com/2TJW/aac/",
+      "https://live-radio01.mediahubaustralia.com/6TJW/aac/"
     ],
     "country": "au",
     "languages": [
@@ -2059,8 +1699,7 @@
     "name": "ABC Western Queensland",
     "stream_urls": [
       "https://live-radio02.mediahubaustralia.com/4LONW/mp3/;/",
-      "https://live-radio02.mediahubaustralia.com/4LONW/mp3/;",
-      "https://mediaserviceslive.akamaized.net/hls/live/2038331/locallongreach/masterhq.m3u8"
+      "https://live-radio02.mediahubaustralia.com/4LONW/mp3/;"
     ],
     "country": "au",
     "languages": [
@@ -2068,10 +1707,10 @@
     ]
   },
   {
-    "nanoid": "G2jK2jVesjSRFn",
-    "name": "ABC Wide Bay",
+    "nanoid": "ONetIhPEhBUjjp",
+    "name": "AC/DC Radio",
     "stream_urls": [
-      "https://mediaserviceslive.akamaized.net/hls/live/2038240/localwidebay/masterhq.m3u8"
+      "https://stream.pcradio.ru/ac_dc-hi"
     ],
     "country": "au",
     "languages": [
@@ -2112,17 +1751,6 @@
     ]
   },
   {
-    "nanoid": "S2plMnRdgge6F3",
-    "name": "Afrobeats",
-    "stream_urls": [
-      "https://wz0liw.scahw.com.au/live/afrobeats.stream/playlist.m3u8"
-    ],
-    "country": "au",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
     "nanoid": "uBiqgLfFCXWUCL",
     "name": "Albayan Radio",
     "stream_urls": [
@@ -2139,29 +1767,6 @@
     "stream_urls": [
       "https://playerservices.streamtheworld.com/api/livestream-redirect/2CCRAAC.aac",
       "https://playerservices.streamtheworld.com/api/livestream-redirect/2CCR.mp3"
-    ],
-    "country": "au",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
-    "nanoid": "uBKgMtqoMOsPTT",
-    "name": "Alkarma TV Australia",
-    "stream_urls": [
-      "https://5b622f07944df.streamlock.net/alkarmatv.com/alkarmaau.smil/chunklist_w377932823_b1628000_slar.m3u8"
-    ],
-    "country": "au",
-    "languages": [
-      "ara",
-      "eng"
-    ]
-  },
-  {
-    "nanoid": "2CMYbAEYFWL4U4",
-    "name": "All Aussie Radio",
-    "stream_urls": [
-      "https://stream.radiojar.com/zp7qn145b8tvv"
     ],
     "country": "au",
     "languages": [
@@ -2213,22 +1818,10 @@
     ]
   },
   {
-    "nanoid": "0bf5BmkDDhoJL1",
-    "name": "Almost Acoustic",
+    "nanoid": "pzLQpXed06HaZJ",
+    "name": "Alpine Radio",
     "stream_urls": [
-      "https://wz7liw.scahw.com.au/live/7almostacoustic_128.stream/playlist.m3u8",
-      "https://sa46.scastream.com.au/live/7almostacoustic_128.stream/playlist.m3u8"
-    ],
-    "country": "au",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
-    "nanoid": "JF35gsaSV1Ov9z",
-    "name": "Almost Acoustic: Pop",
-    "stream_urls": [
-      "https://sa47.scastream.com.au/live/aa-pop.stream/playlist.m3u8"
+      "https://stream.sigile.net/3vkv-128-mp3"
     ],
     "country": "au",
     "languages": [
@@ -2325,40 +1918,6 @@
     ]
   },
   {
-    "nanoid": "XAzZzxFv6WMwyE",
-    "name": "Aussie Dance",
-    "stream_urls": [
-      "https://sa46.scastream.com.au/live/aussiedance.stream/playlist.m3u8"
-    ],
-    "country": "au",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
-    "nanoid": "AS0aS5KiUtdOcy",
-    "name": "Aussie Hip Hop",
-    "stream_urls": [
-      "https://sa46.scastream.com.au/live/aus-hiphop.stream/playlist.m3u8"
-    ],
-    "country": "au",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
-    "nanoid": "xUlAzMxy9UNv3o",
-    "name": "Aussie Pub Rock",
-    "stream_urls": [
-      "https://wz7liw.scahw.com.au/live/7mushroom50_128.stream/playlist.m3u8",
-      "https://sa46.scastream.com.au/live/7mushroom50_128.stream/playlist.m3u8"
-    ],
-    "country": "au",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
     "nanoid": "WW6SW8j2O2JGMX",
     "name": "Australian Country Radio",
     "stream_urls": [
@@ -2374,17 +1933,6 @@
     "name": "Australian Made Music",
     "stream_urls": [
       "https://listen10.as.amplifystreaming.com/radio/8000/amm_128.aac"
-    ],
-    "country": "au",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
-    "nanoid": "QMSJjgdDeOyXzs",
-    "name": "B105 Brisbane",
-    "stream_urls": [
-      "https://wz4liw.scahw.com.au/live/4bbb_128.stream/playlist.m3u8"
     ],
     "country": "au",
     "languages": [
@@ -2418,8 +1966,7 @@
     "name": "bay 93.9",
     "stream_urls": [
       "https://playerservices.streamtheworld.com/api/livestream-redirect/GEE_BAY939AAC.aac",
-      "https://playerservices.streamtheworld.com/api/livestream-redirect/GEE_BAY939.mp3",
-      "https://29309.live.streamtheworld.com:443/GEE_BAY939_SC"
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/GEE_BAY939.mp3"
     ],
     "country": "au",
     "languages": [
@@ -2509,33 +2056,11 @@
     ]
   },
   {
-    "nanoid": "IFtuAbm4S36gg4",
-    "name": "big sad",
-    "stream_urls": [
-      "https://sa47.scastream.com.au/live/big-sad.stream/playlist.m3u8"
-    ],
-    "country": "au",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
-    "nanoid": "WGtU8RjvFQ7zOC",
-    "name": "Billion Streams Club",
-    "stream_urls": [
-      "https://wz0liw.scahw.com.au/live/billion-streams.stream/playlist.m3u8",
-      "https://sa46.scastream.com.au/live/billion-streams.stream/playlist.m3u8"
-    ],
-    "country": "au",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
     "nanoid": "WerU5J19fqgYTn",
     "name": "Binjang 91.5",
     "stream_urls": [
-      "https://playerservices.streamtheworld.com/api/livestream-redirect/2BJGAAC.aac"
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/2BJGAAC.aac",
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/2BJG.mp3"
     ],
     "country": "au",
     "languages": [
@@ -2547,17 +2072,6 @@
     "name": "Black Star Radio",
     "stream_urls": [
       "https://s9.viastreaming.net:9010/;"
-    ],
-    "country": "au",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
-    "nanoid": "biekFrd5bMHPAV",
-    "name": "Blender Beats",
-    "stream_urls": [
-      "https://wz2liw.scahw.com.au/live/2blenderbeats_128.stream/playlist.m3u8"
     ],
     "country": "au",
     "languages": [
@@ -2598,55 +2112,10 @@
     ]
   },
   {
-    "nanoid": "yVjEKIokC5Ldkh",
-    "name": "Brit Rock Essentials",
-    "stream_urls": [
-      "https://sa47.scastream.com.au/live/intro-britpop.stream/playlist.m3u8"
-    ],
-    "country": "au",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
-    "nanoid": "YJjDCChAoJSa1w",
-    "name": "Broadway Bound",
-    "stream_urls": [
-      "https://sa47.scastream.com.au/live/broadway-bound.stream/playlist.m3u8"
-    ],
-    "country": "au",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
-    "nanoid": "7tv4yojgTR9mPP",
-    "name": "Buddha",
-    "stream_urls": [
-      "https://wz2liw.scahw.com.au/live/2buddha_128.stream/playlist.m3u8",
-      "https://sa46.scastream.com.au/live/2buddha_128.stream/playlist.m3u8"
-    ],
-    "country": "au",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
     "nanoid": "jvngBD2b5XqasL",
     "name": "Buddha Hits",
     "stream_urls": [
       "https://legacy.scahw.com.au/2buddha_32"
-    ],
-    "country": "au",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
-    "nanoid": "DmodpjgTCwwbMb",
-    "name": "Bunbury 103.7 FM",
-    "stream_urls": [
-      "https://23193.live.streamtheworld.com/6BCRAAC.aac"
     ],
     "country": "au",
     "languages": [
@@ -2671,17 +2140,6 @@
     "stream_urls": [
       "https://playerservices.streamtheworld.com/api/livestream-redirect/ARN_CADAAAC.aac",
       "https://playerservices.streamtheworld.com/api/livestream-redirect/ARN_CADA.mp3"
-    ],
-    "country": "au",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
-    "nanoid": "YqJiy0Djhvtqc8",
-    "name": "Café",
-    "stream_urls": [
-      "https://wz0liw.scahw.com.au/live/cafe.stream/playlist.m3u8"
     ],
     "country": "au",
     "languages": [
@@ -2745,57 +2203,13 @@
     ]
   },
   {
-    "nanoid": "060NwRe9z2NoBH",
-    "name": "Chill Electronic",
-    "stream_urls": [
-      "https://sa46.scastream.com.au/live/chill-electronic.stream/playlist.m3u8"
-    ],
-    "country": "au",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
-    "nanoid": "iJ2msTWGsW6e31",
-    "name": "Chill House",
-    "stream_urls": [
-      "https://sa46.scastream.com.au/live/chill-house.stream/playlist.m3u8"
-    ],
-    "country": "au",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
-    "nanoid": "qFbz6RpshO6QQY",
-    "name": "Chill Jazz",
-    "stream_urls": [
-      "https://wz0liw.scahw.com.au/live/chill-jazz.stream/playlist.m3u8"
-    ],
-    "country": "au",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
-    "nanoid": "AXbV0bA46DZQ5l",
-    "name": "Chill Pop Hits",
-    "stream_urls": [
-      "https://wz7liw.scahw.com.au/live/7chillpophits_128.stream/playlist.m3u8",
-      "https://sa46.scastream.com.au/live/7chillpophits_128.stream/playlist.m3u8"
-    ],
-    "country": "au",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
     "nanoid": "hF7uP4pEHcAaKb",
     "name": "Chilli FM",
     "stream_urls": [
       "https://playerservices.streamtheworld.com/api/livestream-redirect/LAU_CHILLI.mp3",
       "https://playerservices.streamtheworld.com/api/livestream-redirect/LAU_CHILLIAAC.aac",
-      "https://playerservices.streamtheworld.com/api/livestream-redirect/SCO_CHILLIAAC.aac"
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/SCO_CHILLIAAC.aac",
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/SCO_CHILLI.mp3"
     ],
     "country": "au",
     "languages": [
@@ -2828,8 +2242,8 @@
     "nanoid": "DGpprGvT1N6N3n",
     "name": "City Park Radio",
     "stream_urls": [
-      "https://28893.live.streamtheworld.com/7LTNAAC.aac",
-      "https://playerservices.streamtheworld.com/api/livestream-redirect/7LTN.mp3"
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/7LTN.mp3",
+      "https://28893.live.streamtheworld.com/7LTNAAC.aac"
     ],
     "country": "au",
     "languages": [
@@ -2842,17 +2256,6 @@
     "stream_urls": [
       "https://stream.zeno.fm/gtevhb0m5f0uv",
       "https://stream.zeno.fm/wbb1hramzd0uv"
-    ],
-    "country": "au",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
-    "nanoid": "md1BrSrNDcWpFy",
-    "name": "Club Classics",
-    "stream_urls": [
-      "https://sa47.scastream.com.au/live/club-classics.stream/playlist.m3u8"
     ],
     "country": "au",
     "languages": [
@@ -2928,57 +2331,10 @@
     ]
   },
   {
-    "nanoid": "VFHcGIO0fQMi9c",
-    "name": "Coastal Drive",
-    "stream_urls": [
-      "https://sa46.scastream.com.au/live/coastal-drive.stream/playlist.m3u8"
-    ],
-    "country": "au",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
-    "nanoid": "DRGXEhvv9WTssF",
-    "name": "Coles Radio",
-    "stream_urls": [
-      "https://playerservices.streamtheworld.com/api/livestream-redirect/COLES_CONSUMER_NSW_ACTAAC.aac",
-      "https://playerservices.streamtheworld.com/api/livestream-redirect/COLES_CONSUMER_NSW_ACT.mp3",
-      "https://playerservices.streamtheworld.com/api/livestream-redirect/COLES_CONSUMER_QLDAAC.aac"
-    ],
-    "country": "au",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
     "nanoid": "rQ8gu6M1rjXcT7",
     "name": "Connect FM 100.9",
     "stream_urls": [
       "https://cast5.asurahosting.com/proxy/jim1/stream"
-    ],
-    "country": "au",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
-    "nanoid": "gZXdMiYtmrBou8",
-    "name": "Cooling Fan (White Noise)",
-    "stream_urls": [
-      "https://wz0liw.scahw.com.au/live/fan_128.stream/playlist.m3u8",
-      "https://sa46.scastream.com.au/live/fan_128.stream/playlist.m3u8"
-    ],
-    "country": "au",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
-    "nanoid": "69dlnnjcZBye8B",
-    "name": "Country Classics",
-    "stream_urls": [
-      "https://sa47.scastream.com.au/live/country-classics.stream/playlist.m3u8"
     ],
     "country": "au",
     "languages": [
@@ -2999,32 +2355,10 @@
     ]
   },
   {
-    "nanoid": "d2bpY8I8PYmEvW",
-    "name": "Cowgirl Country",
-    "stream_urls": [
-      "https://sa46.scastream.com.au/live/cowgirl-country.stream/playlist.m3u8"
-    ],
-    "country": "au",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
     "nanoid": "k30cFTRzR3aeJA",
     "name": "Cowra Web Radio",
     "stream_urls": [
       "https://radio.torchwoodhosting.com:8020/;"
-    ],
-    "country": "au",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
-    "nanoid": "wtPyGv3tKWvc5D",
-    "name": "Crooners & Swooners",
-    "stream_urls": [
-      "https://wz0liw.scahw.com.au/live/crooners-n-swooners.stream/playlist.m3u8"
     ],
     "country": "au",
     "languages": [
@@ -3038,17 +2372,6 @@
       "https://ais-arn.streamguys1.com/au_008_icy",
       "https://playerservices.streamtheworld.com/api/livestream-redirect/ARN_CRUISE1323AAC.aac",
       "https://playerservices.streamtheworld.com/api/livestream-redirect/ARN_CRUISE1323.mp3"
-    ],
-    "country": "au",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
-    "nanoid": "cOTBTKp6S8AVuP",
-    "name": "Dance Hits",
-    "stream_urls": [
-      "https://wz2liw.scahw.com.au/live/2dance_128.stream/playlist.m3u8"
     ],
     "country": "au",
     "languages": [
@@ -3071,28 +2394,6 @@
     "name": "DCFM 88.9",
     "stream_urls": [
       "https://cast1.asurahosting.com/proxy/dcfmandr/stream"
-    ],
-    "country": "au",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
-    "nanoid": "2ps7GnxyOnrlwG",
-    "name": "Deep Calm",
-    "stream_urls": [
-      "https://sa47.scastream.com.au/live/deep-calm.stream/playlist.m3u8"
-    ],
-    "country": "au",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
-    "nanoid": "qHm47bl5U47vu3",
-    "name": "Deep House",
-    "stream_urls": [
-      "https://sa47.scastream.com.au/live/deep-house.stream/playlist.m3u8"
     ],
     "country": "au",
     "languages": [
@@ -3126,8 +2427,7 @@
     "name": "Double J",
     "stream_urls": [
       "https://live-radio01.mediahubaustralia.com/DJDW/aac/",
-      "https://live-radio01.mediahubaustralia.com/DJDW/aac",
-      "https://mediaserviceslive.akamaized.net/hls/live/2108567/doublejnsw/v0-221.m3u8"
+      "https://live-radio01.mediahubaustralia.com/DJDW/aac"
     ],
     "country": "au",
     "languages": [
@@ -3140,18 +2440,6 @@
     "stream_urls": [
       "https://stream.zeno.fm/xt6gvuxim8svv",
       "https://stream.zeno.fm/e2whs5o5f3muv"
-    ],
-    "country": "au",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
-    "nanoid": "982flTUuPE2ZCk",
-    "name": "Drum & Bass",
-    "stream_urls": [
-      "https://wz0liw.scahw.com.au/live/drumnbass_128.stream/playlist.m3u8",
-      "https://sa46.scastream.com.au/live/drumnbass.stream/playlist.m3u8"
     ],
     "country": "au",
     "languages": [
@@ -3203,50 +2491,6 @@
     ]
   },
   {
-    "nanoid": "FHwTGWmY2P72pa",
-    "name": "Easy 80s Hits",
-    "stream_urls": [
-      "https://wz2liw.scahw.com.au/live/2easy_128.stream/playlist.m3u8"
-    ],
-    "country": "au",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
-    "nanoid": "tb9C0LNeH8CjDU",
-    "name": "Easy Office Vibes",
-    "stream_urls": [
-      "https://wz0liw.scahw.com.au/live/easy-office-vibes.stream/playlist.m3u8"
-    ],
-    "country": "au",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
-    "nanoid": "BnpZapoqGVF6bR",
-    "name": "Edge FM 102.1",
-    "stream_urls": [
-      "https://wz3liw.scahw.com.au/live/3nnn_128.stream/playlist.m3u8"
-    ],
-    "country": "au",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
-    "nanoid": "CQdVWRC0BlcQYG",
-    "name": "Edge FM 102.5",
-    "stream_urls": [
-      "https://wz2liw.scahw.com.au/live/2mor_128.stream/playlist.m3u8"
-    ],
-    "country": "au",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
     "nanoid": "s83rPZK3Hm4IHL",
     "name": "Edge FM 93.7",
     "stream_urls": [
@@ -3280,28 +2524,6 @@
     ]
   },
   {
-    "nanoid": "i20jo95LXeM7rC",
-    "name": "Essential Emo",
-    "stream_urls": [
-      "https://sa46.scastream.com.au/live/essential-emo.stream/playlist.m3u8"
-    ],
-    "country": "au",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
-    "nanoid": "1gwyriGeFYMCKX",
-    "name": "Euro Summer",
-    "stream_urls": [
-      "https://sa47.scastream.com.au/live/euro-summer.stream/playlist.m3u8"
-    ],
-    "country": "au",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
     "nanoid": "P1eh5qCRSc9I6u",
     "name": "Faith FM",
     "stream_urls": [
@@ -3313,67 +2535,10 @@
     ]
   },
   {
-    "nanoid": "tyCy0i4qvWvncn",
-    "name": "Fans of Ed Sheeran",
-    "stream_urls": [
-      "https://wz0liw.scahw.com.au/live/fans-of-ed-sheeran.stream/playlist.m3u8"
-    ],
-    "country": "au",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
-    "nanoid": "64aZPrdFSDW8cA",
-    "name": "Fans of FISHER",
-    "stream_urls": [
-      "https://sa47.scastream.com.au/live/fisher.stream/playlist.m3u8"
-    ],
-    "country": "au",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
-    "nanoid": "eUp2082cPKuIeo",
-    "name": "Fans of Lady Gaga",
-    "stream_urls": [
-      "https://wz0liw.scahw.com.au/live/gaga.stream/playlist.m3u8"
-    ],
-    "country": "au",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
     "nanoid": "C9WGOxOdT7CwYu",
     "name": "FBi Radio",
     "stream_urls": [
       "https://streamer.fbiradio.com/stream"
-    ],
-    "country": "au",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
-    "nanoid": "bWAhUnAIhzRYOo",
-    "name": "Festival Bangers",
-    "stream_urls": [
-      "https://wz0liw.scahw.com.au/live/festivalbangers_128.stream/playlist.m3u8",
-      "https://sa46.scastream.com.au/live/festivalbangers.stream/playlist.m3u8"
-    ],
-    "country": "au",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
-    "nanoid": "zNML1mUJJYYeLb",
-    "name": "Fit Hits",
-    "stream_urls": [
-      "https://wz7liw.scahw.com.au/live/7fithits_128.stream/playlist.m3u8",
-      "https://sa46.scastream.com.au/live/7fithits_128.stream/playlist.m3u8"
     ],
     "country": "au",
     "languages": [
@@ -3395,9 +2560,10 @@
     "nanoid": "hJ3hg5i2C5tjJd",
     "name": "FIVEAA",
     "stream_urls": [
-      "https://playerservices.streamtheworld.com/api/livestream-redirect/FIVEAA_AAC48.aac",
       "https://playerservices.streamtheworld.com/api/livestream-redirect/FIVEAA_AAC128.aac",
-      "https://playerservices.streamtheworld.com/api/livestream-redirect/FIVEAA_AAC320.aac"
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/FIVEAA_AAC320.aac",
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/FIVEAA.mp3",
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/FIVEAA_AAC48.aac"
     ],
     "country": "au",
     "languages": [
@@ -3431,28 +2597,6 @@
     "name": "Flow FM 89.3",
     "stream_urls": [
       "https://uksoutha.streaming.broadcast.radio/flow-fm"
-    ],
-    "country": "au",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
-    "nanoid": "Zy6voixIbR0cyD",
-    "name": "Focus",
-    "stream_urls": [
-      "https://wz0liw.scahw.com.au/live/focus.stream/playlist.m3u8"
-    ],
-    "country": "au",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
-    "nanoid": "cablfKS7euJjdN",
-    "name": "Fox FM",
-    "stream_urls": [
-      "https://wz3liw.scahw.com.au/live/3fox_128.stream/playlist.m3u8"
     ],
     "country": "au",
     "languages": [
@@ -3495,18 +2639,6 @@
     ]
   },
   {
-    "nanoid": "pcJthQdVPPjwVY",
-    "name": "Fresh Folk Hits",
-    "stream_urls": [
-      "https://wz0liw.scahw.com.au/live/fresh-folk.stream/playlist.m3u8",
-      "https://sa46.scastream.com.au/live/fresh-folk.stream/playlist.m3u8"
-    ],
-    "country": "au",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
     "nanoid": "CaLcBauJ7jujjR",
     "name": "Freshest Radio",
     "stream_urls": [
@@ -3533,17 +2665,6 @@
     "name": "FSJ Radio",
     "stream_urls": [
       "https://us01.xrn.com.au/listen/fsj/FsjSd"
-    ],
-    "country": "au",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
-    "nanoid": "OCNlJRqeuf2Pv0",
-    "name": "Fuego Latino",
-    "stream_urls": [
-      "https://sa47.scastream.com.au/live/fuego-latino.stream/playlist.m3u8"
     ],
     "country": "au",
     "languages": [
@@ -3619,18 +2740,6 @@
     ]
   },
   {
-    "nanoid": "1RyarCWvp9FveZ",
-    "name": "Girl Power",
-    "stream_urls": [
-      "https://wz7liw.scahw.com.au/live/7girlpower_128.stream/playlist.m3u8",
-      "https://sa46.scastream.com.au/live/7girlpower_128.stream/playlist.m3u8"
-    ],
-    "country": "au",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
     "nanoid": "tmdsImWqUn4tXG",
     "name": "GNFM 107.7",
     "stream_urls": [
@@ -3684,8 +2793,7 @@
     "name": "GOLD 96FM",
     "stream_urls": [
       "https://playerservices.streamtheworld.com/api/livestream-redirect/ARN_96FMAAC.aac",
-      "https://playerservices.streamtheworld.com/api/livestream-redirect/ARN_96FM.mp3",
-      "https://ais-arn.streamguys1.com/au_012/playlist.m3u8"
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/ARN_96FM.mp3"
     ],
     "country": "au",
     "languages": [
@@ -3727,18 +2835,6 @@
     ]
   },
   {
-    "nanoid": "gctCxb3IE7xzZ2",
-    "name": "Good Vibes",
-    "stream_urls": [
-      "https://wz7liw.scahw.com.au/live/7goodvibes_128.stream/playlist.m3u8",
-      "https://sa46.scastream.com.au/live/7goodvibes_128.stream/playlist.m3u8"
-    ],
-    "country": "au",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
     "nanoid": "kH8Yad7znWR9du",
     "name": "GoodMusicINC",
     "stream_urls": [
@@ -3766,17 +2862,6 @@
     "stream_urls": [
       "https://playerservices.streamtheworld.com/api/livestream-redirect/8EARAAC.aac",
       "https://playerservices.streamtheworld.com/api/livestream-redirect/8EAR.mp3"
-    ],
-    "country": "au",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
-    "nanoid": "ul8UMPTpeR2AjT",
-    "name": "Grace & Glory",
-    "stream_urls": [
-      "https://wz0liw.scahw.com.au/live/grace-n-glory.stream/playlist.m3u8"
     ],
     "country": "au",
     "languages": [
@@ -3819,29 +2904,6 @@
     ]
   },
   {
-    "nanoid": "UlyK5qJi15ZAwx",
-    "name": "Grunge",
-    "stream_urls": [
-      "https://wz0liw.scahw.com.au/live/grunge.stream/playlist.m3u8"
-    ],
-    "country": "au",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
-    "nanoid": "5jobfLYyBKKaSZ",
-    "name": "Guilty Pleasures",
-    "stream_urls": [
-      "https://wz7liw.scahw.com.au/live/7guiltypleasures_128.stream/playlist.m3u8",
-      "https://sa46.scastream.com.au/live/7guiltypleasures_128.stream/playlist.m3u8"
-    ],
-    "country": "au",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
     "nanoid": "JZ5ULQYIeGmab1",
     "name": "Gulf FM 89.3",
     "stream_urls": [
@@ -3866,56 +2928,10 @@
     ]
   },
   {
-    "nanoid": "1roY9n0qZ4B3MI",
-    "name": "Happy Hits",
-    "stream_urls": [
-      "https://wz0liw.scahw.com.au/live/happy-hits.stream/playlist.m3u8"
-    ],
-    "country": "au",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
-    "nanoid": "TCpwjwCMmgthu1",
-    "name": "Hard N Heavy",
-    "stream_urls": [
-      "https://wz2liw.scahw.com.au/live/2hardnheavy_128.stream/playlist.m3u8",
-      "https://sa46.scastream.com.au/live/2hardnheavy_128.stream/playlist.m3u8"
-    ],
-    "country": "au",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
-    "nanoid": "eXc3e7zGCVfIS0",
-    "name": "Harman Radio Australia",
-    "stream_urls": [
-      "https://radio.sanbroz.com/listen/harman_radio_australia/radio.mp3"
-    ],
-    "country": "au",
-    "languages": [
-      "hin",
-      "pan"
-    ]
-  },
-  {
     "nanoid": "HvjUkxwDqzi7Wz",
     "name": "Harry On Country Radio",
     "stream_urls": [
       "https://stream.zeno.fm/9xtwxx5ugs8uv"
-    ],
-    "country": "au",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
-    "nanoid": "9FSDVyT3pqXoCS",
-    "name": "Harvey Community Radio 96.5",
-    "stream_urls": [
-      "https://23153.live.streamtheworld.com/6HRVAAC.aac"
     ],
     "country": "au",
     "languages": [
@@ -3939,50 +2955,6 @@
     "name": "Hawkesbury Radio Sports",
     "stream_urls": [
       "https://c15.radioboss.fm:8523/autodj"
-    ],
-    "country": "au",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
-    "nanoid": "B8rBX3Ml63fPjV",
-    "name": "Heart",
-    "stream_urls": [
-      "https://sa46.scastream.com.au/live/2heart_128.stream/playlist.m3u8"
-    ],
-    "country": "au",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
-    "nanoid": "kiMXKjCJXYWEEN",
-    "name": "Heart 60s",
-    "stream_urls": [
-      "https://sa46.scastream.com.au/live/760shits_128.stream/playlist.m3u8"
-    ],
-    "country": "au",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
-    "nanoid": "BsZLFS0YINRG6k",
-    "name": "Heart Hits",
-    "stream_urls": [
-      "https://sa46.scastream.com.au/live/2hearthits_128.stream/playlist.m3u8"
-    ],
-    "country": "au",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
-    "nanoid": "oYpEYDvpWPDgxz",
-    "name": "Heavy AF",
-    "stream_urls": [
-      "https://wz0liw.scahw.com.au/live/heavy-af.stream/playlist.m3u8"
     ],
     "country": "au",
     "languages": [
@@ -4048,106 +3020,8 @@
     "nanoid": "ycmRKqsztOsqYo",
     "name": "Highway 61 Internet Radio",
     "stream_urls": [
-      "https://usa19.fastcast4u.com:4610/;"
-    ],
-    "country": "au",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
-    "nanoid": "6iI8BVtaQOjQJW",
-    "name": "hit 100.9 Hobart",
-    "stream_urls": [
-      "https://wz7liw.scahw.com.au/live/7ttt_128.stream/playlist.m3u8"
-    ],
-    "country": "au",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
-    "nanoid": "34oq2NAn2YENo6",
-    "name": "hit 101.3 Broome",
-    "stream_urls": [
-      "https://wz6liw.scahw.com.au/live/6hedb_128.stream/playlist.m3u8"
-    ],
-    "country": "au",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
-    "nanoid": "f5IkL6v7vLHcHf",
-    "name": "hit 101.3 Central Coast",
-    "stream_urls": [
-      "https://wz2liw.scahw.com.au/live/2cfm_128.stream/playlist.m3u8"
-    ],
-    "country": "au",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
-    "nanoid": "L20TK2Dx4BG22z",
-    "name": "hit 101.9 Fraser Coast",
-    "stream_urls": [
-      "https://wz4liw.scahw.com.au/live/4cee_128.stream/playlist.m3u8"
-    ],
-    "country": "au",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
-    "nanoid": "v0WHTkstJmsH04",
-    "name": "hit 102.3 & 105.1 Mid North Coast",
-    "stream_urls": [
-      "https://wz2liw.scahw.com.au/live/2rox_128.stream/playlist.m3u8"
-    ],
-    "country": "au",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
-    "nanoid": "Tx2bbeyUyhyq0v",
-    "name": "hit 102.3 Esperance",
-    "stream_urls": [
-      "https://wz6liw.scahw.com.au/live/6sea_128.stream/playlist.m3u8"
-    ],
-    "country": "au",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
-    "nanoid": "1eeEYF5EG52rBA",
-    "name": "hit 102.5 Mount Isa",
-    "stream_urls": [
-      "https://wz4liw.scahw.com.au/live/4mic_128.stream/playlist.m3u8"
-    ],
-    "country": "au",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
-    "nanoid": "MrajMm7SkDU0cv",
-    "name": "hit 103.1 Townsville",
-    "stream_urls": [
-      "https://wz4liw.scahw.com.au/live/4ram_128.stream/playlist.m3u8"
-    ],
-    "country": "au",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
-    "nanoid": "YUIIejC3pbQfMp",
-    "name": "hit 103.5 Cairns",
-    "stream_urls": [
-      "https://wz4liw.scahw.com.au/live/4hot_128.stream/playlist.m3u8"
+      "https://usa19.fastcast4u.com:4610/;",
+      "https://stream.zeno.fm/qvikbhhla39uv"
     ],
     "country": "au",
     "languages": [
@@ -4159,239 +3033,7 @@
     "name": "hit 104.7 Canberra",
     "stream_urls": [
       "https://playerservices.streamtheworld.com/api/livestream-redirect/ARN_1047HIT.mp3",
-      "https://playerservices.streamtheworld.com/api/livestream-redirect/ARN_1047HITAAC.aac",
-      "https://ais-arn.streamguys1.com/au_005/playlist.m3u8"
-    ],
-    "country": "au",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
-    "nanoid": "tefgb1McDRacUr",
-    "name": "hit 104.9 The Border",
-    "stream_urls": [
-      "https://wz2liw.scahw.com.au/live/2aay_128.stream/playlist.m3u8"
-    ],
-    "country": "au",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
-    "nanoid": "3hBSFNTEcW57vV",
-    "name": "hit 105.5 Coffs Coast",
-    "stream_urls": [
-      "https://wz2liw.scahw.com.au/live/2csf_128.stream/playlist.m3u8"
-    ],
-    "country": "au",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
-    "nanoid": "dVJnvIG7c8WJIX",
-    "name": "hit 105.9 Central West",
-    "stream_urls": [
-      "https://wz2liw.scahw.com.au/live/2gzf_128.stream/playlist.m3u8"
-    ],
-    "country": "au",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
-    "nanoid": "bP0fMwQ6mUqqJU",
-    "name": "hit 106.5 Karratha",
-    "stream_urls": [
-      "https://wz6liw.scahw.com.au/live/6red_128.stream/playlist.m3u8"
-    ],
-    "country": "au",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
-    "nanoid": "L4yASQM9qjuJd3",
-    "name": "hit 106.9 Newcastle",
-    "stream_urls": [
-      "https://wz2liw.scahw.com.au/live/2xxx_128.stream/playlist.m3u8"
-    ],
-    "country": "au",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
-    "nanoid": "UavbcQiPR82nNE",
-    "name": "hit 91.7 Port Hedland",
-    "stream_urls": [
-      "https://wz6liw.scahw.com.au/live/6hed_128.stream/playlist.m3u8"
-    ],
-    "country": "au",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
-    "nanoid": "2LgAG3pPD88DKt",
-    "name": "hit 91.9 Bendigo",
-    "stream_urls": [
-      "https://wz3liw.scahw.com.au/live/3bdg_128.stream/playlist.m3u8"
-    ],
-    "country": "au",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
-    "nanoid": "gjbxxT2QB1cf7w",
-    "name": "hit 93.1 Riverina",
-    "stream_urls": [
-      "https://wz2liw.scahw.com.au/live/2wzd_128.stream/playlist.m3u8"
-    ],
-    "country": "au",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
-    "nanoid": "3V4f73Ct21byrM",
-    "name": "hit 94.7 Emerald",
-    "stream_urls": [
-      "https://wz4liw.scahw.com.au/live/4hit_128.stream/playlist.m3u8"
-    ],
-    "country": "au",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
-    "nanoid": "70Ce257ydnrzsl",
-    "name": "hit 95.1 Maranoa",
-    "stream_urls": [
-      "https://wz4liw.scahw.com.au/live/4rgd_128.stream/playlist.m3u8"
-    ],
-    "country": "au",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
-    "nanoid": "UIVvai9BSsyRpY",
-    "name": "hit 95.3 Albany",
-    "stream_urls": [
-      "https://wz6liw.scahw.com.au/live/6aay_128.stream/playlist.m3u8"
-    ],
-    "country": "au",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
-    "nanoid": "K3xOAGdGB9onR5",
-    "name": "hit 96.5 Geraldton",
-    "stream_urls": [
-      "https://wz6liw.scahw.com.au/live/6ggg_128.stream/playlist.m3u8"
-    ],
-    "country": "au",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
-    "nanoid": "vG7IvJX1x4Trmf",
-    "name": "hit 96.9 Goulburn Valley",
-    "stream_urls": [
-      "https://wz3liw.scahw.com.au/live/3sun_128.stream/playlist.m3u8"
-    ],
-    "country": "au",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
-    "nanoid": "U2INk4OYFmJI4g",
-    "name": "hit 97.9 Goldfields",
-    "stream_urls": [
-      "https://wz6liw.scahw.com.au/live/6kar_128.stream/playlist.m3u8"
-    ],
-    "country": "au",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
-    "nanoid": "yziGfOLS3MhBAl",
-    "name": "hit 97.9 Tablelands",
-    "stream_urls": [
-      "https://wz4liw.scahw.com.au/live/4amm_128.stream/playlist.m3u8"
-    ],
-    "country": "au",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
-    "nanoid": "v9ELQwV5vtd4bv",
-    "name": "hit 99.5 Sunraysia",
-    "stream_urls": [
-      "https://wz3liw.scahw.com.au/live/3mda_128.stream/playlist.m3u8"
-    ],
-    "country": "au",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
-    "nanoid": "KQNAqBqeGNSyAM",
-    "name": "hit 99.7 Carnarvon",
-    "stream_urls": [
-      "https://wz6liw.scahw.com.au/live/6car_128.stream/playlist.m3u8"
-    ],
-    "country": "au",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
-    "nanoid": "rIGw5StrhH8GTA",
-    "name": "hit 99.7 Riverina MIA",
-    "stream_urls": [
-      "https://wz2liw.scahw.com.au/live/2rgf_128.stream/playlist.m3u8"
-    ],
-    "country": "au",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
-    "nanoid": "hwQKqMvDecEcLG",
-    "name": "hit Central Queensland",
-    "stream_urls": [
-      "https://wz4liw.scahw.com.au/live/4rok_128.stream/playlist.m3u8"
-    ],
-    "country": "au",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
-    "nanoid": "FJdSaZmyhyuyUH",
-    "name": "hit Great Southern",
-    "stream_urls": [
-      "https://wz6liw.scahw.com.au/live/6nam_128.stream/playlist.m3u8"
-    ],
-    "country": "au",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
-    "nanoid": "azU4NMvns0mxVe",
-    "name": "hit Mackay and the Whitsundays",
-    "stream_urls": [
-      "https://wz4liw.scahw.com.au/live/4mky_128.stream/playlist.m3u8"
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/ARN_1047HITAAC.aac"
     ],
     "country": "au",
     "languages": [
@@ -4402,19 +3044,7 @@
     "nanoid": "EUABmAIpAKOP5v",
     "name": "hit Southwest",
     "stream_urls": [
-      "https://legacy.scahw.com.au/6bun_32",
-      "https://wz6liw.scahw.com.au/live/6bun_128.stream/playlist.m3u8"
-    ],
-    "country": "au",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
-    "nanoid": "R8ZWM0M1eh71V3",
-    "name": "hit WA",
-    "stream_urls": [
-      "https://wz6liw.scahw.com.au/live/6fms_128.stream/playlist.m3u8"
+      "https://legacy.scahw.com.au/6bun_32"
     ],
     "country": "au",
     "languages": [
@@ -4437,18 +3067,6 @@
     "name": "Hobart FM 96.1",
     "stream_urls": [
       "https://radio12.shoutcast.net.au:2020/stream/8032"
-    ],
-    "country": "au",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
-    "nanoid": "T23D1PZwI9GBgE",
-    "name": "Homegrown",
-    "stream_urls": [
-      "https://wz7liw.scahw.com.au/live/7homegrown_128.stream/playlist.m3u8",
-      "https://sa46.scastream.com.au/live/7homegrown_128.stream/playlist.m3u8"
     ],
     "country": "au",
     "languages": [
@@ -4483,19 +3101,7 @@
     "name": "Hot 91.1",
     "stream_urls": [
       "https://playerservices.streamtheworld.com/api/livestream-redirect/MAR_HOT91AAC.aac",
-      "https://playerservices.streamtheworld.com/api/livestream-redirect/MAR_HOT91.mp3",
-      "https://playerservices.streamtheworld.com/api/livestream-redirect/MAR_HOT91AAC.m3u8"
-    ],
-    "country": "au",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
-    "nanoid": "xjrGZO2Dz4vSym",
-    "name": "Hot Country",
-    "stream_urls": [
-      "https://sa46.scastream.com.au/live/hot-country.stream/playlist.m3u8"
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/MAR_HOT91.mp3"
     ],
     "country": "au",
     "languages": [
@@ -4514,43 +3120,10 @@
     ]
   },
   {
-    "nanoid": "mp6nz0zegT0WMh",
-    "name": "Hot Girl Walk",
-    "stream_urls": [
-      "https://wz0liw.scahw.com.au/live/hot-girl-walk.stream/playlist.m3u8"
-    ],
-    "country": "au",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
-    "nanoid": "Xt2xyFrv8B1nfu",
-    "name": "Hot Now",
-    "stream_urls": [
-      "https://sa47.scastream.com.au/live/hot-now.stream/playlist.m3u8"
-    ],
-    "country": "au",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
     "nanoid": "9Nwkt9N3N5T23O",
     "name": "Hottest Hits",
     "stream_urls": [
       "https://stream.zeno.fm/4g7rhtv2zf9uv"
-    ],
-    "country": "au",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
-    "nanoid": "BU2cbnPiZxGe6O",
-    "name": "Hype Yourself",
-    "stream_urls": [
-      "https://sa47.scastream.com.au/live/hype-yourself.stream/playlist.m3u8"
     ],
     "country": "au",
     "languages": [
@@ -4586,8 +3159,7 @@
     "name": "iHeartCountry Australia",
     "stream_urls": [
       "https://playerservices.streamtheworld.com/api/livestream-redirect/ARN_IHRT9AAC.aac",
-      "https://playerservices.streamtheworld.com/api/livestream-redirect/ARN_IHRT9.mp3",
-      "https://ais-arn.streamguys1.com/au_027/playlist.m3u8"
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/ARN_IHRT9.mp3"
     ],
     "country": "au",
     "languages": [
@@ -4623,41 +3195,6 @@
     "name": "IMC Country Radio",
     "stream_urls": [
       "https://servidor36.brlogic.com:7050/live"
-    ],
-    "country": "au",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
-    "nanoid": "bzAz6D7USiu1zl",
-    "name": "Indie & Alt",
-    "stream_urls": [
-      "https://sa46.scastream.com.au/live/7indieandalternative_128.stream/playlist.m3u8",
-      "https://wz7liw.scahw.com.au/live/7indieandalternative_128.stream/playlist.m3u8"
-    ],
-    "country": "au",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
-    "nanoid": "uxJekhYUSEUltJ",
-    "name": "Indie Pop",
-    "stream_urls": [
-      "https://wz0liw.scahw.com.au/live/indie-pop.stream/playlist.m3u8"
-    ],
-    "country": "au",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
-    "nanoid": "ZC5DsYiuCXPgqe",
-    "name": "Indigenous Australians",
-    "stream_urls": [
-      "https://wz7liw.scahw.com.au/live/7firstnations_128.stream/playlist.m3u8",
-      "https://sa46.scastream.com.au/live/7firstnations_128.stream/playlist.m3u8"
     ],
     "country": "au",
     "languages": [
@@ -4714,23 +3251,10 @@
     "name": "K Rock 95.5",
     "stream_urls": [
       "https://playerservices.streamtheworld.com/api/livestream-redirect/GEE_KROCKAAC.aac",
-      "https://playerservices.streamtheworld.com/api/livestream-redirect/GEE_KROCK.mp3",
-      "https://playerservices.streamtheworld.com/api/livestream-redirect/GEE_KROCKAAC.m3u8"
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/GEE_KROCK.mp3"
     ],
     "country": "au",
     "languages": [
-      "eng"
-    ]
-  },
-  {
-    "nanoid": "iuJL3utRZSJ53z",
-    "name": "K-Pop",
-    "stream_urls": [
-      "https://sa46.scastream.com.au/live/k-pop.stream/playlist.m3u8"
-    ],
-    "country": "au",
-    "languages": [
-      "kor",
       "eng"
     ]
   },
@@ -4740,28 +3264,6 @@
     "stream_urls": [
       "https://playerservices.streamtheworld.com/api/livestream-redirect/8KTRAAC.aac",
       "https://playerservices.streamtheworld.com/api/livestream-redirect/8KTR.mp3"
-    ],
-    "country": "au",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
-    "nanoid": "1kPidc1dOFx5hj",
-    "name": "Key Ingredient",
-    "stream_urls": [
-      "https://sa47.scastream.com.au/live/key-ingredient.stream/playlist.m3u8"
-    ],
-    "country": "au",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
-    "nanoid": "BkHJHvcgMPNKW2",
-    "name": "Kids Hits",
-    "stream_urls": [
-      "https://wz0liw.scahw.com.au/live/kids-hits.stream/playlist.m3u8"
     ],
     "country": "au",
     "languages": [
@@ -4833,12 +3335,10 @@
     ]
   },
   {
-    "nanoid": "67GYCHdSVUjAkX",
-    "name": "KIX Country",
+    "nanoid": "T2yNhQqG2Jx6hD",
+    "name": "KLFM",
     "stream_urls": [
-      "https://playerservices.streamtheworld.com/api/livestream-redirect/KIXCOUNTRYAAC.aac",
-      "https://playerservices.streamtheworld.com/api/livestream-redirect/KIXCOUNTRY.mp3",
-      "https://playerservices.streamtheworld.com/api/livestream-redirect/KIXCOUNTRYAAC.m3u8"
+      "https://streamer5.rightclickitservices.com:18006/aac"
     ],
     "country": "au",
     "languages": [
@@ -4860,8 +3360,8 @@
     "nanoid": "zCRjZmS5bJS3Hi",
     "name": "Koori Radio 93.7",
     "stream_urls": [
-      "https://playerservices.streamtheworld.com/api/livestream-redirect/2LNDAAC.aac",
-      "https://playerservices.streamtheworld.com/api/livestream-redirect/2LND.mp3"
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/2LND.mp3",
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/2LNDAAC.aac"
     ],
     "country": "au",
     "languages": [
@@ -4872,8 +3372,8 @@
     "nanoid": "3EcSYrPGKlCTZj",
     "name": "KRR 98.7 FM",
     "stream_urls": [
-      "https://playerservices.streamtheworld.com/api/livestream-redirect/2KRR.mp3",
-      "https://playerservices.streamtheworld.com/api/livestream-redirect/2KRRAAC.aac"
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/2KRRAAC.aac",
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/2KRR.mp3"
     ],
     "country": "au",
     "languages": [
@@ -4938,33 +3438,10 @@
     ]
   },
   {
-    "nanoid": "Brx28cQyvG7oYS",
-    "name": "Light Rain",
-    "stream_urls": [
-      "https://wz0liw.scahw.com.au/live/lightrain_128.stream/playlist.m3u8",
-      "https://sa46.scastream.com.au/live/lightrain_128.stream/playlist.m3u8"
-    ],
-    "country": "au",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
     "nanoid": "s1IavHbB7sxMm1",
     "name": "LIVE FM",
     "stream_urls": [
       "https://streams.radio.co/sce01123b8/listen"
-    ],
-    "country": "au",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
-    "nanoid": "94P7CdUI0laUNr",
-    "name": "Lofi Study Beats",
-    "stream_urls": [
-      "https://sa46.scastream.com.au/live/lo-fi.stream/playlist.m3u8"
     ],
     "country": "au",
     "languages": [
@@ -4996,32 +3473,10 @@
     ]
   },
   {
-    "nanoid": "eRpalRGkdypju6",
-    "name": "Magic 1278 AM",
-    "stream_urls": [
-      "https://wz3liw.scahw.com.au/live/3ee_128.stream/playlist.m3u8"
-    ],
-    "country": "au",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
     "nanoid": "vG3q2Yep4IsWMg",
     "name": "Magic 87.6",
     "stream_urls": [
       "https://az1.syd2.hostyourservices.au:8010/magic876"
-    ],
-    "country": "au",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
-    "nanoid": "AMKiXZq98ZonmR",
-    "name": "Main Character Energy",
-    "stream_urls": [
-      "https://wz0liw.scahw.com.au/live/main-character-energy.stream/playlist.m3u8"
     ],
     "country": "au",
     "languages": [
@@ -5101,65 +3556,7 @@
     "name": "Mix 106.3",
     "stream_urls": [
       "https://playerservices.streamtheworld.com/api/livestream-redirect/ARN_MIX1063AAC.aac",
-      "https://playerservices.streamtheworld.com/api/livestream-redirect/ARN_MIX1063.mp3",
-      "https://ais-arn.streamguys1.com/au_006/playlist.m3u8"
-    ],
-    "country": "au",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
-    "nanoid": "c7LtNP5s0vJm1J",
-    "name": "Mix 94.5",
-    "stream_urls": [
-      "https://wz6liw.scahw.com.au/live/6mix_128.stream/playlist.m3u8"
-    ],
-    "country": "au",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
-    "nanoid": "AB5p3IN0XNYuzR",
-    "name": "Mixx FM",
-    "stream_urls": [
-      "https://wz3liw.scahw.com.au/live/3ccs_128.stream/playlist.m3u8",
-      "https://wz3liw.scahw.com.au/live/3hfm_128.stream/playlist.m3u8",
-      "https://wz3liw.scahw.com.au/live/3wwm_128.stream/playlist.m3u8"
-    ],
-    "country": "au",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
-    "nanoid": "h2PjQm7xDFBK0b",
-    "name": "Modern Classics",
-    "stream_urls": [
-      "https://sa46.scastream.com.au/live/modern-classics.stream/playlist.m3u8"
-    ],
-    "country": "au",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
-    "nanoid": "Tkjy7iPHrIU98L",
-    "name": "Morning Yoga",
-    "stream_urls": [
-      "https://sa47.scastream.com.au/live/morning-yoga.stream/playlist.m3u8"
-    ],
-    "country": "au",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
-    "nanoid": "rVuygFdvP8FCd0",
-    "name": "Movie Hits",
-    "stream_urls": [
-      "https://wz0liw.scahw.com.au/live/movie-hits.stream/playlist.m3u8"
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/ARN_MIX1063.mp3"
     ],
     "country": "au",
     "languages": [
@@ -5244,17 +3641,6 @@
     ]
   },
   {
-    "nanoid": "sHS9m8xx8Icy4I",
-    "name": "NIGE!",
-    "stream_urls": [
-      "https://ais-arn.streamguys1.com/au_030/playlist.m3u8"
-    ],
-    "country": "au",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
     "nanoid": "mAaWA9HWZyUdyu",
     "name": "Nightride FM",
     "stream_urls": [
@@ -5291,8 +3677,8 @@
     "nanoid": "u1GVY64DeEj5dh",
     "name": "Noosa FM 101.3",
     "stream_urls": [
-      "https://28803.live.streamtheworld.com/4NSA_ICECAST.mp3",
-      "https://playerservices.streamtheworld.com/api/livestream-redirect/4NSA_ICECAST.mp3"
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/4NSA_ICECAST.mp3",
+      "https://28803.live.streamtheworld.com/4NSA_ICECAST.mp3"
     ],
     "country": "au",
     "languages": [
@@ -5323,29 +3709,6 @@
     ]
   },
   {
-    "nanoid": "A94yWB31j6yNRV",
-    "name": "Noughties",
-    "stream_urls": [
-      "https://sa46.scastream.com.au/live/7noughties_128.stream/playlist.m3u8",
-      "https://wz7liw.scahw.com.au/live/7noughties_128.stream/playlist.m3u8"
-    ],
-    "country": "au",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
-    "nanoid": "30F6hBL0PpImBI",
-    "name": "Noughties Hip-Hop & RnB",
-    "stream_urls": [
-      "https://sa47.scastream.com.au/live/noughties-hiphop.stream/playlist.m3u8"
-    ],
-    "country": "au",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
     "nanoid": "UuHjkIEh7oSG4n",
     "name": "Nova (Taylor's Version)",
     "stream_urls": [
@@ -5361,9 +3724,10 @@
     "nanoid": "0nVKe92lsAk91k",
     "name": "Nova 100",
     "stream_urls": [
-      "https://playerservices.streamtheworld.com/api/livestream-redirect/NOVA_100_AAC48.aac",
       "https://playerservices.streamtheworld.com/api/livestream-redirect/NOVA_100_AAC128.aac",
-      "https://playerservices.streamtheworld.com/api/livestream-redirect/NOVA_100_AAC320.aac"
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/NOVA_100_AAC320.aac",
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/NOVA_100.mp3",
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/NOVA_100_AAC48.aac"
     ],
     "country": "au",
     "languages": [
@@ -5376,7 +3740,8 @@
     "stream_urls": [
       "https://playerservices.streamtheworld.com/api/livestream-redirect/NOVA_1069_AAC48.aac",
       "https://playerservices.streamtheworld.com/api/livestream-redirect/NOVA_1069_AAC128.aac",
-      "https://playerservices.streamtheworld.com/api/livestream-redirect/NOVA_1069_AAC320.aac"
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/NOVA_1069_AAC320.aac",
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/NOVA_1069.mp3"
     ],
     "country": "au",
     "languages": [
@@ -5387,9 +3752,10 @@
     "nanoid": "eiujlGhDGZlQWu",
     "name": "Nova 91.9",
     "stream_urls": [
-      "https://23203.live.streamtheworld.com/NOVA_919_AAC48.aac",
       "https://playerservices.streamtheworld.com/api/livestream-redirect/NOVA_919_AAC48.aac",
-      "https://playerservices.streamtheworld.com/api/livestream-redirect/NOVA_919_AAC128.aac"
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/NOVA_919_AAC128.aac",
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/NOVA_919_AAC320.aac",
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/NOVA_919.mp3"
     ],
     "country": "au",
     "languages": [
@@ -5402,7 +3768,8 @@
     "stream_urls": [
       "https://playerservices.streamtheworld.com/api/livestream-redirect/NOVA_937_AAC48.aac",
       "https://playerservices.streamtheworld.com/api/livestream-redirect/NOVA_937_AAC128.aac",
-      "https://playerservices.streamtheworld.com/api/livestream-redirect/NOVA_937_AAC320.aac"
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/NOVA_937_AAC320.aac",
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/NOVA_937.mp3"
     ],
     "country": "au",
     "languages": [
@@ -5415,7 +3782,8 @@
     "stream_urls": [
       "https://playerservices.streamtheworld.com/api/livestream-redirect/NOVA_969_AAC48.aac",
       "https://playerservices.streamtheworld.com/api/livestream-redirect/NOVA_969_AAC128.aac",
-      "https://playerservices.streamtheworld.com/api/livestream-redirect/NOVA_969_AAC320.aac"
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/NOVA_969_AAC320.aac",
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/NOVA_969.mp3"
     ],
     "country": "au",
     "languages": [
@@ -5428,7 +3796,8 @@
     "stream_urls": [
       "https://playerservices.streamtheworld.com/api/livestream-redirect/NOVA_ALL_STARS_AAC128.aac",
       "https://playerservices.streamtheworld.com/api/livestream-redirect/NOVA_ALL_STARS_AAC320.aac",
-      "https://playerservices.streamtheworld.com/api/livestream-redirect/NOVA_ALL_STARS_AAC48.aac"
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/NOVA_ALL_STARS_AAC48.aac",
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/NOVA_ALL_STARS.mp3"
     ],
     "country": "au",
     "languages": [
@@ -5453,7 +3822,8 @@
     "stream_urls": [
       "https://playerservices.streamtheworld.com/api/livestream-redirect/NOVA_JAMZ_AAC128.aac",
       "https://playerservices.streamtheworld.com/api/livestream-redirect/NOVA_JAMZ_AAC320.aac",
-      "https://playerservices.streamtheworld.com/api/livestream-redirect/NOVA_JAMZ_AAC48.aac"
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/NOVA_JAMZ_AAC48.aac",
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/NOVA_JAMZ.mp3"
     ],
     "country": "au",
     "languages": [
@@ -5466,7 +3836,8 @@
     "stream_urls": [
       "https://playerservices.streamtheworld.com/api/livestream-redirect/NOVA_NATION_SYDNEY_AAC128.aac",
       "https://playerservices.streamtheworld.com/api/livestream-redirect/NOVA_NATION_SYDNEY_AAC320.aac",
-      "https://playerservices.streamtheworld.com/api/livestream-redirect/NOVA_NATION_SYDNEY_AAC.aac"
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/NOVA_NATION_SYDNEY_AAC.aac",
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/NOVA_NATION_SYDNEY.mp3"
     ],
     "country": "au",
     "languages": [
@@ -5479,18 +3850,8 @@
     "stream_urls": [
       "https://playerservices.streamtheworld.com/api/livestream-redirect/NOVA_THROWBACK_AAC128.aac",
       "https://playerservices.streamtheworld.com/api/livestream-redirect/NOVA_THROWBACK_AAC320.aac",
-      "https://playerservices.streamtheworld.com/api/livestream-redirect/NOVA_THROWBACK_AAC.aac"
-    ],
-    "country": "au",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
-    "nanoid": "HrN1jTgz1yUd4e",
-    "name": "Number 1s",
-    "stream_urls": [
-      "https://wz0liw.scahw.com.au/live/number-1s.stream/playlist.m3u8"
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/NOVA_THROWBACK_AAC.aac",
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/NOVA_THROWBACK.mp3"
     ],
     "country": "au",
     "languages": [
@@ -5513,17 +3874,6 @@
     "name": "OCR FM",
     "stream_urls": [
       "https://stream.mjm-webhosting.com.au:8310/stream"
-    ],
-    "country": "au",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
-    "nanoid": "K3VIBck21WwFNI",
-    "name": "Oldskool 90s Hits",
-    "stream_urls": [
-      "https://wz2liw.scahw.com.au/live/2oldskool_128.stream/playlist.m3u8"
     ],
     "country": "au",
     "languages": [
@@ -5579,29 +3929,6 @@
     "name": "Paradise FM 101.9",
     "stream_urls": [
       "https://stream2.cnmns.net/paradisefm-mp3"
-    ],
-    "country": "au",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
-    "nanoid": "uylQDK89lz4Um5",
-    "name": "Party",
-    "stream_urls": [
-      "https://wz0liw.scahw.com.au/live/party_128.stream/playlist.m3u8",
-      "https://sa46.scastream.com.au/live/party.stream/playlist.m3u8"
-    ],
-    "country": "au",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
-    "nanoid": "wtzzDCPL3B9rAb",
-    "name": "Passenger Princess",
-    "stream_urls": [
-      "https://wz0liw.scahw.com.au/live/passenger-princess.stream/playlist.m3u8"
     ],
     "country": "au",
     "languages": [
@@ -5682,39 +4009,6 @@
     ]
   },
   {
-    "nanoid": "a0bvf9hZcjZsRF",
-    "name": "Pool Party",
-    "stream_urls": [
-      "https://wz0liw.scahw.com.au/live/pool-party.stream/playlist.m3u8"
-    ],
-    "country": "au",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
-    "nanoid": "5ubNKxYuccgpwy",
-    "name": "Pop 101",
-    "stream_urls": [
-      "https://wz0liw.scahw.com.au/live/pop-101.stream/playlist.m3u8"
-    ],
-    "country": "au",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
-    "nanoid": "wHklpyV8gcpcmu",
-    "name": "Pop UK",
-    "stream_urls": [
-      "https://sa47.scastream.com.au/live/pop-uk.stream/playlist.m3u8"
-    ],
-    "country": "au",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
     "nanoid": "DhwDEb9gVhyTfZ",
     "name": "Port Stephens FM",
     "stream_urls": [
@@ -5763,20 +4057,9 @@
     "nanoid": "eNnNg1Q9nqPnju",
     "name": "Power100",
     "stream_urls": [
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/TOW_POWER100.mp3",
       "https://playerservices.streamtheworld.com/api/livestream-redirect/TOW_POWER100AAC.aac",
-      "https://playerservices.streamtheworld.com/api/livestream-redirect/TOW_POWER100AAC_SC",
-      "https://playerservices.streamtheworld.com/api/livestream-redirect/TOW_POWER100.mp3"
-    ],
-    "country": "au",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
-    "nanoid": "ZCRAUSfNmLLBq3",
-    "name": "Pride",
-    "stream_urls": [
-      "https://sa47.scastream.com.au/live/pride.stream/playlist.m3u8"
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/TOW_POWER100AAC_SC"
     ],
     "country": "au",
     "languages": [
@@ -5791,29 +4074,6 @@
     ],
     "country": "au",
     "languages": [
-      "eng"
-    ]
-  },
-  {
-    "nanoid": "VxOlX0cVVH3CIU",
-    "name": "Pump Up",
-    "stream_urls": [
-      "https://wz0liw.scahw.com.au/live/pump-up.stream/playlist.m3u8"
-    ],
-    "country": "au",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
-    "nanoid": "BnhYuGzPyxS9ED",
-    "name": "Punjabi Icons",
-    "stream_urls": [
-      "https://sa47.scastream.com.au/live/punjabi-icons.stream/playlist.m3u8"
-    ],
-    "country": "au",
-    "languages": [
-      "pan",
       "eng"
     ]
   },
@@ -5905,20 +4165,8 @@
     "stream_urls": [
       "https://azure.bullantcomm.com:8030/HD",
       "https://azure.bullantcomm.com:8030/Mobile",
-      "https://azure.bullantcomm.com:8030/SD"
-    ],
-    "country": "au",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
-    "nanoid": "xqTZVAFD0qoWBb",
-    "name": "Radio 567",
-    "stream_urls": [
-      "https://us01.xrn.com.au:8020/R567Sd",
-      "https://us01.xrn.com.au:8020/R567Ld",
-      "https://us01.xrn.com.au:8020/R567Hd"
+      "https://azure.bullantcomm.com:8030/SD",
+      "https://azure.bullantcomm.com:8030/Transmission"
     ],
     "country": "au",
     "languages": [
@@ -6119,46 +4367,11 @@
     ]
   },
   {
-    "nanoid": "3c3vgZ71AUdVoO",
-    "name": "Rainforest",
-    "stream_urls": [
-      "https://wz0liw.scahw.com.au/live/rainforest_128.stream/playlist.m3u8",
-      "https://sa47.scastream.com.au/live/rainforest_128.stream/playlist.m3u8"
-    ],
-    "country": "au",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
     "nanoid": "aF5DNCL1iT7oAv",
     "name": "RAMfm 103.3",
     "stream_urls": [
       "https://playerservices.streamtheworld.com/api/livestream-redirect/2GCRAAC.aac",
       "https://playerservices.streamtheworld.com/api/livestream-redirect/2GCR.mp3"
-    ],
-    "country": "au",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
-    "nanoid": "iyhjXRq5BqUlqm",
-    "name": "Rap Revolution",
-    "stream_urls": [
-      "https://wz0liw.scahw.com.au/live/rap-revolution.stream/playlist.m3u8",
-      "https://sa47.scastream.com.au/live/rap-revolution.stream/playlist.m3u8"
-    ],
-    "country": "au",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
-    "nanoid": "dFgslPpDdmWMRG",
-    "name": "Rap Royalty",
-    "stream_urls": [
-      "https://sa46.scastream.com.au/live/rap-royalty.stream/playlist.m3u8"
     ],
     "country": "au",
     "languages": [
@@ -6188,12 +4401,25 @@
     ]
   },
   {
+    "nanoid": "Ka6zueXngsciVy",
+    "name": "REALRADIO Australia",
+    "stream_urls": [
+      "https://stream.zeno.fm/9bfsckh4dkhvv"
+    ],
+    "country": "au",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
     "nanoid": "X3Sy7BCA7WLZh6",
     "name": "Rebel FM",
     "stream_urls": [
       "https://s8.yesstreaming.net:17145/RblGC_hq",
       "https://s8.yesstreaming.net:17099/RblLgn",
-      "https://s8.yesstreaming.net:17099/RblCNQ"
+      "https://s8.yesstreaming.net:17099/RblCNQ",
+      "https://s8.yesstreaming.net:17099/RblDD",
+      "https://s8.yesstreaming.net:17099/RblWB"
     ],
     "country": "au",
     "languages": [
@@ -6316,9 +4542,8 @@
     "nanoid": "32Je6Fs1PQvYM5",
     "name": "River 949",
     "stream_urls": [
-      "https://22963.live.streamtheworld.com/IPS_RIVER949AAC_SC",
       "https://playerservices.streamtheworld.com/api/livestream-redirect/IPS_RIVER949AAC.aac",
-      "https://playerservices.streamtheworld.com/api/livestream-redirect/IPS_RIVER949AAC.m3u8"
+      "https://22963.live.streamtheworld.com/IPS_RIVER949AAC_SC"
     ],
     "country": "au",
     "languages": [
@@ -6331,52 +4556,6 @@
     "stream_urls": [
       "https://audio-edge-d34v9.syd.o.radiomast.io/2317de18-b1e4-4472-bc63-366b1d785252",
       "https://streams.radiomast.io/2317de18-b1e4-4472-bc63-366b1d785252"
-    ],
-    "country": "au",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
-    "nanoid": "lJ6rdSHq0kSKx4",
-    "name": "RnB Chill",
-    "stream_urls": [
-      "https://wz0liw.scahw.com.au/live/rnb-chill.stream/playlist.m3u8",
-      "https://sa47.scastream.com.au/live/rnb-chill.stream/playlist.m3u8"
-    ],
-    "country": "au",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
-    "nanoid": "fHGhQRAKaOXXfl",
-    "name": "RnB Fridays Radio",
-    "stream_urls": [
-      "https://wz2liw.scahw.com.au/live/2rnbfridays_128.stream/playlist.m3u8"
-    ],
-    "country": "au",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
-    "nanoid": "uVI4nTBpBKADPa",
-    "name": "Rock 'n' Road Trip",
-    "stream_urls": [
-      "https://wz7liw.scahw.com.au/live/7rocknroadtrip_128.stream/playlist.m3u8",
-      "https://sa47.scastream.com.au/live/7rocknroadtrip_128.stream/playlist.m3u8"
-    ],
-    "country": "au",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
-    "nanoid": "kJdY8znzxe8ara",
-    "name": "Rock 101",
-    "stream_urls": [
-      "https://sa47.scastream.com.au/live/rock-101.stream/playlist.m3u8"
     ],
     "country": "au",
     "languages": [
@@ -6417,10 +4596,10 @@
     ]
   },
   {
-    "nanoid": "zccEXB4tlETtqW",
-    "name": "RomCom",
+    "nanoid": "Gah5A65UVCvGPb",
+    "name": "ROQ FM",
     "stream_urls": [
-      "https://wz0liw.scahw.com.au/live/romcom.stream/playlist.m3u8"
+      "https://cast4.asurahosting.com/proxy/exaltmed/stream"
     ],
     "country": "au",
     "languages": [
@@ -6473,18 +4652,6 @@
     ]
   },
   {
-    "nanoid": "KKhaLZvZAupvUR",
-    "name": "Run Club",
-    "stream_urls": [
-      "https://wz0liw.scahw.com.au/live/run-club.stream/playlist.m3u8",
-      "https://sa47.scastream.com.au/live/run-club.stream/playlist.m3u8"
-    ],
-    "country": "au",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
     "nanoid": "InKvdxMPO5bq5p",
     "name": "Rust Radio",
     "stream_urls": [
@@ -6529,28 +4696,6 @@
     ]
   },
   {
-    "nanoid": "LqbCxKEWnmBEAK",
-    "name": "SAFM 96.1 Limestone Coast",
-    "stream_urls": [
-      "https://wz5liw.scahw.com.au/live/5sef_128.stream/playlist.m3u8"
-    ],
-    "country": "au",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
-    "nanoid": "6qG00b2HOBOdBS",
-    "name": "SAFM Adelaide",
-    "stream_urls": [
-      "https://wz5liw.scahw.com.au/live/5ssa_128.stream/playlist.m3u8"
-    ],
-    "country": "au",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
     "nanoid": "re6RBJ8RLh5VIr",
     "name": "Samadhi HiFI",
     "stream_urls": [
@@ -6581,17 +4726,6 @@
     "country": "au",
     "languages": [
       "eng"
-    ]
-  },
-  {
-    "nanoid": "mk8QyKkfJc8p4F",
-    "name": "Sawt Sydney Radio",
-    "stream_urls": [
-      "https://usa10.fastcast4u.com/nada22"
-    ],
-    "country": "au",
-    "languages": [
-      "ara"
     ]
   },
   {
@@ -6641,53 +4775,6 @@
     "name": "SBS Radio 1",
     "stream_urls": [
       "https://sbs-ice.streamguys1.com/sbs1-sbs-web"
-    ],
-    "country": "au",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
-    "nanoid": "AHuM5yrn6sduTc",
-    "name": "SBS Radio 2",
-    "stream_urls": [
-      "https://sbs-hls.streamguys1.com/hls/sbs2/playlist.m3u8"
-    ],
-    "country": "au",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
-    "nanoid": "vZYLhKg3BYSNkI",
-    "name": "SBS Radio 3",
-    "stream_urls": [
-      "https://sbs-hls.streamguys1.com/hls/sbs3/playlist.m3u8"
-    ],
-    "country": "au",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
-    "nanoid": "HSU1ntwWpZs7yI",
-    "name": "SBS South Asian",
-    "stream_urls": [
-      "https://sbs-hls.streamguys1.com/hls/popdesi/playlist.m3u8"
-    ],
-    "country": "au",
-    "languages": [
-      "hin",
-      "pan",
-      "guj",
-      "ben"
-    ]
-  },
-  {
-    "nanoid": "Uk8Sdvzu1DmQWe",
-    "name": "Sea FM 90.9",
-    "stream_urls": [
-      "https://wz4liw.scahw.com.au/live/4sea_128.stream/playlist.m3u8"
     ],
     "country": "au",
     "languages": [
@@ -6751,23 +4838,13 @@
     ]
   },
   {
-    "nanoid": "jTCqSncLIBQLas",
-    "name": "Sleep",
-    "stream_urls": [
-      "https://wz0lic.scahw.com.au/live/sleep.stream/playlist.m3u8"
-    ],
-    "country": "au",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
     "nanoid": "x6FagfZPPeaMjZ",
     "name": "Smooth 80s",
     "stream_urls": [
       "https://playerservices.streamtheworld.com/api/livestream-redirect/SMOOTH_80S_AAC128.aac",
       "https://playerservices.streamtheworld.com/api/livestream-redirect/SMOOTH_80S_AAC320.aac",
-      "https://playerservices.streamtheworld.com/api/livestream-redirect/SMOOTH_80S_AAC.aac"
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/SMOOTH_80S_AAC.aac",
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/SMOOTH_80S.mp3"
     ],
     "country": "au",
     "languages": [
@@ -6791,7 +4868,8 @@
     "stream_urls": [
       "https://playerservices.streamtheworld.com/api/livestream-redirect/SMOOTH915_AAC48.aac",
       "https://playerservices.streamtheworld.com/api/livestream-redirect/SMOOTH915_AAC128.aac",
-      "https://playerservices.streamtheworld.com/api/livestream-redirect/SMOOTH915_AAC320.aac"
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/SMOOTH915_AAC320.aac",
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/SMOOTH915.mp3"
     ],
     "country": "au",
     "languages": [
@@ -6804,7 +4882,8 @@
     "stream_urls": [
       "https://playerservices.streamtheworld.com/api/livestream-redirect/SMOOTH953_AAC48.aac",
       "https://playerservices.streamtheworld.com/api/livestream-redirect/SMOOTH953_AAC128.aac",
-      "https://playerservices.streamtheworld.com/api/livestream-redirect/SMOOTH953_AAC320.aac"
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/SMOOTH953_AAC320.aac",
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/SMOOTH953.mp3"
     ],
     "country": "au",
     "languages": [
@@ -6817,7 +4896,8 @@
     "stream_urls": [
       "https://playerservices.streamtheworld.com/api/livestream-redirect/SMOOTH_ADELAIDE_AAC128.aac",
       "https://playerservices.streamtheworld.com/api/livestream-redirect/SMOOTH_ADELAIDE_AAC320.aac",
-      "https://playerservices.streamtheworld.com/api/livestream-redirect/SMOOTH_ADELAIDE_AAC48.aac"
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/SMOOTH_ADELAIDE_AAC48.aac",
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/SMOOTH_ADELAIDE.mp3"
     ],
     "country": "au",
     "languages": [
@@ -6830,7 +4910,8 @@
     "stream_urls": [
       "https://playerservices.streamtheworld.com/api/livestream-redirect/SMOOTH_BRISBANE_AAC128.aac",
       "https://playerservices.streamtheworld.com/api/livestream-redirect/SMOOTH_BRISBANE_AAC320.aac",
-      "https://playerservices.streamtheworld.com/api/livestream-redirect/SMOOTH_BRISBANE_AAC48.aac"
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/SMOOTH_BRISBANE_AAC48.aac",
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/SMOOTH_BRISBANE.mp3"
     ],
     "country": "au",
     "languages": [
@@ -6843,7 +4924,8 @@
     "stream_urls": [
       "https://playerservices.streamtheworld.com/api/livestream-redirect/SMOOTH_PERTH_AAC128.aac",
       "https://playerservices.streamtheworld.com/api/livestream-redirect/SMOOTH_PERTH_AAC320.aac",
-      "https://playerservices.streamtheworld.com/api/livestream-redirect/SMOOTH_PERTH_AAC48.aac"
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/SMOOTH_PERTH_AAC48.aac",
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/SMOOTH_PERTH.mp3"
     ],
     "country": "au",
     "languages": [
@@ -6856,7 +4938,8 @@
     "stream_urls": [
       "https://playerservices.streamtheworld.com/api/livestream-redirect/SMOOTHRELAX_SYD_AAC128.aac",
       "https://playerservices.streamtheworld.com/api/livestream-redirect/SMOOTHRELAX_SYD_AAC320.aac",
-      "https://playerservices.streamtheworld.com/api/livestream-redirect/SMOOTHRELAX_SYD_AAC.aac"
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/SMOOTHRELAX_SYD_AAC.aac",
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/SMOOTHRELAX_SYD.mp3"
     ],
     "country": "au",
     "languages": [
@@ -6880,7 +4963,8 @@
     "stream_urls": [
       "https://playerservices.streamtheworld.com/api/livestream-redirect/SMOOTHVINTAGE_SYD_AAC128.aac",
       "https://playerservices.streamtheworld.com/api/livestream-redirect/SMOOTHVINTAGE_SYD_AAC320.aac",
-      "https://playerservices.streamtheworld.com/api/livestream-redirect/SMOOTHVINTAGE_SYD_AAC.aac"
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/SMOOTHVINTAGE_SYD_AAC.aac",
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/SMOOTHVINTAGE_SYD.mp3"
     ],
     "country": "au",
     "languages": [
@@ -6904,17 +4988,6 @@
     "name": "Snow FM 97.7",
     "stream_urls": [
       "https://playerservices.streamtheworld.com/api/livestream-redirect/SNOW_FMAAC.aac"
-    ],
-    "country": "au",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
-    "nanoid": "vFc0uQkoZopMpw",
-    "name": "Soft Rock",
-    "stream_urls": [
-      "https://wz0liw.scahw.com.au/live/soft-rock.stream/playlist.m3u8"
     ],
     "country": "au",
     "languages": [
@@ -6955,17 +5028,6 @@
     ]
   },
   {
-    "nanoid": "xN1vfshTA7IwV3",
-    "name": "Soul Disco",
-    "stream_urls": [
-      "https://sa46.scastream.com.au/live/soul-disco.stream/playlist.m3u8"
-    ],
-    "country": "au",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
     "nanoid": "zCBYMb3vleGmqE",
     "name": "Southern FM 88.3",
     "stream_urls": [
@@ -6988,21 +5050,9 @@
     ]
   },
   {
-    "nanoid": "XtoLifuGWCmuOA",
-    "name": "SSR1",
-    "stream_urls": [
-      "https://systrum.net:8443/SSR1"
-    ],
-    "country": "au",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
     "nanoid": "gPUMtZAkNchBRw",
     "name": "STA FM 91.9",
     "stream_urls": [
-      "https://23163.live.streamtheworld.com/2STA.mp3",
       "https://playerservices.streamtheworld.com/api/livestream-redirect/2STAAAC.aac",
       "https://playerservices.streamtheworld.com/api/livestream-redirect/2STA.mp3"
     ],
@@ -7041,7 +5091,8 @@
     "stream_urls": [
       "https://playerservices.streamtheworld.com/api/livestream-redirect/STARFM_AAC48.aac",
       "https://playerservices.streamtheworld.com/api/livestream-redirect/STARFM_AAC128.aac",
-      "https://playerservices.streamtheworld.com/api/livestream-redirect/STARFM_AAC320.aac"
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/STARFM_AAC320.aac",
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/STARFM.mp3"
     ],
     "country": "au",
     "languages": [
@@ -7053,8 +5104,7 @@
     "name": "Star 106.3",
     "stream_urls": [
       "https://playerservices.streamtheworld.com/api/livestream-redirect/TOW_STAR1063AAC.aac",
-      "https://playerservices.streamtheworld.com/api/livestream-redirect/TOW_STAR1063.mp3",
-      "https://playerservices.streamtheworld.com/api/livestream-redirect/TOW_STAR1063AAC.m3u8"
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/TOW_STAR1063.mp3"
     ],
     "country": "au",
     "languages": [
@@ -7088,21 +5138,7 @@
     "nanoid": "3ustNr7b2lUBXY",
     "name": "Station X",
     "stream_urls": [
-      "https://us01.xrn.com.au/listen/stx/StxSd",
-      "https://us01.xrn.com.au:8000/StxSd",
-      "https://us01.xrn.com.au:8000/StxLd"
-    ],
-    "country": "au",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
-    "nanoid": "ifMvPYGMugli9p",
-    "name": "Stress Free",
-    "stream_urls": [
-      "https://wz7liw.scahw.com.au/live/7stressfree_128.stream/playlist.m3u8",
-      "https://sa47.scastream.com.au/live/7stressfree_128.stream/playlist.m3u8"
+      "https://us01.xrn.com.au/listen/stx/StxSd"
     ],
     "country": "au",
     "languages": [
@@ -7113,9 +5149,9 @@
     "nanoid": "qM0Xmw7SWAgthI",
     "name": "Sunshine FM 104.9",
     "stream_urls": [
-      "https://23153.live.streamtheworld.com/4SFMAAC.aac",
-      "https://playerservices.streamtheworld.com/api/livestream-redirect/4SFM_SC",
-      "https://playerservices.streamtheworld.com/api/livestream-redirect/4SFMAAC.aac"
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/4SFMAAC.aac",
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/4SFM.mp3",
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/4SFM_SC"
     ],
     "country": "au",
     "languages": [
@@ -7179,17 +5215,6 @@
     ]
   },
   {
-    "nanoid": "2e3mNy7RpHxoBP",
-    "name": "Switch 1197",
-    "stream_urls": [
-      "https://23203.live.streamtheworld.com/4YBICEAAC.aac"
-    ],
-    "country": "au",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
     "nanoid": "RqQ57ot8IpHpgI",
     "name": "SWR 99.9 FM",
     "stream_urls": [
@@ -7205,20 +5230,7 @@
     "nanoid": "6PCdIvWQjThHIr",
     "name": "SYN 90.7",
     "stream_urls": [
-      "https://23093.live.streamtheworld.com/3SYN.mp3",
-      "https://28893.live.streamtheworld.com:443/3SYNAAC_SC",
-      "https://28863.live.streamtheworld.com:443/3SYNAAC_SC"
-    ],
-    "country": "au",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
-    "nanoid": "Gnh9S8aphmCYm5",
-    "name": "Systrum Sistum SSR2",
-    "stream_urls": [
-      "https://systrum.net:8443/SSR2"
+      "https://23093.live.streamtheworld.com/3SYN.mp3"
     ],
     "country": "au",
     "languages": [
@@ -7287,7 +5299,9 @@
     "stream_urls": [
       "https://s8.yesstreaming.net:17065/BrzCNQ",
       "https://s8.yesstreaming.net:17065/BrzDD",
-      "https://s8.yesstreaming.net:17065/BrzGC"
+      "https://s8.yesstreaming.net:17065/BrzGC",
+      "https://s8.yesstreaming.net:17065/BrzMNC",
+      "https://s8.yesstreaming.net:17065/BrzLgn"
     ],
     "country": "au",
     "languages": [
@@ -7396,18 +5410,6 @@
     ]
   },
   {
-    "nanoid": "qWhfGYkA6C1HgQ",
-    "name": "Top 30",
-    "stream_urls": [
-      "https://wz7liw.scahw.com.au/live/7top30_128.stream/playlist.m3u8",
-      "https://sa47.scastream.com.au/live/7top30_128.stream/playlist.m3u8"
-    ],
-    "country": "au",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
     "nanoid": "msLUIVDEzAmD49",
     "name": "Totally Radio",
     "stream_urls": [
@@ -7422,9 +5424,9 @@
     "nanoid": "vWpK7lqEuxD5W5",
     "name": "Totally Radio 00s",
     "stream_urls": [
-      "https://playerservices.streamtheworld.com/api/livestream-redirect/T_RAD_00S_S01AAC_SC",
       "https://playerservices.streamtheworld.com/api/livestream-redirect/T_RAD_00S_S01AAC.aac",
-      "https://playerservices.streamtheworld.com/api/livestream-redirect/T_RAD_00S_S01.mp3"
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/T_RAD_00S_S01.mp3",
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/T_RAD_00S_S01AAC_SC"
     ],
     "country": "au",
     "languages": [
@@ -7524,17 +5526,6 @@
     ]
   },
   {
-    "nanoid": "OHf5gFGPVixmdB",
-    "name": "Totally Radio Pop",
-    "stream_urls": [
-      "https://playerservices.streamtheworld.com/api/livestream-redirect/T_RAD_POP_S01.mp3"
-    ],
-    "country": "au",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
     "nanoid": "YPfpoorBO3gRSC",
     "name": "Totally Radio Rock",
     "stream_urls": [
@@ -7574,29 +5565,6 @@
     "stream_urls": [
       "https://stream.zeno.fm/5z3f8h42c48uv",
       "https://stream.zeno.fm/gker4h42c48uv"
-    ],
-    "country": "au",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
-    "nanoid": "APzLbXy1VGPFRK",
-    "name": "Trending Now",
-    "stream_urls": [
-      "https://wz7liw.scahw.com.au/live/7trendingnow_128.stream/playlist.m3u8",
-      "https://sa47.scastream.com.au/live/7trendingnow_128.stream/playlist.m3u8"
-    ],
-    "country": "au",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
-    "nanoid": "G5yvjkwrqOvus0",
-    "name": "TRFM",
-    "stream_urls": [
-      "https://wz3liw.scahw.com.au/live/3tfm_128.stream/playlist.m3u8"
     ],
     "country": "au",
     "languages": [
@@ -7673,39 +5641,6 @@
     ]
   },
   {
-    "nanoid": "YHG29cbH4RSpwV",
-    "name": "triple j Hottest",
-    "stream_urls": [
-      "https://mediaserviceslive.akamaized.net/hls/live/2100183/triplejhottest/masterhq.m3u8"
-    ],
-    "country": "au",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
-    "nanoid": "4NJ5CUtKdwiAca",
-    "name": "Triple M 2000s",
-    "stream_urls": [
-      "https://wz2liw.scahw.com.au/live/22000s_128.stream/playlist.m3u8"
-    ],
-    "country": "au",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
-    "nanoid": "u9BTDRX4K4zzn0",
-    "name": "Triple M 666 AM",
-    "stream_urls": [
-      "https://wz6liw.scahw.com.au/live/6ln_128.stream/playlist.m3u8"
-    ],
-    "country": "au",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
     "nanoid": "hNG7SKveRPShqf",
     "name": "Triple M 80s",
     "stream_urls": [
@@ -7731,85 +5666,7 @@
     "nanoid": "7taTc7bsGRjoVd",
     "name": "Triple M Adelaide 104.7",
     "stream_urls": [
-      "https://legacy.scahw.com.au/5mmm_32",
-      "https://wz5liw.scahw.com.au/live/5mmm_128.stream/playlist.m3u8"
-    ],
-    "country": "au",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
-    "nanoid": "oi5hQu390g3ydt",
-    "name": "Triple M Brisbane 104.5",
-    "stream_urls": [
-      "https://wz4liw.scahw.com.au/live/4mmm_128.stream/playlist.m3u8"
-    ],
-    "country": "au",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
-    "nanoid": "ttD0pnVXigJ0M8",
-    "name": "Triple M Bundy 93.1",
-    "stream_urls": [
-      "https://wz4liw.scahw.com.au/live/4rgb_128.stream/playlist.m3u8"
-    ],
-    "country": "au",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
-    "nanoid": "YrYT0iBkhKj24Y",
-    "name": "Triple M Classic Rock",
-    "stream_urls": [
-      "https://wz2liw.scahw.com.au/live/2classicrock_128.stream/playlist.m3u8"
-    ],
-    "country": "au",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
-    "nanoid": "P6vbYLEdwYcFpw",
-    "name": "Triple M Fraser Coast 103.5",
-    "stream_urls": [
-      "https://wz4liw.scahw.com.au/live/4mbb_128.stream/playlist.m3u8"
-    ],
-    "country": "au",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
-    "nanoid": "TA9aFy5HbdSvt4",
-    "name": "Triple M Geraldton 98.1",
-    "stream_urls": [
-      "https://wz6liw.scahw.com.au/live/6bay_128.stream/playlist.m3u8"
-    ],
-    "country": "au",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
-    "nanoid": "nZkxo41Laeenym",
-    "name": "Triple M Newcastle 102.9",
-    "stream_urls": [
-      "https://wz2liw.scahw.com.au/live/2kko_128.stream/playlist.m3u8"
-    ],
-    "country": "au",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
-    "nanoid": "3ntB375qABpu4H",
-    "name": "Triple M Southwest",
-    "stream_urls": [
-      "https://wz6liw.scahw.com.au/live/6tz_128.stream/playlist.m3u8"
+      "https://legacy.scahw.com.au/5mmm_32"
     ],
     "country": "au",
     "languages": [
@@ -7821,28 +5678,6 @@
     "name": "Triple M Sydney 104.9",
     "stream_urls": [
       "https://legacy.scahw.com.au/2mmm_128"
-    ],
-    "country": "au",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
-    "nanoid": "IFHNrGqVFm4AYg",
-    "name": "Triple M Townsville 102.3",
-    "stream_urls": [
-      "https://wz4liw.scahw.com.au/live/4too_128.stream/playlist.m3u8"
-    ],
-    "country": "au",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
-    "nanoid": "VaYZ5EVVLd6EG8",
-    "name": "Triple M WA 92.9",
-    "stream_urls": [
-      "https://wz6liw.scahw.com.au/live/6sat_128.stream/playlist.m3u8"
     ],
     "country": "au",
     "languages": [
@@ -7864,20 +5699,8 @@
     "nanoid": "kamizKFlf8Ovf2",
     "name": "Triple R 102.7 FM",
     "stream_urls": [
-      "https://ondemand.rrr.org.au/getstream",
       "https://realtime.rrr.org.au/p1l",
-      "https://realtime.rrr.org.au/p1h"
-    ],
-    "country": "au",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
-    "nanoid": "F8DfqyzkEHjJVM",
-    "name": "Triple T 103.9 FM",
-    "stream_urls": [
-      "https://onlineradiobox.com/json/au/triplet/play"
+      "https://ondemand.rrr.org.au/getstream"
     ],
     "country": "au",
     "languages": [
@@ -7900,17 +5723,6 @@
     "name": "TSIMA Radio 4MW",
     "stream_urls": [
       "https://firstnationsmedia.stream/8024/stream"
-    ],
-    "country": "au",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
-    "nanoid": "wWNP7i4BoVKiOA",
-    "name": "TUNE! FM 106.9",
-    "stream_urls": [
-      "https://23153.live.streamtheworld.com/2UNEAAC.aac"
     ],
     "country": "au",
     "languages": [
@@ -8051,17 +5863,6 @@
     ]
   },
   {
-    "nanoid": "xMpFmvzjNHBhli",
-    "name": "Viral Throwbacks",
-    "stream_urls": [
-      "https://sa46.scastream.com.au/live/viral-throwbacks.stream/playlist.m3u8"
-    ],
-    "country": "au",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
     "nanoid": "r9fcu8uvlje48N",
     "name": "Vision Australia Radio Adelaide",
     "stream_urls": [
@@ -8077,17 +5878,6 @@
     "name": "Vision Australia Radio Melbourne",
     "stream_urls": [
       "https://28853.live.streamtheworld.com/3RPHAAC.aac"
-    ],
-    "country": "au",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
-    "nanoid": "QoACZ2tqPWfTki",
-    "name": "Vision Australia Radio Perth",
-    "stream_urls": [
-      "https://23163.live.streamtheworld.com/6RPHAAC.aac"
     ],
     "country": "au",
     "languages": [
@@ -8112,17 +5902,6 @@
     "stream_urls": [
       "https://playerservices.streamtheworld.com/api/livestream-redirect/VOICEFMAAC.aac",
       "https://playerservices.streamtheworld.com/api/livestream-redirect/VOICEFM.mp3"
-    ],
-    "country": "au",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
-    "nanoid": "dzCklDbuQZkqy4",
-    "name": "Voice of the Avon 101.3",
-    "stream_urls": [
-      "https://23193.live.streamtheworld.com/6YCRAAC_SC"
     ],
     "country": "au",
     "languages": [
@@ -8185,18 +5964,6 @@
     ]
   },
   {
-    "nanoid": "mcrWG4YuUiy5yV",
-    "name": "Waterfall",
-    "stream_urls": [
-      "https://wz0liw.scahw.com.au/live/waterfall_128.stream/playlist.m3u8",
-      "https://sa47.scastream.com.au/live/waterfall_128.stream/playlist.m3u8"
-    ],
-    "country": "au",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
     "nanoid": "gnwvsO1M0cnajS",
     "name": "Wave FM 96.5",
     "stream_urls": [
@@ -8231,28 +5998,6 @@
     ]
   },
   {
-    "nanoid": "obMLTpxEkQIgvP",
-    "name": "WFH 3pm Pick Me Up",
-    "stream_urls": [
-      "https://sa47.scastream.com.au/live/wfh-3pm.stream/playlist.m3u8"
-    ],
-    "country": "au",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
-    "nanoid": "dgcdKc0kh36txg",
-    "name": "WFH 9am Coffee",
-    "stream_urls": [
-      "https://sa47.scastream.com.au/live/wfh-9am.stream/playlist.m3u8"
-    ],
-    "country": "au",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
     "nanoid": "1Wa2Oq2ONj7CM4",
     "name": "Wild Country Radio",
     "stream_urls": [
@@ -8269,17 +6014,6 @@
     "stream_urls": [
       "https://s6.myradiostream.com:46712/;",
       "https://s6.myradiostream.com:46712/;listen.mp3"
-    ],
-    "country": "au",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
-    "nanoid": "cOL6YeyKanndJI",
-    "name": "Wind Down",
-    "stream_urls": [
-      "https://wz0liw.scahw.com.au/live/wind-down.stream/playlist.m3u8"
     ],
     "country": "au",
     "languages": [
@@ -8324,8 +6058,7 @@
     "nanoid": "BrpuGVISTZcrkD",
     "name": "WSFM 101.7",
     "stream_urls": [
-      "https://ais-arn.streamguys1.com/au_002_icy",
-      "https://ais-arn.streamguys1.com/au_002/playlist.m3u8"
+      "https://ais-arn.streamguys1.com/au_002_icy"
     ],
     "country": "au",
     "languages": [
@@ -8348,29 +6081,6 @@
     "name": "XLFM 96.1",
     "stream_urls": [
       "https://playerservices.streamtheworld.com/api/livestream-redirect/XLFMAAC.aac"
-    ],
-    "country": "au",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
-    "nanoid": "736usaJ2oDTqQy",
-    "name": "Y2K Party",
-    "stream_urls": [
-      "https://sa47.scastream.com.au/live/y2k-party.stream/playlist.m3u8"
-    ],
-    "country": "au",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
-    "nanoid": "5B6ZwOhvE2dAT0",
-    "name": "Yacht Rock",
-    "stream_urls": [
-      "https://wz7liw.scahw.com.au/live/7yachtrock_128.stream/playlist.m3u8",
-      "https://sa47.scastream.com.au/live/7yachtrock_128.stream/playlist.m3u8"
     ],
     "country": "au",
     "languages": [
@@ -8413,17 +6123,6 @@
     ]
   },
   {
-    "nanoid": "qIyUCTL6gKG3qn",
-    "name": "Yeah The Girls",
-    "stream_urls": [
-      "https://sa47.scastream.com.au/live/yeah-thegirls.stream/playlist.m3u8"
-    ],
-    "country": "au",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
     "nanoid": "AXNvvv1DdWGpt8",
     "name": "Yolngu Radio",
     "stream_urls": [
@@ -8450,17 +6149,6 @@
     "name": "ZED Digital",
     "stream_urls": [
       "https://iheart.4zzz.org.au/zed-digital"
-    ],
-    "country": "au",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
-    "nanoid": "UmwXouP2zIAt6l",
-    "name": "Zinc 96.1",
-    "stream_urls": [
-      "https://playerservices.streamtheworld.com/api/livestream-redirect/MAR_ZINC96AAC.m3u8"
     ],
     "country": "au",
     "languages": [

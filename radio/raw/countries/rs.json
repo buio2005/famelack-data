@@ -532,17 +532,6 @@
     ]
   },
   {
-    "nanoid": "ONmNR8rvcdLCgY",
-    "name": "Nišville Radio",
-    "stream_urls": [
-      "https://radio.nisville.com/listen/live/live"
-    ],
-    "country": "rs",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
     "nanoid": "O4ny9vtzF4YgUT",
     "name": "Nova S Radio",
     "stream_urls": [
@@ -602,8 +591,7 @@
     "nanoid": "c0TO6am5hizMnT",
     "name": "Original Fast Radio",
     "stream_urls": [
-      "https://az-de-01.worldradiobeat.com:8000/live",
-      "https://az-de-01.worldradiobeat.com/listen/originalfastradio/live"
+      "https://az-de-01.worldradiobeat.com:8000/live"
     ],
     "country": "rs",
     "languages": [
@@ -841,51 +829,6 @@
     "country": "rs",
     "languages": [
       "srp"
-    ]
-  },
-  {
-    "nanoid": "aQshWRXCSbLzHD",
-    "name": "Radio Beograd 1",
-    "stream_urls": [
-      "https://rtsradio-live.morescreens.com/RTS_2_001/audio/chunklist.m3u8",
-      "https://rtsradio-live.morescreens.com/RTS_2_001/playlist.m3u8"
-    ],
-    "country": "rs",
-    "languages": [
-      "srp"
-    ]
-  },
-  {
-    "nanoid": "x2bukVxI6w3okL",
-    "name": "Radio Beograd 2",
-    "stream_urls": [
-      "https://rtsradio-live.morescreens.com/RTS_2_002/playlist.m3u8"
-    ],
-    "country": "rs",
-    "languages": [
-      "srp"
-    ]
-  },
-  {
-    "nanoid": "9iLVY81T2BgQi1",
-    "name": "Radio Beograd 202",
-    "stream_urls": [
-      "https://rtsradio-live.morescreens.com/RTS_2_004/playlist.m3u8"
-    ],
-    "country": "rs",
-    "languages": [
-      "srp"
-    ]
-  },
-  {
-    "nanoid": "pLRNxcAQsYBm5Z",
-    "name": "Radio D59B",
-    "stream_urls": [
-      "https://n01.radiojar.com:443/gn6dqzhf9mzuv"
-    ],
-    "country": "rs",
-    "languages": [
-      "eng"
     ]
   },
   {
@@ -1158,8 +1101,7 @@
     "nanoid": "MODEZwzb910YxQ",
     "name": "Radio S1",
     "stream_urls": [
-      "https://stream.radios.rs:9000/;",
-      "https://edge-rs-01.maksnet.tv/asmedia/radios/chunklist_w2049618642.m3u8"
+      "https://stream.radios.rs:9000/;"
     ],
     "country": "rs",
     "languages": [
@@ -1304,17 +1246,6 @@
     "name": "Radio Stari Grad - Relax",
     "stream_urls": [
       "https://stream.rsg.rs/relax/"
-    ],
-    "country": "rs",
-    "languages": [
-      "srp"
-    ]
-  },
-  {
-    "nanoid": "evzKnkyKoHUde0",
-    "name": "Radio Starčevo",
-    "stream_urls": [
-      "https://mpc2.mediacp.eu:8350/stream"
     ],
     "country": "rs",
     "languages": [
@@ -1468,83 +1399,6 @@
     ]
   },
   {
-    "nanoid": "lzu10qyu3MEcAq",
-    "name": "RTS Radio Beograd 2",
-    "stream_urls": [
-      "https://rtsradio-live.morescreens.com/RTS_2_002/audio/chunklist.m3u8"
-    ],
-    "country": "rs",
-    "languages": [
-      "srp"
-    ]
-  },
-  {
-    "nanoid": "Ne41zWb5NLcKW8",
-    "name": "RTS Radio Beograd 202",
-    "stream_urls": [
-      "https://rtsradio-live.morescreens.com/RTS_2_004/audio/chunklist.m3u8"
-    ],
-    "country": "rs",
-    "languages": [
-      "srp"
-    ]
-  },
-  {
-    "nanoid": "W9gEwInb9OQDY1",
-    "name": "RTS Radio Beograd 3",
-    "stream_urls": [
-      "https://rtsradio-live.morescreens.com/RTS_2_003/audio/chunklist.m3u8"
-    ],
-    "country": "rs",
-    "languages": [
-      "srp"
-    ]
-  },
-  {
-    "nanoid": "gkvVQ0w70XWiUj",
-    "name": "RTS Radio Džuboks",
-    "stream_urls": [
-      "https://rtsradio-live.morescreens.com/RTS_2_007/audio/chunklist.m3u8"
-    ],
-    "country": "rs",
-    "languages": [
-      "srp"
-    ]
-  },
-  {
-    "nanoid": "nDox8AfuX5VVFy",
-    "name": "RTS Radio Pletenica",
-    "stream_urls": [
-      "https://rtsradio-live.morescreens.com/RTS_2_005/audio/chunklist.m3u8"
-    ],
-    "country": "rs",
-    "languages": [
-      "srp"
-    ]
-  },
-  {
-    "nanoid": "QfPDCLajSBnoXo",
-    "name": "RTS Radio Rokenroler",
-    "stream_urls": [
-      "https://rtsradio-live.morescreens.com/RTS_2_006/audio/chunklist.m3u8"
-    ],
-    "country": "rs",
-    "languages": [
-      "srp"
-    ]
-  },
-  {
-    "nanoid": "gSwSWHmUAWtYTr",
-    "name": "RTS Radio Vrteška",
-    "stream_urls": [
-      "https://rtsradio-live.morescreens.com/RTS_2_008/audio/chunklist.m3u8"
-    ],
-    "country": "rs",
-    "languages": [
-      "srp"
-    ]
-  },
-  {
     "nanoid": "U8VPRaldaYYBsy",
     "name": "S21 Radio",
     "stream_urls": [
@@ -1560,18 +1414,6 @@
     "name": "San Radio",
     "stream_urls": [
       "https://s1.skeletor.rs/san"
-    ],
-    "country": "rs",
-    "languages": [
-      "srp"
-    ]
-  },
-  {
-    "nanoid": "IBAdX3yRjaKVB5",
-    "name": "SKC Radio",
-    "stream_urls": [
-      "https://skc.fm/hls/skc_radio/live.m3u8",
-      "https://skc.fm/hls/skc_radio/aac_hifi.m3u8"
     ],
     "country": "rs",
     "languages": [

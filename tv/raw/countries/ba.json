@@ -1,18 +1,5 @@
 [
   {
-    "nanoid": "1iuIRvnoniSJBQ",
-    "name": "BHRT",
-    "stream_urls": [
-      "https://bhrtstream.bhtelecom.ba/bhrtportal.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "bos"
-    ],
-    "country": "ba",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "1mg1i4tpsnA6yL",
     "name": "Malta",
     "stream_urls": [
@@ -32,6 +19,19 @@
     "youtube_urls": [],
     "languages": [
       "bos"
+    ],
+    "country": "ba",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "V8QFLQrHQiMeTN",
+    "name": "RTRS Plus",
+    "stream_urls": [
+      "https://pluslive.rtrs.tv/plus/plus/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "srp"
     ],
     "country": "ba",
     "isGeoBlocked": false

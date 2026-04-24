@@ -77,17 +77,6 @@
     ]
   },
   {
-    "nanoid": "2wS17Y6G0QoBQm",
-    "name": "Conecta 2 Radio",
-    "stream_urls": [
-      "https://radio.conecta2service.com/8060/stream"
-    ],
-    "country": "ec",
-    "languages": [
-      "spa"
-    ]
-  },
-  {
     "nanoid": "vKW4IGzip6lKej",
     "name": "Contigo FM",
     "stream_urls": [
@@ -192,6 +181,17 @@
     "name": "Exa FM",
     "stream_urls": [
       "https://playerservices.streamtheworld.com/api/livestream-redirect/ECUADORAAC_SC"
+    ],
+    "country": "ec",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "piUfiQy1ST9UnR",
+    "name": "Expresión FM",
+    "stream_urls": [
+      "https://usa3.lhdserver.es:8031/stream"
     ],
     "country": "ec",
     "languages": [
@@ -343,17 +343,6 @@
     ]
   },
   {
-    "nanoid": "ZEOC0IV4GT2Ixa",
-    "name": "La Dura",
-    "stream_urls": [
-      "https://stream.zeno.fm/qtta8cpyd0quv"
-    ],
-    "country": "ec",
-    "languages": [
-      "spa"
-    ]
-  },
-  {
     "nanoid": "i3yYumZevT3ybc",
     "name": "La Main Street",
     "stream_urls": [
@@ -438,6 +427,17 @@
     "name": "LV Radio Satelital",
     "stream_urls": [
       "https://stream.zeno.fm/ech627b6u18uv"
+    ],
+    "country": "ec",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "kkKpn6qTvm2aRv",
+    "name": "MachDeportes",
+    "stream_urls": [
+      "https://ss.ecuastreamhd.com:8186/stream"
     ],
     "country": "ec",
     "languages": [
@@ -579,17 +579,6 @@
     ]
   },
   {
-    "nanoid": "Pkm7bq3EdNXtpw",
-    "name": "Radio Alfa",
-    "stream_urls": [
-      "https://d2oubcpl50vyui.cloudfront.net/index.m3u8"
-    ],
-    "country": "ec",
-    "languages": [
-      "spa"
-    ]
-  },
-  {
     "nanoid": "TWrzk6AhWmG8PN",
     "name": "Radio Amazonas",
     "stream_urls": [
@@ -672,7 +661,13 @@
     "stream_urls": [
       "https://canelaradio.makrodigital.com/stream/canelaradiotungurahua",
       "https://canelaradio.makrodigital.com/stream/canelaradiochimborazo",
-      "https://canelaradio.makrodigital.com/stream/canelaradiomachala"
+      "https://canelaradio.makrodigital.com/stream/canelaradiomachala",
+      "https://canelaradio.makrodigital.com/stream/canelaradioguayaquil",
+      "https://canelaradio.makrodigital.com/stream/canelaradioibarra",
+      "https://canelaradio.makrodigital.com/stream/canelaradiomacas",
+      "https://canelaradio.makrodigital.com/stream/canelaradionapo",
+      "https://canelaradio.makrodigital.com:9280/stream",
+      "https://canelaradio.makrodigital.com/stream/canelaradioquito"
     ],
     "country": "ec",
     "languages": [
@@ -746,17 +741,6 @@
     ]
   },
   {
-    "nanoid": "86LcVlNhQ9Ify9",
-    "name": "Radio Fabu",
-    "stream_urls": [
-      "https://alba-ec-fabu-fabuguayaquil.stream.mediatiquestream.com/chunks.m3u8"
-    ],
-    "country": "ec",
-    "languages": [
-      "spa"
-    ]
-  },
-  {
     "nanoid": "ANCaIENACdho2B",
     "name": "Radio Forever",
     "stream_urls": [
@@ -794,17 +778,6 @@
     "name": "Radio Impacto",
     "stream_urls": [
       "https://cast.uncuartocomunicacion.com/listen/radioimpacto/live"
-    ],
-    "country": "ec",
-    "languages": [
-      "spa"
-    ]
-  },
-  {
-    "nanoid": "8aHGtxwPt8ABmI",
-    "name": "Radio La Metro",
-    "stream_urls": [
-      "https://alba-ec-lametro-lametro.stream.mediatiquestream.com/chunks.m3u8"
     ],
     "country": "ec",
     "languages": [
@@ -924,6 +897,17 @@
     ]
   },
   {
+    "nanoid": "gLYxfNVabcJI9w",
+    "name": "Radio Pichincha",
+    "stream_urls": [
+      "https://icecast.radiopichincha.com/radiopichincha"
+    ],
+    "country": "ec",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
     "nanoid": "cZV54EqQTehrj2",
     "name": "Radio Popular 1230 AM",
     "stream_urls": [
@@ -1027,6 +1011,18 @@
     "name": "Radio Tía",
     "stream_urls": [
       "https://grupomundodigital.com:9170/stream"
+    ],
+    "country": "ec",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "BMvnmDLft5aGoj",
+    "name": "Radio Valle FM",
+    "stream_urls": [
+      "https://stream.zeno.fm/veu31437sm0uv",
+      "https://stream-152.zeno.fm/veu31437sm0uv"
     ],
     "country": "ec",
     "languages": [
@@ -1221,6 +1217,17 @@
     ]
   },
   {
+    "nanoid": "OOKo24aYKNjRt8",
+    "name": "Super 9'49",
+    "stream_urls": [
+      "https://dattavolt.com/8028/stream"
+    ],
+    "country": "ec",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
     "nanoid": "UEY5i4lwWaslqy",
     "name": "Tambo FM",
     "stream_urls": [
@@ -1236,6 +1243,17 @@
     "name": "Tu Voz Stereo",
     "stream_urls": [
       "https://stream.zeno.fm/zy7aqxp4q98uv"
+    ],
+    "country": "ec",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "vTHoqkBenwyr5S",
+    "name": "Tucán Radio 105.1 FM",
+    "stream_urls": [
+      "https://streamingecuador.net:8023/radiotucan"
     ],
     "country": "ec",
     "languages": [

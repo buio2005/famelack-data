@@ -55,6 +55,17 @@
     ]
   },
   {
+    "nanoid": "zNkfWna5exvbOV",
+    "name": "EHR iDeal Music",
+    "stream_urls": [
+      "https://stream.ehrhiti.lv:8000/Stream_78.mp3"
+    ],
+    "country": "lv",
+    "languages": [
+      "lav"
+    ]
+  },
+  {
     "nanoid": "YVHSa1IcD1Qr3G",
     "name": "EHR Party Service",
     "stream_urls": [
@@ -234,18 +245,6 @@
     ]
   },
   {
-    "nanoid": "BowiJMWCY73UQG",
-    "name": "Radio Mix FM",
-    "stream_urls": [
-      "https://live.relaxfm.lv/07"
-    ],
-    "country": "lv",
-    "languages": [
-      "rus",
-      "eng"
-    ]
-  },
-  {
     "nanoid": "MdbzeQw0FTwx7v",
     "name": "Radio Roks",
     "stream_urls": [
@@ -254,17 +253,6 @@
     "country": "lv",
     "languages": [
       "rus"
-    ]
-  },
-  {
-    "nanoid": "PujzJMUZYMn7QY",
-    "name": "Radio Skonto",
-    "stream_urls": [
-      "https://stream.radioskonto.lv:8443/stereo"
-    ],
-    "country": "lv",
-    "languages": [
-      "lav"
     ]
   },
   {
@@ -302,17 +290,6 @@
     ]
   },
   {
-    "nanoid": "dBpWfZo2ZMiMfl",
-    "name": "Relax FM",
-    "stream_urls": [
-      "https://live.relaxfm.lv/02"
-    ],
-    "country": "lv",
-    "languages": [
-      "lav"
-    ]
-  },
-  {
     "nanoid": "rYd7aNAPpnyFAA",
     "name": "Retro FM",
     "stream_urls": [
@@ -325,11 +302,22 @@
     ]
   },
   {
+    "nanoid": "fNs2VyTYd6wmbL",
+    "name": "Retro FM Latvija",
+    "stream_urls": [
+      "https://stream.ehrhiti.lv:8000/Stream_RE.aac"
+    ],
+    "country": "lv",
+    "languages": [
+      "lav"
+    ]
+  },
+  {
     "nanoid": "B1rGFfZLEPQYNe",
     "name": "Star FM",
     "stream_urls": [
-      "https://live.advailo.com/audio/mp3/icecast.audio",
-      "https://starfm.live.advailo.com/audio/mp3/icecast.audio"
+      "https://starfm.live.advailo.com/audio/mp3/icecast.audio",
+      "https://live.advailo.com/audio/mp3/icecast.audio"
     ],
     "country": "lv",
     "languages": [
@@ -358,17 +346,6 @@
       "eng",
       "lav",
       "rus"
-    ]
-  },
-  {
-    "nanoid": "9Ge6Fhh2GEBAgJ",
-    "name": "TOP Radio LV",
-    "stream_urls": [
-      "https://live.advailo.com/topradio/live/playlist.m3u8"
-    ],
-    "country": "lv",
-    "languages": [
-      "lav"
     ]
   },
   {
@@ -402,6 +379,18 @@
     ],
     "country": "lv",
     "languages": [
+      "lav"
+    ]
+  },
+  {
+    "nanoid": "SMmgqjhUkS0Nj8",
+    "name": "Авторадио (Avtoradio)",
+    "stream_urls": [
+      "https://live.relaxfm.lv/03"
+    ],
+    "country": "lv",
+    "languages": [
+      "rus",
       "lav"
     ]
   }

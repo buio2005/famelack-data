@@ -44,19 +44,6 @@
     ]
   },
   {
-    "nanoid": "ZUsir48Pa1txzS",
-    "name": "1Mix Radio - Trance",
-    "stream_urls": [
-      "https://fr2.1mix.co.uk:8060/320",
-      "https://fr2.1mix.co.uk:8000/192",
-      "https://fr2.1mix.co.uk:8060/192"
-    ],
-    "country": "uk",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
     "nanoid": "EoBUTYQrmAfNzq",
     "name": "24/7 Blues Radio",
     "stream_urls": [
@@ -289,6 +276,17 @@
     ]
   },
   {
+    "nanoid": "ZuFgt9h5yoWxia",
+    "name": "ABC Oldies Radio",
+    "stream_urls": [
+      "https://carina.streamerr.co/stream/abcoldiesradio"
+    ],
+    "country": "uk",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
     "nanoid": "eCgqPDWMwv6hYY",
     "name": "Academy FM Folkestone",
     "stream_urls": [
@@ -357,8 +355,8 @@
     "nanoid": "U0n4RCBTDqf8Ah",
     "name": "ALL FM 96.9",
     "stream_urls": [
-      "https://uksouth.streaming.broadcast.radio/allfm",
-      "https://uksoutha.streaming.broadcast.radio:15870/allfm"
+      "https://uksoutha.streaming.broadcast.radio:15870/allfm",
+      "https://uksouth.streaming.broadcast.radio/allfm"
     ],
     "country": "uk",
     "languages": [
@@ -580,8 +578,7 @@
     "nanoid": "tco2496P1FAKEJ",
     "name": "Bar Latina Radio",
     "stream_urls": [
-      "https://s2.citrus3.com:2000/stream/barlatinaradio",
-      "https://a6.asurahosting.com:7740/radio.mp3"
+      "https://s2.citrus3.com:2000/stream/barlatinaradio"
     ],
     "country": "uk",
     "languages": [
@@ -613,29 +610,6 @@
     ]
   },
   {
-    "nanoid": "DQmxNnQaDcjx1N",
-    "name": "BBC Asian Network",
-    "stream_urls": [
-      "https://as-hls-ww-live.akamaized.net/pool_22108647/live/ww/bbc_asian_network/bbc_asian_network.isml/bbc_asian_network-audio%3d128000.norewind.m3u8",
-      "https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/audio_syndication_low_sbr_v1/cfs/bbc_asian_network.m3u8"
-    ],
-    "country": "uk",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
-    "nanoid": "HGX8P4X3BSsA01",
-    "name": "BBC CWR",
-    "stream_urls": [
-      "https://as-hls-ww-live.akamaized.net/pool_79805333/live/ww/bbc_radio_coventry_warwickshire/bbc_radio_coventry_warwickshire.isml/bbc_radio_coventry_warwickshire-audio%3d96000.norewind.m3u8"
-    ],
-    "country": "uk",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
     "nanoid": "8bL3M8A7c5PkEt",
     "name": "BBC Nepali",
     "stream_urls": [
@@ -650,8 +624,6 @@
     "nanoid": "d6T6bNRFXclgcx",
     "name": "BBC News",
     "stream_urls": [
-      "https://as-hls-ww-live.akamaized.net/pool_53367543/live/ww/bbc_sounds_news/bbc_sounds_news.isml/bbc_sounds_news-audio%3d128000.norewind.m3u8",
-      "https://as-hls-ww-live.akamaized.net/pool_53367543/live/ww/bbc_sounds_news/bbc_sounds_news.isml/bbc_sounds_news-audio%3d48000.norewind.m3u8",
       "https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8"
     ],
     "country": "uk",
@@ -671,309 +643,10 @@
     ]
   },
   {
-    "nanoid": "X9k0PsNyYvA89T",
-    "name": "BBC Radio 1",
-    "stream_urls": [
-      "https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/pc_hd_abr_v2/ak/bbc_radio_one.m3u8",
-      "https://as-hls-ww-live.akamaized.net/pool_01505109/live/ww/bbc_radio_one/bbc_radio_one.isml/bbc_radio_one-audio%3d320000.norewind.m3u8",
-      "https://as-hls-ww-live.akamaized.net/pool_01505109/live/ww/bbc_radio_one/bbc_radio_one.isml/bbc_radio_one-audio%3d128000.norewind.m3u8"
-    ],
-    "country": "uk",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
-    "nanoid": "YAkJmhbEGj8Wwi",
-    "name": "BBC Radio 1 Anthems",
-    "stream_urls": [
-      "https://as-hls-ww-live.akamaized.net/pool_11351741/live/ww/bbc_radio_one_anthems/bbc_radio_one_anthems.isml/bbc_radio_one_anthems-audio%3d128000.norewind.m3u8"
-    ],
-    "country": "uk",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
-    "nanoid": "ZmGXqhaniGVnb5",
-    "name": "BBC Radio 1 Dance",
-    "stream_urls": [
-      "https://as-hls-ww-live.akamaized.net/pool_62063831/live/ww/bbc_radio_one_dance/bbc_radio_one_dance.isml/bbc_radio_one_dance-audio%3d128000.norewind.m3u8"
-    ],
-    "country": "uk",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
-    "nanoid": "ofateIMm7Dh5VM",
-    "name": "BBC Radio 1Xtra",
-    "stream_urls": [
-      "https://as-hls-ww-live.akamaized.net/pool_92079267/live/ww/bbc_1xtra/bbc_1xtra.isml/bbc_1xtra-audio%3d320000.norewind.m3u8",
-      "https://as-hls-ww-live.akamaized.net/pool_92079267/live/ww/bbc_1xtra/bbc_1xtra.isml/bbc_1xtra-audio%3d128000.norewind.m3u8"
-    ],
-    "country": "uk",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
     "nanoid": "7Vgt04nOVXGkj2",
     "name": "BBC Radio 2",
     "stream_urls": [
-      "https://as-hls-ww-live.akamaized.net/pool_74208725/live/ww/bbc_radio_two/bbc_radio_two.isml/bbc_radio_two-audio%3d320000.norewind.m3u8",
-      "https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/pc_hd_abr_v2/cf/bbc_radio_two.m3u8",
-      "https://as-hls-ww-live.akamaized.net/pool_74208725/live/ww/bbc_radio_two/bbc_radio_two.isml/bbc_radio_two-audio%3d96000.norewind.m3u8"
-    ],
-    "country": "uk",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
-    "nanoid": "aPDtEQ7Xtw6AD7",
-    "name": "BBC Radio 3",
-    "stream_urls": [
-      "https://as-hls-ww-live.akamaized.net/pool_23461179/live/ww/bbc_radio_three/bbc_radio_three.isml/bbc_radio_three-audio%3d96000.norewind.m3u8",
-      "https://as-hls-ww-live.akamaized.net/pool_23461179/live/ww/bbc_radio_three/bbc_radio_three.isml/bbc_radio_three-audio=320000.norewind.m3u8",
-      "https://as-hls-ww-live.akamaized.net/pool_23461179/live/ww/bbc_radio_three/bbc_radio_three.isml/bbc_radio_three-audio%3d128000.norewind.m3u8"
-    ],
-    "country": "uk",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
-    "nanoid": "ZFWCiETVmmcjbF",
-    "name": "BBC Radio 3 Classic",
-    "stream_urls": [
-      "https://as-hls-ww-live.akamaized.net/pool_23461179/live/ww/bbc_radio_three/bbc_radio_three.isml/bbc_radio_three-audio=96000.norewind.m3u8"
-    ],
-    "country": "uk",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
-    "nanoid": "QGbfTMmjZEVMbX",
-    "name": "BBC Radio 3 Unwind",
-    "stream_urls": [
-      "https://as-hls-ww-live.akamaized.net/pool_30624046/live/ww/bbc_radio_three_unwind/bbc_radio_three_unwind.isml/bbc_radio_three_unwind-audio%3d128000.norewind.m3u8"
-    ],
-    "country": "uk",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
-    "nanoid": "pVUCykfifnLmDJ",
-    "name": "BBC Radio 4",
-    "stream_urls": [
-      "https://as-hls-ww-live.akamaized.net/pool_55057080/live/ww/bbc_radio_fourfm/bbc_radio_fourfm.isml/bbc_radio_fourfm-audio=128000.norewind.m3u8",
-      "https://as-hls-ww-live.akamaized.net/pool_55057080/live/ww/bbc_radio_fourfm/bbc_radio_fourfm.isml/bbc_radio_fourfm-audio=320000.norewind.m3u8",
-      "https://as-hls-ww-live.akamaized.net/pool_55057080/live/ww/bbc_radio_fourfm/bbc_radio_fourfm.isml/bbc_radio_fourfm-audio%3d128000.norewind.m3u8"
-    ],
-    "country": "uk",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
-    "nanoid": "6J6fi79VavTFOf",
-    "name": "BBC Radio 4 Extra",
-    "stream_urls": [
-      "https://as-hls-ww-live.akamaized.net/pool_26173715/live/ww/bbc_radio_four_extra/bbc_radio_four_extra.isml/bbc_radio_four_extra-audio=320000.norewind.m3u8",
-      "https://as-hls-ww-live.akamaized.net/pool_26173715/live/ww/bbc_radio_four_extra/bbc_radio_four_extra.isml/bbc_radio_four_extra-audio%3d128000.norewind.m3u8"
-    ],
-    "country": "uk",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
-    "nanoid": "0zF84JnWs68TuG",
-    "name": "BBC Radio 5 Live",
-    "stream_urls": [
-      "https://as-hls-ww-live.akamaized.net/pool_89021708/live/ww/bbc_radio_five_live/bbc_radio_five_live.isml/bbc_radio_five_live-audio%3d128000.norewind.m3u8"
-    ],
-    "country": "uk",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
-    "nanoid": "Hx2s8FE7vVPWa8",
-    "name": "BBC Radio 6 Music",
-    "stream_urls": [
-      "https://as-hls-ww-live.akamaized.net/pool_81827798/live/ww/bbc_6music/bbc_6music.isml/bbc_6music-audio=320000.norewind.m3u8",
-      "https://as-hls-ww-live.akamaized.net/pool_81827798/live/ww/bbc_6music/bbc_6music.isml/bbc_6music-audio%3d320000.norewind.m3u8",
-      "https://as-hls-ww-live.akamaized.net/pool_81827798/live/ww/bbc_6music/bbc_6music.isml/bbc_6music-audio%3d128000.norewind.m3u8"
-    ],
-    "country": "uk",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
-    "nanoid": "LUurR3P7jy1DSQ",
-    "name": "BBC Radio Bristol",
-    "stream_urls": [
-      "https://as-hls-ww-live.akamaized.net/pool_41858929/live/ww/bbc_radio_bristol/bbc_radio_bristol.isml/bbc_radio_bristol-audio%3d96000.norewind.m3u8"
-    ],
-    "country": "uk",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
-    "nanoid": "99ZQ9U791ERlq3",
-    "name": "BBC Radio Cymru",
-    "stream_urls": [
-      "https://as-hls-ww-live.akamaized.net/pool_24792333/live/ww/bbc_radio_cymru/bbc_radio_cymru.isml/bbc_radio_cymru-audio%3d128000.norewind.m3u8"
-    ],
-    "country": "uk",
-    "languages": [
-      "cym"
-    ]
-  },
-  {
-    "nanoid": "trhD2DdtkRWWCG",
-    "name": "BBC Radio Cymru 2",
-    "stream_urls": [
-      "https://as-hls-ww-live.akamaized.net/pool_98610936/live/ww/bbc_radio_cymru_2/bbc_radio_cymru_2.isml/bbc_radio_cymru_2-audio%3d128000.norewind.m3u8"
-    ],
-    "country": "uk",
-    "languages": [
-      "cym"
-    ]
-  },
-  {
-    "nanoid": "N3wI4cutzRaZ5Z",
-    "name": "BBC Radio Devon",
-    "stream_urls": [
-      "https://as-hls-ww-live.akamaized.net/pool_08856933/live/ww/bbc_radio_devon/bbc_radio_devon.isml/bbc_radio_devon-audio%3d96000.norewind.m3u8"
-    ],
-    "country": "uk",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
-    "nanoid": "FWIQ5lR1gw8Sin",
-    "name": "BBC Radio Essex",
-    "stream_urls": [
-      "https://as-hls-ww-live.akamaized.net/pool_23657270/live/ww/bbc_radio_essex/bbc_radio_essex.isml/bbc_radio_essex-audio%3d96000.norewind.m3u8"
-    ],
-    "country": "uk",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
-    "nanoid": "JnFTeigveHeGIS",
-    "name": "BBC Radio Foyle",
-    "stream_urls": [
-      "https://as-hls-ww-live.akamaized.net/pool_43178797/live/ww/bbc_radio_foyle/bbc_radio_foyle.isml/bbc_radio_foyle-audio%3d128000.norewind.m3u8"
-    ],
-    "country": "uk",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
-    "nanoid": "8uZiSkDhCTRtxX",
-    "name": "BBC Radio Hereford & Worcester",
-    "stream_urls": [
-      "https://as-hls-ww-live.akamaized.net/pool_80112859/live/ww/bbc_radio_hereford_worcester/bbc_radio_hereford_worcester.isml/bbc_radio_hereford_worcester-audio%3d96000.norewind.m3u8"
-    ],
-    "country": "uk",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
-    "nanoid": "L64COv77S2NLHl",
-    "name": "BBC Radio Leeds",
-    "stream_urls": [
-      "https://as-hls-ww-live.akamaized.net/pool_50115440/live/ww/bbc_radio_leeds/bbc_radio_leeds.isml/bbc_radio_leeds-audio%3d96000.norewind.m3u8"
-    ],
-    "country": "uk",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
-    "nanoid": "uNey5WEf7vadjq",
-    "name": "BBC Radio London",
-    "stream_urls": [
-      "https://as-hls-ww-live.akamaized.net/pool_98137350/live/ww/bbc_london/bbc_london.isml/bbc_london-audio%3d128000.norewind.m3u8",
-      "https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/audio_syndication_low_sbr_v1/ak/bbc_london.m3u8"
-    ],
-    "country": "uk",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
-    "nanoid": "yjnlI1LwEJLVr6",
-    "name": "BBC Radio nan Gàidheal",
-    "stream_urls": [
-      "https://as-hls-ww-live.akamaized.net/pool_01935182/live/ww/bbc_radio_nan_gaidheal/bbc_radio_nan_gaidheal.isml/bbc_radio_nan_gaidheal-audio%3d128000.norewind.m3u8"
-    ],
-    "country": "uk",
-    "languages": [
-      "gla"
-    ]
-  },
-  {
-    "nanoid": "mZTMlNOd2WmtV4",
-    "name": "BBC Radio Northampton",
-    "stream_urls": [
-      "https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/pc_hd_abr_v2/cfs/bbc_radio_northampton.m3u8"
-    ],
-    "country": "uk",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
-    "nanoid": "KYGrOKOIPZWRTq",
-    "name": "BBC Radio Nottingham",
-    "stream_urls": [
-      "https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/audio_syndication_low_sbr_v1/aks/bbc_radio_nottingham.m3u8"
-    ],
-    "country": "uk",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
-    "nanoid": "ukTueis6CrOzU1",
-    "name": "BBC Radio Scotland",
-    "stream_urls": [
-      "https://as-hls-ww-live.akamaized.net/pool_43322914/live/ww/bbc_radio_scotland_fm/bbc_radio_scotland_fm.isml/bbc_radio_scotland_fm-audio%3d128000.norewind.m3u8"
-    ],
-    "country": "uk",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
-    "nanoid": "MN4HRdvgPPWe8n",
-    "name": "BBC Radio Solent",
-    "stream_urls": [
-      "https://as-hls-ww-live.akamaized.net/pool_11685351/live/ww/bbc_radio_solent/bbc_radio_solent.isml/bbc_radio_solent-audio%3D96000.norewind.m3u8"
-    ],
-    "country": "uk",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
-    "nanoid": "tzhzgcnLCwWm2L",
-    "name": "BBC Radio Tees",
-    "stream_urls": [
-      "https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/pc_hd_abr_v2/aks/bbc_tees.m3u8"
+      "https://as-hls-ww-live.akamaized.net/pool_74208725/live/ww/bbc_radio_two/bbc_radio_two.isml/bbc_radio_two-audio%3d96000.m3u8"
     ],
     "country": "uk",
     "languages": [
@@ -985,40 +658,6 @@
     "name": "BBC Radio Uganda",
     "stream_urls": [
       "https://stream.live.vc.bbcmedia.co.uk/bbc_world_service_west_africa"
-    ],
-    "country": "uk",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
-    "nanoid": "gH7whV4jkVE2zd",
-    "name": "BBC Radio Ulster",
-    "stream_urls": [
-      "https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/audio_syndication_low_sbr_v1/aks/bbc_radio_ulster.m3u8",
-      "https://as-hls-ww-live.akamaized.net/pool_31244774/live/ww/bbc_radio_ulster/bbc_radio_ulster.isml/bbc_radio_ulster-audio%3d128000.norewind.m3u8"
-    ],
-    "country": "uk",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
-    "nanoid": "z6sgLGZOmkMBAw",
-    "name": "BBC Radio Wales",
-    "stream_urls": [
-      "https://as-hls-ww-live.akamaized.net/pool_97517794/live/ww/bbc_radio_wales_fm/bbc_radio_wales_fm.isml/bbc_radio_wales_fm-audio%3d128000.norewind.m3u8"
-    ],
-    "country": "uk",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
-    "nanoid": "DmLDOLWukoy3Er",
-    "name": "BBC World Service",
-    "stream_urls": [
-      "https://as-hls-ww-live.akamaized.net/pool_87948813/live/ww/bbc_world_service/bbc_world_service.isml/bbc_world_service-audio%3d128000.norewind.m3u8"
     ],
     "country": "uk",
     "languages": [
@@ -1048,32 +687,10 @@
     ]
   },
   {
-    "nanoid": "tG9SPcNq1JVUVl",
-    "name": "BBC World Service (Europe)",
-    "stream_urls": [
-      "https://as-hls-ww-live.akamaized.net/pool_86406537/live/ww/bbc_world_service_europe/bbc_world_service_europe.isml/bbc_world_service_europe-audio%3d320000.norewind.m3u8"
-    ],
-    "country": "uk",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
     "nanoid": "Ab8X8e8wCX8iGn",
     "name": "BBC World Service Americas",
     "stream_urls": [
       "https://stream.live.vc.bbcmedia.co.uk/bbc_world_service_americas"
-    ],
-    "country": "uk",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
-    "nanoid": "8q4rXJ4gb7HvvF",
-    "name": "BBC World Service News",
-    "stream_urls": [
-      "https://as-hls-ww.live.cf.md.bbci.co.uk/pool_07364996/live/ww/bbc_world_service_news_internet/bbc_world_service_news_internet.isml/bbc_world_service_news_internet-audio=320000.norewind.m3u8"
     ],
     "country": "uk",
     "languages": [
@@ -1118,6 +735,17 @@
     "name": "Beat Route Radio",
     "stream_urls": [
       "https://beatrouteradio.radioca.st/autodj"
+    ],
+    "country": "uk",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "1CfRdrX2IIuADm",
+    "name": "Beats Central",
+    "stream_urls": [
+      "https://radio.beatscentral.co.uk/listen/ukg/radio.mp3"
     ],
     "country": "uk",
     "languages": [
@@ -1184,8 +812,8 @@
     "nanoid": "HqyECAWG2wWBQ0",
     "name": "BFBS Aldershot",
     "stream_urls": [
-      "https://listen-ssvcbfbs.sharp-stream.com/ssvcbfbs13.aac",
-      "https://edge-audio-02-thn.sharp-stream.com/ssvcbfbs13.aac"
+      "https://edge-audio-02-thn.sharp-stream.com/ssvcbfbs13.aac",
+      "https://listen-ssvcbfbs.sharp-stream.com/ssvcbfbs13.aac"
     ],
     "country": "uk",
     "languages": [
@@ -1251,8 +879,7 @@
     "nanoid": "E0UEvNrylJPyoK",
     "name": "BFBS Edge",
     "stream_urls": [
-      "https://listen-ssvcbfbs.sharp-stream.com/ssvcbfbs22.aac",
-      "https://edge-audio-04-thn.sharp-stream.com:80/ssvcbfbs22.mp3"
+      "https://listen-ssvcbfbs.sharp-stream.com/ssvcbfbs22.aac"
     ],
     "country": "uk",
     "languages": [
@@ -1471,17 +1098,6 @@
     ]
   },
   {
-    "nanoid": "NC8EqN2lYsI05i",
-    "name": "BluesRadio UK",
-    "stream_urls": [
-      "https://streaming06.liveboxstream.uk/proxy/david125/stream"
-    ],
-    "country": "uk",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
     "nanoid": "y0UN8S5W7z5sur",
     "name": "Bolton FM",
     "stream_urls": [
@@ -1530,9 +1146,9 @@
     "nanoid": "Eh6l2aRFw1l4zx",
     "name": "Boom Radio",
     "stream_urls": [
+      "https://edge-audio-03-gos2.sharp-stream.com/65_boom_radio_live_320",
       "https://listen-boomradio.sharp-stream.com/65_boom_radio_live_128",
-      "https://listen-boomradio.sharp-stream.com/65_boom_radio_live_192",
-      "https://edge-audio-03-gos2.sharp-stream.com/65_boom_radio_live_320"
+      "https://listen-boomradio.sharp-stream.com/65_boom_radio_live_192"
     ],
     "country": "uk",
     "languages": [
@@ -1777,6 +1393,17 @@
     ]
   },
   {
+    "nanoid": "vaVqkMwWXBN9ph",
+    "name": "Brumside Radio",
+    "stream_urls": [
+      "https://carol.epichosts.co.uk:8442/live.mp3"
+    ],
+    "country": "uk",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
     "nanoid": "YMWG7Omexuc8uu",
     "name": "BSR (Brown Student & Community Radio)",
     "stream_urls": [
@@ -1825,17 +1452,6 @@
     "name": "Calder Valley Radio",
     "stream_urls": [
       "https://ais-sa2.cdnstream1.com/2293_192.mp3"
-    ],
-    "country": "uk",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
-    "nanoid": "TCiaJ78KBk729j",
-    "name": "Calm N Chill Radio",
-    "stream_urls": [
-      "https://stream.zeno.fm/yvcddifycietv"
     ],
     "country": "uk",
     "languages": [
@@ -1969,9 +1585,9 @@
     "nanoid": "wp5tN0dDONQpKC",
     "name": "Capital London",
     "stream_urls": [
-      "https://media-ssl.musicradio.com/CapitalMP3",
       "https://ice-the.musicradio.com/Capital",
-      "https://media-ice.musicradio.com/CapitalMP3"
+      "https://media-ice.musicradio.com/CapitalMP3",
+      "https://media-ssl.musicradio.com/CapitalMP3"
     ],
     "country": "uk",
     "languages": [
@@ -2114,17 +1730,6 @@
     ]
   },
   {
-    "nanoid": "BHL6uWcc6ZUyrn",
-    "name": "CBN Television",
-    "stream_urls": [
-      "https://5790d294af2dc.streamlock.net/CBNVI/CBNVI/playlist.m3u8"
-    ],
-    "country": "uk",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
     "nanoid": "bo9NX0RPlARnQZ",
     "name": "Central Radio North West",
     "stream_urls": [
@@ -2231,7 +1836,8 @@
     "stream_urls": [
       "https://media-ice.musicradio.com/ClassicFMMP3",
       "https://ice-sov.musicradio.com/ClassicFMMP3",
-      "https://media-the.musicradio.com/ClassicFM"
+      "https://media-the.musicradio.com/ClassicFM",
+      "https://ice-the.musicradio.com/ClassicFMMP3"
     ],
     "country": "uk",
     "languages": [
@@ -2386,6 +1992,17 @@
     "name": "Coast & County Radio",
     "stream_urls": [
       "https://stream1.superstreaming.co.uk/proxy/coastcounty1/stream"
+    ],
+    "country": "uk",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "70hv1WYRR4na2B",
+    "name": "Coast to Coast FM",
+    "stream_urls": [
+      "https://listen.radioking.com/radio/736439/stream/802808"
     ],
     "country": "uk",
     "languages": [
@@ -2703,17 +2320,6 @@
     ]
   },
   {
-    "nanoid": "vEdVtKpyp3p9kh",
-    "name": "Dandelion Radio",
-    "stream_urls": [
-      "https://solid41.streamupsolutions.com/proxy/bqbyzdhi?mp=/stream"
-    ],
-    "country": "uk",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
     "nanoid": "qanh03nzu4HCdV",
     "name": "Daz In The Hat Radio",
     "stream_urls": [
@@ -2817,6 +2423,17 @@
     "name": "Digital Soul Radio",
     "stream_urls": [
       "https://play.radioking.io/digitalsoulradio"
+    ],
+    "country": "uk",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "QOJxH3K6vY3k2G",
+    "name": "Dire Straits",
+    "stream_urls": [
+      "https://stream.pcradio.ru/dire_straits-hi"
     ],
     "country": "uk",
     "languages": [
@@ -3375,6 +2992,17 @@
     ]
   },
   {
+    "nanoid": "wg4t0tAFPO7wKV",
+    "name": "Frisky Radio",
+    "stream_urls": [
+      "https://stream.frisky.friskyradio.com/"
+    ],
+    "country": "uk",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
     "nanoid": "2NPhXBBfrQF3ne",
     "name": "Frisky Radio Chill",
     "stream_urls": [
@@ -3646,7 +3274,8 @@
     "stream_urls": [
       "https://media-sov.musicradio.com/Global-M-Pride",
       "https://media-ssl.musicradio.com/Global-M-Pride",
-      "https://media-the.musicradio.com/Global-M-Pride"
+      "https://media-the.musicradio.com/Global-M-Pride",
+      "https://media-ice.musicradio.com/Global-M-Pride"
     ],
     "country": "uk",
     "languages": [
@@ -3669,8 +3298,7 @@
     "name": "Gold",
     "stream_urls": [
       "https://media-ssl.musicradio.com/Gold",
-      "https://media-ssl.musicradio.com/GoldMP3",
-      "https://media-ice.musicradio.com/GoldMP3"
+      "https://media-ssl.musicradio.com/GoldMP3"
     ],
     "country": "uk",
     "languages": [
@@ -3825,6 +3453,17 @@
     "name": "Healthcare NOW Radio",
     "stream_urls": [
       "https://healthcarenowradio.out.airtime.pro/healthcarenowradio_a"
+    ],
+    "country": "uk",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "8EgMQtcoX64JdE",
+    "name": "HearMe - 00s Pop",
+    "stream_urls": [
+      "https://radio.hearme.fm:8040/stream"
     ],
     "country": "uk",
     "languages": [
@@ -4000,9 +3639,9 @@
     "nanoid": "Uz8Zt5kU9GBnO8",
     "name": "Heart 80s",
     "stream_urls": [
+      "https://icecast.thisisdax.com/Heart80sMP3",
       "https://media-ssl.musicradio.com/Heart80sMP3",
-      "https://ice-sov.musicradio.com/Heart80sMP3",
-      "https://icecast.thisisdax.com/Heart80sMP3"
+      "https://ice-sov.musicradio.com/Heart80sMP3"
     ],
     "country": "uk",
     "languages": [
@@ -4237,8 +3876,7 @@
     "nanoid": "u344sMK69QOPeO",
     "name": "Heart Peterborough",
     "stream_urls": [
-      "https://icecast.thisisdax.com/HeartPeterboroughMP3",
-      "https://media-ice.musicradio.com/HeartPeterboroughMP3"
+      "https://icecast.thisisdax.com/HeartPeterboroughMP3"
     ],
     "country": "uk",
     "languages": [
@@ -4601,17 +4239,6 @@
     ]
   },
   {
-    "nanoid": "kuvRP1QHPiejK9",
-    "name": "House Heads UK Radio",
-    "stream_urls": [
-      "https://s36.myradiostream.com:13028/;"
-    ],
-    "country": "uk",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
     "nanoid": "8OZlyPYDMj8LLm",
     "name": "House Music Radio",
     "stream_urls": [
@@ -4725,8 +4352,7 @@
     "nanoid": "n7WK9hVqC3vXTo",
     "name": "Insanity Radio 103.2 FM",
     "stream_urls": [
-      "https://stream.cor.insanityradio.com/insanity.flac",
-      "https://scdnc.insanityradio.com/dash/hls/insanity/index.m3u8"
+      "https://stream.cor.insanityradio.com/insanity.flac"
     ],
     "country": "uk",
     "languages": [
@@ -4933,10 +4559,10 @@
     ]
   },
   {
-    "nanoid": "8v7duOf5zE4cds",
-    "name": "JoyHits Radio",
+    "nanoid": "eApIL9b8iPYvLz",
+    "name": "Judas Priest Radio",
     "stream_urls": [
-      "https://joyhits.online/joyhits.flac.ogg"
+      "https://stream.pcradio.ru/judas_priest-hi"
     ],
     "country": "uk",
     "languages": [
@@ -4944,10 +4570,10 @@
     ]
   },
   {
-    "nanoid": "eApIL9b8iPYvLz",
-    "name": "Judas Priest Radio",
+    "nanoid": "v6SGaaCpsf9OSX",
+    "name": "Juice Liverpool",
     "stream_urls": [
-      "https://stream.pcradio.ru/judas_priest-hi"
+      "https://uksouth1.juiceboxradio.com/JuiceLiverpool"
     ],
     "country": "uk",
     "languages": [
@@ -5043,17 +4669,6 @@
     ]
   },
   {
-    "nanoid": "mOVY7j6m2ieb3M",
-    "name": "Kids Rave Radio",
-    "stream_urls": [
-      "https://s3.radio.co:80/se1c4cc1fb/listen"
-    ],
-    "country": "uk",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
     "nanoid": "myNTi3ZMbwabIa",
     "name": "KISS UK",
     "stream_urls": [
@@ -5079,8 +4694,8 @@
     "nanoid": "ShIgK6t1JdRQ3h",
     "name": "KMF Radio",
     "stream_urls": [
-      "https://stream.radiojar.com/etuyduh923duv",
-      "https://n03.radiojar.com/etuyduh923duv"
+      "https://n03.radiojar.com/etuyduh923duv",
+      "https://stream.radiojar.com/etuyduh923duv"
     ],
     "country": "uk",
     "languages": [
@@ -5180,8 +4795,7 @@
     "name": "LBC",
     "stream_urls": [
       "https://icecast.thisisdax.com/LBCLondon",
-      "https://media-sov.musicradio.com/LBC973MP3Low",
-      "https://media-ice.musicradio.com/LBCLondon"
+      "https://media-sov.musicradio.com/LBC973MP3Low"
     ],
     "country": "uk",
     "languages": [
@@ -5204,9 +4818,9 @@
     "nanoid": "gDwKYeQh8Mx0aP",
     "name": "LBC News",
     "stream_urls": [
-      "https://media-ssl.musicradio.com/LBCNewsUK",
       "https://media-ice.musicradio.com/LBCUKMP3Low",
-      "https://icecast.thisisdax.com/LBC1152"
+      "https://icecast.thisisdax.com/LBC1152",
+      "https://media-ssl.musicradio.com/LBCNewsUK"
     ],
     "country": "uk",
     "languages": [
@@ -5263,6 +4877,17 @@
     "name": "LifeFM.tv",
     "stream_urls": [
       "https://streamer.radio.co/s1ed160262/listen"
+    ],
+    "country": "uk",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "9rNoGOqZhySF40",
+    "name": "Lifestyle Radio UK",
+    "stream_urls": [
+      "https://a4.asurahosting.com:6560/radio.mp3"
     ],
     "country": "uk",
     "languages": [
@@ -5523,8 +5148,8 @@
     "nanoid": "ej9wiFLUAaKw2h",
     "name": "London Soul Radio",
     "stream_urls": [
-      "https://londonsoulradio.out.airtime.pro/londonsoulradio_a",
-      "https://londonsoulradio.out.airtime.pro:8000/londonsoulradio_a"
+      "https://londonsoulradio.out.airtime.pro:8000/londonsoulradio_a",
+      "https://londonsoulradio.out.airtime.pro/londonsoulradio_a"
     ],
     "country": "uk",
     "languages": [
@@ -5836,17 +5461,6 @@
     "name": "Mechanical Music Radio",
     "stream_urls": [
       "https://global.citrus3.com:2020/stream/mechanicalmusicradio"
-    ],
-    "country": "uk",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
-    "nanoid": "wP9GDgjs2x6SLf",
-    "name": "Mellow Mountain Radio",
-    "stream_urls": [
-      "https://owncast.mellowmountainradio.com/hls/stream.m3u8"
     ],
     "country": "uk",
     "languages": [
@@ -6268,17 +5882,6 @@
     ]
   },
   {
-    "nanoid": "FgDNeNpMEWO9ta",
-    "name": "National Prison Radio",
-    "stream_urls": [
-      "https://audio3.mixcloud.com/secure/hls/,3/4/5/8/cb84-1177-4941-a6ff-7be67c9c0866,3/4/5/8/cb84-1177-4941-a6ff-7be67c9c0866-192K,.m4a.urlset/index.m3u8"
-    ],
-    "country": "uk",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
     "nanoid": "x6eFpvvXNc5TzT",
     "name": "Nazareth Radio",
     "stream_urls": [
@@ -6361,8 +5964,8 @@
     "nanoid": "hmoabjSUwuI0VA",
     "name": "NoiseBox Radio",
     "stream_urls": [
-      "https://stream.radiojar.com/n1bs4ekbvuhvv",
-      "https://n11.radiojar.com/n1bs4ekbvuhvv"
+      "https://n11.radiojar.com/n1bs4ekbvuhvv",
+      "https://stream.radiojar.com/n1bs4ekbvuhvv"
     ],
     "country": "uk",
     "languages": [
@@ -6414,17 +6017,6 @@
     ]
   },
   {
-    "nanoid": "lnPBWY8i4eaQUg",
-    "name": "Nostalgia Central",
-    "stream_urls": [
-      "https://s5.radio.co/s6211fbeed/listen"
-    ],
-    "country": "uk",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
     "nanoid": "VkAwTCBZCvpZha",
     "name": "NOTE.radio",
     "stream_urls": [
@@ -6437,43 +6029,10 @@
     ]
   },
   {
-    "nanoid": "cPLuJRV2AJl2c2",
-    "name": "Now 70s",
-    "stream_urls": [
-      "https://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8"
-    ],
-    "country": "uk",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
-    "nanoid": "DyUMtmNvzkGbCY",
-    "name": "Now 80s",
-    "stream_urls": [
-      "https://lightning-now80s-samsunguk.amagi.tv/playlist.m3u8"
-    ],
-    "country": "uk",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
     "nanoid": "M6easPc8AWLtN7",
     "name": "NOW Radio 80s",
     "stream_urls": [
       "https://stream.zeno.fm/ihij6rdighvtv"
-    ],
-    "country": "uk",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
-    "nanoid": "fSkxib8jQvHP3V",
-    "name": "Now Rock",
-    "stream_urls": [
-      "https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8"
     ],
     "country": "uk",
     "languages": [
@@ -6932,6 +6491,17 @@
     ]
   },
   {
+    "nanoid": "bKKuGnycVDiHLi",
+    "name": "Passion Radio",
+    "stream_urls": [
+      "https://stream.mybroadbandradio.com/passionradio"
+    ],
+    "country": "uk",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
     "nanoid": "CMuf2an1ESTO0T",
     "name": "Past Perfect Radio",
     "stream_urls": [
@@ -6974,17 +6544,6 @@
     "languages": [
       "eng",
       "fas"
-    ]
-  },
-  {
-    "nanoid": "Cx8r5bblxLzwL1",
-    "name": "PhaseFM",
-    "stream_urls": [
-      "https://azuracast.clubhits.uk/listen/phasefm/radio.mp3"
-    ],
-    "country": "uk",
-    "languages": [
-      "eng"
     ]
   },
   {
@@ -7099,6 +6658,18 @@
     ]
   },
   {
+    "nanoid": "nlGB2GpH00mPRH",
+    "name": "Primordial Radio",
+    "stream_urls": [
+      "https://play.adtonos.com/thisisprimordial",
+      "https://fr1-play.adtonos.com/8108/thisisprimordial"
+    ],
+    "country": "uk",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
     "nanoid": "n2UIci2dLSqefh",
     "name": "Prince Bishops Hospital Radio",
     "stream_urls": [
@@ -7147,17 +6718,6 @@
     "name": "Pure Beat Radio",
     "stream_urls": [
       "https://cast6.asurahosting.com/proxy/purebeat/stream"
-    ],
-    "country": "uk",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
-    "nanoid": "zvaCDZA4jv8ZNP",
-    "name": "Pure FM London",
-    "stream_urls": [
-      "https://phoebe.streamerr.co:1140/;"
     ],
     "country": "uk",
     "languages": [
@@ -7571,9 +7131,9 @@
     "nanoid": "121MZymy5RgcXw",
     "name": "Radio Hillingdon",
     "stream_urls": [
+      "https://streaming.broadcastradio.com:10040/hrhillingdonmp3",
       "https://uksoutha.streaming.broadcast.radio/hrhillingdonmp3",
-      "https://streaming.broadcast.radio/hrhillingdonaac",
-      "https://streaming.broadcastradio.com:10040/hrhillingdonmp3"
+      "https://streaming.broadcast.radio/hrhillingdonaac"
     ],
     "country": "uk",
     "languages": [
@@ -7585,17 +7145,6 @@
     "name": "Radio Horton",
     "stream_urls": [
       "https://radiohorton.radioca.st/;"
-    ],
-    "country": "uk",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
-    "nanoid": "55Kqr0NT10quDB",
-    "name": "Radio Jackie 107.8",
-    "stream_urls": [
-      "https://media.radiojackie.com/redirector/frontend.m3u8"
     ],
     "country": "uk",
     "languages": [
@@ -7846,28 +7395,6 @@
     ]
   },
   {
-    "nanoid": "C2uZOGmTw2japZ",
-    "name": "Radio Sidewinder",
-    "stream_urls": [
-      "https://radiosidewinder.out.airtime.pro:8000/radiosidewinder_a"
-    ],
-    "country": "uk",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
-    "nanoid": "5lM3vbQJhFZ5IM",
-    "name": "Radio Six International",
-    "stream_urls": [
-      "https://www.radiosix.com/radiosix.mp3"
-    ],
-    "country": "uk",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
     "nanoid": "0QFRwJ9lkTvdef",
     "name": "Radio UTSAV",
     "stream_urls": [
@@ -7876,17 +7403,6 @@
     "country": "uk",
     "languages": [
       "hin"
-    ]
-  },
-  {
-    "nanoid": "AAmHkMC6MUzE04",
-    "name": "Radio Waters",
-    "stream_urls": [
-      "https://uk5.internet-radio.com/proxy/radiowaters/stream"
-    ],
-    "country": "uk",
-    "languages": [
-      "eng"
     ]
   },
   {
@@ -8169,6 +7685,17 @@
     ]
   },
   {
+    "nanoid": "a5l2gxIoECOB0j",
+    "name": "Radioalfa 8 Latin Hits",
+    "stream_urls": [
+      "https://stream.zeno.fm/51z3n54r1qzuv"
+    ],
+    "country": "uk",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
     "nanoid": "Z1Nv8Nj0ufMnx5",
     "name": "Radioalfa 9 Latin Hits",
     "stream_urls": [
@@ -8206,17 +7733,6 @@
     "name": "Radiohead",
     "stream_urls": [
       "https://stream.pcradio.ru/radiohead-hi"
-    ],
-    "country": "uk",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
-    "nanoid": "uIuSVZPsIi8jl8",
-    "name": "RadioNev",
-    "stream_urls": [
-      "https://a7.asurahosting.com:8140/radio.mp3"
     ],
     "country": "uk",
     "languages": [
@@ -8383,6 +7899,17 @@
     "name": "Resonance Extra",
     "stream_urls": [
       "https://stream.resonance.fm/resonance-extra"
+    ],
+    "country": "uk",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "zdYIfBIQ60qeg4",
+    "name": "Retro Mix Radio",
+    "stream_urls": [
+      "https://stream.retromixradio.co.uk/radio48"
     ],
     "country": "uk",
     "languages": [
@@ -8733,6 +8260,17 @@
     ]
   },
   {
+    "nanoid": "UyBHfDJauO2VzG",
+    "name": "Sanskar Radio",
+    "stream_urls": [
+      "https://radio.canstream.co.uk:8024/live.mp3"
+    ],
+    "country": "uk",
+    "languages": [
+      "hin"
+    ]
+  },
+  {
     "nanoid": "oslYYrBkulLP4R",
     "name": "Santa Christmas Radio",
     "stream_urls": [
@@ -8989,9 +8527,11 @@
     "nanoid": "xJGv68JSU7VV4f",
     "name": "Smooth Chill",
     "stream_urls": [
-      "https://media-ssl.musicradio.com/ChillMP3",
       "https://icecast.thisisdax.com/ChillMP3",
-      "https://media-ice.musicradio.com/ChillMP3"
+      "https://media-ice.musicradio.com/ChillMP3",
+      "https://media-ssl.musicradio.com/ChillMP3",
+      "https://icecast.thisisdax.com/SmoothChillMP3",
+      "https://icecast.thisisdax.com/SmoothChill"
     ],
     "country": "uk",
     "languages": [
@@ -9136,17 +8676,6 @@
     "name": "Smooth Soul",
     "stream_urls": [
       "https://media-ice.musicradio.com/SmoothSoulMP3"
-    ],
-    "country": "uk",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
-    "nanoid": "dOdtBvRwFlNCtf",
-    "name": "Smooth Wiltshire",
-    "stream_urls": [
-      "https://icecast.thisisdax.com/SmoothWiltshireMP3"
     ],
     "country": "uk",
     "languages": [
@@ -9648,17 +9177,6 @@
     ]
   },
   {
-    "nanoid": "xWob6RTHK4xQZN",
-    "name": "TeamSport Radio",
-    "stream_urls": [
-      "https://uksouth1.juiceboxradio.com/tsradionational"
-    ],
-    "country": "uk",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
     "nanoid": "o7etiUdJ6LEd3o",
     "name": "Teenage Kicks Radio",
     "stream_urls": [
@@ -9693,10 +9211,10 @@
     ]
   },
   {
-    "nanoid": "FhL1NCzANH1TLd",
-    "name": "The Beat London 103.6 FM",
+    "nanoid": "GMdnSocV1iIzoD",
+    "name": "The Beatles Radio",
     "stream_urls": [
-      "https://stream.zeno.fm/x59sz6hkev8uv"
+      "https://stream.pcradio.ru/The_Beatles-hi"
     ],
     "country": "uk",
     "languages": [
@@ -9960,17 +9478,6 @@
     ]
   },
   {
-    "nanoid": "6JHC2ZedX70OS7",
-    "name": "Torbay Hospital Radio",
-    "stream_urls": [
-      "https://s29.myradiostream.com:15188/;"
-    ],
-    "country": "uk",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
     "nanoid": "qN0Pg1huUP0JoA",
     "name": "Totally 80s Radio",
     "stream_urls": [
@@ -10043,17 +9550,6 @@
     "name": "Trust AM",
     "stream_urls": [
       "https://streaming.galaxywebsolutions.com:9034/stream"
-    ],
-    "country": "uk",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
-    "nanoid": "aVFRdMngAmMZz5",
-    "name": "Tuneskool Radio",
-    "stream_urls": [
-      "https://c18.radioboss.fm:8423/stream"
     ],
     "country": "uk",
     "languages": [
@@ -10425,17 +9921,6 @@
     ]
   },
   {
-    "nanoid": "EJJU3UNERhxgQc",
-    "name": "Wey Valley Radio",
-    "stream_urls": [
-      "https://stream.readyformed.com:8443/wey1"
-    ],
-    "country": "uk",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
     "nanoid": "0Hf9JsJYd4zcQJ",
     "name": "White Cliffs Radio",
     "stream_urls": [
@@ -10617,17 +10102,6 @@
     "name": "Zack FM",
     "stream_urls": [
       "https://s2.streamer1.com/listen/zackfm/zackTEST.mp3"
-    ],
-    "country": "uk",
-    "languages": [
-      "eng"
-    ]
-  },
-  {
-    "nanoid": "eG4pmOeO5B7Xc4",
-    "name": "Zzap Radio",
-    "stream_urls": [
-      "https://zzapradio.org.uk/listen"
     ],
     "country": "uk",
     "languages": [

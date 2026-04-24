@@ -1,5 +1,18 @@
 [
   {
+    "nanoid": "MsBPAtiznwuBpL",
+    "name": "3Cat Plats bruts",
+    "stream_urls": [
+      "https://fast-tailor.3catdirectes.cat/v1/channel/ccma-channel2/hls.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "cat"
+    ],
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "sFxGybHHfJgVTf",
     "name": "13 Teleseries",
     "stream_urls": [
@@ -23,6 +36,19 @@
       "eng"
     ],
     "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Am77zbsA4kDJTi",
+    "name": "Afra Series",
+    "stream_urls": [
+      "https://afrashls.wns.live/hls/stream.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "fas"
+    ],
+    "country": "ir",
     "isGeoBlocked": false
   },
   {
@@ -429,7 +455,7 @@
     "name": "Hala Bel3eyal: Shabab Al-Bomb",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/0KYwRJ1mKM8"
+      "https://www.youtube-nocookie.com/embed/FsqgIL3wznc"
     ],
     "languages": [
       "ara"
@@ -501,19 +527,6 @@
       "eng"
     ],
     "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "UDmlskBaSdu1z8",
-    "name": "Kurtlar Vadisi",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/Fqz0xiKerUw"
-    ],
-    "languages": [
-      "tur"
-    ],
-    "country": "tr",
     "isGeoBlocked": false
   },
   {
@@ -693,11 +706,50 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "UQHpLbU32owAll",
+    "name": "Shout! Studios: 21 Jump Street",
+    "stream_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/zsqHN3olUXw"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "JfdQ8GXk8vD883",
+    "name": "Shout! Studios: Father Knows Best",
+    "stream_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/BEEtLzOSwHs"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "rkSBlkz2deLyQZ",
     "name": "Shout! Studios: Get A Life",
     "stream_urls": [],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/fBrYllLFCRQ"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "fxYAd4OmyqIq2r",
+    "name": "Shout! Studios: Hunter",
+    "stream_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/DmzAgb3vlgM"
     ],
     "languages": [
       "eng"
@@ -714,6 +766,32 @@
     ],
     "languages": [
       "spa"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "6B09VgzP1u7pf6",
+    "name": "Shout! Studios: Renegade",
+    "stream_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/VoktPmzlFzY"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "9b9wQbmK8gCvEd",
+    "name": "Shout! Studios: The Greatest American Hero",
+    "stream_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/V4GlGLZ1kdQ"
+    ],
+    "languages": [
+      "eng"
     ],
     "country": "us",
     "isGeoBlocked": false
@@ -761,8 +839,7 @@
     "nanoid": "3WLQIvLWgJCx9b",
     "name": "Super TV",
     "stream_urls": [
-      "https://59d7d6f47d7fc.streamlock.net/supertv/supertv/playlist.m3u8",
-      "https://wms.shared.streamshow.it/supertv/mp4:supertv/playlist.m3u8"
+      "https://59d7d6f47d7fc.streamlock.net/supertv/supertv/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -788,7 +865,8 @@
     "nanoid": "dvALQRnBuRaADE",
     "name": "The Bob Ross Channel",
     "stream_urls": [
-      "https://pb-yxyesssss0re7.akamaized.net/v1/cinedigm_entertainment_corp_thebobrosschannel_1/samsungheadend_us/latest/main/hls/playlist.m3u8"
+      "https://pb-yxyesssss0re7.akamaized.net/v1/cinedigm_entertainment_corp_thebobrosschannel_1/samsungheadend_us/latest/main/hls/playlist.m3u8",
+      "https://aegis-cloudfront-1.tubi.video/45301c94-0d40-4cbb-b342-f5dc7949d76c/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -824,11 +902,50 @@
     "isGeoBlocked": true
   },
   {
+    "nanoid": "10SoS9VfdLy3Lp",
+    "name": "TokuSHOUTsu: Denji Sentai Megaranger",
+    "stream_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/tjiH6zxkYXU"
+    ],
+    "languages": [
+      "jpn"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "5zMPOhKUR72wAc",
     "name": "TokuSHOUTsu: Kamen Rider",
     "stream_urls": [],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/Q9N_IllkIzE"
+    ],
+    "languages": [
+      "jpn"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "jCCrC4uMCnnFWp",
+    "name": "TokuSHOUTsu: Kamen Rider Ryuki",
+    "stream_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/n4CsPHtdPd4"
+    ],
+    "languages": [
+      "jpn"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "2AOIoYE1ui3KIx",
+    "name": "TokuSHOUTsu: Kyōryū Sentai Zyuranger",
+    "stream_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/jSC4N7Za1P0"
     ],
     "languages": [
       "jpn"
@@ -887,6 +1004,19 @@
       "spa"
     ],
     "country": "es",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "YLH7tSL9ZYL5tA",
+    "name": "TVI Ficção",
+    "stream_urls": [
+      "https://video-auth2.iol.pt/live_tvi_ficcao/live_tvi_ficcao/edge_servers/tvificcao-720p/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "por"
+    ],
+    "country": "pt",
     "isGeoBlocked": false
   },
   {
@@ -985,19 +1115,6 @@
     "name": "Сити Эдем КиноДок",
     "stream_urls": [
       "https://cityeden.catcast.tv/content/38354/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "rus"
-    ],
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "N0XEtBmZuJSvlx",
-    "name": "Сити Эдем ТелеНовелла",
-    "stream_urls": [
-      "https://cityeden.catcast.tv/content/46209/index.m3u8"
     ],
     "youtube_urls": [],
     "languages": [

@@ -1,5 +1,16 @@
 [
   {
+    "nanoid": "IcpA0ILZ0xJBot",
+    "name": "105.4 Cascais",
+    "stream_urls": [
+      "https://play.radioregional.pt:8220/stream/2/;;/stream.mp3"
+    ],
+    "country": "pt",
+    "languages": [
+      "por"
+    ]
+  },
+  {
     "nanoid": "XMP88wqVNzoQc0",
     "name": "4Drive Jazz",
     "stream_urls": [
@@ -27,9 +38,7 @@
     "nanoid": "7IMkkaSHesdBDz",
     "name": "Antena 1",
     "stream_urls": [
-      "https://radiocast.rtp.pt/antena180a.mp3",
-      "https://streaming-live-app.rtp.pt/liveradio/antena180a/playlist.m3u8",
-      "https://streaming-live.rtp.pt/liveradio/antena180a/chunklist.m3u8"
+      "https://radiocast.rtp.pt/antena180a.mp3"
     ],
     "country": "pt",
     "languages": [
@@ -40,8 +49,7 @@
     "nanoid": "JnaHEPp4CEnIMO",
     "name": "Antena 1 Açores",
     "stream_urls": [
-      "https://radiocast.rtp.pt/antena1acores80a.mp3",
-      "https://streaming-live.rtp.pt/liveradio/antena1acores80a/playlist.m3u8"
+      "https://radiocast.rtp.pt/antena1acores80a.mp3"
     ],
     "country": "pt",
     "languages": [
@@ -85,9 +93,7 @@
     "nanoid": "pVeiCYxbXzsYN7",
     "name": "Antena 2",
     "stream_urls": [
-      "https://radiocast.rtp.pt/antena280a.mp3",
-      "https://streaming-live.rtp.pt/liveradio/antena280a/playlist.m3u8",
-      "https://streaming-live-app.rtp.pt/liveradio/antena280a/playlist.m3u8"
+      "https://radiocast.rtp.pt/antena280a.mp3"
     ],
     "country": "pt",
     "languages": [
@@ -98,8 +104,7 @@
     "nanoid": "hg5DuNQ6YQ8rog",
     "name": "Antena 2 Jazzin",
     "stream_urls": [
-      "https://radiocast.rtp.pt/antena2jazzin80a.mp3",
-      "https://streaming-live.rtp.pt/liveradio/antena2jazzin80a/playlist.m3u8"
+      "https://radiocast.rtp.pt/antena2jazzin80a.mp3"
     ],
     "country": "pt",
     "languages": [
@@ -111,7 +116,6 @@
     "name": "Antena 2 Ópera",
     "stream_urls": [
       "https://radiocast.rtp.pt/antena2opera80a.mp3",
-      "https://streaming-live.rtp.pt/liveradio/antena2opera80a/playlist.m3u8",
       "https://streaming-live.rtp.pt/liveradio/antena2opera80a/chunklist_DVR.m3u8"
     ],
     "country": "pt",
@@ -123,8 +127,7 @@
     "nanoid": "pxjEfE1dugyap9",
     "name": "Antena 3",
     "stream_urls": [
-      "https://radiocast.rtp.pt/antena380a.mp3",
-      "https://streaming-live-app.rtp.pt/liveradio/antena380a/playlist.m3u8"
+      "https://radiocast.rtp.pt/antena380a.mp3"
     ],
     "country": "pt",
     "languages": [
@@ -135,8 +138,7 @@
     "nanoid": "iKIhmAFFz824vi",
     "name": "Antena 3 Madeira",
     "stream_urls": [
-      "https://radiocast.rtp.pt/antena3madeira80a.mp3",
-      "https://streaming-live.rtp.pt/liveradio/antena3madeira80a/playlist.m3u8"
+      "https://radiocast.rtp.pt/antena3madeira80a.mp3"
     ],
     "country": "pt",
     "languages": [
@@ -166,11 +168,10 @@
     ]
   },
   {
-    "nanoid": "MxQJkGHsoK3t56",
-    "name": "Cidade FM",
+    "nanoid": "WPuUNLBqoUp0c5",
+    "name": "Cascais FM 105.4",
     "stream_urls": [
-      "https://stream-icy.bauermedia.pt/cidade.mp3",
-      "https://stream-hls.bauermedia.pt/cidade.aac/playlist.m3u8"
+      "https://play.radioregional.pt:8220/stream/2/;/stream.mp3"
     ],
     "country": "pt",
     "languages": [
@@ -178,10 +179,10 @@
     ]
   },
   {
-    "nanoid": "Bm5LbUt48DnHFs",
-    "name": "Cidade Hip Hop",
+    "nanoid": "MxQJkGHsoK3t56",
+    "name": "Cidade FM",
     "stream_urls": [
-      "https://stream-hls.bauermedia.pt/cidhiphop.aac/playlist.m3u8"
+      "https://stream-icy.bauermedia.pt/cidade.mp3"
     ],
     "country": "pt",
     "languages": [
@@ -208,17 +209,6 @@
     "country": "pt",
     "languages": [
       "eng",
-      "por"
-    ]
-  },
-  {
-    "nanoid": "jkSnVUuqIiivag",
-    "name": "Correio da Manhã Rádio",
-    "stream_urls": [
-      "https://emdireto.cmradio.pt/audio2/output-stream_1.m3u8"
-    ],
-    "country": "pt",
-    "languages": [
       "por"
     ]
   },
@@ -406,8 +396,7 @@
     "nanoid": "PFSc1Z5q9bihsY",
     "name": "M80 Radio",
     "stream_urls": [
-      "https://stream-icy.bauermedia.pt/m80.mp3",
-      "https://stream-hls.bauermedia.pt/m80.aac/playlist.m3u8"
+      "https://stream-icy.bauermedia.pt/m80.mp3"
     ],
     "country": "pt",
     "languages": [
@@ -512,17 +501,6 @@
     "languages": [
       "por",
       "eng"
-    ]
-  },
-  {
-    "nanoid": "IQGYDD6i2HaegC",
-    "name": "QEOM FM",
-    "stream_urls": [
-      "https://stream.zeno.fm/fr2jctsxjw9tv"
-    ],
-    "country": "pt",
-    "languages": [
-      "por"
     ]
   },
   {
@@ -663,8 +641,7 @@
     "nanoid": "Ra8Mbdd72x73ul",
     "name": "RDP Internacional",
     "stream_urls": [
-      "https://radiocast.rtp.pt/rdpint80a.mp3",
-      "https://streaming-live.rtp.pt/liveradio/rdpint80a/playlist.m3u8"
+      "https://radiocast.rtp.pt/rdpint80a.mp3"
     ],
     "country": "pt",
     "languages": [
@@ -675,8 +652,7 @@
     "nanoid": "JEgpaVKwVyUdzm",
     "name": "RDP África",
     "stream_urls": [
-      "https://radiocast.rtp.pt/rdpafrica80a.mp3",
-      "https://streaming-live.rtp.pt/liveradio/rdpafrica80a/playlist.m3u8"
+      "https://radiocast.rtp.pt/rdpafrica80a.mp3"
     ],
     "country": "pt",
     "languages": [
@@ -721,19 +697,6 @@
     "name": "Rewind 2000's",
     "stream_urls": [
       "https://2000.streeemer.com/listen/2000s/radio.aac"
-    ],
-    "country": "pt",
-    "languages": [
-      "por"
-    ]
-  },
-  {
-    "nanoid": "TqW2YbOKjZsQkK",
-    "name": "RFM",
-    "stream_urls": [
-      "https://playerservices.streamtheworld.com/api/livestream-redirect/RFMAAC.aac",
-      "https://playerservices.streamtheworld.com/api/livestream-redirect/RFMAAC_SC",
-      "https://22593.live.streamtheworld.com/RFMAAC.aac"
     ],
     "country": "pt",
     "languages": [
@@ -797,34 +760,10 @@
     ]
   },
   {
-    "nanoid": "3o7fSQKSqBeFoV",
-    "name": "RFM Latinas",
-    "stream_urls": [
-      "https://25693.live.streamtheworld.com/RFM_LATINASAAC.aac"
-    ],
-    "country": "pt",
-    "languages": [
-      "por",
-      "spa"
-    ]
-  },
-  {
     "nanoid": "B9eJRjA8Qjhn56",
     "name": "RFM Novas",
     "stream_urls": [
       "https://22733.live.streamtheworld.com/RFM_FRESCASAAC.aac"
-    ],
-    "country": "pt",
-    "languages": [
-      "por"
-    ]
-  },
-  {
-    "nanoid": "udeRld8MAPWNMq",
-    "name": "RFM Oceano Pacífico",
-    "stream_urls": [
-      "https://27943.live.streamtheworld.com/RFMAAC.aac",
-      "https://23543.live.streamtheworld.com/OCEANPACIFICAAC.aac"
     ],
     "country": "pt",
     "languages": [
@@ -847,17 +786,6 @@
     "name": "RFM Toca Portugal",
     "stream_urls": [
       "https://27793.live.streamtheworld.com/RFM_PORTUGALAAC.aac"
-    ],
-    "country": "pt",
-    "languages": [
-      "por"
-    ]
-  },
-  {
-    "nanoid": "Qw5vxQk8Ex1dex",
-    "name": "RUC - Rádio Universidade de Coimbra",
-    "stream_urls": [
-      "https://stream.ruc.pt/high"
     ],
     "country": "pt",
     "languages": [
@@ -946,17 +874,6 @@
     "name": "Rádio Clube de Grândola",
     "stream_urls": [
       "https://link.radios.pt/rcg"
-    ],
-    "country": "pt",
-    "languages": [
-      "por"
-    ]
-  },
-  {
-    "nanoid": "zZooQZSiGOm9Hq",
-    "name": "Rádio Comercial",
-    "stream_urls": [
-      "https://stream-hls.bauermedia.pt/comercial.aac/playlist.m3u8"
     ],
     "country": "pt",
     "languages": [
@@ -1119,17 +1036,6 @@
     ]
   },
   {
-    "nanoid": "dKhWhXECydJbaI",
-    "name": "Rádio Lusitânia",
-    "stream_urls": [
-      "https://streaming-live.rtp.pt/liveradio/lusitania80a/playlist.m3u8"
-    ],
-    "country": "pt",
-    "languages": [
-      "por"
-    ]
-  },
-  {
     "nanoid": "rZo82nFwNJm6hE",
     "name": "Rádio Maiorca FM",
     "stream_urls": [
@@ -1253,6 +1159,17 @@
     ]
   },
   {
+    "nanoid": "8OflrcsSh3kLZS",
+    "name": "Rádio Regional",
+    "stream_urls": [
+      "https://play.radioregional.pt/stream/2/"
+    ],
+    "country": "pt",
+    "languages": [
+      "por"
+    ]
+  },
+  {
     "nanoid": "ywTfKMs13LyIwZ",
     "name": "Rádio Regional do Centro",
     "stream_urls": [
@@ -1335,19 +1252,7 @@
     "nanoid": "buM7090MIAYYEd",
     "name": "Rádio Zig Zag",
     "stream_urls": [
-      "https://radiocast.rtp.pt/zigzag80a.mp3",
-      "https://streaming-live.rtp.pt/liveradio/zigzag80a/playlist.m3u8"
-    ],
-    "country": "pt",
-    "languages": [
-      "por"
-    ]
-  },
-  {
-    "nanoid": "ynA0dC1s1OfvqG",
-    "name": "Smooth FM",
-    "stream_urls": [
-      "https://stream-hls.bauermedia.pt/smooth.aac/playlist.m3u8"
+      "https://radiocast.rtp.pt/zigzag80a.mp3"
     ],
     "country": "pt",
     "languages": [
@@ -1359,17 +1264,6 @@
     "name": "Smooth FM Soul",
     "stream_urls": [
       "https://stream-icy.bauermedia.pt/smoothsoul.aac"
-    ],
-    "country": "pt",
-    "languages": [
-      "por"
-    ]
-  },
-  {
-    "nanoid": "ylKX7y2TLoAX0r",
-    "name": "Smooth Jazz Portugal",
-    "stream_urls": [
-      "https://stream-hls.bauermedia.pt/smojazz.aac/playlist.m3u8"
     ],
     "country": "pt",
     "languages": [

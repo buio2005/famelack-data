@@ -30,7 +30,7 @@
     "name": "FairON",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/DNp_ZXIPSWQ"
+      "https://www.youtube-nocookie.com/embed/iLFSXmIKH2g"
     ],
     "languages": [
       "deu"
@@ -144,12 +144,12 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "RiifWdXjWLsqP4",
-    "name": "ORF III HD",
-    "stream_urls": [
-      "https://orf3.mdn.ors.at/orf/orf3/qxa/manifest.m3u8"
+    "nanoid": "1VnHK2mZ0MLj12",
+    "name": "oe24 TV",
+    "stream_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/OoeHvQ1XkcY"
     ],
-    "youtube_urls": [],
     "languages": [
       "deu"
     ],
@@ -265,6 +265,19 @@
     "name": "Steiermark TV",
     "stream_urls": [
       "https://h056.video-stream-hosting.de/easycast8-live/_definst_/mp4:livestreamhd4/playlist.m3u8?ref="
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "deu"
+    ],
+    "country": "at",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "dHIKj0PT3rIpW8",
+    "name": "Stimmungsgarten TV",
+    "stream_urls": [
+      "https://live20.bozztv.com/akamaissh101/ssh101/stimmungsgarten/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [

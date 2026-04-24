@@ -90,6 +90,17 @@
     ]
   },
   {
+    "nanoid": "gOuqXpdOWzAP1I",
+    "name": "Radio Plato",
+    "stream_urls": [
+      "https://azura.radioplato.by/radio/8000/radio.mp3"
+    ],
+    "country": "by",
+    "languages": [
+      "bel"
+    ]
+  },
+  {
     "nanoid": "2snXso68FhmWrX",
     "name": "Wargaming.FM",
     "stream_urls": [
@@ -323,17 +334,6 @@
     ]
   },
   {
-    "nanoid": "wwaKS5oaQrUhZs",
-    "name": "Радио Мир 107.1 FM",
-    "stream_urls": [
-      "https://media1.datacenter.by:1936/radiomir/radiomir/playlist.m3u8"
-    ],
-    "country": "by",
-    "languages": [
-      "rus"
-    ]
-  },
-  {
     "nanoid": "pEqQw91pYdM6HS",
     "name": "Радио Могилёв",
     "stream_urls": [
@@ -416,6 +416,17 @@
     "name": "Супер ФМ",
     "stream_urls": [
       "https://stream2.datacenter.by/sfm"
+    ],
+    "country": "by",
+    "languages": [
+      "rus"
+    ]
+  },
+  {
+    "nanoid": "e8WllBVxUX2GD3",
+    "name": "Центр FM",
+    "stream_urls": [
+      "https://stream2.datacenter.by/stream"
     ],
     "country": "by",
     "languages": [

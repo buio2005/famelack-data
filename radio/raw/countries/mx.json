@@ -79,17 +79,6 @@
     ]
   },
   {
-    "nanoid": "r1RaIyVE0Uu5Pe",
-    "name": "91 DAT",
-    "stream_urls": [
-      "https://secure.radiorama.mx:2122/"
-    ],
-    "country": "mx",
-    "languages": [
-      "spa"
-    ]
-  },
-  {
     "nanoid": "jykReJWVeE699y",
     "name": "91.5 FM",
     "stream_urls": [
@@ -850,8 +839,7 @@
     "name": "Beat 100.9 FM",
     "stream_urls": [
       "https://playerservices.streamtheworld.com/api/livestream-redirect/XHSONFMAAC.aac",
-      "https://playerservices.streamtheworld.com/api/livestream-redirect/XHSONFM_SC",
-      "https://14223.live.streamtheworld.com:443/XHSONFM_SC"
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/XHSONFM_SC"
     ],
     "country": "mx",
     "languages": [
@@ -941,6 +929,17 @@
     "name": "Boom FM 104.7",
     "stream_urls": [
       "https://stream.zeno.fm/mgypyrbf5ottv"
+    ],
+    "country": "mx",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "Mhk7XGRggIOsQi",
+    "name": "Boom FM 91.5",
+    "stream_urls": [
+      "https://stream.freepi.io:8202/stream"
     ],
     "country": "mx",
     "languages": [
@@ -1109,6 +1108,7 @@
     "nanoid": "MquAR1r8yENkOh",
     "name": "Candela 94.1 FM",
     "stream_urls": [
+      "https://stream.zeno.fm/q8mt825e0chvv",
       "https://stream.zeno.fm/9t73skxn8k8uv"
     ],
     "country": "mx",
@@ -1461,17 +1461,6 @@
     ]
   },
   {
-    "nanoid": "fll4cODqPLkCiA",
-    "name": "Digital 101.5 FM",
-    "stream_urls": [
-      "https://live.amperwave.net/manifest/rcomm-xhavofmaac-hlsc4.m3u8"
-    ],
-    "country": "mx",
-    "languages": [
-      "spa"
-    ]
-  },
-  {
     "nanoid": "w93uVCwbsuBuvw",
     "name": "Digital 102.9 FM",
     "stream_urls": [
@@ -1599,7 +1588,8 @@
     "stream_urls": [
       "https://playerservices.streamtheworld.com/api/livestream-redirect/XEN_AM_SC",
       "https://playerservices.streamtheworld.com/api/livestream-redirect/XEN_AMAAC.aac",
-      "https://playerservices.streamtheworld.com/api/livestream-redirect/XEN_AMAAC_SC.aac"
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/XEN_AMAAC_SC.aac",
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/XEJP_AMAAC.aac"
     ],
     "country": "mx",
     "languages": [
@@ -1951,7 +1941,8 @@
     "stream_urls": [
       "https://playerservices.streamtheworld.com/api/livestream-redirect/XHADAAAC.aac",
       "https://playerservices.streamtheworld.com/api/livestream-redirect/XHMDFMAAC.aac",
-      "https://playerservices.streamtheworld.com/api/livestream-redirect/XHADA_SC"
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/XHADA_SC",
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/XHMDFM_SC"
     ],
     "country": "mx",
     "languages": [
@@ -1962,9 +1953,7 @@
     "nanoid": "gaIwoA2J8nQwZc",
     "name": "Exa FM 104.9",
     "stream_urls": [
-      "https://playerservices.streamtheworld.com/api/livestream-redirect/XHEXA_SC",
-      "https://14223.live.streamtheworld.com:443/XHEXA_SC",
-      "https://14153.live.streamtheworld.com:443/XHEXA_SC"
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/XHEXA_SC"
     ],
     "country": "mx",
     "languages": [
@@ -2029,17 +2018,6 @@
     ]
   },
   {
-    "nanoid": "iJblccbUolF9lT",
-    "name": "Exa FM 91.3",
-    "stream_urls": [
-      "https://playerservices.streamtheworld.com/api/livestream-redirect/XHPTAAC.aac"
-    ],
-    "country": "mx",
-    "languages": [
-      "spa"
-    ]
-  },
-  {
     "nanoid": "BU0YnvJ6FW0oLX",
     "name": "Exa FM 91.5",
     "stream_urls": [
@@ -2055,8 +2033,7 @@
     "name": "Exa FM 91.7",
     "stream_urls": [
       "https://playerservices.streamtheworld.com/api/livestream-redirect/XHGLX_SC",
-      "https://playerservices.streamtheworld.com/api/livestream-redirect/XHGLXAAC.aac",
-      "https://14223.live.streamtheworld.com:443/XHGLX_SC"
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/XHGLXAAC.aac"
     ],
     "country": "mx",
     "languages": [
@@ -2379,17 +2356,6 @@
     ]
   },
   {
-    "nanoid": "HOk6Jri0P8b0AB",
-    "name": "Fiesta 94.9 FM",
-    "stream_urls": [
-      "https://secure.radiorama.mx:2184/"
-    ],
-    "country": "mx",
-    "languages": [
-      "spa"
-    ]
-  },
-  {
     "nanoid": "jTx3xTTVSoJWWd",
     "name": "Fiesta Mexicana 102.3 FM",
     "stream_urls": [
@@ -2511,17 +2477,6 @@
     ]
   },
   {
-    "nanoid": "JWX82oSdTDlaWZ",
-    "name": "Flow",
-    "stream_urls": [
-      "https://playerservices.streamtheworld.com/api/livestream-redirect/ACIR26_S01AAC.m3u8"
-    ],
-    "country": "mx",
-    "languages": [
-      "spa"
-    ]
-  },
-  {
     "nanoid": "jbmBXUC6vnvT9Z",
     "name": "FM Centro 100.3",
     "stream_urls": [
@@ -2537,6 +2492,17 @@
     "name": "FM Globo 88.1 FM",
     "stream_urls": [
       "https://playerservices.streamtheworld.com/api/livestream-redirect/XHJMFM_SC"
+    ],
+    "country": "mx",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "i606m3CR4jBz4I",
+    "name": "FM Globo 97.9 FM",
+    "stream_urls": [
+      "https://sp2.servidorrprivado.com:10861/stream"
     ],
     "country": "mx",
     "languages": [
@@ -2588,17 +2554,6 @@
     ]
   },
   {
-    "nanoid": "4LhR71SMkGSqi0",
-    "name": "Fuerza Latina 102.5 FM",
-    "stream_urls": [
-      "https://radios.blumhost.es/8130/;"
-    ],
-    "country": "mx",
-    "languages": [
-      "spa"
-    ]
-  },
-  {
     "nanoid": "mOGhtkd8ddDpKV",
     "name": "Fusión 90.1 FM",
     "stream_urls": [
@@ -2627,17 +2582,6 @@
     "name": "Fórmula Melódica 97.9 FM",
     "stream_urls": [
       "https://s2.yesstreaming.net:9085/stream"
-    ],
-    "country": "mx",
-    "languages": [
-      "spa"
-    ]
-  },
-  {
-    "nanoid": "VmvX1ncJMk64Sm",
-    "name": "Globo 101.3 FM",
-    "stream_urls": [
-      "https://playerservices.streamtheworld.com/api/livestream-redirect/XHMABAAC.aac"
     ],
     "country": "mx",
     "languages": [
@@ -2889,17 +2833,6 @@
     ]
   },
   {
-    "nanoid": "6cCYhIoSXNhBOX",
-    "name": "Imagen Radio 90.5 FM",
-    "stream_urls": [
-      "https://mdstrm.com/audio/64a44d807cb6630627ab0c82/live.m3u8"
-    ],
-    "country": "mx",
-    "languages": [
-      "spa"
-    ]
-  },
-  {
     "nanoid": "w62S34zPccGUg0",
     "name": "Imagen Radio 98.5 FM",
     "stream_urls": [
@@ -3136,6 +3069,7 @@
     "nanoid": "dKi6WXlNvshwNs",
     "name": "Kiss 97.7 FM",
     "stream_urls": [
+      "https://cast4.my-control-panel.com/proxy/televis4/kiss977",
       "https://webprod.sipse.com.mx:8080/kissfm/"
     ],
     "country": "mx",
@@ -3203,6 +3137,17 @@
     "name": "KY 95.5 FM",
     "stream_urls": [
       "https://ss1.audiorama.com.mx:6680/stream"
+    ],
+    "country": "mx",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "nHkDnSTvCAC8Mv",
+    "name": "La 103.9 Los Mochis",
+    "stream_urls": [
+      "https://stream.soyradioinc.com:8114/stream"
     ],
     "country": "mx",
     "languages": [
@@ -3488,12 +3433,23 @@
     ]
   },
   {
+    "nanoid": "Ev7rCYzYZw9FeW",
+    "name": "La Comadre 95.5 FM",
+    "stream_urls": [
+      "https://cast4.my-control-panel.com/proxy/televis1/comadrecarmen"
+    ],
+    "country": "mx",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
     "nanoid": "9GD5YNjiuNyMjN",
     "name": "La Comadre 98.5 FM",
     "stream_urls": [
       "https://playerservices.streamtheworld.com/api/livestream-redirect/XHCLIFMAAC.aac",
-      "https://cast4.my-control-panel.com/proxy/televiso/comadremid",
-      "https://playerservices.streamtheworld.com/api/livestream-redirect/XHCLIFMAAC_SC"
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/XHCLIFMAAC_SC",
+      "https://webprod.sipse.com.mx:8080/lacomadre/"
     ],
     "country": "mx",
     "languages": [
@@ -3640,8 +3596,7 @@
     "name": "La Grande 97.1 FM",
     "stream_urls": [
       "https://radioforte.com/8004/stream",
-      "https://radioforte.com:8004/;",
-      "https://radioforte.com:8004/stream"
+      "https://radioforte.com:8004/;"
     ],
     "country": "mx",
     "languages": [
@@ -3742,6 +3697,28 @@
     "name": "La Inolvidable 101.1 FM",
     "stream_urls": [
       "https://streaming.servicioswebmx.com/8078/stream"
+    ],
+    "country": "mx",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "vM9fPAGE5PW1Aj",
+    "name": "La Interesante 88.5 FM",
+    "stream_urls": [
+      "https://stream.soyradioinc.com:8150/stream"
+    ],
+    "country": "mx",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "hfCWj4N2rkt0Me",
+    "name": "La Interesante 94.5 FM",
+    "stream_urls": [
+      "https://stream.soyradioinc.com:8292/stream"
     ],
     "country": "mx",
     "languages": [
@@ -3906,7 +3883,8 @@
     "nanoid": "6JmcdSmgAppRSJ",
     "name": "La Ke Buena 90.1 FM",
     "stream_urls": [
-      "https://stream.zeno.fm/5t4ngp8hfphvv"
+      "https://stream.zeno.fm/5t4ngp8hfphvv",
+      "https://streaming.servicioswebmx.com:8304/stream/1/"
     ],
     "country": "mx",
     "languages": [
@@ -3991,6 +3969,17 @@
     ]
   },
   {
+    "nanoid": "QCnvJqEWlOceFn",
+    "name": "La Ke Buena 95.9 FM",
+    "stream_urls": [
+      "https://kebuenavalla.b-cdn.net/stream"
+    ],
+    "country": "mx",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
     "nanoid": "67wdUiakcaTjXo",
     "name": "La Ke Buena 97.1 FM",
     "stream_urls": [
@@ -4007,7 +3996,8 @@
     "nanoid": "7uXulhfCF33tkR",
     "name": "La Ke Buena 98.5 FM",
     "stream_urls": [
-      "https://streaming.servicioswebmx.com/8252/stream"
+      "https://streaming.servicioswebmx.com/8252/stream",
+      "https://stream.soyradioinc.com:8274/stream"
     ],
     "country": "mx",
     "languages": [
@@ -4019,17 +4009,6 @@
     "name": "La KeBuena 100.1 FM",
     "stream_urls": [
       "https://stream.freepi.io/8306/live"
-    ],
-    "country": "mx",
-    "languages": [
-      "spa"
-    ]
-  },
-  {
-    "nanoid": "19NuyTWIRJqqFH",
-    "name": "La KeBuena 88.9 FM",
-    "stream_urls": [
-      "https://hls.gvstream.live/gpm/kbuena889-audio.stream/chunklist_w1977675799.m3u8"
     ],
     "country": "mx",
     "languages": [
@@ -4059,32 +4038,10 @@
     ]
   },
   {
-    "nanoid": "owtKtubY6dcYqj",
-    "name": "La Lupe 105.7 FM",
-    "stream_urls": [
-      "https://mdstrm.com/audio/67378a1158fddafa2d92caf9/live.m3u8"
-    ],
-    "country": "mx",
-    "languages": [
-      "spa"
-    ]
-  },
-  {
     "nanoid": "oyHGl2UmZHkb6c",
     "name": "La Lupe 560 AM",
     "stream_urls": [
       "https://live.zuperdns.net/1895/stream/"
-    ],
-    "country": "mx",
-    "languages": [
-      "spa"
-    ]
-  },
-  {
-    "nanoid": "EHcKiwoJuZohzS",
-    "name": "La Lupe 89.1 FM",
-    "stream_urls": [
-      "https://live.amperwave.net/manifest/rcomm-xhcaofmaac-hlsc4.m3u8"
     ],
     "country": "mx",
     "languages": [
@@ -4263,8 +4220,7 @@
     "nanoid": "4pYVwYsTPGZ64B",
     "name": "La Mejor 104.1 FM",
     "stream_urls": [
-      "https://icy.gvstream.live/gpm-cq.aac",
-      "https://hls.gvstream.live/gpm/cq-audio.stream/playlist.m3u8"
+      "https://icy.gvstream.live/gpm-cq.aac"
     ],
     "country": "mx",
     "languages": [
@@ -4309,8 +4265,7 @@
     "name": "La Mejor 90.7 FM",
     "stream_urls": [
       "https://playerservices.streamtheworld.com/api/livestream-redirect/XHTIM_SC",
-      "https://playerservices.streamtheworld.com/api/livestream-redirect/XHTIMAAC.aac",
-      "https://18213.live.streamtheworld.com:443/XHTIM_SC"
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/XHTIMAAC.aac"
     ],
     "country": "mx",
     "languages": [
@@ -4367,6 +4322,17 @@
     "name": "La Mejor 96.3 FM",
     "stream_urls": [
       "https://playerservices.streamtheworld.com/api/livestream-redirect/XHVGFM_SC"
+    ],
+    "country": "mx",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "bauxsFjTCF6M5H",
+    "name": "La Mejor 96.5 FM",
+    "stream_urls": [
+      "https://tv.radiohosting.online:2000/stream/8000"
     ],
     "country": "mx",
     "languages": [
@@ -4630,17 +4596,6 @@
     ]
   },
   {
-    "nanoid": "ZQAkFcGfPQ2N65",
-    "name": "La Nueva 93.3 FM",
-    "stream_urls": [
-      "https://hls.gvstream.live/gpm/lanueva933-audio.stream/playlist.m3u8"
-    ],
-    "country": "mx",
-    "languages": [
-      "spa"
-    ]
-  },
-  {
     "nanoid": "0X2j2WsNZTcGO6",
     "name": "La Octava 700 AM",
     "stream_urls": [
@@ -4711,6 +4666,17 @@
     "name": "La Patrona 93.5 FM",
     "stream_urls": [
       "https://tv.radiohosting.online:2000/stream/9774"
+    ],
+    "country": "mx",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "1II8UHrH0w3Tg5",
+    "name": "La Patrona 94.1 FM",
+    "stream_urls": [
+      "https://streamingcwsradio30.com/8166/stream"
     ],
     "country": "mx",
     "languages": [
@@ -5281,6 +5247,17 @@
     ]
   },
   {
+    "nanoid": "svVUeHvBpBro0u",
+    "name": "La Tremenda 103.9 FM",
+    "stream_urls": [
+      "https://live.zuperdns.net/4006/stream/;stream.mp3"
+    ],
+    "country": "mx",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
     "nanoid": "kuyVCT9AInegQ4",
     "name": "La Tremenda 89.3 FM",
     "stream_urls": [
@@ -5403,17 +5380,6 @@
     ]
   },
   {
-    "nanoid": "M7NQ5aZaa1NMiU",
-    "name": "La Z 96.5 FM",
-    "stream_urls": [
-      "https://radios.blumhost.es/8104/;"
-    ],
-    "country": "mx",
-    "languages": [
-      "spa"
-    ]
-  },
-  {
     "nanoid": "Mrp9DfMKxMY73L",
     "name": "La Zeta 102.7 FM",
     "stream_urls": [
@@ -5499,6 +5465,17 @@
     "country": "mx",
     "languages": [
       "eng",
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "GiqEtxmYG6rwuV",
+    "name": "LG La Grande 95.5 FM",
+    "stream_urls": [
+      "https://stream.zeno.fm/9ty3tty0ra0uv"
+    ],
+    "country": "mx",
+    "languages": [
       "spa"
     ]
   },
@@ -5628,105 +5605,6 @@
     "name": "Lokura FM 99.5",
     "stream_urls": [
       "https://playerservices.streamtheworld.com/api/livestream-redirect/XHXIAAC.aac"
-    ],
-    "country": "mx",
-    "languages": [
-      "spa"
-    ]
-  },
-  {
-    "nanoid": "edHv5nqeb1aYQI",
-    "name": "Lokura FM Grupera 103.3 FM",
-    "stream_urls": [
-      "https://mdstrm.com/audio/6939cb632ce0a0291e827788/live.m3u8"
-    ],
-    "country": "mx",
-    "languages": [
-      "spa"
-    ]
-  },
-  {
-    "nanoid": "tAJaJcfPn9Q4MT",
-    "name": "Lokura FM Grupera 104.5 FM",
-    "stream_urls": [
-      "https://mdstrm.com/audio/6939d9771e27fe9d27f16c59/live.m3u8"
-    ],
-    "country": "mx",
-    "languages": [
-      "spa"
-    ]
-  },
-  {
-    "nanoid": "ngqCBRWna7Ci6Q",
-    "name": "Lokura FM Grupera 97.1 FM",
-    "stream_urls": [
-      "https://mdstrm.com/audio/6938a4c076757faf73182a48/live.m3u8"
-    ],
-    "country": "mx",
-    "languages": [
-      "spa"
-    ]
-  },
-  {
-    "nanoid": "WfnqqoUjYhZ0ab",
-    "name": "Lokura FM Grupera 99.1 FM",
-    "stream_urls": [
-      "https://mdstrm.com/audio/6938ba4cb3f122ba064ba446/live.m3u8"
-    ],
-    "country": "mx",
-    "languages": [
-      "spa"
-    ]
-  },
-  {
-    "nanoid": "lad3WLsx3pt7wU",
-    "name": "Lokura FM Grupera 99.5 FM",
-    "stream_urls": [
-      "https://mdstrm.com/audio/6939db1296af1fbe55715ce1/live.m3u8"
-    ],
-    "country": "mx",
-    "languages": [
-      "spa"
-    ]
-  },
-  {
-    "nanoid": "sgW2zyPFAkH7FM",
-    "name": "Lokura FM Pop 92.1 FM",
-    "stream_urls": [
-      "https://mdstrm.com/audio/69399a21aefb340e3c47ecea/live.m3u8"
-    ],
-    "country": "mx",
-    "languages": [
-      "spa"
-    ]
-  },
-  {
-    "nanoid": "rlu3BNF5EkVj6j",
-    "name": "Lokura FM Rock 104.9 FM",
-    "stream_urls": [
-      "https://mdstrm.com/audio/69399586d3f19db9bddb587e/live.m3u8"
-    ],
-    "country": "mx",
-    "languages": [
-      "spa"
-    ]
-  },
-  {
-    "nanoid": "cNnkjy7cgmsPO3",
-    "name": "Lokura FM Rock 105.9 FM",
-    "stream_urls": [
-      "https://mdstrm.com/audio/6939c6af9de3b0bee0aedc71/live.m3u8"
-    ],
-    "country": "mx",
-    "languages": [
-      "spa"
-    ]
-  },
-  {
-    "nanoid": "fRdKdaFeiah9Dw",
-    "name": "Lokura FM Rock 830 AM",
-    "stream_urls": [
-      "https://mdstrm.com/audio/69373baa6d5fd824ec8440c5/live.m3u8"
     ],
     "country": "mx",
     "languages": [
@@ -5947,6 +5825,8 @@
     "nanoid": "vhf4wG5NRmKTYK",
     "name": "LOS40 96.1 FM",
     "stream_urls": [
+      "https://stream.zeno.fm/8pnsdde1sy8uv",
+      "https://stream.zenolive.com/8pnsdde1sy8uv",
       "https://stream.freepi.io/8308/live"
     ],
     "country": "mx",
@@ -6070,17 +5950,6 @@
     ]
   },
   {
-    "nanoid": "qMFMvmb4AeXx78",
-    "name": "Love FM 103.7",
-    "stream_urls": [
-      "https://mdstrm.com/audio/66a01759c5aa2b85d66b5933/live.m3u8"
-    ],
-    "country": "mx",
-    "languages": [
-      "spa"
-    ]
-  },
-  {
     "nanoid": "3OZAB4TRobIRip",
     "name": "Love FM 90.1",
     "stream_urls": [
@@ -6119,6 +5988,17 @@
     "name": "Magia Digital 89.9 FM",
     "stream_urls": [
       "https://stream.zeno.fm/zrwy79s91rhvv"
+    ],
+    "country": "mx",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "6oK385tT7B8O1m",
+    "name": "Mar FM 99.7",
+    "stream_urls": [
+      "https://stream.zeno.fm/eyh5yzn3f78uv"
     ],
     "country": "mx",
     "languages": [
@@ -6290,6 +6170,17 @@
     "country": "mx",
     "languages": [
       "eng"
+    ]
+  },
+  {
+    "nanoid": "me1OHXsif8opsK",
+    "name": "Melyh Radio",
+    "stream_urls": [
+      "https://stream.zeno.fm/e2gvuhrbvmavv"
+    ],
+    "country": "mx",
+    "languages": [
+      "spa"
     ]
   },
   {
@@ -6620,83 +6511,6 @@
     ]
   },
   {
-    "nanoid": "aXBw0YhVAtG7gj",
-    "name": "Máxima 100.9 FM",
-    "stream_urls": [
-      "https://mdstrm.com/audio/66a12d64d964f0fc279848a4/live.m3u8"
-    ],
-    "country": "mx",
-    "languages": [
-      "spa"
-    ]
-  },
-  {
-    "nanoid": "qyoSydC1FAfcUN",
-    "name": "Máxima 88.5 FM",
-    "stream_urls": [
-      "https://mdstrm.com/audio/66a0112844d3c94ecf11dd96/live.m3u8"
-    ],
-    "country": "mx",
-    "languages": [
-      "spa"
-    ]
-  },
-  {
-    "nanoid": "IG9PkBa9kyP7Es",
-    "name": "Máxima 93.1 FM",
-    "stream_urls": [
-      "https://mdstrm.com/audio/66a01c0328071626dc3e6971/live.m3u8"
-    ],
-    "country": "mx",
-    "languages": [
-      "spa"
-    ]
-  },
-  {
-    "nanoid": "xKemBnHjSe2gv2",
-    "name": "Máxima 96.3 FM",
-    "stream_urls": [
-      "https://mdstrm.com/audio/66ad356de8f3b93d2da94362/live.m3u8"
-    ],
-    "country": "mx",
-    "languages": [
-      "spa"
-    ]
-  },
-  {
-    "nanoid": "SR9uDmlfP42d47",
-    "name": "Máxima 96.9 FM",
-    "stream_urls": [
-      "https://mdstrm.com/audio/66be641cd9a22180390f882c/live.m3u8"
-    ],
-    "country": "mx",
-    "languages": [
-      "spa"
-    ]
-  },
-  {
-    "nanoid": "WPn1Pg3ZgWwTl1",
-    "name": "Máxima 97.5 FM",
-    "stream_urls": [
-      "https://mdstrm.com/audio/66e9d6ccaefe12962688efb9/live.m3u8"
-    ],
-    "country": "mx",
-    "languages": [
-      "spa"
-    ]
-  },
-  {
-    "nanoid": "GryEMxq40oRjwq",
-    "name": "Máxima 98.9 FM",
-    "stream_urls": [
-      "https://mdstrm.com/audio/66a3e88f19acc1b9d1487ec0/live.m3u8"
-    ],
-    "country": "mx",
-    "languages": [
-      "spa"
-    ]
-  },
-  {
     "nanoid": "ViA25Gs43vqyhh",
     "name": "Máxima 99.1 FM",
     "stream_urls": [
@@ -6896,6 +6710,17 @@
     ]
   },
   {
+    "nanoid": "MosULiVtVHPL5g",
+    "name": "Oxygn Radio Biblia",
+    "stream_urls": [
+      "https://stream9.mexiserver.com/8168/stream"
+    ],
+    "country": "mx",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
     "nanoid": "JbwgVFrFW1fBgD",
     "name": "Oye 89.7 FM",
     "stream_urls": [
@@ -7019,17 +6844,6 @@
     ]
   },
   {
-    "nanoid": "FdULIIEU86vf8z",
-    "name": "Puebla FM",
-    "stream_urls": [
-      "https://5d0d1d7a6be9e.streamlock.net/setteziutlan/radio/playlist.m3u8"
-    ],
-    "country": "mx",
-    "languages": [
-      "spa"
-    ]
-  },
-  {
     "nanoid": "AkIJ6xdv1c0ZSf",
     "name": "Pulsar 107.3 FM",
     "stream_urls": [
@@ -7044,18 +6858,6 @@
     "nanoid": "dRwvwiNCV83pMN",
     "name": "Que Viva México",
     "stream_urls": [
-      "https://panel.retrolandigital.com:8160/listen"
-    ],
-    "country": "mx",
-    "languages": [
-      "spa"
-    ]
-  },
-  {
-    "nanoid": "vuCaz27J8uugCy",
-    "name": "Que Viva México Radio",
-    "stream_urls": [
-      "https://panel.retrolandigital.com/listen/que_viva_mexico/listen",
       "https://panel.retrolandigital.com:8160/listen"
     ],
     "country": "mx",
@@ -7168,17 +6970,6 @@
     "name": "Radio Activa 89.1 FM",
     "stream_urls": [
       "https://sp3.servidorrprivado.com/6617/;"
-    ],
-    "country": "mx",
-    "languages": [
-      "spa"
-    ]
-  },
-  {
-    "nanoid": "kAz1Qmgz0PnHkA",
-    "name": "Radio Activa 89.7 FM",
-    "stream_urls": [
-      "https://mdstrm.com/audio/66ad14f0917845e9b7570bf2/live.m3u8"
     ],
     "country": "mx",
     "languages": [
@@ -7635,33 +7426,11 @@
     ]
   },
   {
-    "nanoid": "I4sUotYdDIpgxU",
-    "name": "Radio Fórmula 103.3 FM",
-    "stream_urls": [
-      "https://mdstrm.com/audio/6102ce7ef33d0b0830ec3adc/live.m3u8"
-    ],
-    "country": "mx",
-    "languages": [
-      "spa"
-    ]
-  },
-  {
     "nanoid": "bvuXGTT0MKFlMF",
     "name": "Radio Fórmula 103.9 FM",
     "stream_urls": [
       "https://stream.radiojar.com/ympb8vef3p8uv",
       "https://n02.radiojar.com/ympb8vef3p8uv"
-    ],
-    "country": "mx",
-    "languages": [
-      "spa"
-    ]
-  },
-  {
-    "nanoid": "Vt5P9rZ0bWh33e",
-    "name": "Radio Fórmula 104.1 FM",
-    "stream_urls": [
-      "https://mdstrm.com/audio/61e1dfd2658baf082814e25d/live.m3u8"
     ],
     "country": "mx",
     "languages": [
@@ -7695,8 +7464,8 @@
     "nanoid": "vRpKppTaCKRkZb",
     "name": "Radio Fórmula 105.5 FM",
     "stream_urls": [
-      "https://stream.radiojar.com/13ptp3cn3p8uv",
-      "https://n06.radiojar.com/bhd04xcn3p8uv"
+      "https://n06.radiojar.com/bhd04xcn3p8uv",
+      "https://stream.radiojar.com/13ptp3cn3p8uv"
     ],
     "country": "mx",
     "languages": [
@@ -7732,8 +7501,7 @@
     "name": "Radio Fórmula 106.9 FM",
     "stream_urls": [
       "https://stream.radiojar.com/5pu7b5yp2p8uv",
-      "https://n05.radiojar.com/5pu7b5yp2p8uv",
-      "https://hls.gvstream.live/radiouniversal/kebuena1400.stream/playlist.m3u8"
+      "https://n05.radiojar.com/5pu7b5yp2p8uv"
     ],
     "country": "mx",
     "languages": [
@@ -7789,28 +7557,6 @@
     ]
   },
   {
-    "nanoid": "3lSs81I9YaUW2C",
-    "name": "Radio Fórmula 1470 AM",
-    "stream_urls": [
-      "https://mdstrm.com/audio/602196cd0607850695f31cd8/live.m3u8"
-    ],
-    "country": "mx",
-    "languages": [
-      "spa"
-    ]
-  },
-  {
-    "nanoid": "6QqK5Aod3nr7VB",
-    "name": "Radio Fórmula 1500 AM",
-    "stream_urls": [
-      "https://mdstrm.com/audio/61e1e00417181d3a42851257/live.m3u8"
-    ],
-    "country": "mx",
-    "languages": [
-      "spa"
-    ]
-  },
-  {
     "nanoid": "aJRedlGvSyBj71",
     "name": "Radio Fórmula 590 AM",
     "stream_urls": [
@@ -7851,7 +7597,8 @@
     "stream_urls": [
       "https://stream.radiojar.com/bne9eazp2p8uv",
       "https://stream.radiojar.com/qpv58fef3p8uv",
-      "https://n07.radiojar.com/bne9eazp2p8uv"
+      "https://n07.radiojar.com/bne9eazp2p8uv",
+      "https://n01.radiojar.com/qpv58fef3p8uv"
     ],
     "country": "mx",
     "languages": [
@@ -7978,17 +7725,6 @@
     ]
   },
   {
-    "nanoid": "UQqRowQmXGqGlr",
-    "name": "Radio Fórmula 970 AM",
-    "stream_urls": [
-      "https://mdstrm.com/audio/61e1e0125e404b0836c1e402/live.m3u8"
-    ],
-    "country": "mx",
-    "languages": [
-      "spa"
-    ]
-  },
-  {
     "nanoid": "Lr5ALCKSj4sVsv",
     "name": "Radio Fórmula 98.5 FM",
     "stream_urls": [
@@ -8056,17 +7792,6 @@
     ]
   },
   {
-    "nanoid": "d0Jwj61dHW6rOS",
-    "name": "Radio IPN 95.7 FM",
-    "stream_urls": [
-      "https://broadcast.radio.ipn.mx/RadioIPN"
-    ],
-    "country": "mx",
-    "languages": [
-      "spa"
-    ]
-  },
-  {
     "nanoid": "bzkRUOwNKbjZgj",
     "name": "Radio Jerez 89.1 FM",
     "stream_urls": [
@@ -8082,17 +7807,6 @@
     "name": "Radio La Guadalupana 1260 AM",
     "stream_urls": [
       "https://s1.voscast.com:10285/stream"
-    ],
-    "country": "mx",
-    "languages": [
-      "spa"
-    ]
-  },
-  {
-    "nanoid": "8LYYUx9Yh4FUY0",
-    "name": "Radio Latina 104.5 FM",
-    "stream_urls": [
-      "https://mdstrm.com/audio/698f8c71e9899b0d0ceab9c0/live.m3u8"
     ],
     "country": "mx",
     "languages": [
@@ -8254,28 +7968,6 @@
     ]
   },
   {
-    "nanoid": "4qORPMDo2tTCUw",
-    "name": "Radio Pública de Michoacán",
-    "stream_urls": [
-      "https://s5.mexside.net:1936/smrtvfm/smrtvfm/chunklist_w401978697.m3u8"
-    ],
-    "country": "mx",
-    "languages": [
-      "spa"
-    ]
-  },
-  {
-    "nanoid": "BUWIurLs0YpDPT",
-    "name": "Radio Querétaro 100.3 FM",
-    "stream_urls": [
-      "https://59d39900ebfb8.streamlock.net/rytqroradio2/rytqroradio2/playlist.m3u8"
-    ],
-    "country": "mx",
-    "languages": [
-      "spa"
-    ]
-  },
-  {
     "nanoid": "UjnBqtx0VTLSO4",
     "name": "Radio Ranchito 102.5 FM",
     "stream_urls": [
@@ -8321,17 +8013,6 @@
     ]
   },
   {
-    "nanoid": "ehfTdKgLTI0g5P",
-    "name": "Radio Recuerdo 102.1 FM",
-    "stream_urls": [
-      "https://live.zuperdns.net/1026/stream"
-    ],
-    "country": "mx",
-    "languages": [
-      "spa"
-    ]
-  },
-  {
     "nanoid": "f3c3WDPLu17ArC",
     "name": "Radio Recuerdo 860 AM",
     "stream_urls": [
@@ -8343,25 +8024,10 @@
     ]
   },
   {
-    "nanoid": "uwQOBh6cCNwjBE",
-    "name": "Radio Red 1110 AM",
-    "stream_urls": [
-      "https://playerservices.streamtheworld.com/api/livestream-redirect/XERED_AMAAC.aac",
-      "https://playerservices.streamtheworld.com/api/livestream-redirect/XERED_AMAAC_SC",
-      "https://14553.live.streamtheworld.com:443/XERED_AMAAC_SC"
-    ],
-    "country": "mx",
-    "languages": [
-      "spa"
-    ]
-  },
-  {
     "nanoid": "kVl8vJWXiaoWOc",
     "name": "Radio Red 92.1 FM",
     "stream_urls": [
-      "https://playerservices.streamtheworld.com/api/livestream-redirect/XHFO_FMAAC_SC",
-      "https://14553.live.streamtheworld.com:443/XHFO_FMAAC_SC",
-      "https://27063.live.streamtheworld.com:443/XHFO_FMAAC_SC"
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/XHFO_FMAAC_SC"
     ],
     "country": "mx",
     "languages": [
@@ -8547,17 +8213,6 @@
     ]
   },
   {
-    "nanoid": "iO7a0m3tFQ5FMD",
-    "name": "Radio UNAM 860 AM",
-    "stream_urls": [
-      "https://tv.radiohosting.online:9486/stream"
-    ],
-    "country": "mx",
-    "languages": [
-      "spa"
-    ]
-  },
-  {
     "nanoid": "QLeRYw9vGrybvB",
     "name": "Radio UNAM 96.1 FM",
     "stream_urls": [
@@ -8646,6 +8301,17 @@
     ]
   },
   {
+    "nanoid": "IVEl3TK2pzGzOe",
+    "name": "Radio Universidad UAdeC 89.5 FM",
+    "stream_urls": [
+      "https://stream11.mexiserver.com:9003/;"
+    ],
+    "country": "mx",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
     "nanoid": "6QuAIKmKkUS88d",
     "name": "Radio Universidad UADY 103.9 FM",
     "stream_urls": [
@@ -8672,6 +8338,17 @@
     "name": "Radio Vital 1310 AM",
     "stream_urls": [
       "https://s2.yesstreaming.net:9097/stream"
+    ],
+    "country": "mx",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "3RX7FbNYVzKsGG",
+    "name": "Radio Xicotepec 570 AM",
+    "stream_urls": [
+      "https://sh1.radioonlinehd.com:8044/stream"
     ],
     "country": "mx",
     "languages": [
@@ -9157,19 +8834,6 @@
     ]
   },
   {
-    "nanoid": "ZGlbc59LVRlsBL",
-    "name": "Stereo Cien",
-    "stream_urls": [
-      "https://26113.live.streamtheworld.com:443/XHMMFMAAC_SC",
-      "https://26303.live.streamtheworld.com:443/XHMMFMAAC_SC",
-      "https://15313.live.streamtheworld.com:443/XHMMFMAAC_SC"
-    ],
-    "country": "mx",
-    "languages": [
-      "spa"
-    ]
-  },
-  {
     "nanoid": "7dTIbM8RD7JoqC",
     "name": "Stereo Cien 100.1 FM",
     "stream_urls": [
@@ -9186,6 +8850,17 @@
     "name": "Stereo Cristal 101.1 FM",
     "stream_urls": [
       "https://radios.radiohd.com.mx/8274/stream"
+    ],
+    "country": "mx",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "YCGQxY8eKKSkQG",
+    "name": "Stereo Fresnillo 91.1 FM",
+    "stream_urls": [
+      "https://cast.zuperdns.net/8018/stream/"
     ],
     "country": "mx",
     "languages": [
@@ -9241,17 +8916,6 @@
     "name": "Stereorey",
     "stream_urls": [
       "https://playerservices.streamtheworld.com/api/livestream-redirect/STEREOREYAAC.aac"
-    ],
-    "country": "mx",
-    "languages": [
-      "spa"
-    ]
-  },
-  {
-    "nanoid": "iKwH3Dnx54CRRc",
-    "name": "Stereorey 100.9 FM",
-    "stream_urls": [
-      "https://hls.gvstream.live/radiouniversal/life1009.stream/playlist.m3u8"
     ],
     "country": "mx",
     "languages": [
@@ -9573,19 +9237,7 @@
     "nanoid": "tyTXPWRAQG7LMG",
     "name": "Ultra 102.9 FM",
     "stream_urls": [
-      "https://icecastultra.duckdns.org/livetul",
-      "https://sp3.servidorrprivado.com/8112/stream"
-    ],
-    "country": "mx",
-    "languages": [
-      "spa"
-    ]
-  },
-  {
-    "nanoid": "5Rv7D1PocegOgG",
-    "name": "Ultra 90.1 FM",
-    "stream_urls": [
-      "https://live.amperwave.net/manifest/rcomm-xhrysfmaac-hlsc4.m3u8"
+      "https://icecastultra.duckdns.org/livetul"
     ],
     "country": "mx",
     "languages": [
@@ -9655,7 +9307,6 @@
     "nanoid": "3KXr268FBNmkPN",
     "name": "Universal Stereo",
     "stream_urls": [
-      "https://14553.live.streamtheworld.com/XERC_FMAAC.aac",
       "https://playerservices.streamtheworld.com/api/livestream-redirect/XERC_FMAAC.aac"
     ],
     "country": "mx",
@@ -9854,9 +9505,9 @@
     "nanoid": "PuAbEwkMJ21euc",
     "name": "Viva El Mariachi",
     "stream_urls": [
+      "https://stream.zeno.fm/8g8stpnx82quv",
       "https://stream-144.zeno.fm/gs4xg5s0csmtv",
-      "https://stream-48.zeno.fm/gs4xg5s0csmtv",
-      "https://stream.zeno.fm/8g8stpnx82quv"
+      "https://stream-48.zeno.fm/gs4xg5s0csmtv"
     ],
     "country": "mx",
     "languages": [
@@ -10091,6 +9742,7 @@
     "nanoid": "NB1MAFp2Rp19Je",
     "name": "W Radio 105.1 FM",
     "stream_urls": [
+      "https://streaming.servicioswebmx.com/8274/stream",
       "https://streamingcwsradio30.com/8122/stream"
     ],
     "country": "mx",
@@ -10247,8 +9899,8 @@
     "nanoid": "rbi78f4SAJbuCE",
     "name": "Wow 101.1 FM",
     "stream_urls": [
-      "https://stream.zeno.fm/z2hquf0sa6wvv",
-      "https://stream.zeno.fm/allh8ihxbcntv"
+      "https://stream.zeno.fm/allh8ihxbcntv",
+      "https://stream.zeno.fm/z2hquf0sa6wvv"
     ],
     "country": "mx",
     "languages": [

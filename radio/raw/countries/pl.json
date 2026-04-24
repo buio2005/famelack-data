@@ -23,18 +23,6 @@
     ]
   },
   {
-    "nanoid": "nPVBJWFXhsVMMP",
-    "name": "4FUN.TV",
-    "stream_urls": [
-      "https://stream.4fun.tv:8888/hls/4f_high/index.m3u8",
-      "https://stream.4fun.tv:8888/hls/4f.m3u8"
-    ],
-    "country": "pl",
-    "languages": [
-      "pol"
-    ]
-  },
-  {
     "nanoid": "SlfNZYUdTCLCGm",
     "name": "4Music",
     "stream_urls": [
@@ -60,6 +48,7 @@
     "nanoid": "wqvSZhq1RLKF3y",
     "name": "Antyradio",
     "stream_urls": [
+      "https://an.cdn.eurozet.pl/ant-web.mp3",
       "https://n-4-4.dcs.redcdn.pl/sc/o2/Eurozet/live/antyradio.livx",
       "https://an02.cdn.eurozet.pl/ant-web.mp3"
     ],
@@ -118,8 +107,8 @@
     "nanoid": "IQZm6nu4g3NWWP",
     "name": "Antyradio Katowice",
     "stream_urls": [
-      "https://ml02.cdn.eurozet.pl/ant-kat.mp3",
-      "https://an01.cdn.eurozet.pl/ant-kat.mp3"
+      "https://an01.cdn.eurozet.pl/ant-kat.mp3",
+      "https://ml02.cdn.eurozet.pl/ant-kat.mp3"
     ],
     "country": "pl",
     "languages": [
@@ -370,43 +359,10 @@
     ]
   },
   {
-    "nanoid": "DyTorbhwqeCHHC",
-    "name": "Eska Rock",
-    "stream_urls": [
-      "https://radio.stream.smcdn.pl/timeradio-noad-p/5980-1.aac/playlist.m3u8"
-    ],
-    "country": "pl",
-    "languages": [
-      "pol"
-    ]
-  },
-  {
     "nanoid": "fbxlyDyUuyE5Qx",
     "name": "Eska2 - Kultowe Polskie",
     "stream_urls": [
       "https://waw.ic.smcdn.pl/6040-1.aac"
-    ],
-    "country": "pl",
-    "languages": [
-      "pol"
-    ]
-  },
-  {
-    "nanoid": "Q7PFpM4Kq8kgLp",
-    "name": "Eska2 - Piosenki Na Czasie",
-    "stream_urls": [
-      "https://radio.stream.smcdn.pl/timeradio-p/6230-1.aac/playlist.m3u8"
-    ],
-    "country": "pl",
-    "languages": [
-      "pol"
-    ]
-  },
-  {
-    "nanoid": "kTpDFw2P4WfUxO",
-    "name": "Eska2 Dla Dzieci",
-    "stream_urls": [
-      "https://radio.stream.smcdn.pl/timeradio-p/6220-1.aac/playlist.m3u8"
     ],
     "country": "pl",
     "languages": [
@@ -565,8 +521,8 @@
     "name": "Lem.fm",
     "stream_urls": [
       "https://n0c.radiojar.com/2fa0gbhr9bhvv",
-      "https://stream.radiojar.com/2fa0gbhr9bhvv",
-      "https://n08.radiojar.com/2fa0gbhr9bhvv"
+      "https://n08.radiojar.com/2fa0gbhr9bhvv",
+      "https://stream.radiojar.com/2fa0gbhr9bhvv"
     ],
     "country": "pl",
     "languages": [
@@ -745,8 +701,8 @@
     "nanoid": "tl7SvDOIGoq1HW",
     "name": "Mittendrin ALT!NEU",
     "stream_urls": [
-      "https://n15a-eu.rcs.revma.com/1nnezw8qz7zuv",
-      "https://s1.slotex.pl:7430/stream"
+      "https://s1.slotex.pl:7430/stream",
+      "https://n15a-eu.rcs.revma.com/1nnezw8qz7zuv"
     ],
     "country": "pl",
     "languages": [
@@ -803,6 +759,17 @@
     "name": "Nadzieja.fm",
     "stream_urls": [
       "https://s5.radio.co/s34fca8455/listen"
+    ],
+    "country": "pl",
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "odl8bRAe248cM4",
+    "name": "Nasze Radio",
+    "stream_urls": [
+      "https://s1.slotex.pl:7146/stream"
     ],
     "country": "pl",
     "languages": [
@@ -911,98 +878,10 @@
     ]
   },
   {
-    "nanoid": "23Xhf6ufJUL6kV",
-    "name": "Polskie Radio - Szanty",
-    "stream_urls": [
-      "https://stream85.polskieradio.pl/omniaaxe/k71.stream/chunklist_.m3u8"
-    ],
-    "country": "pl",
-    "languages": [
-      "pol"
-    ]
-  },
-  {
-    "nanoid": "TecqYcd4gMoqST",
-    "name": "Polskie Radio 24",
-    "stream_urls": [
-      "https://stream15.polskieradio.pl/pr24/pr24.sdp/playlist.m3u8"
-    ],
-    "country": "pl",
-    "languages": [
-      "pol"
-    ]
-  },
-  {
-    "nanoid": "CE7bN82b8C4agQ",
-    "name": "Polskie Radio Czwórka",
-    "stream_urls": [
-      "https://stream14.polskieradio.pl/pr4/pr4.sdp/playlist.m3u8"
-    ],
-    "country": "pl",
-    "languages": [
-      "pol"
-    ]
-  },
-  {
-    "nanoid": "hXkXF19sqc4oXP",
-    "name": "Polskie Radio dla Ukrainy",
-    "stream_urls": [
-      "https://stream85.polskieradio.pl/radio_ukraina/ukraina.stream/playlist.m3u8"
-    ],
-    "country": "pl",
-    "languages": [
-      "ukr"
-    ]
-  },
-  {
-    "nanoid": "AupWZF6nq3xRHK",
-    "name": "Polskie Radio Dwójka",
-    "stream_urls": [
-      "https://stream12.polskieradio.pl/pr2/pr2.sdp/playlist.m3u8"
-    ],
-    "country": "pl",
-    "languages": [
-      "pol"
-    ]
-  },
-  {
-    "nanoid": "pqoon1m0Nrc3eY",
-    "name": "Polskie Radio Dzieciom",
-    "stream_urls": [
-      "https://stream85.polskieradio.pl/live/radio_dzieciom.sdp/playlist.m3u8"
-    ],
-    "country": "pl",
-    "languages": [
-      "pol"
-    ]
-  },
-  {
-    "nanoid": "apVtgNAvjaij6V",
-    "name": "Polskie Radio Jedynka",
-    "stream_urls": [
-      "https://stream11.polskieradio.pl/pr1/pr1.sdp/playlist.m3u8"
-    ],
-    "country": "pl",
-    "languages": [
-      "pol"
-    ]
-  },
-  {
     "nanoid": "xKJ9sRcIsomCH9",
     "name": "Polskie Radio Kielce",
     "stream_urls": [
       "https://streaming.g-news.pl:8030/rk2"
-    ],
-    "country": "pl",
-    "languages": [
-      "pol"
-    ]
-  },
-  {
-    "nanoid": "7ACXQiJB1RNTMK",
-    "name": "Polskie Radio Kierowców",
-    "stream_urls": [
-      "https://stream10.polskieradio.pl/prk/rdk.sdp/playlist.m3u8"
     ],
     "country": "pl",
     "languages": [
@@ -1025,18 +904,6 @@
     "name": "Polskie Radio Lublin",
     "stream_urls": [
       "https://streaming.radio.lublin.pl:8843/128k"
-    ],
-    "country": "pl",
-    "languages": [
-      "pol"
-    ]
-  },
-  {
-    "nanoid": "UFrW0d04afwBl6",
-    "name": "Polskie Radio Nostalgia",
-    "stream_urls": [
-      "https://stream85.polskieradio.pl/omniaaxe/k70.stream/playlist.m3u8",
-      "https://stream85.polskieradio.pl/omniaaxe/k70.stream/chunklist_.m3u8"
     ],
     "country": "pl",
     "languages": [
@@ -1088,17 +955,6 @@
     ]
   },
   {
-    "nanoid": "du0gO4qVhwU0MO",
-    "name": "Polskie Radio Trójka",
-    "stream_urls": [
-      "https://stream13.polskieradio.pl/pr3/pr3.sdp/playlist.m3u8"
-    ],
-    "country": "pl",
-    "languages": [
-      "pol"
-    ]
-  },
-  {
     "nanoid": "Md0isVlcvmaQT8",
     "name": "Radio 1.7",
     "stream_urls": [
@@ -1125,8 +981,11 @@
     "name": "Radio 357",
     "stream_urls": [
       "https://n-11-26.dcs.redcdn.pl/sc/o2/radio357/live/radio357_pr.livx",
+      "https://n09a-eu.rcs.revma.com/ye5kghkgcm0uv",
       "https://n23a-eu.rcs.revma.com/ye5kghkgcm0uv",
-      "https://n04a-eu.rcs.revma.com/an1ugyygzk8uv"
+      "https://n23a-eu.rcs.revma.com/an1ugyygzk8uv",
+      "https://n04a-eu.rcs.revma.com/an1ugyygzk8uv",
+      "https://n-11-21.dcs.redcdn.pl/sc/o2/radio357/live/radio357_pr.livx"
     ],
     "country": "pl",
     "languages": [
@@ -1148,8 +1007,7 @@
     "nanoid": "O6SkfGv9jvfpfQ",
     "name": "Radio 7",
     "stream_urls": [
-      "https://stream.radio7.pl/;",
-      "https://stream.radio7.pl:443/radio7.mp3"
+      "https://stream.radio7.pl/;"
     ],
     "country": "pl",
     "languages": [
@@ -1401,6 +1259,17 @@
     ]
   },
   {
+    "nanoid": "riz77awxZ0FaO3",
+    "name": "Radio Club Party",
+    "stream_urls": [
+      "https://s1.cmp3.eu:8555/listen.pls"
+    ],
+    "country": "pl",
+    "languages": [
+      "pol"
+    ]
+  },
+  {
     "nanoid": "Sy9oQlkzLWKT8r",
     "name": "Radio Cyganeczka Janeczka",
     "stream_urls": [
@@ -1450,7 +1319,11 @@
     "nanoid": "TIYrqj5RwwJl1c",
     "name": "Radio Dźwięk",
     "stream_urls": [
-      "https://s3.slotex.pl:7408/;"
+      "https://streamhls.radiodzwiek.slask.pl/dzwiek-mp3",
+      "https://streamhls.radiodzwiek.slask.pl/dzwiek128",
+      "https://streamhls.radiodzwiek.slask.pl/dzwiek64",
+      "https://s3.slotex.pl:7408/;",
+      "https://streamhls.radiodzwiek.slask.pl/dzwiek"
     ],
     "country": "pl",
     "languages": [
@@ -1539,33 +1412,10 @@
     ]
   },
   {
-    "nanoid": "SKQgEDMGqf0G2F",
-    "name": "Radio Eska Beskidy",
-    "stream_urls": [
-      "https://radio.stream.smcdn.pl/timeradio-p/2300-1.aac/playlist.m3u8"
-    ],
-    "country": "pl",
-    "languages": [
-      "pol"
-    ]
-  },
-  {
-    "nanoid": "SQ2FaMEw2qanGK",
-    "name": "Radio Eska Bełchatów",
-    "stream_urls": [
-      "https://radio.stream.smcdn.pl/timeradio-p/2010-1.aac/playlist.m3u8"
-    ],
-    "country": "pl",
-    "languages": [
-      "pol"
-    ]
-  },
-  {
     "nanoid": "1CPYb4hQ7sAcl4",
     "name": "Radio Eska Białystok",
     "stream_urls": [
-      "https://waw.ic.smcdn.pl/2020-1.mp3",
-      "https://radio.stream.smcdn.pl/icradio-p/2020-1.aac/playlist.m3u8"
+      "https://waw.ic.smcdn.pl/2020-1.mp3"
     ],
     "country": "pl",
     "languages": [
@@ -1576,8 +1426,7 @@
     "nanoid": "N2lbcVtEsgch5X",
     "name": "Radio Eska Braniewo",
     "stream_urls": [
-      "https://waw.ic.smcdn.pl/2520-2.aac",
-      "https://radio.stream.smcdn.pl/timeradio-p/2520-1.aac/playlist.m3u8"
+      "https://waw.ic.smcdn.pl/2520-2.aac"
     ],
     "country": "pl",
     "languages": [
@@ -1596,28 +1445,6 @@
     ]
   },
   {
-    "nanoid": "Uhaw1JFFIp0XPD",
-    "name": "Radio Eska Do Pracy",
-    "stream_urls": [
-      "https://radio.stream.smcdn.pl/timeradio-p/6140-1.aac/playlist.m3u8"
-    ],
-    "country": "pl",
-    "languages": [
-      "pol"
-    ]
-  },
-  {
-    "nanoid": "5ws7zoZv6M8Uev",
-    "name": "Radio Eska G100",
-    "stream_urls": [
-      "https://radio.stream.smcdn.pl/timeradio-p/6120-1.aac/playlist.m3u8"
-    ],
-    "country": "pl",
-    "languages": [
-      "pol"
-    ]
-  },
-  {
     "nanoid": "9C3G289v2ICxgX",
     "name": "Radio Eska Go",
     "stream_urls": [
@@ -1629,67 +1456,10 @@
     ]
   },
   {
-    "nanoid": "a9LJtwLObjuYgP",
-    "name": "Radio Eska Grudziądz",
-    "stream_urls": [
-      "https://radio.stream.smcdn.pl/timeradio-p/2450-1.aac/playlist.m3u8"
-    ],
-    "country": "pl",
-    "languages": [
-      "pol"
-    ]
-  },
-  {
-    "nanoid": "DbWuhVFXHUrP8I",
-    "name": "Radio Eska Impreska",
-    "stream_urls": [
-      "https://radio.stream.smcdn.pl/timeradio-p/6030-1.aac/playlist.m3u8"
-    ],
-    "country": "pl",
-    "languages": [
-      "pol"
-    ]
-  },
-  {
-    "nanoid": "IyWQeyDiJtskBw",
-    "name": "Radio Eska Iława",
-    "stream_urls": [
-      "https://radio.stream.smcdn.pl/icradio-p/2440-1.aac/playlist.m3u8"
-    ],
-    "country": "pl",
-    "languages": [
-      "pol"
-    ]
-  },
-  {
-    "nanoid": "hMr45JSxrZPpfK",
-    "name": "Radio Eska Kielce",
-    "stream_urls": [
-      "https://radio.stream.smcdn.pl/timeradio-p/2050-2.aac/playlist.m3u8",
-      "https://radio.stream.smcdn.pl/timeradio-p/2050-1.aac/playlist.m3u8"
-    ],
-    "country": "pl",
-    "languages": [
-      "pol"
-    ]
-  },
-  {
-    "nanoid": "ULxd7WxgYD6B5Z",
-    "name": "Radio Eska Koszalin",
-    "stream_urls": [
-      "https://radio.stream.smcdn.pl/icradio-p/2270-1.aac/playlist.m3u8"
-    ],
-    "country": "pl",
-    "languages": [
-      "pol"
-    ]
-  },
-  {
     "nanoid": "X48BOewvrAIDrR",
     "name": "Radio Eska Kraków",
     "stream_urls": [
-      "https://ic1.smcdn.pl/2070-1.mp3",
-      "https://radio.stream.smcdn.pl/timeradio-p/2070-1.aac/playlist.m3u8"
+      "https://ic1.smcdn.pl/2070-1.mp3"
     ],
     "country": "pl",
     "languages": [
@@ -1700,8 +1470,7 @@
     "nanoid": "SUiPIhX6AJR0KI",
     "name": "Radio Eska Kraśnik",
     "stream_urls": [
-      "https://ic1.smcdn.pl/2360-1.mp3",
-      "https://radio.stream.smcdn.pl/timeradio-p/2360-1.aac/playlist.m3u8"
+      "https://ic1.smcdn.pl/2360-1.mp3"
     ],
     "country": "pl",
     "languages": [
@@ -1712,19 +1481,7 @@
     "nanoid": "t77iobOxRIuwoh",
     "name": "Radio Eska Lublin",
     "stream_urls": [
-      "https://ic2.smcdn.pl/2130-1.mp3",
-      "https://radio.stream.smcdn.pl/timeradio-p/2130-1.aac/playlist.m3u8"
-    ],
-    "country": "pl",
-    "languages": [
-      "pol"
-    ]
-  },
-  {
-    "nanoid": "YUsgtDF8bhiFP2",
-    "name": "Radio Eska Olsztyn",
-    "stream_urls": [
-      "https://radio.stream.smcdn.pl/timeradio-p/2110-1.aac/playlist.m3u8"
+      "https://ic2.smcdn.pl/2130-1.mp3"
     ],
     "country": "pl",
     "languages": [
@@ -1747,30 +1504,7 @@
     "nanoid": "jEtAtQFWGPCbPU",
     "name": "Radio Eska Ostrzeszów",
     "stream_urls": [
-      "https://waw.ic.smcdn.pl/2500-1.mp3",
-      "https://radio.stream.smcdn.pl/timeradio-p/2500-1.aac/playlist.m3u8"
-    ],
-    "country": "pl",
-    "languages": [
-      "pol"
-    ]
-  },
-  {
-    "nanoid": "6Rbuq1m76PHG9l",
-    "name": "Radio Eska Ostrów-Kalisz",
-    "stream_urls": [
-      "https://radio.stream.smcdn.pl/timeradio-p/2200-1.aac/playlist.m3u8"
-    ],
-    "country": "pl",
-    "languages": [
-      "pol"
-    ]
-  },
-  {
-    "nanoid": "A2m6KpUGFLhU5x",
-    "name": "Radio Eska Piła",
-    "stream_urls": [
-      "https://radio.stream.smcdn.pl/timeradio-p/2090-1.aac/playlist.m3u8"
+      "https://waw.ic.smcdn.pl/2500-1.mp3"
     ],
     "country": "pl",
     "languages": [
@@ -1789,33 +1523,10 @@
     ]
   },
   {
-    "nanoid": "FfLZZwGbcBcoOF",
-    "name": "Radio Eska Południe",
-    "stream_urls": [
-      "https://radio.stream.smcdn.pl/timeradio-p/2570-1.aac/playlist.m3u8"
-    ],
-    "country": "pl",
-    "languages": [
-      "pol"
-    ]
-  },
-  {
     "nanoid": "IkDBLYddBpFdDU",
     "name": "Radio Eska Przemyśl",
     "stream_urls": [
-      "https://waw.ic.smcdn.pl/2320-1.mp3",
-      "https://radio.stream.smcdn.pl/timeradio-p/2320-1.aac/playlist.m3u8"
-    ],
-    "country": "pl",
-    "languages": [
-      "pol"
-    ]
-  },
-  {
-    "nanoid": "eMCXusb0VSOAxT",
-    "name": "Radio Eska Płock",
-    "stream_urls": [
-      "https://radio.stream.smcdn.pl/timeradio-p/2250-1.aac/playlist.m3u8"
+      "https://waw.ic.smcdn.pl/2320-1.mp3"
     ],
     "country": "pl",
     "languages": [
@@ -1826,9 +1537,7 @@
     "nanoid": "cHw41q84OuFvd3",
     "name": "Radio Eska Rock",
     "stream_urls": [
-      "https://ic2.smcdn.pl/5380-1.mp3",
-      "https://n13.rcs.revma.com:443/1nnezw8qz7zuv",
-      "https://radio.stream.smcdn.pl/icradio-p/5380-1.aac/playlist.m3u8"
+      "https://ic2.smcdn.pl/5380-1.mp3"
     ],
     "country": "pl",
     "languages": [
@@ -1839,20 +1548,8 @@
     "nanoid": "2UlZ0kDQ8JD1Ml",
     "name": "Radio Eska Rzeszów",
     "stream_urls": [
-      "https://waw.ic.smcdn.pl/2240-1.aac",
       "https://ic1.smcdn.pl/2240-1.mp3",
-      "https://radio.stream.smcdn.pl/timeradio-p/2240-1.aac/playlist.m3u8"
-    ],
-    "country": "pl",
-    "languages": [
-      "pol"
-    ]
-  },
-  {
-    "nanoid": "LKhyKq9cWVAiB3",
-    "name": "Radio Eska Siedlce",
-    "stream_urls": [
-      "https://radio.stream.smcdn.pl/timeradio-p/2060-1.aac/playlist.m3u8"
+      "https://waw.ic.smcdn.pl/2240-1.aac"
     ],
     "country": "pl",
     "languages": [
@@ -1863,8 +1560,7 @@
     "nanoid": "QayWw03Q3uNy5h",
     "name": "Radio Eska Starachowice",
     "stream_urls": [
-      "https://ic1.smcdn.pl/2400-1.mp3",
-      "https://radio.stream.smcdn.pl/timeradio-p/2400-1.aac/playlist.m3u8"
+      "https://ic1.smcdn.pl/2400-1.mp3"
     ],
     "country": "pl",
     "languages": [
@@ -1875,8 +1571,7 @@
     "nanoid": "4E2eCga2getwdR",
     "name": "Radio Eska Szczecin",
     "stream_urls": [
-      "https://ic1.smcdn.pl/2260-1.mp3",
-      "https://radio.stream.smcdn.pl/timeradio-p/2260-1.aac/playlist.m3u8"
+      "https://ic1.smcdn.pl/2260-1.mp3"
     ],
     "country": "pl",
     "languages": [
@@ -1898,8 +1593,8 @@
     "nanoid": "KOoN0WQiIBLtuc",
     "name": "Radio Eska Warszawa",
     "stream_urls": [
-      "https://waw.ic.smcdn.pl/2380-1.mp3",
-      "https://waw.ic.smcdn.pl/2380-2.aac"
+      "https://waw.ic.smcdn.pl/2380-2.aac",
+      "https://waw.ic.smcdn.pl/2380-1.mp3"
     ],
     "country": "pl",
     "languages": [
@@ -1910,9 +1605,7 @@
     "nanoid": "OP9xHP4KoM3HFD",
     "name": "Radio Eska Wrocław",
     "stream_urls": [
-      "https://ic2.smcdn.pl/2180-1.mp3",
-      "https://radio.stream.smcdn.pl/icradio-p/2180-1.aac/playlist.m3u8",
-      "https://radio.stream.smcdn.pl/timeradio-p/2180-1.aac/playlist.m3u8"
+      "https://ic2.smcdn.pl/2180-1.mp3"
     ],
     "country": "pl",
     "languages": [
@@ -1923,86 +1616,7 @@
     "nanoid": "JgKa2ndxOvdCyf",
     "name": "Radio Eska Zamość",
     "stream_urls": [
-      "https://ic2.smcdn.pl/2230-1.mp3",
-      "https://radio.stream.smcdn.pl/timeradio-p/2230-1.aac/playlist.m3u8"
-    ],
-    "country": "pl",
-    "languages": [
-      "pol"
-    ]
-  },
-  {
-    "nanoid": "WYSDRrYXRiaqnU",
-    "name": "Radio Eska Zielona Góra",
-    "stream_urls": [
-      "https://radio.stream.smcdn.pl/timeradio-p/2190-1.aac/playlist.m3u8"
-    ],
-    "country": "pl",
-    "languages": [
-      "pol"
-    ]
-  },
-  {
-    "nanoid": "ZwuLXqVOs96YYa",
-    "name": "Radio Eska Łódź",
-    "stream_urls": [
-      "https://radio.stream.smcdn.pl/timeradio-p/2100-1.aac/playlist.m3u8",
-      "https://radio.stream.smcdn.pl/icradio-p/2100-1.aac/playlist.m3u8"
-    ],
-    "country": "pl",
-    "languages": [
-      "pol"
-    ]
-  },
-  {
-    "nanoid": "95PPNBWvDFzEMA",
-    "name": "Radio Eska Śląsk",
-    "stream_urls": [
-      "https://radio.stream.smcdn.pl/timeradio-p/2220-1.aac/playlist.m3u8"
-    ],
-    "country": "pl",
-    "languages": [
-      "pol"
-    ]
-  },
-  {
-    "nanoid": "9pVVDRtAzL2yKG",
-    "name": "Radio Eska Żary",
-    "stream_urls": [
-      "https://radio.stream.smcdn.pl/timeradio-p/2420-1.aac/playlist.m3u8"
-    ],
-    "country": "pl",
-    "languages": [
-      "pol"
-    ]
-  },
-  {
-    "nanoid": "VNcv08wCsuQP3V",
-    "name": "Radio Eska2 Biała Podlaska",
-    "stream_urls": [
-      "https://radio.stream.smcdn.pl/timeradio-p/1390-1.aac/playlist.m3u8"
-    ],
-    "country": "pl",
-    "languages": [
-      "pol"
-    ]
-  },
-  {
-    "nanoid": "wWp0DplmzOulGC",
-    "name": "Radio Eska2 Jelenia Góra",
-    "stream_urls": [
-      "https://radio.stream.smcdn.pl/timeradio-p/1480-1.aac/playlist.m3u8"
-    ],
-    "country": "pl",
-    "languages": [
-      "pol"
-    ]
-  },
-  {
-    "nanoid": "t6O0bslEKwBkiR",
-    "name": "Radio Eska2 Kielce",
-    "stream_urls": [
-      "https://radio.stream.smcdn.pl/timeradio-p/1050-1.aac/playlist.m3u8"
+      "https://ic2.smcdn.pl/2230-1.mp3"
     ],
     "country": "pl",
     "languages": [
@@ -2021,55 +1635,10 @@
     ]
   },
   {
-    "nanoid": "nzudpuYymcFNSc",
-    "name": "Radio Eska2 Kraków",
-    "stream_urls": [
-      "https://radio.stream.smcdn.pl/timeradio-p/1070-1.aac/playlist.m3u8"
-    ],
-    "country": "pl",
-    "languages": [
-      "pol"
-    ]
-  },
-  {
-    "nanoid": "pZzBAds1XFVTS6",
-    "name": "Radio Eska2 Nowy Sącz",
-    "stream_urls": [
-      "https://radio.stream.smcdn.pl/timeradio-p/1290-1.aac/playlist.m3u8"
-    ],
-    "country": "pl",
-    "languages": [
-      "pol"
-    ]
-  },
-  {
-    "nanoid": "AK8iqnvKl9Tvu8",
-    "name": "Radio Eska2 Opole",
-    "stream_urls": [
-      "https://radio.stream.smcdn.pl/timeradio-p/1120-1.aac/playlist.m3u8"
-    ],
-    "country": "pl",
-    "languages": [
-      "pol"
-    ]
-  },
-  {
-    "nanoid": "KfbyhA1EXw40Pd",
-    "name": "Radio Eska2 Party",
-    "stream_urls": [
-      "https://radio.stream.smcdn.pl/icradio-p/6160-1.aac/playlist.m3u8"
-    ],
-    "country": "pl",
-    "languages": [
-      "pol"
-    ]
-  },
-  {
     "nanoid": "h1b0C07DEkuHpq",
     "name": "Radio Eska2 Rzeszów",
     "stream_urls": [
-      "https://ic1.smcdn.pl/1240-1.mp3",
-      "https://radio.stream.smcdn.pl/timeradio-p/1240-1.aac/playlist.m3u8"
+      "https://ic1.smcdn.pl/1240-1.mp3"
     ],
     "country": "pl",
     "languages": [
@@ -2080,63 +1649,7 @@
     "nanoid": "Xrnj7lJ9TyRezi",
     "name": "Radio Eska2 Stalowa Wola",
     "stream_urls": [
-      "https://waw.ic.smcdn.pl/1370-1.mp3",
-      "https://radio.stream.smcdn.pl/timeradio-p/1370-1.aac/playlist.m3u8"
-    ],
-    "country": "pl",
-    "languages": [
-      "pol"
-    ]
-  },
-  {
-    "nanoid": "d6lVcUAKoUDJGh",
-    "name": "Radio Eska2 Szczecin",
-    "stream_urls": [
-      "https://radio.stream.smcdn.pl/timeradio-p/1260-1.aac/playlist.m3u8"
-    ],
-    "country": "pl",
-    "languages": [
-      "pol"
-    ]
-  },
-  {
-    "nanoid": "WyM6Dg4mVH0n8I",
-    "name": "Radio Eska2 Trzebnica",
-    "stream_urls": [
-      "https://radio.stream.smcdn.pl/timeradio-p/1510-1.aac/playlist.m3u8"
-    ],
-    "country": "pl",
-    "languages": [
-      "pol"
-    ]
-  },
-  {
-    "nanoid": "qGlkBrbUypr9VV",
-    "name": "Radio Eska2 Trójmiasto",
-    "stream_urls": [
-      "https://radio.stream.smcdn.pl/timeradio-p/1170-1.aac/playlist.m3u8"
-    ],
-    "country": "pl",
-    "languages": [
-      "pol"
-    ]
-  },
-  {
-    "nanoid": "31eNGNphOsnFBk",
-    "name": "Radio Eska2 Wrocław",
-    "stream_urls": [
-      "https://radio.stream.smcdn.pl/timeradio-p/1180-1.aac/playlist.m3u8"
-    ],
-    "country": "pl",
-    "languages": [
-      "pol"
-    ]
-  },
-  {
-    "nanoid": "y56kCpSgYWXb03",
-    "name": "Radio Eska2 Łódź",
-    "stream_urls": [
-      "https://radio.stream.smcdn.pl/timeradio-p/1100-1.aac/playlist.m3u8"
+      "https://waw.ic.smcdn.pl/1370-1.mp3"
     ],
     "country": "pl",
     "languages": [
@@ -2809,17 +2322,6 @@
     ]
   },
   {
-    "nanoid": "skWf084EJi9mqA",
-    "name": "Radio NaTak",
-    "stream_urls": [
-      "https://c30.radioboss.fm:8615/stream"
-    ],
-    "country": "pl",
-    "languages": [
-      "pol"
-    ]
-  },
-  {
     "nanoid": "O1IN55Pk4aXsXW",
     "name": "Radio Nestolatki",
     "stream_urls": [
@@ -2957,9 +2459,9 @@
     "nanoid": "A2hqpRhxHDurr1",
     "name": "Radio Paranormalium",
     "stream_urls": [
+      "https://shoutcast.paranormalium.pl:8000/5",
       "https://azuracast.paranormalium.pl/listen/radio_paranormalium/opus8",
-      "https://azuracast.paranormalium.pl/listen/radio_paranormalium/1",
-      "https://shoutcast.paranormalium.pl:8000/5"
+      "https://azuracast.paranormalium.pl/listen/radio_paranormalium/1"
     ],
     "country": "pl",
     "languages": [
@@ -3047,8 +2549,8 @@
     "nanoid": "bmXSNGJxDYT7Ur",
     "name": "Radio Plus",
     "stream_urls": [
-      "https://pl02.cdn.eurozet.pl/plu-waw.mp3",
       "https://waw.ic.smcdn.pl/4990-1.aac",
+      "https://pl02.cdn.eurozet.pl/plu-waw.mp3",
       "https://ic1.smcdn.pl/4990-1.mp3"
     ],
     "country": "pl",
@@ -3187,19 +2689,6 @@
     "country": "pl",
     "languages": [
       "pol"
-    ]
-  },
-  {
-    "nanoid": "gmI98BgLRKU5rR",
-    "name": "Radio Poland",
-    "stream_urls": [
-      "https://stream85.polskieradio.pl/pr5/pr5.sdp/playlist.m3u8"
-    ],
-    "country": "pl",
-    "languages": [
-      "pol",
-      "rus",
-      "eng"
     ]
   },
   {
@@ -3617,8 +3106,7 @@
     "nanoid": "qJVFsw0PP5XWl1",
     "name": "Radio Vanessa",
     "stream_urls": [
-      "https://s1.slotex.pl:7358/;;",
-      "https://s1.slotex.pl:7358/;"
+      "https://s1.slotex.pl:7358/;;"
     ],
     "country": "pl",
     "languages": [
@@ -3717,9 +3205,13 @@
     "nanoid": "kPzwYKt8PFvmTh",
     "name": "Radio ZET",
     "stream_urls": [
+      "https://zt01.cdn.eurozet.pl/zet-old.mp3",
       "https://n-4-4.dcs.redcdn.pl/sc/o2/Eurozet/live/audio.livx",
+      "https://zt03.cdn.eurozet.pl/zet-old.mp3",
       "https://r.dcs.redcdn.pl/sc/o2/Eurozet/live/audio.livx",
-      "https://zt01.cdn.eurozet.pl/zet-net.mp3"
+      "https://zt01.cdn.eurozet.pl/zet-net.mp3",
+      "https://n-11-21.dcs.redcdn.pl/sc/o2/Eurozet/live/audio.livx",
+      "https://zt02.cdn.eurozet.pl/zet-old.mp3"
     ],
     "country": "pl",
     "languages": [
@@ -3863,6 +3355,7 @@
     "nanoid": "mk4xydxXljkbvd",
     "name": "Radio Złote Przeboje",
     "stream_urls": [
+      "https://radiostream.pl/tuba8928-1.mp3",
       "https://radiostream.pl/tuba8900-1.mp3",
       "https://radiostream.pl/tuba8940-1.mp3",
       "https://radiostream.pl/tuba9-1.mp3"
@@ -3954,17 +3447,6 @@
     "name": "Radio Śląsk",
     "stream_urls": [
       "https://s1.slotex.pl:7022/stream"
-    ],
-    "country": "pl",
-    "languages": [
-      "pol"
-    ]
-  },
-  {
-    "nanoid": "QuxAsV8g4kHtUB",
-    "name": "Radio Świnoujście",
-    "stream_urls": [
-      "https://stream.rcast.net/62853"
     ],
     "country": "pl",
     "languages": [
@@ -5144,23 +4626,13 @@
     ]
   },
   {
-    "nanoid": "5sSukYP3h3HTRC",
-    "name": "Slonskie Radio Hitmix",
-    "stream_urls": [
-      "https://s1.slotex.pl:7294/stream/1/"
-    ],
-    "country": "pl",
-    "languages": [
-      "pol"
-    ]
-  },
-  {
     "nanoid": "6udDTi7uBjSXjv",
     "name": "SmoothJazz.com.pl",
     "stream_urls": [
       "https://bcast.vigormultimedia.com:48888/sjcomplflac",
       "https://bcast.vigormultimedia.com:48888/sjcompl320mp3",
-      "https://bcast.vigormultimedia.com:48888/sjcompl192aac"
+      "https://bcast.vigormultimedia.com:48888/sjcompl192aac",
+      "https://bcast.vigormultimedia.com:48888/sjcompl64aac"
     ],
     "country": "pl",
     "languages": [
@@ -5311,17 +4783,6 @@
     ]
   },
   {
-    "nanoid": "7NUQVOLgheFKlv",
-    "name": "TOP80.PL",
-    "stream_urls": [
-      "https://top80.pl:8000/listen.mp3"
-    ],
-    "country": "pl",
-    "languages": [
-      "pol"
-    ]
-  },
-  {
     "nanoid": "2LlwCsCCAKMjBm",
     "name": "Trendy Radio",
     "stream_urls": [
@@ -5380,9 +4841,7 @@
     "nanoid": "HbjoL9Wr8WDaBf",
     "name": "VOX FM",
     "stream_urls": [
-      "https://ic2.smcdn.pl/3990-1.mp3",
-      "https://radio.stream.smcdn.pl/timeradio-p/3990-1.aac/playlist.m3u8",
-      "https://radio.stream.smcdn.pl/icradio-p/3990-1.aac/playlist.m3u8"
+      "https://ic2.smcdn.pl/3990-1.mp3"
     ],
     "country": "pl",
     "languages": [

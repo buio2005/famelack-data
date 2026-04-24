@@ -43,21 +43,8 @@
     "name": "CCTV-4中文国际",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/TsccmbyNk6g"
+      "https://www.youtube-nocookie.com/embed/f6Kq93wnaZ8"
     ],
-    "languages": [
-      "zho"
-    ],
-    "country": "cn",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "8qbHNd2Zc2MjWY",
-    "name": "CCTV-9",
-    "stream_urls": [
-      "https://xykt-fix.github.io/Y77.m3u8"
-    ],
-    "youtube_urls": [],
     "languages": [
       "zho"
     ],
@@ -86,19 +73,6 @@
     "youtube_urls": [],
     "languages": [
       "zho"
-    ],
-    "country": "cn",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "SJOBQisik3SA5w",
-    "name": "CGTN",
-    "stream_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/BOy2xDU1LC8"
-    ],
-    "languages": [
-      "eng"
     ],
     "country": "cn",
     "isGeoBlocked": false
@@ -264,6 +238,19 @@
     "name": "QTV-2",
     "stream_urls": [
       "https://video10.qtv.com.cn/drm/qtv2at/manifest.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "zho"
+    ],
+    "country": "cn",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "v5Cnt9e5fETRq9",
+    "name": "QTV-3",
+    "stream_urls": [
+      "https://video10.qtv.com.cn/drm/qtv3at/manifest.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -504,7 +491,7 @@
     "name": "小猪佩奇 中文官方 - Peppa Pig",
     "stream_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/W7mJwi4l8lY"
+      "https://www.youtube-nocookie.com/embed/g8ReNpoz3SI"
     ],
     "languages": [
       "zho"
@@ -572,17 +559,6 @@
     "name": "浙江 Ⅰ 绍兴影视",
     "stream_urls": [
       "https://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [],
-    "country": "cn",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "tWjSdo4t72dhtd",
-    "name": "浙江 Ⅰ 绍兴综合",
-    "stream_urls": [
-      "https://live.shaoxing.com.cn/video/s10001-sxtv1/index.m3u8"
     ],
     "youtube_urls": [],
     "languages": [],
@@ -761,6 +737,17 @@
     "name": "集安综合",
     "stream_urls": [
       "https://stream2.jlntv.cn/ja/sd/live.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [],
+    "country": "cn",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "6nQrzZYDFKwB5C",
+    "name": "餘姚姚江文化",
+    "stream_urls": [
+      "https://l.cztvcloud.com/channels/lantian/SXyuyao2/720p.m3u8"
     ],
     "youtube_urls": [],
     "languages": [],

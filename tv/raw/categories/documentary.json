@@ -13,6 +13,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "7ww4XqjlIRbeax",
+    "name": "Asahi: Documentary",
+    "stream_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/5kH1emOo_aM"
+    ],
+    "languages": [
+      "jpn"
+    ],
+    "country": "jp",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "5ZGnLxWOqASmvp",
     "name": "Asharq Discovery",
     "stream_urls": [
@@ -82,6 +95,19 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "zK7yBiaKTXUpou",
+    "name": "BBC Four UK HD",
+    "stream_urls": [
+      "https://streamer.nexyl.uk/48559ccd-6400-457d-8acc-06b9e24c2ed8.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "eng"
+    ],
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "WH7adDfFfMrDqi",
     "name": "Bloomberg Originals",
     "stream_urls": [
@@ -112,19 +138,6 @@
     "isGeoBlocked": true
   },
   {
-    "nanoid": "8qbHNd2Zc2MjWY",
-    "name": "CCTV-9",
-    "stream_urls": [
-      "https://xykt-fix.github.io/Y77.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "zho"
-    ],
-    "country": "cn",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "u6zpmHPrnF1o3c",
     "name": "CGTN Documentary",
     "stream_urls": [
@@ -148,19 +161,6 @@
       "zho"
     ],
     "country": "cn",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "itmATVZa5Ggr1u",
-    "name": "Click TV (Coronel)",
-    "stream_urls": [
-      "https://v2.tustreaming.cl/clicktv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "spa"
-    ],
-    "country": "cl",
     "isGeoBlocked": false
   },
   {
@@ -301,24 +301,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "J5HDeVjO016Oz1",
-    "name": "EPlanet TV",
-    "stream_urls": [
-      "https://eplhls.wns.live/hls/stream.m3u8"
-    ],
-    "youtube_urls": [],
-    "languages": [
-      "fas"
-    ],
-    "country": "ir",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "ok1XbdadbIAXgd",
     "name": "Francophonie24",
     "stream_urls": [
-      "https://5421175365ea3.streamlock.net/live/smil:switch.smil/playlist.m3u8",
-      "https://mv2.tvfrancophonie.org/live/Stream1/playlist.m3u8"
+      "https://5421175365ea3.streamlock.net/live/smil:switch.smil/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
@@ -525,16 +511,16 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "5msM6foGDOq3Uf",
-    "name": "Persiana Travel",
+    "nanoid": "C9r0nQTewOjHW3",
+    "name": "RL PRO TV",
     "stream_urls": [
-      "https://mardomhls.wns.live/hls/stream.m3u8"
+      "https://stream.berosat.live:19360/rlpro-tv/rlpro-tv.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
-      "fas"
+      "fra"
     ],
-    "country": "fr",
+    "country": "cd",
     "isGeoBlocked": false
   },
   {
@@ -569,8 +555,7 @@
     "nanoid": "x77twNOeEoFaIl",
     "name": "Safari TV",
     "stream_urls": [
-      "https://j78dp346yq5r-hls-live.5centscdn.com/safari/live.stream/playlist.m3u8",
-      "https://cdn-6.pishow.tv/live/1513/master.m3u8"
+      "https://j78dp346yq5r-hls-live.5centscdn.com/safari/live.stream/playlist.m3u8"
     ],
     "youtube_urls": [],
     "languages": [
